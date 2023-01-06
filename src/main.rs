@@ -1,3 +1,4 @@
+mod api;
 mod download;
 
 use anyhow::Result;

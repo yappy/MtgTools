@@ -1,5 +1,6 @@
-use anyhow::Result;
-use serde::{Deserialize, Serialize};
+use crate::api::{self};
+use anyhow::{anyhow, Result};
+use std::{fs::File, io::Write, path::Path};
 
 #[allow(dead_code)]
 const BULK_TYPE_ORACLE: &str = "oracle_cards";
@@ -12,43 +13,63 @@ const BULK_TYPE_ALL: &str = "all_cards";
 #[allow(dead_code)]
 const BULK_TYPE_RULINGS: &str = "rulings";
 
-/// <https://scryfall.com/docs/api/bulk-data>
-#[derive(Serialize, Deserialize, Debug)]
-struct Bulk {
-    /// A unique ID for this bulk item.
-    id: String,
-    /// The Scryfall API URI for this file.
-    uri: String,
-    /// A computer-readable string for the kind of bulk item.
-    #[serde(alias = "type")]
-    type_: String,
-    /// A human-readable name for this file.
-    name: String,
-    /// A human-readable description for this file.
-    description: String,
-    /// The URI that hosts this bulk file for fetching.
-    download_uri: String,
-    /// The time when this file was last updated.
-    updated_at: String,
-    /// The size of this file in integer bytes.
-    size: u64,
-    /// The MIME type of this file.
-    content_type: String,
-    /// The Content-Encoding encoding that will be used to transmit this file
-    /// when you download it.
-    content_encoding: String,
+fn bulk_get(bulk_type: &str) -> Result<String> {
+    let url = format!("https://api.scryfall.com/bulk-data/{bulk_type}");
+    let resp = reqwest::blocking::get(url)?;
+
+    Ok(resp.text()?)
 }
 
-fn bulk_get(bulk_type: &str) -> Result<Bulk> {
-    let url = format!("https://api.scryfall.com/bulk-data/{bulk_type}");
-    let bulk = reqwest::blocking::get(url)?.json::<Bulk>()?;
+fn download_bulk(url: &str, size: u64, dist: &Path) -> Result<()> {
+    let mut outfile = File::create(dist)?;
+    let mut resp = reqwest::blocking::get(url)?;
+    let read_size = resp.copy_to(&mut outfile)?;
+    assert_eq!(read_size, size);
 
-    Ok(bulk)
+    Ok(())
+}
+
+fn sets_get() -> Result<Vec<api::Set>> {
+    let mut data = Vec::new();
+
+    let mut url = "https://api.scryfall.com/sets".to_string();
+    loop {
+        let resp = reqwest::blocking::get(url)?;
+        let list = resp.json::<api::List<api::Set>>()?;
+
+        data.extend(list.data);
+
+        if list.has_more {
+            url = list.next_page.ok_or_else(|| anyhow!("No next_page"))?;
+        } else {
+            break;
+        }
+    }
+
+    Ok(data)
 }
 
 pub fn entry() -> Result<()> {
+    let sets = sets_get()?;
+    println!("{} sets fetched", sets.len());
+    {
+        let dist = "./download/sets.json";
+        let outfile = File::create(dist)?;
+        serde_json::to_writer(outfile, &sets)?;
+    }
+
     let bulk = bulk_get(BULK_TYPE_ORACLE)?;
-    println!("{bulk:?}");
+    println!("bulk info fetched");
+    {
+        let dist = "./download/cards_info.json";
+        let mut outfile = File::create(dist)?;
+        outfile.write(bulk.as_bytes())?;
+    }
+    let bulk: api::Bulk = serde_json::from_str(&bulk)?;
+
+    println!("download bulk ({} MiB)", bulk.size / 1024 / 1024);
+    let dist = "./download/cards.json";
+    download_bulk(&bulk.download_uri, bulk.size, &Path::new(dist))?;
 
     Ok(())
 }

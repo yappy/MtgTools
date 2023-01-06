@@ -379,6 +379,7 @@ dependencies = [
  "getopts",
  "reqwest",
  "serde",
+ "serde_json",
 ]
 
 [[package]]
