@@ -1,0 +1,352 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="generator" content="rustdoc"><meta name="description" content="Source of the Rust file `src/api.rs`."><meta name="keywords" content="rust, rustlang, rust-lang"><title>api.rs - source</title><link rel="preload" as="font" type="font/woff2" crossorigin href="../../SourceSerif4-Regular.ttf.woff2"><link rel="preload" as="font" type="font/woff2" crossorigin href="../../FiraSans-Regular.woff2"><link rel="preload" as="font" type="font/woff2" crossorigin href="../../FiraSans-Medium.woff2"><link rel="preload" as="font" type="font/woff2" crossorigin href="../../SourceCodePro-Regular.ttf.woff2"><link rel="preload" as="font" type="font/woff2" crossorigin href="../../SourceSerif4-Bold.ttf.woff2"><link rel="preload" as="font" type="font/woff2" crossorigin href="../../SourceCodePro-Semibold.ttf.woff2"><link rel="stylesheet" href="../../normalize.css"><link rel="stylesheet" href="../../rustdoc.css" id="mainThemeStyle"><link rel="stylesheet" href="../../ayu.css" disabled><link rel="stylesheet" href="../../dark.css" disabled><link rel="stylesheet" href="../../light.css" id="themeStyle"><script id="default-settings" ></script><script src="../../storage.js"></script><script defer src="../../source-script.js"></script><script defer src="../../source-files.js"></script><script defer src="../../main.js"></script><noscript><link rel="stylesheet" href="../../noscript.css"></noscript><link rel="alternate icon" type="image/png" href="../../favicon-16x16.png"><link rel="alternate icon" type="image/png" href="../../favicon-32x32.png"><link rel="icon" type="image/svg+xml" href="../../favicon.svg"></head><body class="rustdoc source"><!--[if lte IE 11]><div class="warning">This old browser is unsupported and will most likely display funky things.</div><![endif]--><nav class="mobile-topbar"><button class="sidebar-menu-toggle">&#9776;</button><a class="sidebar-logo" href="../../mtg/index.html"><div class="logo-container"><img class="rust-logo" src="../../rust-logo.svg" alt="logo"></div></a><h2 class="location"></h2></nav><nav class="sidebar"><a class="sidebar-logo" href="../../mtg/index.html"><div class="logo-container"><img class="rust-logo" src="../../rust-logo.svg" alt="logo"></div></a></nav><main><div class="width-limiter"><div class="sub-container"><a class="sub-logo-container" href="../../mtg/index.html"><img class="rust-logo" src="../../rust-logo.svg" alt="logo"></a><nav class="sub"><form class="search-form"><div class="search-container"><span></span><input class="search-input" name="search" autocomplete="off" spellcheck="false" placeholder="Click or press ‘S’ to search, ‘?’ for more options…" type="search"><div id="help-button" title="help" tabindex="-1"><button type="button">?</button></div><div id="settings-menu" tabindex="-1"><a href="../../settings.html" title="settings"><img width="22" height="22" alt="Change settings" src="../../wheel.svg"></a></div></div></form></nav></div><section id="main-content" class="content"><div class="example-wrap"><pre class="line-numbers"><span id="1">1</span>
+<span id="2">2</span>
+<span id="3">3</span>
+<span id="4">4</span>
+<span id="5">5</span>
+<span id="6">6</span>
+<span id="7">7</span>
+<span id="8">8</span>
+<span id="9">9</span>
+<span id="10">10</span>
+<span id="11">11</span>
+<span id="12">12</span>
+<span id="13">13</span>
+<span id="14">14</span>
+<span id="15">15</span>
+<span id="16">16</span>
+<span id="17">17</span>
+<span id="18">18</span>
+<span id="19">19</span>
+<span id="20">20</span>
+<span id="21">21</span>
+<span id="22">22</span>
+<span id="23">23</span>
+<span id="24">24</span>
+<span id="25">25</span>
+<span id="26">26</span>
+<span id="27">27</span>
+<span id="28">28</span>
+<span id="29">29</span>
+<span id="30">30</span>
+<span id="31">31</span>
+<span id="32">32</span>
+<span id="33">33</span>
+<span id="34">34</span>
+<span id="35">35</span>
+<span id="36">36</span>
+<span id="37">37</span>
+<span id="38">38</span>
+<span id="39">39</span>
+<span id="40">40</span>
+<span id="41">41</span>
+<span id="42">42</span>
+<span id="43">43</span>
+<span id="44">44</span>
+<span id="45">45</span>
+<span id="46">46</span>
+<span id="47">47</span>
+<span id="48">48</span>
+<span id="49">49</span>
+<span id="50">50</span>
+<span id="51">51</span>
+<span id="52">52</span>
+<span id="53">53</span>
+<span id="54">54</span>
+<span id="55">55</span>
+<span id="56">56</span>
+<span id="57">57</span>
+<span id="58">58</span>
+<span id="59">59</span>
+<span id="60">60</span>
+<span id="61">61</span>
+<span id="62">62</span>
+<span id="63">63</span>
+<span id="64">64</span>
+<span id="65">65</span>
+<span id="66">66</span>
+<span id="67">67</span>
+<span id="68">68</span>
+<span id="69">69</span>
+<span id="70">70</span>
+<span id="71">71</span>
+<span id="72">72</span>
+<span id="73">73</span>
+<span id="74">74</span>
+<span id="75">75</span>
+<span id="76">76</span>
+<span id="77">77</span>
+<span id="78">78</span>
+<span id="79">79</span>
+<span id="80">80</span>
+<span id="81">81</span>
+<span id="82">82</span>
+<span id="83">83</span>
+<span id="84">84</span>
+<span id="85">85</span>
+<span id="86">86</span>
+<span id="87">87</span>
+<span id="88">88</span>
+<span id="89">89</span>
+<span id="90">90</span>
+<span id="91">91</span>
+<span id="92">92</span>
+<span id="93">93</span>
+<span id="94">94</span>
+<span id="95">95</span>
+<span id="96">96</span>
+<span id="97">97</span>
+<span id="98">98</span>
+<span id="99">99</span>
+<span id="100">100</span>
+<span id="101">101</span>
+<span id="102">102</span>
+<span id="103">103</span>
+<span id="104">104</span>
+<span id="105">105</span>
+<span id="106">106</span>
+<span id="107">107</span>
+<span id="108">108</span>
+<span id="109">109</span>
+<span id="110">110</span>
+<span id="111">111</span>
+<span id="112">112</span>
+<span id="113">113</span>
+<span id="114">114</span>
+<span id="115">115</span>
+<span id="116">116</span>
+<span id="117">117</span>
+<span id="118">118</span>
+<span id="119">119</span>
+<span id="120">120</span>
+<span id="121">121</span>
+<span id="122">122</span>
+<span id="123">123</span>
+<span id="124">124</span>
+<span id="125">125</span>
+<span id="126">126</span>
+<span id="127">127</span>
+<span id="128">128</span>
+<span id="129">129</span>
+<span id="130">130</span>
+<span id="131">131</span>
+<span id="132">132</span>
+<span id="133">133</span>
+<span id="134">134</span>
+<span id="135">135</span>
+<span id="136">136</span>
+<span id="137">137</span>
+<span id="138">138</span>
+<span id="139">139</span>
+<span id="140">140</span>
+<span id="141">141</span>
+<span id="142">142</span>
+<span id="143">143</span>
+<span id="144">144</span>
+<span id="145">145</span>
+<span id="146">146</span>
+<span id="147">147</span>
+<span id="148">148</span>
+<span id="149">149</span>
+<span id="150">150</span>
+<span id="151">151</span>
+<span id="152">152</span>
+<span id="153">153</span>
+<span id="154">154</span>
+<span id="155">155</span>
+<span id="156">156</span>
+<span id="157">157</span>
+<span id="158">158</span>
+<span id="159">159</span>
+<span id="160">160</span>
+<span id="161">161</span>
+<span id="162">162</span>
+<span id="163">163</span>
+<span id="164">164</span>
+<span id="165">165</span>
+<span id="166">166</span>
+<span id="167">167</span>
+<span id="168">168</span>
+<span id="169">169</span>
+<span id="170">170</span>
+<span id="171">171</span>
+<span id="172">172</span>
+<span id="173">173</span>
+<span id="174">174</span>
+<span id="175">175</span>
+</pre><pre class="rust"><code><span class="kw">use </span>serde::{Deserialize, Serialize};
+
+<span class="doccomment">/// &lt;https://scryfall.com/docs/api/lists&gt;
+</span><span class="attribute">#[derive(Serialize, Deserialize, Debug)]
+</span><span class="kw">pub struct </span>List&lt;T&gt; {
+    <span class="doccomment">/// An array of the requested objects, in a specific order.
+    </span><span class="kw">pub </span>data: Vec&lt;T&gt;,
+    <span class="doccomment">/// True if this List is paginated and
+    /// there is a page beyond the current page.
+    </span><span class="kw">pub </span>has_more: bool,
+    <span class="doccomment">/// If there is a page beyond the current page,
+    /// this field will contain a full API URI to that page.
+    /// You may submit a HTTP GET request to that URI to continue paginating
+    /// forward on this List.
+    </span><span class="kw">pub </span>next_page: <span class="prelude-ty">Option</span>&lt;String&gt;,
+    <span class="doccomment">/// If this is a list of Card objects, this field will contain
+    /// the total number of cards found across all pages.
+    </span><span class="kw">pub </span>total_cards: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// An array of human-readable warnings issued when generating this list,
+    /// as strings.
+    /// Warnings are non-fatal issues that the API discovered with your input.
+    /// In general, they indicate that the List will not contain
+    /// the all of the information you requested.
+    /// You should fix the warnings and re-submit your request.
+    </span><span class="kw">pub </span>warnings: <span class="prelude-ty">Option</span>&lt;Vec&lt;String&gt;&gt;,
+}
+
+<span class="doccomment">/// &lt;https://scryfall.com/docs/api/bulk-data&gt;
+</span><span class="attribute">#[derive(Serialize, Deserialize, Debug)]
+</span><span class="kw">pub struct </span>Bulk {
+    <span class="doccomment">/// A unique ID for this bulk item.
+    </span><span class="kw">pub </span>id: String,
+    <span class="doccomment">/// The Scryfall API URI for this file.
+    </span><span class="kw">pub </span>uri: String,
+    <span class="doccomment">/// A computer-readable string for the kind of bulk item.
+    </span><span class="attribute">#[serde(alias = <span class="string">&quot;type&quot;</span>)]
+    </span><span class="kw">pub </span>type_: String,
+    <span class="doccomment">/// A human-readable name for this file.
+    </span><span class="kw">pub </span>name: String,
+    <span class="doccomment">/// A human-readable description for this file.
+    </span><span class="kw">pub </span>description: String,
+    <span class="doccomment">/// The URI that hosts this bulk file for fetching.
+    </span><span class="kw">pub </span>download_uri: String,
+    <span class="doccomment">/// The time when this file was last updated.
+    </span><span class="kw">pub </span>updated_at: String,
+    <span class="doccomment">/// The size of this file in integer bytes.
+    </span><span class="kw">pub </span>size: u64,
+    <span class="doccomment">/// The MIME type of this file.
+    </span><span class="kw">pub </span>content_type: String,
+    <span class="doccomment">/// The Content-Encoding encoding that will be used to transmit this file
+    /// when you download it.
+    </span><span class="kw">pub </span>content_encoding: String,
+}
+
+<span class="doccomment">/// &lt;https://scryfall.com/docs/api/sets&gt;
+</span><span class="attribute">#[derive(Serialize, Deserialize, Debug)]
+</span><span class="kw">pub struct </span>Set {
+    <span class="doccomment">/// A unique ID for this set on Scryfall that will not change.
+    </span><span class="kw">pub </span>id: String,
+    <span class="doccomment">/// The unique three to five-letter code for this set.
+    </span><span class="kw">pub </span>code: String,
+    <span class="doccomment">/// The unique code for this set on MTGO,
+    /// which may differ from the regular code.
+    </span><span class="kw">pub </span>mtgo_code: <span class="prelude-ty">Option</span>&lt;String&gt;,
+    <span class="doccomment">/// This set’s ID on TCGplayer’s API, also known as the groupId.
+    </span><span class="kw">pub </span>tcgplayer_id: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// The English name of the set.
+    </span><span class="kw">pub </span>name: String,
+    <span class="doccomment">/// A computer-readable classification for this set. See below.
+    </span><span class="kw">pub </span>set_type: String,
+    <span class="doccomment">/// The date the set was released or the first card was printed in the set
+    /// (in GMT-8 Pacific time).
+    </span><span class="kw">pub </span>released_at: <span class="prelude-ty">Option</span>&lt;String&gt;,
+    <span class="doccomment">/// The block code for this set, if any.
+    </span><span class="kw">pub </span>block_code: <span class="prelude-ty">Option</span>&lt;String&gt;,
+    <span class="doccomment">/// The block or group name code for this set, if any.
+    </span><span class="kw">pub </span>block: <span class="prelude-ty">Option</span>&lt;String&gt;,
+    <span class="doccomment">/// The set code for the parent set, if any.
+    /// promo and token sets often have a parent set.
+    </span><span class="kw">pub </span>parent_set_code: <span class="prelude-ty">Option</span>&lt;String&gt;,
+    <span class="doccomment">/// The number of cards in this set.
+    </span><span class="kw">pub </span>card_count: u64,
+    <span class="doccomment">/// The denominator for the set’s printed collector numbers.
+    </span><span class="kw">pub </span>printed_size: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// True if this set was only released in a video game.
+    </span><span class="kw">pub </span>digital: bool,
+    <span class="doccomment">/// True if this set contains only foil cards.
+    </span><span class="kw">pub </span>foil_only: bool,
+    <span class="doccomment">/// True if this set contains only nonfoil cards.
+    </span><span class="kw">pub </span>nonfoil_only: bool,
+    <span class="doccomment">/// A link to this set’s permapage on Scryfall’s website.
+    </span><span class="kw">pub </span>scryfall_uri: String,
+    <span class="doccomment">/// A link to this set object on Scryfall’s API.
+    </span><span class="kw">pub </span>uri: String,
+    <span class="doccomment">/// A URI to an SVG file for this set’s icon on Scryfall’s CDN.
+    /// Hotlinking this image isn’t recommended,
+    /// because it may change slightly over time.
+    /// You should download it and use it locally
+    /// for your particular user interface needs.
+    </span><span class="kw">pub </span>icon_svg_uri: String,
+    <span class="doccomment">/// A Scryfall API URI that you can request to begin paginating
+    /// over the cards in this set.
+    </span><span class="kw">pub </span>search_uri: String,
+}
+
+<span class="doccomment">/// &lt;https://scryfall.com/docs/api/cards&gt;
+</span><span class="attribute">#[derive(Serialize, Deserialize, Debug)]
+</span><span class="kw">pub struct </span>Card {
+    <span class="doccomment">/// This card’s Arena ID, if any.
+    /// A large percentage of cards are not available on Arena
+    /// and do not have this ID.
+    </span><span class="kw">pub </span>arena_id: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// A unique ID for this card in Scryfall’s database.
+    </span><span class="kw">pub </span>id: String,
+    <span class="doccomment">/// A language code for this printing.
+    </span><span class="kw">pub </span>lang: String,
+    <span class="doccomment">/// This card’s Magic Online ID (also known as the Catalog ID), if any.
+    /// A large percentage of cards are not available on Magic Online
+    /// and do not have this ID.
+    </span><span class="kw">pub </span>mtgo_id: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// This card’s foil Magic Online ID (also known as the Catalog ID), if any.
+    /// A large percentage of cards are not available on Magic Online
+    /// and do not have this ID.
+    </span><span class="kw">pub </span>mtgo_foil_id: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// This card’s multiverse IDs on Gatherer, if any, as an array of integers.
+    /// Note that Scryfall includes many promo cards, tokens,
+    /// and other esoteric objects that do not have these identifiers.
+    </span><span class="kw">pub </span>multiverse_ids: <span class="prelude-ty">Option</span>&lt;Vec&lt;u64&gt;&gt;,
+    <span class="doccomment">/// This card’s ID on TCGplayer’s API, also known as the productId.
+    </span><span class="kw">pub </span>tcgplayer_id: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// This card’s ID on TCGplayer’s API, for its etched version
+    /// if that version is a separate product.
+    </span><span class="kw">pub </span>tcgplayer_etched_id: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// This card’s ID on Cardmarket’s API, also known as the idProduct.
+    </span><span class="kw">pub </span>cardmarket_id: <span class="prelude-ty">Option</span>&lt;u64&gt;,
+    <span class="doccomment">/// A content type for this object, always card.
+    </span><span class="kw">pub </span>object: String,
+    <span class="doccomment">/// A unique ID for this card’s oracle identity.
+    /// This value is consistent across reprinted card editions,
+    /// and unique among different cards with the same name
+    /// (tokens, Unstable variants, etc).
+    </span><span class="kw">pub </span>oracle_id: String,
+    <span class="doccomment">/// A link to where you can begin paginating all re/prints for this card
+    /// on Scryfall’s API.
+    </span><span class="kw">pub </span>prints_search_uri: String,
+    <span class="doccomment">/// A link to this card’s rulings list on Scryfall’s API.
+    </span><span class="kw">pub </span>rulings_uri: String,
+    <span class="doccomment">/// A link to this card’s permapage on Scryfall’s website.
+    </span><span class="kw">pub </span>scryfall_uri: String,
+    <span class="doccomment">/// A link to this card object on Scryfall’s API.
+    </span><span class="kw">pub </span>uri: String,
+
+    <span class="doccomment">/// The name of this card.
+    /// If this card has multiple faces,
+    /// this field will contain both names separated by ␣//␣.
+    </span><span class="kw">pub </span>name: String,
+
+    <span class="doccomment">/// This card’s rarity.
+    /// One of common, uncommon, rare, special, mythic, or bonus.
+    </span><span class="kw">pub </span>rarity: String,
+
+    <span class="doccomment">/// This card’s full set name.
+    </span><span class="kw">pub </span>set_name: String,
+    <span class="doccomment">/// A link to where you can begin paginating this card’s set
+    /// on the Scryfall API.
+    </span><span class="kw">pub </span>set_search_uri: String,
+    <span class="doccomment">/// The type of set this printing is in.
+    </span><span class="kw">pub </span>set_type: String,
+    <span class="doccomment">/// A link to this card’s set object on Scryfall’s API.
+    </span><span class="kw">pub </span>set_uri: String,
+    <span class="doccomment">/// This card’s set code.
+    </span><span class="kw">pub </span>set: String,
+    <span class="doccomment">/// This card’s Set object UUID.
+    </span><span class="kw">pub </span>set_id: String,
+}
+</code></pre></div>
+</section></div></main><div id="rustdoc-vars" data-root-path="../../" data-current-crate="mtg" data-themes="ayu,dark,light" data-resource-suffix="" data-rustdoc-version="1.65.0 (897e37553 2022-11-02)" ></div></body></html>
