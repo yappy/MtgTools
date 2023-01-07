@@ -1,6 +1,6 @@
 use crate::{api, common};
 use anyhow::{anyhow, Result};
-use std::{fs::File, io::Write};
+use std::{fs::File, io::{Write, BufWriter}};
 
 #[allow(dead_code)]
 const BULK_TYPE_ORACLE: &str = "oracle_cards";
@@ -21,7 +21,8 @@ fn bulk_get(bulk_type: &str) -> Result<String> {
 }
 
 fn download_bulk(url: &str, size: u64, dist: &str) -> Result<()> {
-    let mut outfile = File::create(dist)?;
+    let outfile = File::create(dist)?;
+    let mut outfile = BufWriter::new(outfile);
     let mut resp = reqwest::blocking::get(url)?;
     let read_size = resp.copy_to(&mut outfile)?;
     assert_eq!(read_size, size);
@@ -54,13 +55,15 @@ pub fn entry() -> Result<()> {
     println!("{} sets fetched", sets.len());
     {
         let outfile = File::create(common::PATH_SETS)?;
+        let outfile = BufWriter::new(outfile);
         serde_json::to_writer(outfile, &sets)?;
     }
 
     let bulk = bulk_get(BULK_TYPE_ORACLE)?;
     println!("bulk info fetched");
     {
-        let mut outfile = File::create(common::PATH_CARDS_INFO)?;
+        let outfile = File::create(common::PATH_CARDS_INFO)?;
+        let mut outfile = BufWriter::new(outfile);
         outfile.write_all(bulk.as_bytes())?;
     }
     let bulk: api::Bulk = serde_json::from_str(&bulk)?;
