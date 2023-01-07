@@ -1,6 +1,0 @@
-Deck
-4 Swamp (ONE)
-4 Mountain (ONE)
-4 Island (ONE)
-4 Forest (ONE)
-4 Plains (ONE)
