@@ -63,13 +63,13 @@ pub fn entry() -> Result<()> {
     {
         let dist = "./download/cards_info.json";
         let mut outfile = File::create(dist)?;
-        outfile.write(bulk.as_bytes())?;
+        outfile.write_all(bulk.as_bytes())?;
     }
     let bulk: api::Bulk = serde_json::from_str(&bulk)?;
 
     println!("download bulk ({} MiB)", bulk.size / 1024 / 1024);
     let dist = "./download/cards.json";
-    download_bulk(&bulk.download_uri, bulk.size, &Path::new(dist))?;
+    download_bulk(&bulk.download_uri, bulk.size, Path::new(dist))?;
 
     Ok(())
 }
