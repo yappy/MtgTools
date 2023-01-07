@@ -23,7 +23,7 @@ jobs:
 
     - name: Update arena_deck dir
       run: |
-        git rm arena_deck/*
+        git rm --ignore-unmatch "arena_deck/*.txt"
         cargo run --release -- --arena-deck
 
     - name: Git Add
