@@ -17,10 +17,6 @@ jobs:
           ref: doc
           fetch-depth: 0
 
-      - name: Build
-        run: |
-          cargo doc --no-deps
-
       - name: Git Setup
         run: |
           git remote set-url origin https://github-actions:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}
@@ -30,6 +26,10 @@ jobs:
       - name: Merge from main
         run: |
           git merge --no-ff ${{ github.sha }}
+
+      - name: Build
+        run: |
+          cargo doc --no-deps
 
       - name: Remove Old Data and Move
         run: |
@@ -43,7 +43,7 @@ jobs:
       - name: Git Commit
         continue-on-error: true
         run: |
-          git commit -m '${{ github.ref }} ${{ github.sha }}'
+          git commit -m 'Update for ${{ github.ref }} ${{ github.sha }}' -m 'Automatic push by github actions'
 
       - name: Git Push
         run: |
