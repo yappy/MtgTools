@@ -102,3 +102,51 @@ pub struct Set {
     /// over the cards in this set.
     pub search_uri: String,
 }
+
+/// <https://scryfall.com/docs/api/cards>
+#[derive(Serialize, Deserialize, Debug)]
+pub struct Card {
+    /// This card’s Arena ID, if any.
+    /// A large percentage of cards are not available on Arena
+    /// and do not have this ID.
+    pub arena_id: Option<u64>,
+    /// A unique ID for this card in Scryfall’s database.
+    pub id: String,
+    /// A language code for this printing.
+    pub lang: String,
+    /// This card’s Magic Online ID (also known as the Catalog ID), if any.
+    /// A large percentage of cards are not available on Magic Online
+    /// and do not have this ID.
+    pub mtgo_id: Option<u64>,
+    /// This card’s foil Magic Online ID (also known as the Catalog ID), if any.
+    /// A large percentage of cards are not available on Magic Online
+    /// and do not have this ID.
+    pub mtgo_foil_id: Option<u64>,
+    /// This card’s multiverse IDs on Gatherer, if any, as an array of integers.
+    /// Note that Scryfall includes many promo cards, tokens,
+    /// and other esoteric objects that do not have these identifiers.
+    pub multiverse_ids: Option<Vec<u64>>,
+    /// This card’s ID on TCGplayer’s API, also known as the productId.
+    pub tcgplayer_id: Option<u64>,
+    /// This card’s ID on TCGplayer’s API, for its etched version
+    /// if that version is a separate product.
+    pub tcgplayer_etched_id: Option<u64>,
+    /// This card’s ID on Cardmarket’s API, also known as the idProduct.
+    pub cardmarket_id: Option<u64>,
+    /// A content type for this object, always card.
+    pub object: String,
+    /// A unique ID for this card’s oracle identity.
+    /// This value is consistent across reprinted card editions,
+    /// and unique among different cards with the same name
+    /// (tokens, Unstable variants, etc).
+    pub oracle_id: String,
+    /// A link to where you can begin paginating all re/prints for this card
+    /// on Scryfall’s API.
+    pub prints_search_uri: String,
+    /// A link to this card’s rulings list on Scryfall’s API.
+    pub rulings_uri: String,
+    /// A link to this card’s permapage on Scryfall’s website.
+    pub scryfall_uri: String,
+    /// A link to this card object on Scryfall’s API.
+    pub uri: String,
+}
