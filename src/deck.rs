@@ -62,11 +62,13 @@ fn create_all(sets: &Sets, cards: &Cards) -> Result<()> {
     // type = expansion only
     let sets = sets.iter().filter(|set| set.set_type == "expansion");
     // Ixalan or later only
-    let sets = sets.filter(|set| {
-        set.released_at
-            .as_ref()
-            .map_or(false, |rel| rel.as_str() >= RELEASE_FILTER)
-    });
+    let sets = sets
+        .filter(|set| {
+            set.released_at
+                .as_ref()
+                .map_or(false, |rel| rel.as_str() >= RELEASE_FILTER)
+        })
+        .filter(|set| set.set_type == "expansion");
 
     let rarity_list = [
         ("common", "1C"),
