@@ -20,6 +20,9 @@ jobs:
     - name: Download latest data
       run: |
         cargo run --release -- --download
+        cargo run --release -- --info > ./download/cmtmsg.txt
+        echo >> ./download/cmtmsg.txt
+        echo "Automatic push by github actions" >> ./download/cmtmsg.txt
 
     - name: Update arena_deck dir
       run: |
@@ -38,7 +41,7 @@ jobs:
     - name: Git Commit
       continue-on-error: true
       run: |
-        git commit -m "Update data (automatic push by github actions)"
+        git commit -F ./download/cmtmsg.txt
 
     - name: Git Push
       run: |

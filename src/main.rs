@@ -2,6 +2,7 @@ mod api;
 mod common;
 mod deck;
 mod download;
+mod info;
 
 use anyhow::Result;
 use getopts::Options;
@@ -15,6 +16,7 @@ fn main() -> Result<()> {
     let mut opts = Options::new();
     opts.optflag("h", "help", "Print this help");
     opts.optflag("d", "download", "Download");
+    opts.optflag("i", "info", "Show infomation of downloaded data");
     opts.optflag("a", "arena-deck", "Build decks for Arena");
     let matches = match opts.parse(&args[1..]) {
         Ok(m) => m,
@@ -36,6 +38,8 @@ fn main() -> Result<()> {
 
     if matches.opt_present("d") {
         download::entry()?;
+    } else if matches.opt_present("i") {
+        info::entry()?;
     } else if matches.opt_present("a") {
         deck::entry()?;
     } else {
