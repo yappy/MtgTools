@@ -149,4 +149,27 @@ pub struct Card {
     pub scryfall_uri: String,
     /// A link to this card object on Scryfall’s API.
     pub uri: String,
+
+    /// The name of this card.
+    /// If this card has multiple faces,
+    /// this field will contain both names separated by ␣//␣.
+    pub name: String,
+
+    /// This card’s rarity.
+    /// One of common, uncommon, rare, special, mythic, or bonus.
+    pub rarity: String,
+
+    /// This card’s full set name.
+    pub set_name: String,
+    /// A link to where you can begin paginating this card’s set
+    /// on the Scryfall API.
+    pub set_search_uri: String,
+    /// The type of set this printing is in.
+    pub set_type: String,
+    /// A link to this card’s set object on Scryfall’s API.
+    pub set_uri: String,
+    /// This card’s set code.
+    pub set: String,
+    /// This card’s Set object UUID.
+    pub set_id: String,
 }
