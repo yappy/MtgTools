@@ -43,7 +43,7 @@ jobs:
       - name: Git Commit
         continue-on-error: true
         run: |
-          git commit -m '${{ github.ref }} ${{ github.sha }}'
+          git commit -m 'Update for ${{ github.ref }} ${{ github.sha }}' -m 'Automatic push by github actions'
 
       - name: Git Push
         run: |
