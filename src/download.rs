@@ -1,6 +1,9 @@
 use crate::{api, common};
 use anyhow::{anyhow, Result};
-use std::{fs::File, io::{Write, BufWriter}};
+use std::{
+    fs::File,
+    io::{BufWriter, Write},
+};
 
 #[allow(dead_code)]
 const BULK_TYPE_ORACLE: &str = "oracle_cards";
