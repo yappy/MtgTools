@@ -61,7 +61,7 @@ Deck
 4 Smelt-Ward Minotaur
 4 Ochran Assassin
 4 Beamsplitter Mage
-Deck
 ================================================================================
+Deck
 4 Book Devourer
 4 Swathcutter Giant

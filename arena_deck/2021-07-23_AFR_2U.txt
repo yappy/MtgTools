@@ -61,8 +61,8 @@ Deck
 4 Barrowin of Clan Undurr
 4 Green Dragon
 4 Hulking Bugbear
-Deck
 ================================================================================
+Deck
 4 Hama Pashar, Ruin Seeker
 4 Trelasarra, Moon Dancer
 4 Gretchen Titchwillow

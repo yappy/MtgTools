@@ -61,8 +61,8 @@ Deck
 4 Goblin Assault Team
 4 Wanderer's Strike
 4 Ahn-Crop Invader
-Deck
 ================================================================================
+Deck
 4 Pouncing Lynx
 4 Lazotep Behemoth
 4 Totally Lost

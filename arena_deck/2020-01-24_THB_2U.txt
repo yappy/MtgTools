@@ -61,8 +61,8 @@ Deck
 4 Chainweb Aracnir
 4 Sea God's Scorn
 4 Warden of the Chained
-Deck
 ================================================================================
+Deck
 4 Alseid of Life's Bounty
 4 Heroes of the Revel
 4 Acolyte of Affliction

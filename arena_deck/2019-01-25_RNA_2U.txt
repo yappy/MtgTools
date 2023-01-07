@@ -61,8 +61,8 @@ Deck
 4 Syndicate Guildmage
 4 Forbidding Spirit
 4 Dagger Caster
-Deck
 ================================================================================
+Deck
 4 Archway Angel
 4 Orzhov Enforcer
 4 Rakdos Firewheeler

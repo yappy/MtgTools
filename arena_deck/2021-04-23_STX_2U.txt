@@ -61,8 +61,8 @@ Deck
 4 Plumb the Forbidden
 4 Academic Dispute
 4 Deadly Brew
-Deck
 ================================================================================
+Deck
 4 Mentor's Guidance
 4 Devouring Tendrils
 4 Brackish Trudge

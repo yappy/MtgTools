@@ -61,8 +61,8 @@ Deck
 4 Dauntless Survivor
 4 Drana's Silencer
 4 Nahiri's Binding
-Deck
 ================================================================================
+Deck
 4 Might of Murasa
 4 Turntimber Ascetic
 4 Blood Price

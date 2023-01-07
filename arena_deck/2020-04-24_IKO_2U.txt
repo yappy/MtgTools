@@ -61,8 +61,8 @@ Deck
 4 Avian Oddity
 4 Duskfang Mentor
 4 Flame Spill
-Deck
 ================================================================================
+Deck
 4 Parcelbeast
 4 Will of the All-Hunter
 4 Channeled Force

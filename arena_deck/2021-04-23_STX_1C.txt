@@ -61,8 +61,8 @@ Deck
 4 Waterfall Aerialist
 4 Burrog Befuddler
 4 Eager First-Year
-Deck
 ================================================================================
+Deck
 4 Tangletrap
 4 Mage Duel
 4 Crushing Disappointment

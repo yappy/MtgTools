@@ -61,8 +61,8 @@ Deck
 4 Giant Cindermaw
 4 The Fall of Kroog
 4 Gruesome Realization
-Deck
 ================================================================================
+Deck
 4 Bushwhack
 4 Reconstructed Thopter
 4 Disciples of Gix

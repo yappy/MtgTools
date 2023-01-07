@@ -61,8 +61,8 @@ Deck
 4 Ballista Watcher // Ballista Wielder
 4 Groom's Finery
 4 Fleeting Spirit
-Deck
 ================================================================================
+Deck
 4 Markov Waltzer
 4 Infestation Expert // Infested Werewolf
 4 Arm the Cathars

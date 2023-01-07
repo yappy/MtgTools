@@ -61,8 +61,8 @@ Deck
 4 Volatile Fjord
 4 Rimewood Falls
 4 Dogged Pursuit
-Deck
 ================================================================================
+Deck
 4 Open the Omenpaths
 4 Run Ashore
 4 Berg Strider

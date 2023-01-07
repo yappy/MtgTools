@@ -61,8 +61,8 @@ Deck
 4 Fruit of Tizerus
 4 Glory Bearers
 4 Scavenging Harpy
-Deck
 ================================================================================
+Deck
 4 Nyxborn Brute
 4 Dreadful Apathy
 4 Inspire Awe

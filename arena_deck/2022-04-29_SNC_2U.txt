@@ -61,8 +61,8 @@ Deck
 4 Vampire Scrivener
 4 Luxurious Libation
 4 Nimble Larcenist
-Deck
 ================================================================================
+Deck
 4 A-Queza, Augur of Agonies
 4 Take to the Streets
 4 Torch Breath

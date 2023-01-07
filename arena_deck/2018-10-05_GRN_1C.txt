@@ -61,8 +61,8 @@ Deck
 4 Rubblebelt Boar
 4 Righteous Blow
 4 Vigorspore Wurm
-Deck
 ================================================================================
+Deck
 4 Garrison Sergeant
 4 Sworn Companions
 4 Parhelion Patrol

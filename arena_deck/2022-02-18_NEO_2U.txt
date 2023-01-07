@@ -61,8 +61,8 @@ Deck
 4 Futurist Operative
 4 Upriser Renegade
 4 Heiko Yamazaki, the General
-Deck
 ================================================================================
+Deck
 4 Assassin's Ink
 4 Dragonspark Reactor
 4 Nezumi Prowler

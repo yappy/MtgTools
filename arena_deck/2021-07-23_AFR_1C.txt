@@ -61,8 +61,8 @@ Deck
 4 Farideh's Fireball
 4 You're Ambushed on the Road
 4 You Come to a River
-Deck
 ================================================================================
+Deck
 4 Arborea Pegasus
 4 Planar Ally
 4 Clattering Skeletons

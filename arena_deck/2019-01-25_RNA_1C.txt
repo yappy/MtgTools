@@ -61,8 +61,8 @@ Deck
 4 Tenth District Veteran
 4 Skewer the Critics
 4 Simic Locket
-Deck
 ================================================================================
+Deck
 4 Rakdos Roustabout
 4 Expose to Daylight
 4 Thirsting Shade

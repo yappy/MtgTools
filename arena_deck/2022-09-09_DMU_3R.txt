@@ -61,8 +61,8 @@ Deck
 4 Leaf-Crowned Visionary
 4 Sulfurous Springs
 4 Nemata, Primeval Warden
-Deck
 ================================================================================
+Deck
 4 Urborg Lhurgoyf
 4 Cosmic Epiphany
 4 Aether Channeler

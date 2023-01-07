@@ -61,8 +61,8 @@ Deck
 4 Blightstep Pathway // Searstep Pathway
 4 Cosmos Elixir
 4 Rally the Ranks
-Deck
 ================================================================================
+Deck
 4 Surtland Flinger
 4 Faceless Haven
 4 Search for Glory

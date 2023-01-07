@@ -61,8 +61,8 @@ Deck
 4 Tall as a Beanstalk
 4 Lost Legion
 4 Didn't Say Please
-Deck
 ================================================================================
+Deck
 4 Witching Well
 4 Outflank
 4 Mistford River Turtle

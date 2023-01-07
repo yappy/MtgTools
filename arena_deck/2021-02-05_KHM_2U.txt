@@ -61,8 +61,8 @@ Deck
 4 Doomskar Titan
 4 Draugr's Helm
 4 A-Harald, King of Skemfar
-Deck
 ================================================================================
+Deck
 4 Saw It Coming
 4 Rune of Speed
 4 A-Skemfar Elderhall

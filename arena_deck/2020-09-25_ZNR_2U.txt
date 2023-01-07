@@ -61,8 +61,8 @@ Deck
 4 Thundering Rebuke
 4 Merfolk Windrobber
 4 Spoils of Adventure
-Deck
 ================================================================================
+Deck
 4 Murasa Rootgrazer
 4 Scion of the Swarm
 4 Vastwood Fortification // Vastwood Thicket

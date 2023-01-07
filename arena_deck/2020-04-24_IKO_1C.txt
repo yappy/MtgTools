@@ -61,8 +61,8 @@ Deck
 4 Mutual Destruction
 4 Dead Weight
 4 Cavern Whisperer
-Deck
 ================================================================================
+Deck
 4 Pyroceratops
 4 Fire Prophecy
 4 Phase Dolphin

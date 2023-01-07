@@ -61,8 +61,8 @@ Deck
 4 Dismal Backwater
 4 Akki Ember-Keeper
 4 Eiganjo Exemplar
-Deck
 ================================================================================
+Deck
 4 Moonfolk Puzzlemaker
 4 Ironhoof Boar
 4 Shrine Steward

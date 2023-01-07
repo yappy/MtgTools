@@ -61,8 +61,8 @@ Deck
 4 Voltaic Servant
 4 Gaea's Protector
 4 Bloodtallow Candle
-Deck
 ================================================================================
+Deck
 4 Unwind
 4 Healing Grace
 4 Caligo Skin-Witch

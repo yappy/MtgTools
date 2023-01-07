@@ -61,8 +61,8 @@ Deck
 4 Join the Maestros
 4 Masked Bandits
 4 Maestros Initiate
-Deck
 ================================================================================
+Deck
 4 Rooftop Nuisance
 4 Rhox Pummeler
 4 Gilded Pinions
@@ -125,8 +125,8 @@ Deck
 4 A-Civil Servant
 4 Antagonize
 4 For the Family
-Deck
 ================================================================================
+Deck
 4 Jackhammer
 4 Mayhem Patrol
 4 Jetmir's Fixer

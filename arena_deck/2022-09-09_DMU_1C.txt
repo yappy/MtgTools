@@ -61,8 +61,8 @@ Deck
 4 Splatter Goblin
 4 Ghitu Amplifier
 4 Salvaged Manaworker
-Deck
 ================================================================================
+Deck
 4 Tidepool Turtle
 4 Yavimaya Steelcrusher
 4 Samite Herbalist

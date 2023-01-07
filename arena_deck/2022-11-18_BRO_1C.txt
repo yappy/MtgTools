@@ -61,8 +61,8 @@ Deck
 4 Blanchwood Prowler
 4 Supply Drop
 4 Unleash Shell
-Deck
 ================================================================================
+Deck
 4 Penregon Strongbull
 4 Evolving Wilds
 4 Disenchant

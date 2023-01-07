@@ -61,8 +61,8 @@ Deck
 4 Sunrise Seeker
 4 Dual Shot
 4 Pious Interdiction
-Deck
 ================================================================================
+Deck
 4 March of the Drowned
 4 Shipwreck Looter
 4 Unfriendly Fire

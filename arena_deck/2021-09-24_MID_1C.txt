@@ -61,8 +61,8 @@ Deck
 4 Ritual Guardian
 4 Gavony Silversmith
 4 Flip the Switch
-Deck
 ================================================================================
+Deck
 4 Olivia's Midnight Ambush
 4 Organ Hoarder
 4 Siege Zombie

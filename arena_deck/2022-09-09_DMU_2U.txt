@@ -61,8 +61,8 @@ Deck
 4 Monstrous War-Leech
 4 Electrostatic Infantry
 4 Phyrexian Missionary
-Deck
 ================================================================================
+Deck
 4 Linebreaker Baloth
 4 Nishoba Brawler
 4 Pilfer

@@ -61,8 +61,8 @@ Deck
 4 Edgewall Innkeeper
 4 Loch Dragon
 4 Bramblefort Fink
-Deck
 ================================================================================
+Deck
 4 Overwhelmed Apprentice
 4 Sorcerer's Broom
 4 Epic Downfall

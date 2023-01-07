@@ -61,8 +61,8 @@ Deck
 4 Nature's Embrace
 4 Ragged Recluse // Odious Witch
 4 Heron-Blessed Geist
-Deck
 ================================================================================
+Deck
 4 Bloody Betrayal
 4 Weaver of Blossoms // Blossom-Clad Werewolf
 4 Supernatural Rescue

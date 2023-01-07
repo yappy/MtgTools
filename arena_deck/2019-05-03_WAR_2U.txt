@@ -61,8 +61,8 @@ Deck
 4 Liliana's Triumph
 4 Teyo, the Shieldmage
 4 Vraska, Swarm's Eminence
-Deck
 ================================================================================
+Deck
 4 Rescuer Sphinx
 4 Rubblebelt Rioters
 4 Gideon's Triumph

@@ -61,6 +61,6 @@ Deck
 4 Dreamroot Cascade
 4 Deathcap Glade
 4 Hamlet Vanguard
-Deck
 ================================================================================
+Deck
 4 Voldaren Estate

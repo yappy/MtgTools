@@ -61,8 +61,8 @@ Deck
 4 Chaplain of Alms // Chapel Shieldgeist
 4 Stromkirk Bloodthief
 4 Deathbonnet Sprout // Deathbonnet Hulk
-Deck
 ================================================================================
+Deck
 4 Flame Channeler // Embodiment of Flame
 4 Seize the Storm
 4 Arcane Infusion
