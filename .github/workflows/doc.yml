@@ -1,0 +1,49 @@
+# On push to master, checkout doc branch and works in it.
+
+name: Build and Push Documents
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: doc
+
+      - name: Build
+        run: |
+          cargo build doc --no-deps
+
+      - name: Git Setup
+        run: |
+          git remote set-url origin https://github-actions:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+      - name: Merge from main
+        run: |
+          git merge --no-ff main
+
+      - name: Remove Old Data and Move
+        run: |
+          git rm --ignore-unmatch -r ./docs/doc
+          mv ./target/doc ./docs/
+
+      - name: Git Add
+        run: |
+          git add ./docs/doc
+
+      - name: Git Commit
+        continue-on-error: true
+        run: |
+          git commit -m '${{ github.ref }} ${{ github.sha }}'
+
+      - name: Git Push
+        run: |
+          git push origin HEAD:refs/heads/doc
