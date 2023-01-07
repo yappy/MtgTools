@@ -1,0 +1,75 @@
+Deck
+4 Demonic Vigor
+4 Fungal Infection
+4 Benalish Honor Guard
+4 Serra Disciple
+4 Cabal Paladin
+4 Frenzied Rage
+4 Keldon Overseer
+4 Krosan Druid
+4 Pyromantic Pilgrim
+4 Sergeant-at-Arms
+4 Windgrace Acolyte
+4 Fervent Strike
+4 Aven Sentry
+4 Charge
+4 Llanowar Scout
+4 Arcane Flight
+4 Corrosive Ooze
+4 Yavimaya Sapherd
+4 Cold-Water Snapper
+4 Excavation Elephant
+4 Blink of an Eye
+4 Ghitu Journeymage
+4 Artificer's Assistant
+4 Grow from the Ashes
+4 Deep Freeze
+4 Academy Drake
+4 Llanowar Envoy
+4 Drudge Sentinel
+4 Warlord's Fury
+4 D'Avenant Trapper
+4 Knight of New Benalia
+4 Powerstone Shard
+4 Pierce the Sky
+4 Baloth Gorger
+4 Pardic Wanderer
+4 Shivan Fire
+4 Broken Bond
+4 Ghitu Lavarunner
+4 Guardians of Koilos
+4 Blessed Light
+4 Tragic Poet
+4 Aesthir Glider
+4 Cabal Evangel
+4 Fiery Intervention
+4 Jousting Lance
+4 Ghitu Chronicler
+4 Homarid Explorer
+4 Academy Journeymage
+4 Keldon Warcaller
+4 Seismic Shift
+4 Thallid Omnivore
+4 Saproling Migration
+4 Sparring Construct
+4 Skirk Prospector
+4 Eviscerate
+4 Blessing of Belzenlok
+4 Vicious Offering
+4 Navigator's Compass
+4 Rampaging Cyclops
+4 Voltaic Servant
+4 Gaea's Protector
+4 Bloodtallow Candle
+Deck
+================================================================================
+4 Unwind
+4 Healing Grace
+4 Caligo Skin-Witch
+4 Stronghold Confessor
+4 Bloodstone Goblin
+4 Gideon's Reproach
+4 Rat Colony
+4 Gift of Growth
+4 Temporal Machinations
+4 Rescue

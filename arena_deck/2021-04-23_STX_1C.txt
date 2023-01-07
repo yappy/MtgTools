@@ -1,0 +1,107 @@
+Deck
+4 Square Up
+4 Specter of the Fens
+4 Heated Debate
+4 Arrogant Poet
+4 Eureka Moment
+4 Blood Age General
+4 Frost Trickster
+4 Excavated Wall
+4 Quandrix Campus
+4 Leech Fanatic
+4 Reject
+4 Combat Professor
+4 Reckless Amplimancer
+4 Make Your Mark
+4 Mage Hunters' Onslaught
+4 Defend the Campus
+4 Field Trip
+4 Soothsayer Adept
+4 Silverquill Campus
+4 Lorehold Pledgemage
+4 Environmental Sciences
+4 Vortex Runner
+4 Fuming Effigy
+4 Star Pupil
+4 Biblioplex Assistant
+4 Unwilling Ingredient
+4 Spiteful Squad
+4 Enthusiastic Study
+4 Promising Duskmage
+4 Lorehold Campus
+4 Ageless Guardian
+4 Dragon's Approach
+4 Prismari Pledgemage
+4 Arcane Subtraction
+4 Springmane Cervin
+4 Owlin Shieldmage
+4 Hunt for Specimens
+4 Expel
+4 Exhilarating Elocution
+4 Illustrious Historian
+4 Campus Guide
+4 Guiding Voice
+4 Pillardrop Rescuer
+4 Moldering Karok
+4 Cogwork Archivist
+4 Big Play
+4 Introduction to Annihilation
+4 Essence Infusion
+4 Oggyar Battle-Seer
+4 Infuse with Vitality
+4 Archway Commons
+4 Expanded Anatomy
+4 Witherbloom Campus
+4 Cram Session
+4 Needlethorn Drake
+4 Pillardrop Warden
+4 Biomathematician
+4 Spectacle Mage
+4 Spined Karok
+4 Waterfall Aerialist
+4 Burrog Befuddler
+4 Eager First-Year
+Deck
+================================================================================
+4 Tangletrap
+4 Mage Duel
+4 Crushing Disappointment
+4 Study Break
+4 Stonebound Mentor
+4 Scurrid Colony
+4 Charge Through
+4 Rise of Extus
+4 Resculpt
+4 Pigment Storm
+4 Quandrix Pledgemage
+4 Inkling Summoning
+4 Introduction to Prophecy
+4 Leyline Invocation
+4 Stonerise Spirit
+4 Professor of Zoomancy
+4 Twinscroll Shaman
+4 Blood Researcher
+4 Spirit Summoning
+4 Tome Shredder
+4 A-Tome Shredder
+4 Thrilling Discovery
+4 Fractal Summoning
+4 Novice Dissector
+4 Bury in Books
+4 Teach by Example
+4 Pop Quiz
+4 Serpentine Curve
+4 First Day of Class
+4 Letter of Acceptance
+4 Professor's Warning
+4 Bayou Groff
+4 Elemental Masterpiece
+4 Relic Sloth
+4 Witherbloom Pledgemage
+4 Sudden Breakthrough
+4 Pilgrim of the Ages
+4 Pest Summoning
+4 Beaming Defiance
+4 Elemental Summoning
+4 Lash of Malice
+4 Silverquill Pledgemage

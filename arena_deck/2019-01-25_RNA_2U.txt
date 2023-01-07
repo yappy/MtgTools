@@ -1,0 +1,69 @@
+Deck
+4 Pteramander
+4 Ministrant of Obligation
+4 Drill Bit
+4 Zhur-Taa Goblin
+4 Bankrupt in Blood
+4 Vindictive Vampire
+4 Regenesis
+4 Collision // Colossus
+4 Cry of the Carnarium
+4 Consecrate // Consume
+4 Gyre Engineer
+4 Charging War Boar
+4 Galloping Lizrog
+4 Sunder Shaman
+4 Gatebreaker Ram
+4 Gates Ablaze
+4 Sphinx of New Prahv
+4 Dovin's Automaton
+4 Scrabbling Claws
+4 Pitiless Pontiff
+4 Smelt-Ward Ignus
+4 Skatewing Spy
+4 Orzhov Racketeers
+4 Angelic Exaltation
+4 Tower Defense
+4 High Alert
+4 Spire Mangler
+4 Hackrobat
+4 Gateway Sneak
+4 Knight of the Last Breath
+4 Junktroller
+4 Swirling Torrent
+4 Frilled Mystic
+4 Senate Guildmage
+4 Clear the Stage
+4 Basilica Bell-Haunt
+4 Eyes Everywhere
+4 Clamor Shaman
+4 Clan Guildmage
+4 Dovin's Acuity
+4 Rumbling Ruin
+4 Combine Guildmage
+4 Gruul Beastmaster
+4 Screaming Shield
+4 Rally to Battle
+4 Sentinel's Mark
+4 Code of Constraint
+4 Carnival // Carnage
+4 Azorius Skyguard
+4 Spirit of the Spires
+4 Depose // Deploy
+4 Cult Guildmage
+4 Resolute Watchdog
+4 Macabre Mockery
+4 Bolrac-Clan Crusher
+4 Bloodmist Infiltrator
+4 Enraged Ceratok
+4 Cavalcade of Calamity
+4 Trollbred Guardian
+4 Syndicate Guildmage
+4 Forbidding Spirit
+4 Dagger Caster
+Deck
+================================================================================
+4 Archway Angel
+4 Orzhov Enforcer
+4 Rakdos Firewheeler
+4 Tin Street Dodger

@@ -1,0 +1,104 @@
+Deck
+4 Gix's Caress
+4 Thraxodemon
+4 Goring Warplow
+4 Carrion Locust
+4 Power Plant Worker
+4 Koilos Roc
+4 Gixian Skullflayer
+4 Lat-Nam Adept
+4 Argothian Sprite
+4 Roc Hunter
+4 Fog of War
+4 Scrapwork Cohort
+4 Tocasia's Onulet
+4 Aeronaut Cavalry
+4 Bitter Reunion
+4 Gnarlroot Pallbearer
+4 Blitz Automaton
+4 Loran's Escape
+4 Gixian Infiltrator
+4 Moment of Defiance
+4 Goblin Firebomb
+4 Phalanx Vanguard
+4 Retrieval Agent
+4 Shoot Down
+4 Gaea's Gift
+4 Tower Worker
+4 Epic Confrontation
+4 Stone Retrieval Unit
+4 Mishra's Onslaught
+4 Machine Over Matter
+4 Dredging Claw
+4 Wing Commando
+4 Union of the Third Path
+4 Coastal Bulwark
+4 Excavation Explosion
+4 Weakstone's Subjugation
+4 Mine Worker
+4 Combat Courier
+4 Scrapwork Rager
+4 Giant Growth
+4 Scrapwork Mutt
+4 Air Marshal
+4 Trench Stalker
+4 Hoarding Recluse
+4 Third Path Savant
+4 Rust Goliath
+4 Ravenous Gigamole
+4 Whirling Strike
+4 Prison Sentence
+4 Airlift Chaplain
+4 Curate
+4 Disfigure
+4 Kill-Zone Acrobat
+4 Sibling Rivalry
+4 Boulderbranch Golem
+4 Stern Lesson
+4 Burrowing Razormaw
+4 Emergency Weld
+4 Goblin Blast-Runner
+4 Blanchwood Prowler
+4 Supply Drop
+4 Unleash Shell
+Deck
+================================================================================
+4 Penregon Strongbull
+4 Evolving Wilds
+4 Disenchant
+4 Tocasia's Dig Site
+4 Scatter Ray
+4 Tomakul Honor Guard
+4 Swiftgear Drake
+4 Overwhelming Remorse
+4 Tawnos's Tinkering
+4 Fallaji Archaeologist
+4 Clay Revenant
+4 Ashnod's Intervention
+4 Military Discipline
+4 Survivor of Korlis
+4 Fallaji Chaindancer
+4 Argothian Opportunist
+4 Ambush Paratrooper
+4 Citanul Stalwart
+4 Conscripted Infantry
+4 Tomakul Scrapsmith
+4 Yotian Medic
+4 Wasteful Harvest
+4 Veteran's Powerblade
+4 Desynchronize
+4 Urza's Rebuff
+4 Mightstone's Animation
+4 Deadly Riposte
+4 Aeronaut's Wings
+4 Recommission
+4 Dwarven Forge-Chanter
+4 Mishra's Domination
+4 Warlord's Elite
+4 Perimeter Patrol
+4 Raze to the Ground
+4 Powerstone Fracture
+4 Powerstone Engineer
+4 Depth Charge Colossus
+4 Mishra's Juggernaut
+4 Energy Refractor

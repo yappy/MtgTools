@@ -1,0 +1,67 @@
+Deck
+4 Join Shields
+4 Integrity // Intervention
+4 Swarm Guildmage
+4 Arboretum Elemental
+4 Glaive of the Guildpact
+4 Goblin Cratermaker
+4 Disinformation Campaign
+4 District Guide
+4 House Guildmage
+4 Flower // Flourish
+4 Electrostatic Field
+4 Kraul Harpooner
+4 Sunhome Stalwart
+4 Truefire Captain
+4 Guild Summit
+4 Rampaging Monument
+4 Haazda Marshal
+4 Dimir Spybug
+4 Thought Erasure
+4 Flight of Equenauts
+4 Street Riot
+4 Lotleth Giant
+4 Inescapable Blaze
+4 Pilfering Imp
+4 Conclave Cavalier
+4 Sprouting Renewal
+4 Roc Charger
+4 Worldsoul Colossus
+4 Selective Snare
+4 Beacon Bolt
+4 Discovery // Dispersal
+4 Sinister Sabotage
+4 Ledev Champion
+4 Invert // Invent
+4 Attendant of Vraska
+4 Conclave Guildmage
+4 Grappling Sundew
+4 Gatekeeper Gargoyle
+4 Necrotic Wound
+4 Citywatch Sphinx
+4 Molderhulk
+4 Hellkite Whelp
+4 Golgari Raiders
+4 Kraul Swarm
+4 Undercity Necrolisk
+4 Whispering Snitch
+4 Nightveil Predator
+4 Legion Guildmage
+4 Justice Strike
+4 Boros Challenger
+4 Enhanced Surveillance
+4 Demotion
+4 Thoughtbound Phantasm
+4 Wand of Vertebrae
+4 Creeping Chill
+4 Status // Statue
+4 Conclave Tribunal
+4 Wee Dragonauts
+4 Ral's Staticaster
+4 Smelt-Ward Minotaur
+4 Ochran Assassin
+4 Beamsplitter Mage
+Deck
+================================================================================
+4 Book Devourer
+4 Swathcutter Giant

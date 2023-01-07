@@ -1,0 +1,90 @@
+Deck
+4 Zephyr Boots
+4 Karok Wrangler
+4 Containment Breach
+4 Snow Day
+4 Prismari Apprentice
+4 Lorehold Excavation
+4 Team Pennant
+4 Symmetry Sage
+4 A-Spell Satchel
+4 Professor of Symbology
+4 A-Mentor's Guidance
+4 Dina, Soul Steeper
+4 Quintorius, Field Historian
+4 Daemogoth Woe-Eater
+4 Decisive Denial
+4 Igneous Inspiration
+4 Maelstrom Muse
+4 Secret Rendezvous
+4 Ardent Dustspeaker
+4 Rootha, Mercurial Artist
+4 Lorehold Apprentice
+4 Reflective Golem
+4 A-Maelstrom Muse
+4 Detention Vortex
+4 Shadewing Laureate
+4 Mortality Spear
+4 Returned Pastcaller
+4 Silverquill Apprentice
+4 Flunk
+4 Go Blank
+4 Reduce to Memory
+4 Witherbloom Apprentice
+4 Eyetwitch
+4 Wormhole Serpent
+4 Show of Confidence
+4 Golden Ratio
+4 Quandrix Cultivator
+4 Thunderous Orator
+4 Tenured Inkcaster
+4 Necrotic Fumes
+4 Closing Statement
+4 Divide by Zero
+4 Overgrown Arch
+4 Stonebinder's Familiar
+4 Kelpie Guide
+4 Clever Lumimancer
+4 Practical Research
+4 Spell Satchel
+4 Quandrix Apprentice
+4 Hall Monitor
+4 Reconstruct History
+4 Honor Troll
+4 Aether Helix
+4 Tend the Pests
+4 Storm-Kiln Artist
+4 Fortifying Draught
+4 Dueling Coach
+4 Explosive Welcome
+4 Mascot Interception
+4 Plumb the Forbidden
+4 Academic Dispute
+4 Deadly Brew
+Deck
+================================================================================
+4 Mentor's Guidance
+4 Devouring Tendrils
+4 Brackish Trudge
+4 Expressive Iteration
+4 Mercurial Transformation
+4 A-Tenured Inkcaster
+4 Rip Apart
+4 Bookwurm
+4 A-Dueling Coach
+4 Humiliate
+4 Umbral Juke
+4 Test of Talents
+4 Start from Scratch
+4 A-Ardent Dustspeaker
+4 Emergent Sequence
+4 Killian, Ink Duelist
+4 Mage Hunter
+4 Grinning Ignus
+4 Access Tunnel
+4 Zimone, Quandrix Prodigy
+4 Solve the Equation
+4 Fracture
+4 A-Symmetry Sage
+4 Creative Outburst
+4 Master Symmetrist
