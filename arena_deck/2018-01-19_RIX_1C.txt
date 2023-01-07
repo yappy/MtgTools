@@ -1,49 +1,49 @@
 Deck
-4 Soul of the Rapids
-4 Deadeye Rig-Hauler
-4 Moment of Craving
-4 Giltgrove Stalker
-4 Sea Legs
-4 Vampire Revenant
-4 Divine Verdict
-4 Swab Goblin
-4 Hunt the Weak
-4 Sanguine Glorifier
-4 Squire's Devotion
-4 Swaggering Corsair
-4 Crashing Tide
-4 Orazca Raptor
-4 Cleansing Ray
-4 Moment of Triumph
-4 Dinosaur Hunter
-4 Jungleborn Pioneer
-4 Mutiny
-4 Jade Bearer
-4 Sun-Crested Pterodon
-4 Martyr of Dusk
-4 Knight of the Stampede
-4 Shatter
-4 Jadecraft Artisan
-4 River Darter
-4 Canal Monitor
-4 Sun-Collared Raptor
-4 Overgrown Armasaur
-4 Sworn Guardian
-4 Vampire Champion
-4 Frilled Deathspitter
-4 Legion Conquistador
-4 Strider Harness
-4 Secrets of the Golden City
-4 Voracious Vampire
-4 Fathom Fleet Boarder
-4 Exultant Skymarcher
-4 Impale
-4 Dusk Charger
-4 Buccaneer's Bravado
-4 Spire Winder
-4 Recover
-4 Dark Inquiry
-4 Stampeding Horncrest
-4 Tilonalli's Crown
-4 Hardy Veteran
-4 Snubhorn Sentry
+4 Soul of the Rapids (RIX)
+4 Deadeye Rig-Hauler (RIX)
+4 Moment of Craving (RIX)
+4 Giltgrove Stalker (RIX)
+4 Sea Legs (RIX)
+4 Vampire Revenant (RIX)
+4 Divine Verdict (RIX)
+4 Swab Goblin (RIX)
+4 Hunt the Weak (RIX)
+4 Sanguine Glorifier (RIX)
+4 Squire's Devotion (RIX)
+4 Swaggering Corsair (RIX)
+4 Crashing Tide (RIX)
+4 Orazca Raptor (RIX)
+4 Cleansing Ray (RIX)
+4 Moment of Triumph (RIX)
+4 Dinosaur Hunter (RIX)
+4 Jungleborn Pioneer (RIX)
+4 Mutiny (RIX)
+4 Jade Bearer (RIX)
+4 Sun-Crested Pterodon (RIX)
+4 Martyr of Dusk (RIX)
+4 Knight of the Stampede (RIX)
+4 Shatter (RIX)
+4 Jadecraft Artisan (RIX)
+4 River Darter (RIX)
+4 Canal Monitor (RIX)
+4 Sun-Collared Raptor (RIX)
+4 Overgrown Armasaur (RIX)
+4 Sworn Guardian (RIX)
+4 Vampire Champion (RIX)
+4 Frilled Deathspitter (RIX)
+4 Legion Conquistador (RIX)
+4 Strider Harness (RIX)
+4 Secrets of the Golden City (RIX)
+4 Voracious Vampire (RIX)
+4 Fathom Fleet Boarder (RIX)
+4 Exultant Skymarcher (RIX)
+4 Impale (RIX)
+4 Dusk Charger (RIX)
+4 Buccaneer's Bravado (RIX)
+4 Spire Winder (RIX)
+4 Recover (RIX)
+4 Dark Inquiry (RIX)
+4 Stampeding Horncrest (RIX)
+4 Tilonalli's Crown (RIX)
+4 Hardy Veteran (RIX)
+4 Snubhorn Sentry (RIX)

@@ -1,75 +1,75 @@
 Deck
-4 Demonic Vigor
-4 Fungal Infection
-4 Benalish Honor Guard
-4 Serra Disciple
-4 Cabal Paladin
-4 Frenzied Rage
-4 Keldon Overseer
-4 Krosan Druid
-4 Pyromantic Pilgrim
-4 Sergeant-at-Arms
-4 Windgrace Acolyte
-4 Fervent Strike
-4 Aven Sentry
-4 Charge
-4 Llanowar Scout
-4 Arcane Flight
-4 Corrosive Ooze
-4 Yavimaya Sapherd
-4 Cold-Water Snapper
-4 Excavation Elephant
-4 Blink of an Eye
-4 Ghitu Journeymage
-4 Artificer's Assistant
-4 Grow from the Ashes
-4 Deep Freeze
-4 Academy Drake
-4 Llanowar Envoy
-4 Drudge Sentinel
-4 Warlord's Fury
-4 D'Avenant Trapper
-4 Knight of New Benalia
-4 Powerstone Shard
-4 Pierce the Sky
-4 Baloth Gorger
-4 Pardic Wanderer
-4 Shivan Fire
-4 Broken Bond
-4 Ghitu Lavarunner
-4 Guardians of Koilos
-4 Blessed Light
-4 Tragic Poet
-4 Aesthir Glider
-4 Cabal Evangel
-4 Fiery Intervention
-4 Jousting Lance
-4 Ghitu Chronicler
-4 Homarid Explorer
-4 Academy Journeymage
-4 Keldon Warcaller
-4 Seismic Shift
-4 Thallid Omnivore
-4 Saproling Migration
-4 Sparring Construct
-4 Skirk Prospector
-4 Eviscerate
-4 Blessing of Belzenlok
-4 Vicious Offering
-4 Navigator's Compass
-4 Rampaging Cyclops
-4 Voltaic Servant
-4 Gaea's Protector
-4 Bloodtallow Candle
+4 Demonic Vigor (DOM)
+4 Fungal Infection (DOM)
+4 Benalish Honor Guard (DOM)
+4 Serra Disciple (DOM)
+4 Cabal Paladin (DOM)
+4 Frenzied Rage (DOM)
+4 Keldon Overseer (DOM)
+4 Krosan Druid (DOM)
+4 Pyromantic Pilgrim (DOM)
+4 Sergeant-at-Arms (DOM)
+4 Windgrace Acolyte (DOM)
+4 Fervent Strike (DOM)
+4 Aven Sentry (DOM)
+4 Charge (DOM)
+4 Llanowar Scout (DOM)
+4 Arcane Flight (DOM)
+4 Corrosive Ooze (DOM)
+4 Yavimaya Sapherd (DOM)
+4 Cold-Water Snapper (DOM)
+4 Excavation Elephant (DOM)
+4 Blink of an Eye (DOM)
+4 Ghitu Journeymage (DOM)
+4 Artificer's Assistant (DOM)
+4 Grow from the Ashes (DOM)
+4 Deep Freeze (DOM)
+4 Academy Drake (DOM)
+4 Llanowar Envoy (DOM)
+4 Drudge Sentinel (DOM)
+4 Warlord's Fury (DOM)
+4 D'Avenant Trapper (DOM)
+4 Knight of New Benalia (DOM)
+4 Powerstone Shard (DOM)
+4 Pierce the Sky (DOM)
+4 Baloth Gorger (DOM)
+4 Pardic Wanderer (DOM)
+4 Shivan Fire (DOM)
+4 Broken Bond (DOM)
+4 Ghitu Lavarunner (DOM)
+4 Guardians of Koilos (DOM)
+4 Blessed Light (DOM)
+4 Tragic Poet (DOM)
+4 Aesthir Glider (DOM)
+4 Cabal Evangel (DOM)
+4 Fiery Intervention (DOM)
+4 Jousting Lance (DOM)
+4 Ghitu Chronicler (DOM)
+4 Homarid Explorer (DOM)
+4 Academy Journeymage (DOM)
+4 Keldon Warcaller (DOM)
+4 Seismic Shift (DOM)
+4 Thallid Omnivore (DOM)
+4 Saproling Migration (DOM)
+4 Sparring Construct (DOM)
+4 Skirk Prospector (DOM)
+4 Eviscerate (DOM)
+4 Blessing of Belzenlok (DOM)
+4 Vicious Offering (DOM)
+4 Navigator's Compass (DOM)
+4 Rampaging Cyclops (DOM)
+4 Voltaic Servant (DOM)
+4 Gaea's Protector (DOM)
+4 Bloodtallow Candle (DOM)
 ================================================================================
 Deck
-4 Unwind
-4 Healing Grace
-4 Caligo Skin-Witch
-4 Stronghold Confessor
-4 Bloodstone Goblin
-4 Gideon's Reproach
-4 Rat Colony
-4 Gift of Growth
-4 Temporal Machinations
-4 Rescue
+4 Unwind (DOM)
+4 Healing Grace (DOM)
+4 Caligo Skin-Witch (DOM)
+4 Stronghold Confessor (DOM)
+4 Bloodstone Goblin (DOM)
+4 Gideon's Reproach (DOM)
+4 Rat Colony (DOM)
+4 Gift of Growth (DOM)
+4 Temporal Machinations (DOM)
+4 Rescue (DOM)

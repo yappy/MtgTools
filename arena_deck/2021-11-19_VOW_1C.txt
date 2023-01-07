@@ -1,103 +1,103 @@
 Deck
-4 Dreadlight Monstrosity
-4 End the Festivities
-4 Vampire's Kiss
-4 Doomed Dissenter
-4 Mulch
-4 Pyre Spawn
-4 Traveling Minister
-4 Lacerate Flesh
-4 Blood Petal Celebrant
-4 Bramble Armor
-4 Piercing Light
-4 Snarling Wolf
-4 Gluttonous Guest
-4 Chill of the Grave
-4 Syncopate
-4 Wolf Strike
-4 Drogskol Infantry // Drogskol Armaments
-4 Selhoff Entomber
-4 Falkenrath Celebrants
-4 Steelclad Spirit
-4 Nurturing Presence
-4 Apprentice Sharpshooter
-4 Belligerent Guest
-4 Unholy Officiant
-4 Adamant Will
-4 Moldgraf Millipede
-4 Honored Heirloom
-4 Massive Might
-4 Fear of Death
-4 Hookhand Mariner // Riphook Raider
-4 Diregraf Scavenger
-4 Grisly Ritual
-4 Sigarda's Imprisonment
-4 Reckless Impulse
-4 Blood Servitor
-4 Hungry Ridgewolf
-4 Binding Geist // Spectral Binding
-4 Persistent Specimen
-4 Fearful Villager // Fearsome Werewolf
-4 Desperate Farmer // Depraved Harvester
-4 Toxic Scorpion
-4 Crushing Canopy
-4 Lantern Bearer // Lanterns' Lift
-4 Rot-Tide Gargantua
-4 Flame-Blessed Bolt
-4 Bleed Dry
-4 Witch's Web
-4 Sporeback Wolf
-4 Scattered Thoughts
-4 Repository Skaab
-4 Wanderlight Spirit
-4 Bloodcrazed Socialite
-4 Wretched Throng
-4 Serpentine Ambush
-4 Fierce Retribution
-4 Alchemist's Retrieval
-4 Undying Malice
-4 Gift of Fangs
-4 Unhallowed Phalanx
-4 Nature's Embrace
-4 Ragged Recluse // Odious Witch
-4 Heron-Blessed Geist
+4 Dreadlight Monstrosity (VOW)
+4 End the Festivities (VOW)
+4 Vampire's Kiss (VOW)
+4 Doomed Dissenter (VOW)
+4 Mulch (VOW)
+4 Pyre Spawn (VOW)
+4 Traveling Minister (VOW)
+4 Lacerate Flesh (VOW)
+4 Blood Petal Celebrant (VOW)
+4 Bramble Armor (VOW)
+4 Piercing Light (VOW)
+4 Snarling Wolf (VOW)
+4 Gluttonous Guest (VOW)
+4 Chill of the Grave (VOW)
+4 Syncopate (VOW)
+4 Wolf Strike (VOW)
+4 Drogskol Infantry // Drogskol Armaments (VOW)
+4 Selhoff Entomber (VOW)
+4 Falkenrath Celebrants (VOW)
+4 Steelclad Spirit (VOW)
+4 Nurturing Presence (VOW)
+4 Apprentice Sharpshooter (VOW)
+4 Belligerent Guest (VOW)
+4 Unholy Officiant (VOW)
+4 Adamant Will (VOW)
+4 Moldgraf Millipede (VOW)
+4 Honored Heirloom (VOW)
+4 Massive Might (VOW)
+4 Fear of Death (VOW)
+4 Hookhand Mariner // Riphook Raider (VOW)
+4 Diregraf Scavenger (VOW)
+4 Grisly Ritual (VOW)
+4 Sigarda's Imprisonment (VOW)
+4 Reckless Impulse (VOW)
+4 Blood Servitor (VOW)
+4 Hungry Ridgewolf (VOW)
+4 Binding Geist // Spectral Binding (VOW)
+4 Persistent Specimen (VOW)
+4 Fearful Villager // Fearsome Werewolf (VOW)
+4 Desperate Farmer // Depraved Harvester (VOW)
+4 Toxic Scorpion (VOW)
+4 Crushing Canopy (VOW)
+4 Lantern Bearer // Lanterns' Lift (VOW)
+4 Rot-Tide Gargantua (VOW)
+4 Flame-Blessed Bolt (VOW)
+4 Bleed Dry (VOW)
+4 Witch's Web (VOW)
+4 Sporeback Wolf (VOW)
+4 Scattered Thoughts (VOW)
+4 Repository Skaab (VOW)
+4 Wanderlight Spirit (VOW)
+4 Bloodcrazed Socialite (VOW)
+4 Wretched Throng (VOW)
+4 Serpentine Ambush (VOW)
+4 Fierce Retribution (VOW)
+4 Alchemist's Retrieval (VOW)
+4 Undying Malice (VOW)
+4 Gift of Fangs (VOW)
+4 Unhallowed Phalanx (VOW)
+4 Nature's Embrace (VOW)
+4 Ragged Recluse // Odious Witch (VOW)
+4 Heron-Blessed Geist (VOW)
 ================================================================================
 Deck
-4 Bloody Betrayal
-4 Weaver of Blossoms // Blossom-Clad Werewolf
-4 Supernatural Rescue
-4 Estwald Shieldbasher
-4 Blood Fountain
-4 Pointed Discussion
-4 Aim for the Head
-4 Nebelgast Beguiler
-4 Sheltering Boughs
-4 Vampire Slayer
-4 A-Stitched Assistant
-4 Weary Prisoner // Wrathful Jailbreaker
-4 Cruel Witness
-4 Sanctify
-4 Voldaren Epicure
-4 Lightning Wolf
-4 Militia Rallier
-4 Flourishing Hunter
-4 Courier Bat
-4 Wedding Invitation
-4 Ceremonial Knife
-4 Cradle of Safety
-4 Ancestral Anger
-4 Mindleech Ghoul
-4 Skywarp Skaab
-4 Parish-Blade Trainee
-4 Gryff Rider
-4 Syphon Essence
-4 Dawnhart Disciple
-4 Kessig Flamebreather
-4 Kindly Ancestor // Ancestor's Embrace
-4 Stitched Assistant
-4 Heron of Hope
-4 Abrade
-4 Spore Crawler
-4 Sure Strike
-4 Daybreak Combatants
-4 Rural Recruit
+4 Bloody Betrayal (VOW)
+4 Weaver of Blossoms // Blossom-Clad Werewolf (VOW)
+4 Supernatural Rescue (VOW)
+4 Estwald Shieldbasher (VOW)
+4 Blood Fountain (VOW)
+4 Pointed Discussion (VOW)
+4 Aim for the Head (VOW)
+4 Nebelgast Beguiler (VOW)
+4 Sheltering Boughs (VOW)
+4 Vampire Slayer (VOW)
+4 A-Stitched Assistant (VOW)
+4 Weary Prisoner // Wrathful Jailbreaker (VOW)
+4 Cruel Witness (VOW)
+4 Sanctify (VOW)
+4 Voldaren Epicure (VOW)
+4 Lightning Wolf (VOW)
+4 Militia Rallier (VOW)
+4 Flourishing Hunter (VOW)
+4 Courier Bat (VOW)
+4 Wedding Invitation (VOW)
+4 Ceremonial Knife (VOW)
+4 Cradle of Safety (VOW)
+4 Ancestral Anger (VOW)
+4 Mindleech Ghoul (VOW)
+4 Skywarp Skaab (VOW)
+4 Parish-Blade Trainee (VOW)
+4 Gryff Rider (VOW)
+4 Syphon Essence (VOW)
+4 Dawnhart Disciple (VOW)
+4 Kessig Flamebreather (VOW)
+4 Kindly Ancestor // Ancestor's Embrace (VOW)
+4 Stitched Assistant (VOW)
+4 Heron of Hope (VOW)
+4 Abrade (VOW)
+4 Spore Crawler (VOW)
+4 Sure Strike (VOW)
+4 Daybreak Combatants (VOW)
+4 Rural Recruit (VOW)

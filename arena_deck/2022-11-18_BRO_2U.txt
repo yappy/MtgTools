@@ -1,83 +1,83 @@
 Deck
-4 Thran Vigil
-4 Arbalest Engineers
-4 Combat Thresher
-4 Yotian Tactician
-4 Splitting the Powerstone
-4 Forging the Anchor
-4 Mass Production
-4 Sardian Cliffstomper
-4 Cradle Clearcutter
-4 Gurgling Anointer
-4 Transmogrant Altar
-4 Levitating Statue
-4 Su-Chi Cave Guard
-4 Battlefield Butcher
-4 Go for the Throat
-4 Symmetry Matrix
-4 Thopter Architect
-4 Gnawing Vermin
-4 Great Desert Prospector
-4 Thran Power Suit
-4 Keeper of the Cadence
-4 Static Net
-4 Involuntary Cooldown
-4 Alloy Animist
-4 Audacity
-4 Mishra, Excavation Prodigy
-4 Repair and Recharge
-4 Obliterating Bolt
-4 Gaea's Courser
-4 Defabricate
-4 Skyfisher Spider
-4 Junkyard Genius
-4 Yotian Dissident
-4 Meticulous Excavation
-4 Haywire Mite
-4 Horned Stoneseeker
-4 Spectrum Sentinel
-4 Blanchwood Armor
-4 Urza, Powerstone Prodigy
-4 Dreams of Steel and Oil
-4 Demolition Field
-4 Mishra's Research Desk
-4 Recruitment Officer
-4 Pyrrhic Blast
-4 Loran, Disciple of History
-4 Ashnod's Harvester
-4 Slagstone Refinery
-4 Calamity's Wake
-4 Thopter Mechanic
-4 Corrupt
-4 Lay Down Arms
-4 Steel Exemplar
-4 No One Left Behind
-4 Iron-Craw Crusher
-4 Fallaji Excavation
-4 Mask of the Jadecrafter
-4 Hulking Metamorph
-4 Take Flight
-4 Flow of Knowledge
-4 Giant Cindermaw
-4 The Fall of Kroog
-4 Gruesome Realization
+4 Thran Vigil (BRO)
+4 Arbalest Engineers (BRO)
+4 Combat Thresher (BRO)
+4 Yotian Tactician (BRO)
+4 Splitting the Powerstone (BRO)
+4 Forging the Anchor (BRO)
+4 Mass Production (BRO)
+4 Sardian Cliffstomper (BRO)
+4 Cradle Clearcutter (BRO)
+4 Gurgling Anointer (BRO)
+4 Transmogrant Altar (BRO)
+4 Levitating Statue (BRO)
+4 Su-Chi Cave Guard (BRO)
+4 Battlefield Butcher (BRO)
+4 Go for the Throat (BRO)
+4 Symmetry Matrix (BRO)
+4 Thopter Architect (BRO)
+4 Gnawing Vermin (BRO)
+4 Great Desert Prospector (BRO)
+4 Thran Power Suit (BRO)
+4 Keeper of the Cadence (BRO)
+4 Static Net (BRO)
+4 Involuntary Cooldown (BRO)
+4 Alloy Animist (BRO)
+4 Audacity (BRO)
+4 Mishra, Excavation Prodigy (BRO)
+4 Repair and Recharge (BRO)
+4 Obliterating Bolt (BRO)
+4 Gaea's Courser (BRO)
+4 Defabricate (BRO)
+4 Skyfisher Spider (BRO)
+4 Junkyard Genius (BRO)
+4 Yotian Dissident (BRO)
+4 Meticulous Excavation (BRO)
+4 Haywire Mite (BRO)
+4 Horned Stoneseeker (BRO)
+4 Spectrum Sentinel (BRO)
+4 Blanchwood Armor (BRO)
+4 Urza, Powerstone Prodigy (BRO)
+4 Dreams of Steel and Oil (BRO)
+4 Demolition Field (BRO)
+4 Mishra's Research Desk (BRO)
+4 Recruitment Officer (BRO)
+4 Pyrrhic Blast (BRO)
+4 Loran, Disciple of History (BRO)
+4 Ashnod's Harvester (BRO)
+4 Slagstone Refinery (BRO)
+4 Calamity's Wake (BRO)
+4 Thopter Mechanic (BRO)
+4 Corrupt (BRO)
+4 Lay Down Arms (BRO)
+4 Steel Exemplar (BRO)
+4 No One Left Behind (BRO)
+4 Iron-Craw Crusher (BRO)
+4 Fallaji Excavation (BRO)
+4 Mask of the Jadecrafter (BRO)
+4 Hulking Metamorph (BRO)
+4 Take Flight (BRO)
+4 Flow of Knowledge (BRO)
+4 Giant Cindermaw (BRO)
+4 The Fall of Kroog (BRO)
+4 Gruesome Realization (BRO)
 ================================================================================
 Deck
-4 Bushwhack
-4 Reconstructed Thopter
-4 Disciples of Gix
-4 Spotter Thopter
-4 Yotian Frontliner
-4 Argivian Avenger
-4 Sarinth Steelseeker
-4 Monastery Swiftspear
-4 Evangel of Synthesis
-4 Fallaji Dragon Engine
-4 Zephyr Sentinel
-4 Battery Bearer
-4 Fallaji Vanguard
-4 Arms Race
-4 Hero of the Dunes
-4 Obstinate Baloth
-4 Third Path Iconoclast
-4 Heavyweight Demolisher
+4 Bushwhack (BRO)
+4 Reconstructed Thopter (BRO)
+4 Disciples of Gix (BRO)
+4 Spotter Thopter (BRO)
+4 Yotian Frontliner (BRO)
+4 Argivian Avenger (BRO)
+4 Sarinth Steelseeker (BRO)
+4 Monastery Swiftspear (BRO)
+4 Evangel of Synthesis (BRO)
+4 Fallaji Dragon Engine (BRO)
+4 Zephyr Sentinel (BRO)
+4 Battery Bearer (BRO)
+4 Fallaji Vanguard (BRO)
+4 Arms Race (BRO)
+4 Hero of the Dunes (BRO)
+4 Obstinate Baloth (BRO)
+4 Third Path Iconoclast (BRO)
+4 Heavyweight Demolisher (BRO)

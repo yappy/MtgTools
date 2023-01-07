@@ -1,16 +1,16 @@
 Deck
-4 Winota, Joiner of Forces
-4 Lukka, Coppercoat Outcast
-4 Luminous Broodmoth
-4 Zilortha, Strength Incarnate
-4 Fiend Artisan
-4 Chevill, Bane of Monsters
-4 A-Winota, Joiner of Forces
-4 Rielle, the Everwise
-4 Vivien, Monsters' Advocate
-4 Vadrok, Apex of Thunder
-4 Kinnan, Bonder Prodigy
-4 General Kudro of Drannith
-4 Snapdax, Apex of the Hunt
-4 Narset of the Ancient Way
-4 Brokkos, Apex of Forever
+4 Winota, Joiner of Forces (IKO)
+4 Lukka, Coppercoat Outcast (IKO)
+4 Luminous Broodmoth (IKO)
+4 Zilortha, Strength Incarnate (IKO)
+4 Fiend Artisan (IKO)
+4 Chevill, Bane of Monsters (IKO)
+4 A-Winota, Joiner of Forces (IKO)
+4 Rielle, the Everwise (IKO)
+4 Vivien, Monsters' Advocate (IKO)
+4 Vadrok, Apex of Thunder (IKO)
+4 Kinnan, Bonder Prodigy (IKO)
+4 General Kudro of Drannith (IKO)
+4 Snapdax, Apex of the Hunt (IKO)
+4 Narset of the Ancient Way (IKO)
+4 Brokkos, Apex of Forever (IKO)

@@ -1,77 +1,77 @@
 Deck
-4 Demolish
-4 Loxodon Sergeant
-4 Gideon's Sacrifice
-4 Jaya's Greeting
-4 Burning Prophet
-4 Contentious Plan
-4 Guildpact Informant
-4 Rising Populace
-4 Toll of the Invasion
-4 Crush Dissent
-4 Courage in Crisis
-4 War Screecher
-4 Tamiyo's Epiphany
-4 Enforcer Griffin
-4 Orzhov Guildgate
-4 Honor the God-Pharaoh
-4 Vraska's Finisher
-4 Kronch Wrangler
-4 Banehound
-4 Charmed Stray
-4 Chandra's Pyrohelix
-4 Vivien's Grizzly
-4 Invading Manticore
-4 Nahiri's Stoneblades
-4 Duskmantle Operative
-4 Sarkhan's Catharsis
-4 Kiora's Dambreaker
-4 No Escape
-4 Samut's Sprint
-4 Pollenbright Druid
-4 Kraul Stinger
-4 Lazotep Reaver
-4 Wardscale Crocodile
-4 Desperate Lunge
-4 Spellkeeper Weird
-4 Callous Dismissal
-4 Stealth Mission
-4 Grim Initiate
-4 Sky Theater Strix
-4 Herald of the Dreadhorde
-4 Naga Eternal
-4 Chainwhip Cyclops
-4 Thunder Drake
-4 Gateway Plaza
-4 Forced Landing
-4 Guild Globe
-4 Saheeli's Silverwing
-4 Primordial Wurm
-4 Aid the Fallen
-4 Kaya's Ghostform
-4 Martyr for the Cause
-4 Thundering Ceratok
-4 Aven Eternal
-4 Law-Rune Enforcer
-4 Raging Kronch
-4 Ob Nixilis's Cruelty
-4 Bloom Hulk
-4 Davriel's Shadowfugue
-4 Arboreal Grazer
-4 Goblin Assault Team
-4 Wanderer's Strike
-4 Ahn-Crop Invader
+4 Demolish (WAR)
+4 Loxodon Sergeant (WAR)
+4 Gideon's Sacrifice (WAR)
+4 Jaya's Greeting (WAR)
+4 Burning Prophet (WAR)
+4 Contentious Plan (WAR)
+4 Guildpact Informant (WAR)
+4 Rising Populace (WAR)
+4 Toll of the Invasion (WAR)
+4 Crush Dissent (WAR)
+4 Courage in Crisis (WAR)
+4 War Screecher (WAR)
+4 Tamiyo's Epiphany (WAR)
+4 Enforcer Griffin (WAR)
+4 Orzhov Guildgate (WAR)
+4 Honor the God-Pharaoh (WAR)
+4 Vraska's Finisher (WAR)
+4 Kronch Wrangler (WAR)
+4 Banehound (WAR)
+4 Charmed Stray (WAR)
+4 Chandra's Pyrohelix (WAR)
+4 Vivien's Grizzly (WAR)
+4 Invading Manticore (WAR)
+4 Nahiri's Stoneblades (WAR)
+4 Duskmantle Operative (WAR)
+4 Sarkhan's Catharsis (WAR)
+4 Kiora's Dambreaker (WAR)
+4 No Escape (WAR)
+4 Samut's Sprint (WAR)
+4 Pollenbright Druid (WAR)
+4 Kraul Stinger (WAR)
+4 Lazotep Reaver (WAR)
+4 Wardscale Crocodile (WAR)
+4 Desperate Lunge (WAR)
+4 Spellkeeper Weird (WAR)
+4 Callous Dismissal (WAR)
+4 Stealth Mission (WAR)
+4 Grim Initiate (WAR)
+4 Sky Theater Strix (WAR)
+4 Herald of the Dreadhorde (WAR)
+4 Naga Eternal (WAR)
+4 Chainwhip Cyclops (WAR)
+4 Thunder Drake (WAR)
+4 Gateway Plaza (WAR)
+4 Forced Landing (WAR)
+4 Guild Globe (WAR)
+4 Saheeli's Silverwing (WAR)
+4 Primordial Wurm (WAR)
+4 Aid the Fallen (WAR)
+4 Kaya's Ghostform (WAR)
+4 Martyr for the Cause (WAR)
+4 Thundering Ceratok (WAR)
+4 Aven Eternal (WAR)
+4 Law-Rune Enforcer (WAR)
+4 Raging Kronch (WAR)
+4 Ob Nixilis's Cruelty (WAR)
+4 Bloom Hulk (WAR)
+4 Davriel's Shadowfugue (WAR)
+4 Arboreal Grazer (WAR)
+4 Goblin Assault Team (WAR)
+4 Wanderer's Strike (WAR)
+4 Ahn-Crop Invader (WAR)
 ================================================================================
 Deck
-4 Pouncing Lynx
-4 Lazotep Behemoth
-4 Totally Lost
-4 Steady Aim
-4 Teyo's Lightshield
-4 Charity Extractor
-4 Shriekdiver
-4 Relentless Advance
-4 Teferi's Time Twist
-4 Centaur Nurturer
-4 Arlinn's Wolf
-4 Ashiok's Skulker
+4 Pouncing Lynx (WAR)
+4 Lazotep Behemoth (WAR)
+4 Totally Lost (WAR)
+4 Steady Aim (WAR)
+4 Teyo's Lightshield (WAR)
+4 Charity Extractor (WAR)
+4 Shriekdiver (WAR)
+4 Relentless Advance (WAR)
+4 Teferi's Time Twist (WAR)
+4 Centaur Nurturer (WAR)
+4 Arlinn's Wolf (WAR)
+4 Ashiok's Skulker (WAR)

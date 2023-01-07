@@ -1,77 +1,77 @@
 Deck
-4 Pollywog Symbiote
-4 Dire Tactics
-4 Fight as One
-4 Boon of the Wish-Giver
-4 Clash of Titans
-4 Sanctuary Smasher
-4 Stormwild Capridor
-4 Indatha Crystal
-4 Heartless Act
-4 Unbreakable Bond
-4 Ivy Elemental
-4 Pouncing Shoreshark
-4 Huntmaster Liger
-4 Skull Prophet
-4 Frillscare Mentor
-4 Lore Drakkis
-4 Ketria Crystal
-4 Rooting Moloch
-4 Exuberant Wolfbear
-4 Flourishing Fox
-4 Insatiable Hemophage
-4 Grimdancer
-4 Keensight Mentor
-4 Momentum Rumbler
-4 Swallow Whole
-4 Barrier Breach
-4 Ominous Seas
-4 Savai Thundermane
-4 Sanctuary Lockdown
-4 Back for More
-4 Alert Heedbonder
-4 Void Beckoner
-4 Trumpeting Gnarr
-4 Cunning Nightbonder
-4 Reptilian Reflection
-4 Necropanther
-4 Auspicious Starrix
-4 Titanoth Rex
-4 Zagoth Crystal
-4 Boneyard Lurker
-4 Sonorous Howlbonder
-4 General's Enforcer
-4 Charge of the Forever-Beast
-4 Chittering Harvester
-4 Call of the Death-Dweller
-4 Majestic Auricorn
-4 Jubilant Skybonder
-4 Zagoth Mamba
-4 Zenith Flare
-4 Archipelagore
-4 Raugrin Crystal
-4 Monstrous Step
-4 Glowstone Recluse
-4 Easy Prey
-4 Neutralize
-4 Bastion of Remembrance
-4 Valiant Rescuer
-4 Savai Crystal
-4 Blitz of the Thunder-Raptor
-4 Avian Oddity
-4 Duskfang Mentor
-4 Flame Spill
+4 Pollywog Symbiote (IKO)
+4 Dire Tactics (IKO)
+4 Fight as One (IKO)
+4 Boon of the Wish-Giver (IKO)
+4 Clash of Titans (IKO)
+4 Sanctuary Smasher (IKO)
+4 Stormwild Capridor (IKO)
+4 Indatha Crystal (IKO)
+4 Heartless Act (IKO)
+4 Unbreakable Bond (IKO)
+4 Ivy Elemental (IKO)
+4 Pouncing Shoreshark (IKO)
+4 Huntmaster Liger (IKO)
+4 Skull Prophet (IKO)
+4 Frillscare Mentor (IKO)
+4 Lore Drakkis (IKO)
+4 Ketria Crystal (IKO)
+4 Rooting Moloch (IKO)
+4 Exuberant Wolfbear (IKO)
+4 Flourishing Fox (IKO)
+4 Insatiable Hemophage (IKO)
+4 Grimdancer (IKO)
+4 Keensight Mentor (IKO)
+4 Momentum Rumbler (IKO)
+4 Swallow Whole (IKO)
+4 Barrier Breach (IKO)
+4 Ominous Seas (IKO)
+4 Savai Thundermane (IKO)
+4 Sanctuary Lockdown (IKO)
+4 Back for More (IKO)
+4 Alert Heedbonder (IKO)
+4 Void Beckoner (IKO)
+4 Trumpeting Gnarr (IKO)
+4 Cunning Nightbonder (IKO)
+4 Reptilian Reflection (IKO)
+4 Necropanther (IKO)
+4 Auspicious Starrix (IKO)
+4 Titanoth Rex (IKO)
+4 Zagoth Crystal (IKO)
+4 Boneyard Lurker (IKO)
+4 Sonorous Howlbonder (IKO)
+4 General's Enforcer (IKO)
+4 Charge of the Forever-Beast (IKO)
+4 Chittering Harvester (IKO)
+4 Call of the Death-Dweller (IKO)
+4 Majestic Auricorn (IKO)
+4 Jubilant Skybonder (IKO)
+4 Zagoth Mamba (IKO)
+4 Zenith Flare (IKO)
+4 Archipelagore (IKO)
+4 Raugrin Crystal (IKO)
+4 Monstrous Step (IKO)
+4 Glowstone Recluse (IKO)
+4 Easy Prey (IKO)
+4 Neutralize (IKO)
+4 Bastion of Remembrance (IKO)
+4 Valiant Rescuer (IKO)
+4 Savai Crystal (IKO)
+4 Blitz of the Thunder-Raptor (IKO)
+4 Avian Oddity (IKO)
+4 Duskfang Mentor (IKO)
+4 Flame Spill (IKO)
 ================================================================================
 Deck
-4 Parcelbeast
-4 Will of the All-Hunter
-4 Channeled Force
-4 Porcuparrot
-4 Proud Wildbonder
-4 Escape Protocol
-4 Lead the Stampede
-4 Hornbash Mentor
-4 Weaponize the Monsters
-4 Regal Leosaur
-4 Splendor Mare
-4 Mystic Subdual
+4 Parcelbeast (IKO)
+4 Will of the All-Hunter (IKO)
+4 Channeled Force (IKO)
+4 Porcuparrot (IKO)
+4 Proud Wildbonder (IKO)
+4 Escape Protocol (IKO)
+4 Lead the Stampede (IKO)
+4 Hornbash Mentor (IKO)
+4 Weaponize the Monsters (IKO)
+4 Regal Leosaur (IKO)
+4 Splendor Mare (IKO)
+4 Mystic Subdual (IKO)

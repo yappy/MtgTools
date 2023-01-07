@@ -1,63 +1,63 @@
 Deck
-4 Ruthless Knave
-4 Perilous Voyage
-4 Lurking Chupacabra
-4 Wanted Scoundrels
-4 Charging Monstrosaur
-4 Merfolk Branchwalker
-4 Vicious Conquistador
-4 Emergent Growth
-4 Sleek Schooner
-4 Storm Fleet Arsonist
-4 Dinosaur Stampede
-4 Deadeye Quartermaster
-4 Rallying Roar
-4 Otepec Huntmaster
-4 Storm Fleet Spy
-4 Marauding Looter
-4 Sentinel Totem
-4 Sheltering Light
-4 Deadeye Plunderers
-4 Ixalan's Binding
-4 Sky Terror
-4 Glorifier of Dusk
-4 Raging Swordtooth
-4 Inspiring Cleric
-4 River Sneak
-4 Imperial Aerosaur
-4 Kumena's Speaker
-4 Dire Fleet Captain
-4 Elaborate Firecannon
-4 Snapping Sailback
-4 Bellowing Aegisaur
-4 Dusk Legion Dreadnought
-4 Rigging Runner
-4 Shapers of Nature
-4 Huatli's Spurring
-4 Deeproot Waters
-4 Walk the Plank
-4 Raptor Hatchling
-4 Adanto Vanguard
-4 Grim Captain's Call
-4 Dark Nourishment
-4 Deathless Ancient
-4 Pillar of Origins
-4 Atzocan Archer
-4 Storm Fleet Aerialist
-4 Tempest Caller
-4 Bonded Horncrest
-4 Jace's Sentinel
-4 Imperial Lancer
-4 Verdant Rebirth
-4 Vineshaper Mystic
-4 Navigator's Ruin
-4 Wily Goblin
-4 Raiders' Wake
-4 Wildgrowth Walker
-4 Steadfast Armasaur
-4 Emissary of Sunrise
-4 Lookout's Dispersal
-4 Bishop of the Bloodstained
-4 Trove of Temptation
-4 Duskborne Skymarcher
-4 Belligerent Brontodon
+4 Ruthless Knave (XLN)
+4 Perilous Voyage (XLN)
+4 Lurking Chupacabra (XLN)
+4 Wanted Scoundrels (XLN)
+4 Charging Monstrosaur (XLN)
+4 Merfolk Branchwalker (XLN)
+4 Vicious Conquistador (XLN)
+4 Emergent Growth (XLN)
+4 Sleek Schooner (XLN)
+4 Storm Fleet Arsonist (XLN)
+4 Dinosaur Stampede (XLN)
+4 Deadeye Quartermaster (XLN)
+4 Rallying Roar (XLN)
+4 Otepec Huntmaster (XLN)
+4 Storm Fleet Spy (XLN)
+4 Marauding Looter (XLN)
+4 Sentinel Totem (XLN)
+4 Sheltering Light (XLN)
+4 Deadeye Plunderers (XLN)
+4 Ixalan's Binding (XLN)
+4 Sky Terror (XLN)
+4 Glorifier of Dusk (XLN)
+4 Raging Swordtooth (XLN)
+4 Inspiring Cleric (XLN)
+4 River Sneak (XLN)
+4 Imperial Aerosaur (XLN)
+4 Kumena's Speaker (XLN)
+4 Dire Fleet Captain (XLN)
+4 Elaborate Firecannon (XLN)
+4 Snapping Sailback (XLN)
+4 Bellowing Aegisaur (XLN)
+4 Dusk Legion Dreadnought (XLN)
+4 Rigging Runner (XLN)
+4 Shapers of Nature (XLN)
+4 Huatli's Spurring (XLN)
+4 Deeproot Waters (XLN)
+4 Walk the Plank (XLN)
+4 Raptor Hatchling (XLN)
+4 Adanto Vanguard (XLN)
+4 Grim Captain's Call (XLN)
+4 Dark Nourishment (XLN)
+4 Deathless Ancient (XLN)
+4 Pillar of Origins (XLN)
+4 Atzocan Archer (XLN)
+4 Storm Fleet Aerialist (XLN)
+4 Tempest Caller (XLN)
+4 Bonded Horncrest (XLN)
+4 Jace's Sentinel (XLN)
+4 Imperial Lancer (XLN)
+4 Verdant Rebirth (XLN)
+4 Vineshaper Mystic (XLN)
+4 Navigator's Ruin (XLN)
+4 Wily Goblin (XLN)
+4 Raiders' Wake (XLN)
+4 Wildgrowth Walker (XLN)
+4 Steadfast Armasaur (XLN)
+4 Emissary of Sunrise (XLN)
+4 Lookout's Dispersal (XLN)
+4 Bishop of the Bloodstained (XLN)
+4 Trove of Temptation (XLN)
+4 Duskborne Skymarcher (XLN)
+4 Belligerent Brontodon (XLN)

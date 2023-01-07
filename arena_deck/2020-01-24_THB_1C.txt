@@ -1,95 +1,95 @@
 Deck
-4 Deny the Divine
-4 Irreverent Revelers
-4 Omen of the Sun
-4 Sentinel's Eyes
-4 Omen of the Dead
-4 Skola Grovedancer
-4 Heliod's Pilgrim
-4 Mire's Grasp
-4 Bronze Sword
-4 Nyxborn Marauder
-4 Altar of the Pantheon
-4 Vexing Gull
-4 Memory Drain
-4 Final Death
-4 Captivating Unicorn
-4 Incendiary Oracle
-4 Mogis's Favor
-4 Stern Dismissal
-4 Pharika's Libation
-4 Final Flare
-4 Grim Physician
-4 Naiad of Hidden Coves
-4 Underworld Charger
-4 Leonin of the Lost Pride
-4 Blight-Breath Catoblepas
-4 Omen of the Sea
-4 Satyr's Cunning
-4 Nyxborn Seaguard
-4 Temple Thief
-4 Warbriar Blessing
-4 Nyxborn Colossus
-4 Brine Giant
-4 Sunmane Pegasus
-4 Soulreaper of Mogis
-4 Omen of the Hunt
-4 Stampede Rider
-4 Nylea's Huntmaster
-4 Sleep of the Dead
-4 Ilysian Caryatid
-4 Elite Instructor
-4 Rage-Scarred Berserker
-4 Eidolon of Philosophy
-4 Arena Trickster
-4 Thirst for Meaning
-4 Rumbling Sentry
-4 Thaumaturge's Familiar
-4 Iroas's Blessing
-4 Flummoxed Cyclops
-4 Setessan Skirmisher
-4 Aspect of Lamprey
-4 Moss Viper
-4 Triton Waverider
-4 Ichthyomorphosis
-4 Unknown Shores
-4 Pious Wayfarer
-4 Skophos Warleader
-4 Aspect of Manticore
-4 Starlit Mantle
-4 Wings of Hubris
-4 Fruit of Tizerus
-4 Glory Bearers
-4 Scavenging Harpy
+4 Deny the Divine (THB)
+4 Irreverent Revelers (THB)
+4 Omen of the Sun (THB)
+4 Sentinel's Eyes (THB)
+4 Omen of the Dead (THB)
+4 Skola Grovedancer (THB)
+4 Heliod's Pilgrim (THB)
+4 Mire's Grasp (THB)
+4 Bronze Sword (THB)
+4 Nyxborn Marauder (THB)
+4 Altar of the Pantheon (THB)
+4 Vexing Gull (THB)
+4 Memory Drain (THB)
+4 Final Death (THB)
+4 Captivating Unicorn (THB)
+4 Incendiary Oracle (THB)
+4 Mogis's Favor (THB)
+4 Stern Dismissal (THB)
+4 Pharika's Libation (THB)
+4 Final Flare (THB)
+4 Grim Physician (THB)
+4 Naiad of Hidden Coves (THB)
+4 Underworld Charger (THB)
+4 Leonin of the Lost Pride (THB)
+4 Blight-Breath Catoblepas (THB)
+4 Omen of the Sea (THB)
+4 Satyr's Cunning (THB)
+4 Nyxborn Seaguard (THB)
+4 Temple Thief (THB)
+4 Warbriar Blessing (THB)
+4 Nyxborn Colossus (THB)
+4 Brine Giant (THB)
+4 Sunmane Pegasus (THB)
+4 Soulreaper of Mogis (THB)
+4 Omen of the Hunt (THB)
+4 Stampede Rider (THB)
+4 Nylea's Huntmaster (THB)
+4 Sleep of the Dead (THB)
+4 Ilysian Caryatid (THB)
+4 Elite Instructor (THB)
+4 Rage-Scarred Berserker (THB)
+4 Eidolon of Philosophy (THB)
+4 Arena Trickster (THB)
+4 Thirst for Meaning (THB)
+4 Rumbling Sentry (THB)
+4 Thaumaturge's Familiar (THB)
+4 Iroas's Blessing (THB)
+4 Flummoxed Cyclops (THB)
+4 Setessan Skirmisher (THB)
+4 Aspect of Lamprey (THB)
+4 Moss Viper (THB)
+4 Triton Waverider (THB)
+4 Ichthyomorphosis (THB)
+4 Unknown Shores (THB)
+4 Pious Wayfarer (THB)
+4 Skophos Warleader (THB)
+4 Aspect of Manticore (THB)
+4 Starlit Mantle (THB)
+4 Wings of Hubris (THB)
+4 Fruit of Tizerus (THB)
+4 Glory Bearers (THB)
+4 Scavenging Harpy (THB)
 ================================================================================
 Deck
-4 Nyxborn Brute
-4 Dreadful Apathy
-4 Inspire Awe
-4 Underworld Rage-Hound
-4 Nexus Wardens
-4 Daybreak Chimera
-4 Chain to Memory
-4 Nyxborn Courser
-4 Witness of Tomorrows
-4 Wrap in Flames
-4 Discordant Piper
-4 Nylea's Forerunner
-4 Hyrax Tower Scout
-4 Riptide Turtle
-4 Infuriate
-4 Relentless Pursuit
-4 Karametra's Blessing
-4 Flicker of Fate
-4 Lampad of Death's Vigil
-4 Omen of the Forge
-4 Venomous Hierophant
-4 Sunlit Hoplite
-4 Oread of Mountain's Blaze
-4 Transcendent Envoy
-4 Mindwrack Harpy
-4 Hero of the Pride
-4 Voracious Typhon
-4 Gift of Strength
-4 Loathsome Chimera
-4 Triumphant Surge
+4 Nyxborn Brute (THB)
+4 Dreadful Apathy (THB)
+4 Inspire Awe (THB)
+4 Underworld Rage-Hound (THB)
+4 Nexus Wardens (THB)
+4 Daybreak Chimera (THB)
+4 Chain to Memory (THB)
+4 Nyxborn Courser (THB)
+4 Witness of Tomorrows (THB)
+4 Wrap in Flames (THB)
+4 Discordant Piper (THB)
+4 Nylea's Forerunner (THB)
+4 Hyrax Tower Scout (THB)
+4 Riptide Turtle (THB)
+4 Infuriate (THB)
+4 Relentless Pursuit (THB)
+4 Karametra's Blessing (THB)
+4 Flicker of Fate (THB)
+4 Lampad of Death's Vigil (THB)
+4 Omen of the Forge (THB)
+4 Venomous Hierophant (THB)
+4 Sunlit Hoplite (THB)
+4 Oread of Mountain's Blaze (THB)
+4 Transcendent Envoy (THB)
+4 Mindwrack Harpy (THB)
+4 Hero of the Pride (THB)
+4 Voracious Typhon (THB)
+4 Gift of Strength (THB)
+4 Loathsome Chimera (THB)
+4 Triumphant Surge (THB)

@@ -1,101 +1,101 @@
 Deck
-4 Devoted Paladin
-4 Half-Elf Monk
-4 Earth-Cult Elemental
-4 Sepulcher Ghoul
-4 Hill Giant Herdgorger
-4 Zombie Ogre
-4 Owlbear
-4 Eyes of the Beholder
-4 Bar the Gate
-4 Potion of Healing
-4 Gloom Stalker
-4 Arcane Investigator
-4 Hoard Robber
-4 Veteran Dungeoneer
-4 A-Armory Veteran
-4 Brazen Dwarf
-4 Compelled Duel
-4 Herald of Hadar
-4 A-Find the Path
-4 Elturgard Ranger
-4 Shortcut Seeker
-4 A-Fates' Reversal
-4 Armory Veteran
-4 Shocking Grasp
-4 Vampire Spawn
-4 Underdark Basilisk
-4 A-Precipitous Drop
-4 Dwarfhold Champion
-4 Valor Singer
-4 A-Sepulcher Ghoul
-4 You Find the Villains' Lair
-4 Ranger's Hawk
-4 A-Dwarfhold Champion
-4 Unexpected Windfall
-4 You See a Guard Approach
-4 Ranger's Longbow
-4 Hobgoblin Captain
-4 Silver Raven
-4 Bulette
-4 You Hear Something on Watch
-4 Mordenkainen's Polymorph
-4 Steadfast Paladin
-4 Clever Conjurer
-4 +2 Mace
-4 Swarming Goblins
-4 Air-Cult Elemental
-4 Boots of Speed
-4 Scaled Herbalist
-4 Dragon's Fire
-4 Leather Armor
-4 Dueling Rapier
-4 Grim Bounty
-4 Soulknife Spy
-4 Greataxe
-4 Find the Path
-4 Inspiring Bard
-4 Fates' Reversal
-4 Yuan-Ti Fang-Blade
-4 Circle of the Moon Druid
-4 Farideh's Fireball
-4 You're Ambushed on the Road
-4 You Come to a River
+4 Devoted Paladin (AFR)
+4 Half-Elf Monk (AFR)
+4 Earth-Cult Elemental (AFR)
+4 Sepulcher Ghoul (AFR)
+4 Hill Giant Herdgorger (AFR)
+4 Zombie Ogre (AFR)
+4 Owlbear (AFR)
+4 Eyes of the Beholder (AFR)
+4 Bar the Gate (AFR)
+4 Potion of Healing (AFR)
+4 Gloom Stalker (AFR)
+4 Arcane Investigator (AFR)
+4 Hoard Robber (AFR)
+4 Veteran Dungeoneer (AFR)
+4 A-Armory Veteran (AFR)
+4 Brazen Dwarf (AFR)
+4 Compelled Duel (AFR)
+4 Herald of Hadar (AFR)
+4 A-Find the Path (AFR)
+4 Elturgard Ranger (AFR)
+4 Shortcut Seeker (AFR)
+4 A-Fates' Reversal (AFR)
+4 Armory Veteran (AFR)
+4 Shocking Grasp (AFR)
+4 Vampire Spawn (AFR)
+4 Underdark Basilisk (AFR)
+4 A-Precipitous Drop (AFR)
+4 Dwarfhold Champion (AFR)
+4 Valor Singer (AFR)
+4 A-Sepulcher Ghoul (AFR)
+4 You Find the Villains' Lair (AFR)
+4 Ranger's Hawk (AFR)
+4 A-Dwarfhold Champion (AFR)
+4 Unexpected Windfall (AFR)
+4 You See a Guard Approach (AFR)
+4 Ranger's Longbow (AFR)
+4 Hobgoblin Captain (AFR)
+4 Silver Raven (AFR)
+4 Bulette (AFR)
+4 You Hear Something on Watch (AFR)
+4 Mordenkainen's Polymorph (AFR)
+4 Steadfast Paladin (AFR)
+4 Clever Conjurer (AFR)
+4 +2 Mace (AFR)
+4 Swarming Goblins (AFR)
+4 Air-Cult Elemental (AFR)
+4 Boots of Speed (AFR)
+4 Scaled Herbalist (AFR)
+4 Dragon's Fire (AFR)
+4 Leather Armor (AFR)
+4 Dueling Rapier (AFR)
+4 Grim Bounty (AFR)
+4 Soulknife Spy (AFR)
+4 Greataxe (AFR)
+4 Find the Path (AFR)
+4 Inspiring Bard (AFR)
+4 Fates' Reversal (AFR)
+4 Yuan-Ti Fang-Blade (AFR)
+4 Circle of the Moon Druid (AFR)
+4 Farideh's Fireball (AFR)
+4 You're Ambushed on the Road (AFR)
+4 You Come to a River (AFR)
 ================================================================================
 Deck
-4 Arborea Pegasus
-4 Planar Ally
-4 Clattering Skeletons
-4 Gnoll Hunter
-4 Spiked Pit Trap
-4 Delver's Torch
-4 Secret Door
-4 Bull's Strength
-4 Neverwinter Dryad
-4 Scion of Stygia
-4 You Find a Cursed Idol
-4 Devour Intellect
-4 Sylvan Shepherd
-4 Pixie Guide
-4 Mimic
-4 Celestial Unicorn
-4 Spoils of the Hunt
-4 Charmed Sleep
-4 Kick in the Door
-4 Dire Wolf Prowler
-4 Precipitous Drop
-4 Spare Dagger
-4 Plundering Barbarian
-4 Paladin's Shield
-4 You Come to the Gnoll Camp
-4 Goblin Javelineer
-4 Shambling Ghast
-4 Baleful Beholder
-4 Rimeshield Frost Giant
-4 Djinni Windseer
-4 Price of Loyalty
-4 Hired Hexblade
-4 Jaded Sell-Sword
-4 Feign Death
-4 Improvised Weaponry
-4 Manticore
+4 Arborea Pegasus (AFR)
+4 Planar Ally (AFR)
+4 Clattering Skeletons (AFR)
+4 Gnoll Hunter (AFR)
+4 Spiked Pit Trap (AFR)
+4 Delver's Torch (AFR)
+4 Secret Door (AFR)
+4 Bull's Strength (AFR)
+4 Neverwinter Dryad (AFR)
+4 Scion of Stygia (AFR)
+4 You Find a Cursed Idol (AFR)
+4 Devour Intellect (AFR)
+4 Sylvan Shepherd (AFR)
+4 Pixie Guide (AFR)
+4 Mimic (AFR)
+4 Celestial Unicorn (AFR)
+4 Spoils of the Hunt (AFR)
+4 Charmed Sleep (AFR)
+4 Kick in the Door (AFR)
+4 Dire Wolf Prowler (AFR)
+4 Precipitous Drop (AFR)
+4 Spare Dagger (AFR)
+4 Plundering Barbarian (AFR)
+4 Paladin's Shield (AFR)
+4 You Come to the Gnoll Camp (AFR)
+4 Goblin Javelineer (AFR)
+4 Shambling Ghast (AFR)
+4 Baleful Beholder (AFR)
+4 Rimeshield Frost Giant (AFR)
+4 Djinni Windseer (AFR)
+4 Price of Loyalty (AFR)
+4 Hired Hexblade (AFR)
+4 Jaded Sell-Sword (AFR)
+4 Feign Death (AFR)
+4 Improvised Weaponry (AFR)
+4 Manticore (AFR)

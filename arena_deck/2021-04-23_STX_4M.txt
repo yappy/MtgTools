@@ -1,24 +1,24 @@
 Deck
-4 Ecological Appreciation
-4 Kasmina, Enigma Sage
-4 Extus, Oriq Overlord // Awaken the Blood Avatar
-4 A-Rowan, Scholar of Sparks // A-Will, Scholar of Frost
-4 Mavinda, Students' Advocate
-4 Shadrix Silverquill
-4 A-Tanazir Quandrix
-4 Crackle with Power
-4 Velomachus Lorehold
-4 Hofri Ghostforge
-4 Tanazir Quandrix
-4 Beledros Witherbloom
-4 Magma Opus
-4 Professor Onyx
-4 Mascot Exhibition
-4 Blex, Vexing Pest // Search for Blex
-4 Jadzi, Oracle of Arcavios // Journey to the Oracle
-4 Rowan, Scholar of Sparks // Will, Scholar of Frost
-4 Blot Out the Sky
-4 Body of Research
-4 Mila, Crafty Companion // Lukka, Wayward Bonder
-4 Harness Infinity
-4 Galazeth Prismari
+4 Ecological Appreciation (STX)
+4 Kasmina, Enigma Sage (STX)
+4 Extus, Oriq Overlord // Awaken the Blood Avatar (STX)
+4 A-Rowan, Scholar of Sparks // A-Will, Scholar of Frost (STX)
+4 Mavinda, Students' Advocate (STX)
+4 Shadrix Silverquill (STX)
+4 A-Tanazir Quandrix (STX)
+4 Crackle with Power (STX)
+4 Velomachus Lorehold (STX)
+4 Hofri Ghostforge (STX)
+4 Tanazir Quandrix (STX)
+4 Beledros Witherbloom (STX)
+4 Magma Opus (STX)
+4 Professor Onyx (STX)
+4 Mascot Exhibition (STX)
+4 Blex, Vexing Pest // Search for Blex (STX)
+4 Jadzi, Oracle of Arcavios // Journey to the Oracle (STX)
+4 Rowan, Scholar of Sparks // Will, Scholar of Frost (STX)
+4 Blot Out the Sky (STX)
+4 Body of Research (STX)
+4 Mila, Crafty Companion // Lukka, Wayward Bonder (STX)
+4 Harness Infinity (STX)
+4 Galazeth Prismari (STX)

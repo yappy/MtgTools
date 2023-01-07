@@ -1,82 +1,82 @@
 Deck
-4 Vernadi Shieldmate
-4 Deadly Visit
-4 Muse Drake
-4 Pack's Favor
-4 Cosmotronic Wave
-4 Hammer Dropper
-4 Fresh-Faced Recruit
-4 Unexplained Disappearance
-4 Command the Storm
-4 Douser of Lights
-4 Hunted Witness
-4 Hitchclaw Recluse
-4 Luminous Bonds
-4 Whisper Agent
-4 Torch Courier
-4 Dazzling Lights
-4 Kraul Raider
-4 Fire Urchin
-4 Spinal Centipede
-4 Wary Okapi
-4 Pitiless Gorgon
-4 Centaur Peacemaker
-4 Wild Ceratok
-4 Barrier of Bones
-4 Undercity Uprising
-4 Rosemane Centaur
-4 Direct Current
-4 Vicious Rumors
-4 Generous Stray
-4 Mephitic Vapors
-4 Sumala Woodshaper
-4 Precision Bolt
-4 Skyknight Legionnaire
-4 Leapfrog
-4 Maximize Altitude
-4 Candlelight Vigil
-4 Urban Utopia
-4 Blade Instructor
-4 Skyline Scout
-4 Loxodon Restorer
-4 Piston-Fist Cyclops
-4 Tenth District Guard
-4 Intrusive Packbeast
-4 Rhizome Lurcher
-4 Siege Wurm
-4 Wojek Bodyguard
-4 Gravitic Punch
-4 Maximize Velocity
-4 Darkblade Agent
-4 Passwall Adept
-4 Veiled Shade
-4 Selesnya Locket
-4 Erstwhile Trooper
-4 Devkarin Dissident
-4 Hired Poisoner
-4 Pause for Reflection
-4 Collar the Culprit
-4 Barging Sergeant
-4 Wall of Mist
-4 Rubblebelt Boar
-4 Righteous Blow
-4 Vigorspore Wurm
+4 Vernadi Shieldmate (GRN)
+4 Deadly Visit (GRN)
+4 Muse Drake (GRN)
+4 Pack's Favor (GRN)
+4 Cosmotronic Wave (GRN)
+4 Hammer Dropper (GRN)
+4 Fresh-Faced Recruit (GRN)
+4 Unexplained Disappearance (GRN)
+4 Command the Storm (GRN)
+4 Douser of Lights (GRN)
+4 Hunted Witness (GRN)
+4 Hitchclaw Recluse (GRN)
+4 Luminous Bonds (GRN)
+4 Whisper Agent (GRN)
+4 Torch Courier (GRN)
+4 Dazzling Lights (GRN)
+4 Kraul Raider (GRN)
+4 Fire Urchin (GRN)
+4 Spinal Centipede (GRN)
+4 Wary Okapi (GRN)
+4 Pitiless Gorgon (GRN)
+4 Centaur Peacemaker (GRN)
+4 Wild Ceratok (GRN)
+4 Barrier of Bones (GRN)
+4 Undercity Uprising (GRN)
+4 Rosemane Centaur (GRN)
+4 Direct Current (GRN)
+4 Vicious Rumors (GRN)
+4 Generous Stray (GRN)
+4 Mephitic Vapors (GRN)
+4 Sumala Woodshaper (GRN)
+4 Precision Bolt (GRN)
+4 Skyknight Legionnaire (GRN)
+4 Leapfrog (GRN)
+4 Maximize Altitude (GRN)
+4 Candlelight Vigil (GRN)
+4 Urban Utopia (GRN)
+4 Blade Instructor (GRN)
+4 Skyline Scout (GRN)
+4 Loxodon Restorer (GRN)
+4 Piston-Fist Cyclops (GRN)
+4 Tenth District Guard (GRN)
+4 Intrusive Packbeast (GRN)
+4 Rhizome Lurcher (GRN)
+4 Siege Wurm (GRN)
+4 Wojek Bodyguard (GRN)
+4 Gravitic Punch (GRN)
+4 Maximize Velocity (GRN)
+4 Darkblade Agent (GRN)
+4 Passwall Adept (GRN)
+4 Veiled Shade (GRN)
+4 Selesnya Locket (GRN)
+4 Erstwhile Trooper (GRN)
+4 Devkarin Dissident (GRN)
+4 Hired Poisoner (GRN)
+4 Pause for Reflection (GRN)
+4 Collar the Culprit (GRN)
+4 Barging Sergeant (GRN)
+4 Wall of Mist (GRN)
+4 Rubblebelt Boar (GRN)
+4 Righteous Blow (GRN)
+4 Vigorspore Wurm (GRN)
 ================================================================================
 Deck
-4 Garrison Sergeant
-4 Sworn Companions
-4 Parhelion Patrol
-4 Goblin Locksmith
-4 Golgari Locket
-4 Sonic Assault
-4 Hypothesizzle
-4 Watcher in the Mist
-4 Never Happened
-4 Artful Takedown
-4 Ledev Guardian
-4 Kraul Foragers
-4 Moodmark Painter
-4 Vedalken Mesmerist
-4 Notion Rain
-4 Dimir Informant
-4 Radical Idea
+4 Garrison Sergeant (GRN)
+4 Sworn Companions (GRN)
+4 Parhelion Patrol (GRN)
+4 Goblin Locksmith (GRN)
+4 Golgari Locket (GRN)
+4 Sonic Assault (GRN)
+4 Hypothesizzle (GRN)
+4 Watcher in the Mist (GRN)
+4 Never Happened (GRN)
+4 Artful Takedown (GRN)
+4 Ledev Guardian (GRN)
+4 Kraul Foragers (GRN)
+4 Moodmark Painter (GRN)
+4 Vedalken Mesmerist (GRN)
+4 Notion Rain (GRN)
+4 Dimir Informant (GRN)
+4 Radical Idea (GRN)

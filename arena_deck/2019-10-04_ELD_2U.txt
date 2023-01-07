@@ -1,75 +1,75 @@
 Deck
-4 Maraleaf Pixie
-4 Inquisitive Puppet
-4 Rally for the Throne
-4 Archon of Absolution
-4 Foulmire Knight // Profane Insight
-4 Cauldron's Gift
-4 Trail of Crumbs
-4 Redcap Melee
-4 Slaying Fire
-4 Hypnotic Sprite // Mesmeric Glare
-4 Syr Faren, the Hengehammer
-4 Order of Midnight // Alter Fate
-4 Resolute Rider
-4 Heraldic Banner
-4 Lucky Clover
-4 Giant Opportunity
-4 Oakhame Adversary
-4 Righteousness
-4 Mystical Dispute
-4 Enchanted Carriage
-4 Syr Alin, the Lion's Claw
-4 Rampart Smasher
-4 Savvy Hunter
-4 Shinechaser
-4 Deafening Silence
-4 Clockwork Servant
-4 A-Cauldron Familiar
-4 Belle of the Brawl
-4 Shepherd of the Flock // Usher to Safety
-4 Burning-Yard Trainer
-4 Covetous Urge
-4 Bog Naughty
-4 Mad Ratter
-4 Wandermare
-4 Sage of the Falls
-4 Joust
-4 Shambling Suit
-4 Specter's Shriek
-4 Syr Elenora, the Discerning
-4 Witch's Oven
-4 Skullknocker Ogre
-4 Claim the Firstborn
-4 Oakhame Ranger // Bring Back
-4 Tournament Grounds
-4 All That Glitters
-4 Inspiring Veteran
-4 Wintermoor Commander
-4 Improbable Alliance
-4 Fireborn Knight
-4 Flaxen Intruder // Welcome Home
-4 Steelclaw Lance
-4 Syr Carah, the Bold
-4 Ferocity of the Wilds
-4 Rowan's Battleguard
-4 Turn into a Pumpkin
-4 Glass Casket
-4 Animating Faerie // Bring to Life
-4 Revenge of Ravens
-4 Spinning Wheel
-4 Edgewall Innkeeper
-4 Loch Dragon
-4 Bramblefort Fink
+4 Maraleaf Pixie (ELD)
+4 Inquisitive Puppet (ELD)
+4 Rally for the Throne (ELD)
+4 Archon of Absolution (ELD)
+4 Foulmire Knight // Profane Insight (ELD)
+4 Cauldron's Gift (ELD)
+4 Trail of Crumbs (ELD)
+4 Redcap Melee (ELD)
+4 Slaying Fire (ELD)
+4 Hypnotic Sprite // Mesmeric Glare (ELD)
+4 Syr Faren, the Hengehammer (ELD)
+4 Order of Midnight // Alter Fate (ELD)
+4 Resolute Rider (ELD)
+4 Heraldic Banner (ELD)
+4 Lucky Clover (ELD)
+4 Giant Opportunity (ELD)
+4 Oakhame Adversary (ELD)
+4 Righteousness (ELD)
+4 Mystical Dispute (ELD)
+4 Enchanted Carriage (ELD)
+4 Syr Alin, the Lion's Claw (ELD)
+4 Rampart Smasher (ELD)
+4 Savvy Hunter (ELD)
+4 Shinechaser (ELD)
+4 Deafening Silence (ELD)
+4 Clockwork Servant (ELD)
+4 A-Cauldron Familiar (ELD)
+4 Belle of the Brawl (ELD)
+4 Shepherd of the Flock // Usher to Safety (ELD)
+4 Burning-Yard Trainer (ELD)
+4 Covetous Urge (ELD)
+4 Bog Naughty (ELD)
+4 Mad Ratter (ELD)
+4 Wandermare (ELD)
+4 Sage of the Falls (ELD)
+4 Joust (ELD)
+4 Shambling Suit (ELD)
+4 Specter's Shriek (ELD)
+4 Syr Elenora, the Discerning (ELD)
+4 Witch's Oven (ELD)
+4 Skullknocker Ogre (ELD)
+4 Claim the Firstborn (ELD)
+4 Oakhame Ranger // Bring Back (ELD)
+4 Tournament Grounds (ELD)
+4 All That Glitters (ELD)
+4 Inspiring Veteran (ELD)
+4 Wintermoor Commander (ELD)
+4 Improbable Alliance (ELD)
+4 Fireborn Knight (ELD)
+4 Flaxen Intruder // Welcome Home (ELD)
+4 Steelclaw Lance (ELD)
+4 Syr Carah, the Bold (ELD)
+4 Ferocity of the Wilds (ELD)
+4 Rowan's Battleguard (ELD)
+4 Turn into a Pumpkin (ELD)
+4 Glass Casket (ELD)
+4 Animating Faerie // Bring to Life (ELD)
+4 Revenge of Ravens (ELD)
+4 Spinning Wheel (ELD)
+4 Edgewall Innkeeper (ELD)
+4 Loch Dragon (ELD)
+4 Bramblefort Fink (ELD)
 ================================================================================
 Deck
-4 Overwhelmed Apprentice
-4 Sorcerer's Broom
-4 Epic Downfall
-4 Venerable Knight
-4 Into the Story
-4 Once and Future
-4 Thunderous Snapper
-4 Deathless Knight
-4 Elite Headhunter
-4 Mysterious Pathlighter
+4 Overwhelmed Apprentice (ELD)
+4 Sorcerer's Broom (ELD)
+4 Epic Downfall (ELD)
+4 Venerable Knight (ELD)
+4 Into the Story (ELD)
+4 Once and Future (ELD)
+4 Thunderous Snapper (ELD)
+4 Deathless Knight (ELD)
+4 Elite Headhunter (ELD)
+4 Mysterious Pathlighter (ELD)

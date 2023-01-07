@@ -1,119 +1,119 @@
 Deck
-4 Reckoner's Bargain
-4 Ecologist's Terrarium
-4 Favor of Jukai
-4 Tales of Master Seshiro // Seshiro's Living Legacy
-4 Clawing Torment
-4 Network Disruptor
-4 Experimental Synthesizer
-4 Ancestral Katana
-4 Reckoner Shakedown
-4 Scrapyard Steelbreaker
-4 Unstoppable Ogre
-4 Voltage Surge
-4 Kitsune Ace
-4 Dokuchi Shadow-Walker
-4 Kaito's Pursuit
-4 Undercity Scrounger
-4 Suit Up
-4 Twisted Embrace
-4 Befriending the Moths // Imperial Moth
-4 Swiftwater Cliffs
-4 Seven-Tail Mentor
-4 Golden-Tail Disciple
-4 Mukotai Ambusher
-4 Fade into Antiquity
-4 Ambitious Assault
-4 Nezumi Bladeblesser
-4 Season of Renewal
-4 Searchlight Companion
-4 Guardians of Oboro
-4 Wanderer's Intervention
-4 Blossoming Sands
-4 Imperial Oath
-4 Akki Ronin
-4 Disruption Protocol
-4 Bearer of Memory
-4 Skyswimmer Koi
-4 Mnemonic Sphere
-4 Okiba Reckoner Raid // Nezumi Road Captain
-4 Regent's Authority
-4 Coiling Stalker
-4 Explosive Entry
-4 Tranquil Cove
-4 Short Circuit
-4 Automated Artificer
-4 Lethal Exploit
-4 Bloodfell Caves
-4 Bamboo Grove Archer
-4 Commune with Spirits
-4 Inkrise Infiltrator
-4 Heir of the Ancient Fang
-4 Rugged Highlands
-4 Jungle Hollow
-4 Tamiyo's Compleation
-4 Moonsnare Prototype
-4 Futurist Sentinel
-4 Moon-Circuit Hacker
-4 Kami of Restless Shadows
-4 Light the Way
-4 Careful Cultivation
-4 Dismal Backwater
-4 Akki Ember-Keeper
-4 Eiganjo Exemplar
+4 Reckoner's Bargain (NEO)
+4 Ecologist's Terrarium (NEO)
+4 Favor of Jukai (NEO)
+4 Tales of Master Seshiro // Seshiro's Living Legacy (NEO)
+4 Clawing Torment (NEO)
+4 Network Disruptor (NEO)
+4 Experimental Synthesizer (NEO)
+4 Ancestral Katana (NEO)
+4 Reckoner Shakedown (NEO)
+4 Scrapyard Steelbreaker (NEO)
+4 Unstoppable Ogre (NEO)
+4 Voltage Surge (NEO)
+4 Kitsune Ace (NEO)
+4 Dokuchi Shadow-Walker (NEO)
+4 Kaito's Pursuit (NEO)
+4 Undercity Scrounger (NEO)
+4 Suit Up (NEO)
+4 Twisted Embrace (NEO)
+4 Befriending the Moths // Imperial Moth (NEO)
+4 Swiftwater Cliffs (NEO)
+4 Seven-Tail Mentor (NEO)
+4 Golden-Tail Disciple (NEO)
+4 Mukotai Ambusher (NEO)
+4 Fade into Antiquity (NEO)
+4 Ambitious Assault (NEO)
+4 Nezumi Bladeblesser (NEO)
+4 Season of Renewal (NEO)
+4 Searchlight Companion (NEO)
+4 Guardians of Oboro (NEO)
+4 Wanderer's Intervention (NEO)
+4 Blossoming Sands (NEO)
+4 Imperial Oath (NEO)
+4 Akki Ronin (NEO)
+4 Disruption Protocol (NEO)
+4 Bearer of Memory (NEO)
+4 Skyswimmer Koi (NEO)
+4 Mnemonic Sphere (NEO)
+4 Okiba Reckoner Raid // Nezumi Road Captain (NEO)
+4 Regent's Authority (NEO)
+4 Coiling Stalker (NEO)
+4 Explosive Entry (NEO)
+4 Tranquil Cove (NEO)
+4 Short Circuit (NEO)
+4 Automated Artificer (NEO)
+4 Lethal Exploit (NEO)
+4 Bloodfell Caves (NEO)
+4 Bamboo Grove Archer (NEO)
+4 Commune with Spirits (NEO)
+4 Inkrise Infiltrator (NEO)
+4 Heir of the Ancient Fang (NEO)
+4 Rugged Highlands (NEO)
+4 Jungle Hollow (NEO)
+4 Tamiyo's Compleation (NEO)
+4 Moonsnare Prototype (NEO)
+4 Futurist Sentinel (NEO)
+4 Moon-Circuit Hacker (NEO)
+4 Kami of Restless Shadows (NEO)
+4 Light the Way (NEO)
+4 Careful Cultivation (NEO)
+4 Dismal Backwater (NEO)
+4 Akki Ember-Keeper (NEO)
+4 Eiganjo Exemplar (NEO)
 ================================================================================
 Deck
-4 Moonfolk Puzzlemaker
-4 Ironhoof Boar
-4 Shrine Steward
-4 The Shattered States Era // Nameless Conqueror
-4 Gift of Wrath
-4 Return to Action
-4 Spirited Companion
-4 Thundersteel Colossus
-4 Fang of Shigeki
-4 Network Terminal
-4 Era of Enlightenment // Hand of Enlightenment
-4 Armguard Familiar
-4 The Modern Age // Vector Glider
-4 Jukai Preserver
-4 Planar Incision
-4 Repel the Vile
-4 Harmonious Emergence
-4 Papercraft Decoy
-4 Wind-Scarred Crag
-4 Greater Tanuki
-4 Kami of Industry
-4 Sunblade Samurai
-4 Moonsnare Specialist
-4 Tamiyo's Safekeeping
-4 Brute Suit
-4 Imperial Subduer
-4 You Are Already Dead
-4 Mothrider Patrol
-4 Grafted Growth
-4 Debt to the Kami
-4 Crackling Emergence
-4 Jukai Trainee
-4 Lucky Offering
-4 Iron Apprentice
-4 Mirrorshell Crab
-4 Uncharted Haven
-4 Towashi Songshaper
-4 Scoured Barrens
-4 Saiba Trespassers
-4 Intercessor's Arrest
-4 Kami's Flare
-4 Kami of Terrible Secrets
-4 Akki War Paint
-4 Virus Beetle
-4 Dramatist's Puppet
-4 Simian Sling
-4 Master's Rebuke
-4 Chainflail Centipede
-4 Kindled Fury
-4 Thornwood Falls
-4 Dragonfly Suit
-4 Ninja's Kunai
-4 Geothermal Kami
-4 Peerless Samurai
+4 Moonfolk Puzzlemaker (NEO)
+4 Ironhoof Boar (NEO)
+4 Shrine Steward (NEO)
+4 The Shattered States Era // Nameless Conqueror (NEO)
+4 Gift of Wrath (NEO)
+4 Return to Action (NEO)
+4 Spirited Companion (NEO)
+4 Thundersteel Colossus (NEO)
+4 Fang of Shigeki (NEO)
+4 Network Terminal (NEO)
+4 Era of Enlightenment // Hand of Enlightenment (NEO)
+4 Armguard Familiar (NEO)
+4 The Modern Age // Vector Glider (NEO)
+4 Jukai Preserver (NEO)
+4 Planar Incision (NEO)
+4 Repel the Vile (NEO)
+4 Harmonious Emergence (NEO)
+4 Papercraft Decoy (NEO)
+4 Wind-Scarred Crag (NEO)
+4 Greater Tanuki (NEO)
+4 Kami of Industry (NEO)
+4 Sunblade Samurai (NEO)
+4 Moonsnare Specialist (NEO)
+4 Tamiyo's Safekeeping (NEO)
+4 Brute Suit (NEO)
+4 Imperial Subduer (NEO)
+4 You Are Already Dead (NEO)
+4 Mothrider Patrol (NEO)
+4 Grafted Growth (NEO)
+4 Debt to the Kami (NEO)
+4 Crackling Emergence (NEO)
+4 Jukai Trainee (NEO)
+4 Lucky Offering (NEO)
+4 Iron Apprentice (NEO)
+4 Mirrorshell Crab (NEO)
+4 Uncharted Haven (NEO)
+4 Towashi Songshaper (NEO)
+4 Scoured Barrens (NEO)
+4 Saiba Trespassers (NEO)
+4 Intercessor's Arrest (NEO)
+4 Kami's Flare (NEO)
+4 Kami of Terrible Secrets (NEO)
+4 Akki War Paint (NEO)
+4 Virus Beetle (NEO)
+4 Dramatist's Puppet (NEO)
+4 Simian Sling (NEO)
+4 Master's Rebuke (NEO)
+4 Chainflail Centipede (NEO)
+4 Kindled Fury (NEO)
+4 Thornwood Falls (NEO)
+4 Dragonfly Suit (NEO)
+4 Ninja's Kunai (NEO)
+4 Geothermal Kami (NEO)
+4 Peerless Samurai (NEO)

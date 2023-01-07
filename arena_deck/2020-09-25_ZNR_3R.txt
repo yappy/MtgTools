@@ -1,62 +1,62 @@
 Deck
-4 Kargan Intimidator
-4 Maul of the Skyclaves
-4 A-Phylath, World Sculptor
-4 Kaza, Roil Chaser
-4 Clearwater Pathway // Murkwater Pathway
-4 Inscription of Insight
-4 Ondu Inversion // Ondu Skyruins
-4 Brightclimb Pathway // Grimclimb Pathway
-4 Kazandu Mammoth // Kazandu Valley
-4 A-Oran-Rief Ooze
-4 Roiling Vortex
-4 Hagra Mauling // Hagra Broodpit
-4 Magmatic Channeler
-4 Phylath, World Sculptor
-4 Cragplate Baloth
-4 A-Kargan Intimidator
-4 Riverglide Pathway // Lavaglide Pathway
-4 Coveted Prize
-4 Shatterskull Charger
-4 A-Master of Winds
-4 Soul Shatter
-4 Coralhelm Chronicler
-4 Yasharn, Implacable Earth
-4 Cragcrown Pathway // Timbercrown Pathway
-4 Inscription of Ruin
-4 Master of Winds
-4 Branchloft Pathway // Boulderloft Pathway
-4 Throne of Makindi
-4 Shadows' Verdict
-4 Legion Angel
-4 Relic Robber
-4 Nahiri's Lithoforming
-4 Lotus Cobra
-4 Oran-Rief Ooze
-4 Taborax, Hope's Demise
-4 Grakmaw, Skyclave Ravager
-4 Zagras, Thief of Heartbeats
-4 Zareth San, the Trickster
-4 Inscription of Abundance
-4 Needleverge Pathway // Pillarverge Pathway
-4 Linvala, Shield of Sea Gate
-4 Tajuru Paragon
-4 Akiri, Fearless Voyager
-4 Nullpriest of Oblivion
-4 Glasspool Mimic // Glasspool Shore
-4 Charix, the Raging Isle
-4 Wayward Guide-Beast
-4 Archon of Emeria
-4 Valakut Exploration
-4 Verazol, the Split Current
-4 Skyclave Apparition
-4 Crawling Barrens
-4 Maddening Cacophony
-4 Nimble Trapfinder
-4 Skyclave Relic
-4 Swarm Shambler
-4 Thieving Skydiver
-4 Myriad Construct
-4 Confounding Conundrum
-4 Orah, Skyclave Hierophant
-4 Valakut Awakening // Valakut Stoneforge
+4 Kargan Intimidator (ZNR)
+4 Maul of the Skyclaves (ZNR)
+4 A-Phylath, World Sculptor (ZNR)
+4 Kaza, Roil Chaser (ZNR)
+4 Clearwater Pathway // Murkwater Pathway (ZNR)
+4 Inscription of Insight (ZNR)
+4 Ondu Inversion // Ondu Skyruins (ZNR)
+4 Brightclimb Pathway // Grimclimb Pathway (ZNR)
+4 Kazandu Mammoth // Kazandu Valley (ZNR)
+4 A-Oran-Rief Ooze (ZNR)
+4 Roiling Vortex (ZNR)
+4 Hagra Mauling // Hagra Broodpit (ZNR)
+4 Magmatic Channeler (ZNR)
+4 Phylath, World Sculptor (ZNR)
+4 Cragplate Baloth (ZNR)
+4 A-Kargan Intimidator (ZNR)
+4 Riverglide Pathway // Lavaglide Pathway (ZNR)
+4 Coveted Prize (ZNR)
+4 Shatterskull Charger (ZNR)
+4 A-Master of Winds (ZNR)
+4 Soul Shatter (ZNR)
+4 Coralhelm Chronicler (ZNR)
+4 Yasharn, Implacable Earth (ZNR)
+4 Cragcrown Pathway // Timbercrown Pathway (ZNR)
+4 Inscription of Ruin (ZNR)
+4 Master of Winds (ZNR)
+4 Branchloft Pathway // Boulderloft Pathway (ZNR)
+4 Throne of Makindi (ZNR)
+4 Shadows' Verdict (ZNR)
+4 Legion Angel (ZNR)
+4 Relic Robber (ZNR)
+4 Nahiri's Lithoforming (ZNR)
+4 Lotus Cobra (ZNR)
+4 Oran-Rief Ooze (ZNR)
+4 Taborax, Hope's Demise (ZNR)
+4 Grakmaw, Skyclave Ravager (ZNR)
+4 Zagras, Thief of Heartbeats (ZNR)
+4 Zareth San, the Trickster (ZNR)
+4 Inscription of Abundance (ZNR)
+4 Needleverge Pathway // Pillarverge Pathway (ZNR)
+4 Linvala, Shield of Sea Gate (ZNR)
+4 Tajuru Paragon (ZNR)
+4 Akiri, Fearless Voyager (ZNR)
+4 Nullpriest of Oblivion (ZNR)
+4 Glasspool Mimic // Glasspool Shore (ZNR)
+4 Charix, the Raging Isle (ZNR)
+4 Wayward Guide-Beast (ZNR)
+4 Archon of Emeria (ZNR)
+4 Valakut Exploration (ZNR)
+4 Verazol, the Split Current (ZNR)
+4 Skyclave Apparition (ZNR)
+4 Crawling Barrens (ZNR)
+4 Maddening Cacophony (ZNR)
+4 Nimble Trapfinder (ZNR)
+4 Skyclave Relic (ZNR)
+4 Swarm Shambler (ZNR)
+4 Thieving Skydiver (ZNR)
+4 Myriad Construct (ZNR)
+4 Confounding Conundrum (ZNR)
+4 Orah, Skyclave Hierophant (ZNR)
+4 Valakut Awakening // Valakut Stoneforge (ZNR)

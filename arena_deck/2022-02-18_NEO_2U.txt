@@ -1,91 +1,91 @@
 Deck
-4 Azusa's Many Journeys // Likeness of the Seeker
-4 Generous Visitor
-4 Bronzeplate Boar
-4 Life of Toshiro Umezawa // Memory of Toshiro
-4 Patchwork Automaton
-4 Essence Capture
-4 Okiba Salvage
-4 Circuit Mender
-4 Go-Shintai of Boundless Vigor
-4 Imperial Recovery Unit
-4 Leech Gauntlet
-4 Discover the Impossible
-4 When We Were Young
-4 Selfless Samurai
-4 Acquisition Octopus
-4 Banishing Slash
-4 Towashi Guide-Bot
-4 Kappa Tech-Wrecker
-4 Roadside Reliquary
-4 Asari Captain
-4 Mobilizer Mech
-4 Prodigy's Prototype
-4 Roaring Earth
-4 Boon of Boseiju
-4 Gravelighter
-4 Behold the Unspeakable // Vision of the Unspeakable
-4 Go-Shintai of Shared Purpose
-4 Touch the Spirit Realm
-4 Kumano Faces Kakkazan // Etching of Kumano
-4 Orochi Merge-Keeper
-4 Containment Construct
-4 Reality Heist
-4 Reinforced Ronin
-4 Silver-Fur Master
-4 Awakened Awareness
-4 Anchor to Reality
-4 Blossom Prancer
-4 Seismic Wave
-4 The Fall of Lord Konda // Fragment of Konda
-4 Prosperous Thief
-4 Norika Yamazaki, the Poet
-4 Enormous Energy Blade
-4 Webspinner Cuff
-4 Secluded Courtyard
-4 Historian's Wisdom
-4 Replication Specialist
-4 Born to Drive
-4 Bronze Cudgels
-4 Blade-Blizzard Kitsune
-4 Hotshot Mechanic
-4 Colossal Skyturtle
-4 The Long Reach of Night // Animus of Night's Reach
-4 Walking Skyscraper
-4 Thirst for Knowledge
-4 Runaway Trash-Bot
-4 Storyweave
-4 Michiko's Reign of Truth // Portrait of Michiko
-4 High-Speed Hoverbike
-4 Unforgiving One
-4 Futurist Operative
-4 Upriser Renegade
-4 Heiko Yamazaki, the General
+4 Azusa's Many Journeys // Likeness of the Seeker (NEO)
+4 Generous Visitor (NEO)
+4 Bronzeplate Boar (NEO)
+4 Life of Toshiro Umezawa // Memory of Toshiro (NEO)
+4 Patchwork Automaton (NEO)
+4 Essence Capture (NEO)
+4 Okiba Salvage (NEO)
+4 Circuit Mender (NEO)
+4 Go-Shintai of Boundless Vigor (NEO)
+4 Imperial Recovery Unit (NEO)
+4 Leech Gauntlet (NEO)
+4 Discover the Impossible (NEO)
+4 When We Were Young (NEO)
+4 Selfless Samurai (NEO)
+4 Acquisition Octopus (NEO)
+4 Banishing Slash (NEO)
+4 Towashi Guide-Bot (NEO)
+4 Kappa Tech-Wrecker (NEO)
+4 Roadside Reliquary (NEO)
+4 Asari Captain (NEO)
+4 Mobilizer Mech (NEO)
+4 Prodigy's Prototype (NEO)
+4 Roaring Earth (NEO)
+4 Boon of Boseiju (NEO)
+4 Gravelighter (NEO)
+4 Behold the Unspeakable // Vision of the Unspeakable (NEO)
+4 Go-Shintai of Shared Purpose (NEO)
+4 Touch the Spirit Realm (NEO)
+4 Kumano Faces Kakkazan // Etching of Kumano (NEO)
+4 Orochi Merge-Keeper (NEO)
+4 Containment Construct (NEO)
+4 Reality Heist (NEO)
+4 Reinforced Ronin (NEO)
+4 Silver-Fur Master (NEO)
+4 Awakened Awareness (NEO)
+4 Anchor to Reality (NEO)
+4 Blossom Prancer (NEO)
+4 Seismic Wave (NEO)
+4 The Fall of Lord Konda // Fragment of Konda (NEO)
+4 Prosperous Thief (NEO)
+4 Norika Yamazaki, the Poet (NEO)
+4 Enormous Energy Blade (NEO)
+4 Webspinner Cuff (NEO)
+4 Secluded Courtyard (NEO)
+4 Historian's Wisdom (NEO)
+4 Replication Specialist (NEO)
+4 Born to Drive (NEO)
+4 Bronze Cudgels (NEO)
+4 Blade-Blizzard Kitsune (NEO)
+4 Hotshot Mechanic (NEO)
+4 Colossal Skyturtle (NEO)
+4 The Long Reach of Night // Animus of Night's Reach (NEO)
+4 Walking Skyscraper (NEO)
+4 Thirst for Knowledge (NEO)
+4 Runaway Trash-Bot (NEO)
+4 Storyweave (NEO)
+4 Michiko's Reign of Truth // Portrait of Michiko (NEO)
+4 High-Speed Hoverbike (NEO)
+4 Unforgiving One (NEO)
+4 Futurist Operative (NEO)
+4 Upriser Renegade (NEO)
+4 Heiko Yamazaki, the General (NEO)
 ================================================================================
 Deck
-4 Assassin's Ink
-4 Dragonspark Reactor
-4 Nezumi Prowler
-4 Invigorating Hot Spring
-4 Mech Hangar
-4 Gloomshrieker
-4 Covert Technician
-4 Twinshot Sniper
-4 Oni-Cult Anvil
-4 Jukai Naturalist
-4 Rabbit Battery
-4 Malicious Malfunction
-4 Enthusiastic Mechanaut
-4 Naomi, Pillar of Order
-4 Go-Shintai of Ancient Wars
-4 Dokuchi Silencer
-4 Sky-Blessed Samurai
-4 Sokenzan Smelter
-4 Reito Sentinel
-4 Boseiju Reaches Skyward // Branch of Boseiju
-4 Spinning Wheel Kick
-4 Tempered in Solitude
-4 Go-Shintai of Lost Wisdom
-4 Flame Discharge
-4 Dockside Chef
-4 Go-Shintai of Hidden Cruelty
+4 Assassin's Ink (NEO)
+4 Dragonspark Reactor (NEO)
+4 Nezumi Prowler (NEO)
+4 Invigorating Hot Spring (NEO)
+4 Mech Hangar (NEO)
+4 Gloomshrieker (NEO)
+4 Covert Technician (NEO)
+4 Twinshot Sniper (NEO)
+4 Oni-Cult Anvil (NEO)
+4 Jukai Naturalist (NEO)
+4 Rabbit Battery (NEO)
+4 Malicious Malfunction (NEO)
+4 Enthusiastic Mechanaut (NEO)
+4 Naomi, Pillar of Order (NEO)
+4 Go-Shintai of Ancient Wars (NEO)
+4 Dokuchi Silencer (NEO)
+4 Sky-Blessed Samurai (NEO)
+4 Sokenzan Smelter (NEO)
+4 Reito Sentinel (NEO)
+4 Boseiju Reaches Skyward // Branch of Boseiju (NEO)
+4 Spinning Wheel Kick (NEO)
+4 Tempered in Solitude (NEO)
+4 Go-Shintai of Lost Wisdom (NEO)
+4 Flame Discharge (NEO)
+4 Dockside Chef (NEO)
+4 Go-Shintai of Hidden Cruelty (NEO)

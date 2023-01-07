@@ -1,72 +1,72 @@
 Deck
-4 Devastating Mastery
-4 Hall of Oracles
-4 Lorehold Command
-4 Leonin Lightscribe
-4 Culling Ritual
-4 Exponential Growth
-4 Sedgemoor Witch
-4 Retriever Phoenix
-4 Sparring Regimen
-4 Strixhaven Stadium
-4 Tempted by the Oriq
-4 Blade Historian
-4 Vineglimmer Snarl
-4 Semester's End
-4 Academic Probation
-4 Selfless Glyphweaver // Deadly Vanity
-4 Basic Conjuration
-4 Vanishing Verse
-4 Flamescroll Celebrant // Revel in Silence
-4 Silverquill Command
-4 Uvilda, Dean of Perfection // Nassari, Dean of Expression
-4 Furycalm Snarl
-4 Wandering Archaic // Explore the Vastlands
-4 Codie, Vociferous Codex
-4 Teachings of the Archaics
-4 Valentin, Dean of the Vein // Lisette, Dean of the Root
-4 Frostboil Snarl
-4 Necroblossom Snarl
-4 Pestilent Cauldron // Restorative Burst
-4 Witherbloom Command
-4 Oriq Loremage
-4 Archmage Emeritus
-4 The Biblioplex
-4 Torrent Sculptor // Flamethrower Sonata
-4 Elite Spellbinder
-4 Rushed Rebirth
-4 Radiant Scrollwielder
-4 Augmenter Pugilist // Echoing Equation
-4 Callous Bloodmage
-4 Accomplished Alchemist
-4 Dragonsguard Elite
-4 Quandrix Command
-4 Kianne, Dean of Substance // Imbraham, Dean of Theory
-4 Draconic Intervention
-4 Plargg, Dean of Chaos // Augusta, Dean of Order
-4 Daemogoth Titan
-4 Confront the Past
-4 Baleful Mastery
-4 Shaile, Dean of Radiance // Embrose, Dean of Shadow
-4 Verdant Mastery
-4 Multiple Choice
-4 Strict Proctor
-4 Dream Strix
-4 Illuminate History
-4 Shineshadow Snarl
-4 Fervent Mastery
-4 Culmination of Studies
-4 Manifestation Sage
-4 Ingenious Mastery
-4 Silverquill Silencer
-4 Elemental Expressionist
-4 Dramatic Finale
+4 Devastating Mastery (STX)
+4 Hall of Oracles (STX)
+4 Lorehold Command (STX)
+4 Leonin Lightscribe (STX)
+4 Culling Ritual (STX)
+4 Exponential Growth (STX)
+4 Sedgemoor Witch (STX)
+4 Retriever Phoenix (STX)
+4 Sparring Regimen (STX)
+4 Strixhaven Stadium (STX)
+4 Tempted by the Oriq (STX)
+4 Blade Historian (STX)
+4 Vineglimmer Snarl (STX)
+4 Semester's End (STX)
+4 Academic Probation (STX)
+4 Selfless Glyphweaver // Deadly Vanity (STX)
+4 Basic Conjuration (STX)
+4 Vanishing Verse (STX)
+4 Flamescroll Celebrant // Revel in Silence (STX)
+4 Silverquill Command (STX)
+4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX)
+4 Furycalm Snarl (STX)
+4 Wandering Archaic // Explore the Vastlands (STX)
+4 Codie, Vociferous Codex (STX)
+4 Teachings of the Archaics (STX)
+4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX)
+4 Frostboil Snarl (STX)
+4 Necroblossom Snarl (STX)
+4 Pestilent Cauldron // Restorative Burst (STX)
+4 Witherbloom Command (STX)
+4 Oriq Loremage (STX)
+4 Archmage Emeritus (STX)
+4 The Biblioplex (STX)
+4 Torrent Sculptor // Flamethrower Sonata (STX)
+4 Elite Spellbinder (STX)
+4 Rushed Rebirth (STX)
+4 Radiant Scrollwielder (STX)
+4 Augmenter Pugilist // Echoing Equation (STX)
+4 Callous Bloodmage (STX)
+4 Accomplished Alchemist (STX)
+4 Dragonsguard Elite (STX)
+4 Quandrix Command (STX)
+4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX)
+4 Draconic Intervention (STX)
+4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX)
+4 Daemogoth Titan (STX)
+4 Confront the Past (STX)
+4 Baleful Mastery (STX)
+4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX)
+4 Verdant Mastery (STX)
+4 Multiple Choice (STX)
+4 Strict Proctor (STX)
+4 Dream Strix (STX)
+4 Illuminate History (STX)
+4 Shineshadow Snarl (STX)
+4 Fervent Mastery (STX)
+4 Culmination of Studies (STX)
+4 Manifestation Sage (STX)
+4 Ingenious Mastery (STX)
+4 Silverquill Silencer (STX)
+4 Elemental Expressionist (STX)
+4 Dramatic Finale (STX)
 ================================================================================
 Deck
-4 Venerable Warsinger
-4 Gnarled Professor
-4 Double Major
-4 Poet's Quill
-4 Prismari Command
-4 Conspiracy Theorist
-4 Efreet Flamepainter
+4 Venerable Warsinger (STX)
+4 Gnarled Professor (STX)
+4 Double Major (STX)
+4 Poet's Quill (STX)
+4 Prismari Command (STX)
+4 Conspiracy Theorist (STX)
+4 Efreet Flamepainter (STX)

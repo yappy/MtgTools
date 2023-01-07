@@ -1,86 +1,86 @@
 Deck
-4 Dawnhart Wardens
-4 Sunrise Cavalier
-4 Devoted Grafkeeper // Departed Soulkeeper
-4 Clear Shot
-4 Storm Skreelix
-4 Rootcoil Creeper
-4 Overwhelmed Archivist // Archive Haunt
-4 Fleshtaker
-4 Diregraf Rebirth
-4 Mystic Skull // Mystic Monstrosity
-4 Thermo-Alchemist
-4 Gavony Dawnguard
-4 Morbid Opportunist
-4 Moonsilver Key
-4 Ghoulish Procession
-4 Hungry for More
-4 Cathar's Call
-4 Vivisection
-4 Dissipate
-4 Winterthorn Blessing
-4 Nebelgast Intruder
-4 Burly Breaker // Dire-Strain Demolisher
-4 Baneblade Scoundrel // Baneclaw Marauder
-4 Spellrune Painter // Spellrune Howler
-4 Kessig Naturalist // Lord of the Ulvenwald
-4 Firmament Sage
-4 Corpse Cobble
-4 Covert Cutpurse // Covetous Geist
-4 Dreadhound
-4 Play with Fire
-4 Fading Hope
-4 Sunset Revelry
-4 Necrosynthesis
-4 Ominous Roost
-4 Beloved Beggar // Generous Soul
-4 Foul Play
-4 Sacred Fire
-4 Duelcraft Trainer
-4 Grizzly Ghoul
-4 Voldaren Ambusher
-4 Dryad's Revival
-4 Ritual of Hope
-4 Skaab Wrangler
-4 Covetous Castaway // Ghostly Castigator
-4 Vampire Socialite
-4 Bloodtithe Collector
-4 Infernal Grasp
-4 Outland Liberator // Frenzied Trapbreaker
-4 Rite of Oblivion
-4 Purifying Dragon
-4 Odric's Outrider
-4 Village Watch // Village Reavers
-4 Mysterious Tome // Chilling Chronicle
-4 Heirloom Mirror // Inherited Fiend
-4 Ambitious Farmhand // Seasoned Cathar
-4 Faithful Mending
-4 Contortionist Troupe
-4 Bereaved Survivor // Dauntless Avenger
-4 Defend the Celestus
-4 Chaplain of Alms // Chapel Shieldgeist
-4 Stromkirk Bloodthief
-4 Deathbonnet Sprout // Deathbonnet Hulk
+4 Dawnhart Wardens (MID)
+4 Sunrise Cavalier (MID)
+4 Devoted Grafkeeper // Departed Soulkeeper (MID)
+4 Clear Shot (MID)
+4 Storm Skreelix (MID)
+4 Rootcoil Creeper (MID)
+4 Overwhelmed Archivist // Archive Haunt (MID)
+4 Fleshtaker (MID)
+4 Diregraf Rebirth (MID)
+4 Mystic Skull // Mystic Monstrosity (MID)
+4 Thermo-Alchemist (MID)
+4 Gavony Dawnguard (MID)
+4 Morbid Opportunist (MID)
+4 Moonsilver Key (MID)
+4 Ghoulish Procession (MID)
+4 Hungry for More (MID)
+4 Cathar's Call (MID)
+4 Vivisection (MID)
+4 Dissipate (MID)
+4 Winterthorn Blessing (MID)
+4 Nebelgast Intruder (MID)
+4 Burly Breaker // Dire-Strain Demolisher (MID)
+4 Baneblade Scoundrel // Baneclaw Marauder (MID)
+4 Spellrune Painter // Spellrune Howler (MID)
+4 Kessig Naturalist // Lord of the Ulvenwald (MID)
+4 Firmament Sage (MID)
+4 Corpse Cobble (MID)
+4 Covert Cutpurse // Covetous Geist (MID)
+4 Dreadhound (MID)
+4 Play with Fire (MID)
+4 Fading Hope (MID)
+4 Sunset Revelry (MID)
+4 Necrosynthesis (MID)
+4 Ominous Roost (MID)
+4 Beloved Beggar // Generous Soul (MID)
+4 Foul Play (MID)
+4 Sacred Fire (MID)
+4 Duelcraft Trainer (MID)
+4 Grizzly Ghoul (MID)
+4 Voldaren Ambusher (MID)
+4 Dryad's Revival (MID)
+4 Ritual of Hope (MID)
+4 Skaab Wrangler (MID)
+4 Covetous Castaway // Ghostly Castigator (MID)
+4 Vampire Socialite (MID)
+4 Bloodtithe Collector (MID)
+4 Infernal Grasp (MID)
+4 Outland Liberator // Frenzied Trapbreaker (MID)
+4 Rite of Oblivion (MID)
+4 Purifying Dragon (MID)
+4 Odric's Outrider (MID)
+4 Village Watch // Village Reavers (MID)
+4 Mysterious Tome // Chilling Chronicle (MID)
+4 Heirloom Mirror // Inherited Fiend (MID)
+4 Ambitious Farmhand // Seasoned Cathar (MID)
+4 Faithful Mending (MID)
+4 Contortionist Troupe (MID)
+4 Bereaved Survivor // Dauntless Avenger (MID)
+4 Defend the Celestus (MID)
+4 Chaplain of Alms // Chapel Shieldgeist (MID)
+4 Stromkirk Bloodthief (MID)
+4 Deathbonnet Sprout // Deathbonnet Hulk (MID)
 ================================================================================
 Deck
-4 Flame Channeler // Embodiment of Flame
-4 Seize the Storm
-4 Arcane Infusion
-4 Bladestitched Skaab
-4 Join the Dance
-4 Phantom Carriage
-4 Lunar Frenzy
-4 Rise of the Ants
-4 Fangblade Brigand // Fangblade Eviscerator
-4 Unnatural Moonrise
-4 Dawnhart Mentor
-4 Hound Tamer // Untamed Pup
-4 Turn the Earth
-4 Delver of Secrets // Insectile Aberration
-4 Brood Weaver
-4 Borrowed Time
-4 Loyal Gryff
-4 Cathartic Pyre
-4 Field of Ruin
-4 Obsessive Astronomer
-4 Vengeful Strangler // Strangling Grasp
+4 Flame Channeler // Embodiment of Flame (MID)
+4 Seize the Storm (MID)
+4 Arcane Infusion (MID)
+4 Bladestitched Skaab (MID)
+4 Join the Dance (MID)
+4 Phantom Carriage (MID)
+4 Lunar Frenzy (MID)
+4 Rise of the Ants (MID)
+4 Fangblade Brigand // Fangblade Eviscerator (MID)
+4 Unnatural Moonrise (MID)
+4 Dawnhart Mentor (MID)
+4 Hound Tamer // Untamed Pup (MID)
+4 Turn the Earth (MID)
+4 Delver of Secrets // Insectile Aberration (MID)
+4 Brood Weaver (MID)
+4 Borrowed Time (MID)
+4 Loyal Gryff (MID)
+4 Cathartic Pyre (MID)
+4 Field of Ruin (MID)
+4 Obsessive Astronomer (MID)
+4 Vengeful Strangler // Strangling Grasp (MID)

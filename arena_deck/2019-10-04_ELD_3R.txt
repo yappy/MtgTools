@@ -1,52 +1,52 @@
 Deck
-4 Yorvo, Lord of Garenbrig
-4 Faerie Formation
-4 Stormfist Crusader
-4 Murderous Rider // Swift End
-4 Oathsworn Knight
-4 Wicked Wolf
-4 Banish into Fable
-4 Blacklance Paragon
-4 Fires of Invention
-4 Irencrag Feat
-4 Acclaimed Contender
-4 Worthy Knight
-4 Ayara, First of Locthwain
-4 Hushbringer
-4 Wildborn Preserver
-4 Irencrag Pyromancer
-4 Stolen by the Fae
-4 Feasting Troll King
-4 Stonecoil Serpent
-4 Embereth Skyblazer
-4 Mirrormade
-4 Happily Ever After
-4 Witch's Vengeance
-4 A-Fires of Invention
-4 Wishclaw Talisman
-4 Mace of the Valiant
-4 Torbran, Thane of Red Fell
-4 Fervent Champion
-4 Folio of Fancies
-4 Rowan's Stalwarts
-4 Giant Killer // Chop Down
-4 Lochmere Serpent
-4 Clackbridge Troll
-4 Sundering Stroke
-4 Workshop Elders
-4 Sorcerous Spyglass
-4 Knights' Charge
-4 Silverwing Squadron
-4 Fae of Wishes // Granted
-4 Charming Prince
-4 Gadwick, the Wizened
-4 Tome of Legends
-4 Once Upon a Time
-4 Thorn Mammoth
-4 Oko's Hospitality
-4 Linden, the Steadfast Queen
-4 Shimmer Dragon
-4 Castle Garenbrig
-4 Doom Foretold
-4 Gilded Goose
-4 Vantress Gargoyle
+4 Yorvo, Lord of Garenbrig (ELD)
+4 Faerie Formation (ELD)
+4 Stormfist Crusader (ELD)
+4 Murderous Rider // Swift End (ELD)
+4 Oathsworn Knight (ELD)
+4 Wicked Wolf (ELD)
+4 Banish into Fable (ELD)
+4 Blacklance Paragon (ELD)
+4 Fires of Invention (ELD)
+4 Irencrag Feat (ELD)
+4 Acclaimed Contender (ELD)
+4 Worthy Knight (ELD)
+4 Ayara, First of Locthwain (ELD)
+4 Hushbringer (ELD)
+4 Wildborn Preserver (ELD)
+4 Irencrag Pyromancer (ELD)
+4 Stolen by the Fae (ELD)
+4 Feasting Troll King (ELD)
+4 Stonecoil Serpent (ELD)
+4 Embereth Skyblazer (ELD)
+4 Mirrormade (ELD)
+4 Happily Ever After (ELD)
+4 Witch's Vengeance (ELD)
+4 A-Fires of Invention (ELD)
+4 Wishclaw Talisman (ELD)
+4 Mace of the Valiant (ELD)
+4 Torbran, Thane of Red Fell (ELD)
+4 Fervent Champion (ELD)
+4 Folio of Fancies (ELD)
+4 Rowan's Stalwarts (ELD)
+4 Giant Killer // Chop Down (ELD)
+4 Lochmere Serpent (ELD)
+4 Clackbridge Troll (ELD)
+4 Sundering Stroke (ELD)
+4 Workshop Elders (ELD)
+4 Sorcerous Spyglass (ELD)
+4 Knights' Charge (ELD)
+4 Silverwing Squadron (ELD)
+4 Fae of Wishes // Granted (ELD)
+4 Charming Prince (ELD)
+4 Gadwick, the Wizened (ELD)
+4 Tome of Legends (ELD)
+4 Once Upon a Time (ELD)
+4 Thorn Mammoth (ELD)
+4 Oko's Hospitality (ELD)
+4 Linden, the Steadfast Queen (ELD)
+4 Shimmer Dragon (ELD)
+4 Castle Garenbrig (ELD)
+4 Doom Foretold (ELD)
+4 Gilded Goose (ELD)
+4 Vantress Gargoyle (ELD)

@@ -1,114 +1,114 @@
 Deck
-4 Starnheim Courser
-4 Strategic Planning
-4 Frostpeak Yeti
-4 Guardian Gladewalker
-4 A-Elderleaf Mentor
-4 Karfell Harbinger
-4 Draugr Thought-Thief
-4 Grizzled Outrider
-4 Frost Bite
-4 Cinderheart Giant
-4 Demonic Gifts
-4 Koma's Faithful
-4 Snakeskin Veil
-4 Glittering Frost
-4 Masked Vandal
-4 Jarl of the Forsaken
-4 Shimmerdrift Vale
-4 Karfell Kennel-Master
-4 Raven Wings
-4 Arachnoform
-4 Arctic Treeline
-4 Shackles of Treachery
-4 Master Skald
-4 Ravenous Lindwurm
-4 Village Rites
-4 Tuskeri Firewalker
-4 Elderleaf Mentor
-4 Craven Hulk
-4 Ice Tunnel
-4 Codespell Cleric
-4 Deathknell Berserker
-4 Tormentor's Helm
-4 Weigh Down
-4 Squash
-4 Seize the Spoils
-4 Snow-Covered Island
-4 Glacial Floodplain
-4 Snow-Covered Forest
-4 Fearless Pup
-4 Littjara Kinseekers
-4 Battlefield Raptor
-4 Vault Robber
-4 Axgard Cavalry
-4 Iron Verdict
-4 Sculptor of Winter
-4 Sulfurous Mire
-4 Grim Draugr
-4 Skull Raid
-4 Gods' Hall Guardian
-4 Warhorn Blast
-4 Infernal Pet
-4 Valor of the Worthy
-4 Raise the Draugr
-4 Invoke the Divine
-4 Alpine Meadow
-4 Bind the Monster
-4 Elderfang Disciple
-4 Pilfering Hawk
-4 Roots of Wisdom
-4 Volatile Fjord
-4 Rimewood Falls
-4 Dogged Pursuit
+4 Starnheim Courser (KHM)
+4 Strategic Planning (KHM)
+4 Frostpeak Yeti (KHM)
+4 Guardian Gladewalker (KHM)
+4 A-Elderleaf Mentor (KHM)
+4 Karfell Harbinger (KHM)
+4 Draugr Thought-Thief (KHM)
+4 Grizzled Outrider (KHM)
+4 Frost Bite (KHM)
+4 Cinderheart Giant (KHM)
+4 Demonic Gifts (KHM)
+4 Koma's Faithful (KHM)
+4 Snakeskin Veil (KHM)
+4 Glittering Frost (KHM)
+4 Masked Vandal (KHM)
+4 Jarl of the Forsaken (KHM)
+4 Shimmerdrift Vale (KHM)
+4 Karfell Kennel-Master (KHM)
+4 Raven Wings (KHM)
+4 Arachnoform (KHM)
+4 Arctic Treeline (KHM)
+4 Shackles of Treachery (KHM)
+4 Master Skald (KHM)
+4 Ravenous Lindwurm (KHM)
+4 Village Rites (KHM)
+4 Tuskeri Firewalker (KHM)
+4 Elderleaf Mentor (KHM)
+4 Craven Hulk (KHM)
+4 Ice Tunnel (KHM)
+4 Codespell Cleric (KHM)
+4 Deathknell Berserker (KHM)
+4 Tormentor's Helm (KHM)
+4 Weigh Down (KHM)
+4 Squash (KHM)
+4 Seize the Spoils (KHM)
+4 Snow-Covered Island (KHM)
+4 Glacial Floodplain (KHM)
+4 Snow-Covered Forest (KHM)
+4 Fearless Pup (KHM)
+4 Littjara Kinseekers (KHM)
+4 Battlefield Raptor (KHM)
+4 Vault Robber (KHM)
+4 Axgard Cavalry (KHM)
+4 Iron Verdict (KHM)
+4 Sculptor of Winter (KHM)
+4 Sulfurous Mire (KHM)
+4 Grim Draugr (KHM)
+4 Skull Raid (KHM)
+4 Gods' Hall Guardian (KHM)
+4 Warhorn Blast (KHM)
+4 Infernal Pet (KHM)
+4 Valor of the Worthy (KHM)
+4 Raise the Draugr (KHM)
+4 Invoke the Divine (KHM)
+4 Alpine Meadow (KHM)
+4 Bind the Monster (KHM)
+4 Elderfang Disciple (KHM)
+4 Pilfering Hawk (KHM)
+4 Roots of Wisdom (KHM)
+4 Volatile Fjord (KHM)
+4 Rimewood Falls (KHM)
+4 Dogged Pursuit (KHM)
 ================================================================================
 Deck
-4 Open the Omenpaths
-4 Run Ashore
-4 Berg Strider
-4 Goldmaw Champion
-4 Scorn Effigy
-4 Breakneck Berserker
-4 Beskir Shieldmate
-4 Struggle for Skemfar
-4 Funeral Longboat
-4 Snow-Covered Plains
-4 Feed the Serpent
-4 Depart the Realm
-4 Wings of the Cosmos
-4 Revitalize
-4 Dwarven Reinforcements
-4 Giant Ox
-4 Stalwart Valkyrie
-4 Duskwielder
-4 Withercrown
-4 King Harald's Revenge
-4 Mammoth Growth
-4 Woodland Chasm
-4 Mists of Littjara
-4 Goldvein Pick
-4 Hagi Mob
-4 Doomskar Oracle
-4 Bound in Gold
-4 Snow-Covered Mountain
-4 Smashing Success
-4 Icehide Troll
-4 Mistwalker
-4 Annul
-4 Axgard Braggart
-4 Ravenform
-4 Run Amok
-4 Behold the Multiverse
-4 Snow-Covered Swamp
-4 Horizon Seeker
-4 Jaspera Sentinel
-4 Immersturm Raider
-4 Dread Rider
-4 Gnottvold Recluse
-4 Brinebarrow Intruder
-4 Augury Raven
-4 Sarulf's Packmate
-4 Draugr Recruiter
-4 Priest of the Haunted Edge
-4 Story Seeker
-4 Undersea Invader
+4 Open the Omenpaths (KHM)
+4 Run Ashore (KHM)
+4 Berg Strider (KHM)
+4 Goldmaw Champion (KHM)
+4 Scorn Effigy (KHM)
+4 Breakneck Berserker (KHM)
+4 Beskir Shieldmate (KHM)
+4 Struggle for Skemfar (KHM)
+4 Funeral Longboat (KHM)
+4 Snow-Covered Plains (KHM)
+4 Feed the Serpent (KHM)
+4 Depart the Realm (KHM)
+4 Wings of the Cosmos (KHM)
+4 Revitalize (KHM)
+4 Dwarven Reinforcements (KHM)
+4 Giant Ox (KHM)
+4 Stalwart Valkyrie (KHM)
+4 Duskwielder (KHM)
+4 Withercrown (KHM)
+4 King Harald's Revenge (KHM)
+4 Mammoth Growth (KHM)
+4 Woodland Chasm (KHM)
+4 Mists of Littjara (KHM)
+4 Goldvein Pick (KHM)
+4 Hagi Mob (KHM)
+4 Doomskar Oracle (KHM)
+4 Bound in Gold (KHM)
+4 Snow-Covered Mountain (KHM)
+4 Smashing Success (KHM)
+4 Icehide Troll (KHM)
+4 Mistwalker (KHM)
+4 Annul (KHM)
+4 Axgard Braggart (KHM)
+4 Ravenform (KHM)
+4 Run Amok (KHM)
+4 Behold the Multiverse (KHM)
+4 Snow-Covered Swamp (KHM)
+4 Horizon Seeker (KHM)
+4 Jaspera Sentinel (KHM)
+4 Immersturm Raider (KHM)
+4 Dread Rider (KHM)
+4 Gnottvold Recluse (KHM)
+4 Brinebarrow Intruder (KHM)
+4 Augury Raven (KHM)
+4 Sarulf's Packmate (KHM)
+4 Draugr Recruiter (KHM)
+4 Priest of the Haunted Edge (KHM)
+4 Story Seeker (KHM)
+4 Undersea Invader (KHM)

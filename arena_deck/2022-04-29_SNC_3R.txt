@@ -1,61 +1,61 @@
 Deck
-4 Toluz, Clever Conductor
-4 Sanguine Spy
-4 Professional Face-Breaker
-4 Workshop Warchief
-4 Undercover Operative
-4 Fight Rigging
-4 Rigo, Streetwise Mentor
-4 Structural Assault
-4 Errant, Street Artist
-4 Hoard Hauler
-4 Widespread Thieving
-4 Rabble Rousing
-4 Evolving Door
-4 Spara's Headquarters
-4 Obscura Ascendancy
-4 Extraction Specialist
-4 Reservoir Kraken
-4 Shadow of Mortality
-4 Black Market Tycoon
-4 Giada, Font of Hope
-4 Depopulate
-4 Evelyn, the Covetous
-4 Cut Your Losses
-4 Tenacious Underdog
-4 Hostile Takeover
-4 Jinnie Fay, Jetmir's Second
-4 Maestros Diabolist
-4 Raffine's Tower
-4 Void Rend
-4 Riveteers Ascendancy
-4 Jaxis, the Troublemaker
-4 Shakedown Heavy
-4 Brokers Ascendancy
-4 Xander's Lounge
-4 Mysterious Limousine
-4 Cut of the Profits
-4 Fleetfoot Dancer
-4 Ziatora's Envoy
-4 Getaway Car
-4 Cemetery Tampering
-4 Ognis, the Dragon's Lash
-4 Corpse Explosion
-4 Obscura Interceptor
-4 Wiretapping
-4 Cabaretti Ascendancy
-4 Unlicensed Hearse
-4 Gala Greeters
-4 Scheming Fence
-4 Incandescent Aria
-4 Maestros Ascendancy
-4 Unleash the Inferno
-4 Endless Detour
-4 Devilish Valet
-4 Topiary Stomper
-4 Ledger Shredder
-4 Soul of Emancipation
-4 Jetmir's Garden
-4 Ziatora's Proving Ground
-4 Park Heights Pegasus
-4 Aven Heartstabber
+4 Toluz, Clever Conductor (SNC)
+4 Sanguine Spy (SNC)
+4 Professional Face-Breaker (SNC)
+4 Workshop Warchief (SNC)
+4 Undercover Operative (SNC)
+4 Fight Rigging (SNC)
+4 Rigo, Streetwise Mentor (SNC)
+4 Structural Assault (SNC)
+4 Errant, Street Artist (SNC)
+4 Hoard Hauler (SNC)
+4 Widespread Thieving (SNC)
+4 Rabble Rousing (SNC)
+4 Evolving Door (SNC)
+4 Spara's Headquarters (SNC)
+4 Obscura Ascendancy (SNC)
+4 Extraction Specialist (SNC)
+4 Reservoir Kraken (SNC)
+4 Shadow of Mortality (SNC)
+4 Black Market Tycoon (SNC)
+4 Giada, Font of Hope (SNC)
+4 Depopulate (SNC)
+4 Evelyn, the Covetous (SNC)
+4 Cut Your Losses (SNC)
+4 Tenacious Underdog (SNC)
+4 Hostile Takeover (SNC)
+4 Jinnie Fay, Jetmir's Second (SNC)
+4 Maestros Diabolist (SNC)
+4 Raffine's Tower (SNC)
+4 Void Rend (SNC)
+4 Riveteers Ascendancy (SNC)
+4 Jaxis, the Troublemaker (SNC)
+4 Shakedown Heavy (SNC)
+4 Brokers Ascendancy (SNC)
+4 Xander's Lounge (SNC)
+4 Mysterious Limousine (SNC)
+4 Cut of the Profits (SNC)
+4 Fleetfoot Dancer (SNC)
+4 Ziatora's Envoy (SNC)
+4 Getaway Car (SNC)
+4 Cemetery Tampering (SNC)
+4 Ognis, the Dragon's Lash (SNC)
+4 Corpse Explosion (SNC)
+4 Obscura Interceptor (SNC)
+4 Wiretapping (SNC)
+4 Cabaretti Ascendancy (SNC)
+4 Unlicensed Hearse (SNC)
+4 Gala Greeters (SNC)
+4 Scheming Fence (SNC)
+4 Incandescent Aria (SNC)
+4 Maestros Ascendancy (SNC)
+4 Unleash the Inferno (SNC)
+4 Endless Detour (SNC)
+4 Devilish Valet (SNC)
+4 Topiary Stomper (SNC)
+4 Ledger Shredder (SNC)
+4 Soul of Emancipation (SNC)
+4 Jetmir's Garden (SNC)
+4 Ziatora's Proving Ground (SNC)
+4 Park Heights Pegasus (SNC)
+4 Aven Heartstabber (SNC)

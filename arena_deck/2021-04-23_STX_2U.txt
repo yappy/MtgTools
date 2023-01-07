@@ -1,90 +1,90 @@
 Deck
-4 Zephyr Boots
-4 Karok Wrangler
-4 Containment Breach
-4 Snow Day
-4 Prismari Apprentice
-4 Lorehold Excavation
-4 Team Pennant
-4 Symmetry Sage
-4 A-Spell Satchel
-4 Professor of Symbology
-4 A-Mentor's Guidance
-4 Dina, Soul Steeper
-4 Quintorius, Field Historian
-4 Daemogoth Woe-Eater
-4 Decisive Denial
-4 Igneous Inspiration
-4 Maelstrom Muse
-4 Secret Rendezvous
-4 Ardent Dustspeaker
-4 Rootha, Mercurial Artist
-4 Lorehold Apprentice
-4 Reflective Golem
-4 A-Maelstrom Muse
-4 Detention Vortex
-4 Shadewing Laureate
-4 Mortality Spear
-4 Returned Pastcaller
-4 Silverquill Apprentice
-4 Flunk
-4 Go Blank
-4 Reduce to Memory
-4 Witherbloom Apprentice
-4 Eyetwitch
-4 Wormhole Serpent
-4 Show of Confidence
-4 Golden Ratio
-4 Quandrix Cultivator
-4 Thunderous Orator
-4 Tenured Inkcaster
-4 Necrotic Fumes
-4 Closing Statement
-4 Divide by Zero
-4 Overgrown Arch
-4 Stonebinder's Familiar
-4 Kelpie Guide
-4 Clever Lumimancer
-4 Practical Research
-4 Spell Satchel
-4 Quandrix Apprentice
-4 Hall Monitor
-4 Reconstruct History
-4 Honor Troll
-4 Aether Helix
-4 Tend the Pests
-4 Storm-Kiln Artist
-4 Fortifying Draught
-4 Dueling Coach
-4 Explosive Welcome
-4 Mascot Interception
-4 Plumb the Forbidden
-4 Academic Dispute
-4 Deadly Brew
+4 Zephyr Boots (STX)
+4 Karok Wrangler (STX)
+4 Containment Breach (STX)
+4 Snow Day (STX)
+4 Prismari Apprentice (STX)
+4 Lorehold Excavation (STX)
+4 Team Pennant (STX)
+4 Symmetry Sage (STX)
+4 A-Spell Satchel (STX)
+4 Professor of Symbology (STX)
+4 A-Mentor's Guidance (STX)
+4 Dina, Soul Steeper (STX)
+4 Quintorius, Field Historian (STX)
+4 Daemogoth Woe-Eater (STX)
+4 Decisive Denial (STX)
+4 Igneous Inspiration (STX)
+4 Maelstrom Muse (STX)
+4 Secret Rendezvous (STX)
+4 Ardent Dustspeaker (STX)
+4 Rootha, Mercurial Artist (STX)
+4 Lorehold Apprentice (STX)
+4 Reflective Golem (STX)
+4 A-Maelstrom Muse (STX)
+4 Detention Vortex (STX)
+4 Shadewing Laureate (STX)
+4 Mortality Spear (STX)
+4 Returned Pastcaller (STX)
+4 Silverquill Apprentice (STX)
+4 Flunk (STX)
+4 Go Blank (STX)
+4 Reduce to Memory (STX)
+4 Witherbloom Apprentice (STX)
+4 Eyetwitch (STX)
+4 Wormhole Serpent (STX)
+4 Show of Confidence (STX)
+4 Golden Ratio (STX)
+4 Quandrix Cultivator (STX)
+4 Thunderous Orator (STX)
+4 Tenured Inkcaster (STX)
+4 Necrotic Fumes (STX)
+4 Closing Statement (STX)
+4 Divide by Zero (STX)
+4 Overgrown Arch (STX)
+4 Stonebinder's Familiar (STX)
+4 Kelpie Guide (STX)
+4 Clever Lumimancer (STX)
+4 Practical Research (STX)
+4 Spell Satchel (STX)
+4 Quandrix Apprentice (STX)
+4 Hall Monitor (STX)
+4 Reconstruct History (STX)
+4 Honor Troll (STX)
+4 Aether Helix (STX)
+4 Tend the Pests (STX)
+4 Storm-Kiln Artist (STX)
+4 Fortifying Draught (STX)
+4 Dueling Coach (STX)
+4 Explosive Welcome (STX)
+4 Mascot Interception (STX)
+4 Plumb the Forbidden (STX)
+4 Academic Dispute (STX)
+4 Deadly Brew (STX)
 ================================================================================
 Deck
-4 Mentor's Guidance
-4 Devouring Tendrils
-4 Brackish Trudge
-4 Expressive Iteration
-4 Mercurial Transformation
-4 A-Tenured Inkcaster
-4 Rip Apart
-4 Bookwurm
-4 A-Dueling Coach
-4 Humiliate
-4 Umbral Juke
-4 Test of Talents
-4 Start from Scratch
-4 A-Ardent Dustspeaker
-4 Emergent Sequence
-4 Killian, Ink Duelist
-4 Mage Hunter
-4 Grinning Ignus
-4 Access Tunnel
-4 Zimone, Quandrix Prodigy
-4 Solve the Equation
-4 Fracture
-4 A-Symmetry Sage
-4 Creative Outburst
-4 Master Symmetrist
+4 Mentor's Guidance (STX)
+4 Devouring Tendrils (STX)
+4 Brackish Trudge (STX)
+4 Expressive Iteration (STX)
+4 Mercurial Transformation (STX)
+4 A-Tenured Inkcaster (STX)
+4 Rip Apart (STX)
+4 Bookwurm (STX)
+4 A-Dueling Coach (STX)
+4 Humiliate (STX)
+4 Umbral Juke (STX)
+4 Test of Talents (STX)
+4 Start from Scratch (STX)
+4 A-Ardent Dustspeaker (STX)
+4 Emergent Sequence (STX)
+4 Killian, Ink Duelist (STX)
+4 Mage Hunter (STX)
+4 Grinning Ignus (STX)
+4 Access Tunnel (STX)
+4 Zimone, Quandrix Prodigy (STX)
+4 Solve the Equation (STX)
+4 Fracture (STX)
+4 A-Symmetry Sage (STX)
+4 Creative Outburst (STX)
+4 Master Symmetrist (STX)

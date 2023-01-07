@@ -1,53 +1,53 @@
 Deck
-4 Savai Triome
-4 Titans' Nest
-4 Colossification
-4 Genesis Ultimatum
-4 Extinction Event
-4 Sea-Dasher Octopus
-4 Mythos of Vadrok
-4 Emergent Ultimatum
-4 Mythos of Brokkos
-4 Lutri, the Spellchaser
-4 Mythos of Nethroi
-4 Quartzwood Crasher
-4 The Ozolith
-4 Gyruda, Doom of Depths
-4 Kaheera, the Orphanguard
-4 Lurrus of the Dream-Den
-4 Gemrazer
-4 Mythos of Illuna
-4 Dirge Bat
-4 Mythos of Snapdax
-4 Eerie Ultimatum
-4 Everquill Phoenix
-4 Unpredictable Cyclone
-4 Voracious Greatshark
-4 Whirlwind of Thought
-4 Obosh, the Preypiercer
-4 Ketria Triome
-4 Yidaro, Wandering Monster
-4 Song of Creation
-4 Inspired Ultimatum
-4 Zirda, the Dawnwaker
-4 Skycat Sovereign
-4 Kogla, the Titan Ape
-4 Shark Typhoon
-4 Cubwarden
-4 Umori, the Collector
-4 Labyrinth Raptor
-4 Ruinous Ultimatum
-4 Drannith Magistrate
-4 Death's Oasis
-4 Hunted Nightmare
-4 Frondland Felidar
-4 Raugrin Triome
-4 Keruga, the Macrosage
-4 Slitherwisp
-4 Yorion, Sky Nomad
-4 Offspring's Revenge
-4 Lavabrink Venturer
-4 Indatha Triome
-4 Jegantha, the Wellspring
-4 Bonders' Enclave
-4 Zagoth Triome
+4 Savai Triome (IKO)
+4 Titans' Nest (IKO)
+4 Colossification (IKO)
+4 Genesis Ultimatum (IKO)
+4 Extinction Event (IKO)
+4 Sea-Dasher Octopus (IKO)
+4 Mythos of Vadrok (IKO)
+4 Emergent Ultimatum (IKO)
+4 Mythos of Brokkos (IKO)
+4 Lutri, the Spellchaser (IKO)
+4 Mythos of Nethroi (IKO)
+4 Quartzwood Crasher (IKO)
+4 The Ozolith (IKO)
+4 Gyruda, Doom of Depths (IKO)
+4 Kaheera, the Orphanguard (IKO)
+4 Lurrus of the Dream-Den (IKO)
+4 Gemrazer (IKO)
+4 Mythos of Illuna (IKO)
+4 Dirge Bat (IKO)
+4 Mythos of Snapdax (IKO)
+4 Eerie Ultimatum (IKO)
+4 Everquill Phoenix (IKO)
+4 Unpredictable Cyclone (IKO)
+4 Voracious Greatshark (IKO)
+4 Whirlwind of Thought (IKO)
+4 Obosh, the Preypiercer (IKO)
+4 Ketria Triome (IKO)
+4 Yidaro, Wandering Monster (IKO)
+4 Song of Creation (IKO)
+4 Inspired Ultimatum (IKO)
+4 Zirda, the Dawnwaker (IKO)
+4 Skycat Sovereign (IKO)
+4 Kogla, the Titan Ape (IKO)
+4 Shark Typhoon (IKO)
+4 Cubwarden (IKO)
+4 Umori, the Collector (IKO)
+4 Labyrinth Raptor (IKO)
+4 Ruinous Ultimatum (IKO)
+4 Drannith Magistrate (IKO)
+4 Death's Oasis (IKO)
+4 Hunted Nightmare (IKO)
+4 Frondland Felidar (IKO)
+4 Raugrin Triome (IKO)
+4 Keruga, the Macrosage (IKO)
+4 Slitherwisp (IKO)
+4 Yorion, Sky Nomad (IKO)
+4 Offspring's Revenge (IKO)
+4 Lavabrink Venturer (IKO)
+4 Indatha Triome (IKO)
+4 Jegantha, the Wellspring (IKO)
+4 Bonders' Enclave (IKO)
+4 Zagoth Triome (IKO)

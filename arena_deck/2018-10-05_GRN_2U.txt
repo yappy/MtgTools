@@ -1,67 +1,67 @@
 Deck
-4 Join Shields
-4 Integrity // Intervention
-4 Swarm Guildmage
-4 Arboretum Elemental
-4 Glaive of the Guildpact
-4 Goblin Cratermaker
-4 Disinformation Campaign
-4 District Guide
-4 House Guildmage
-4 Flower // Flourish
-4 Electrostatic Field
-4 Kraul Harpooner
-4 Sunhome Stalwart
-4 Truefire Captain
-4 Guild Summit
-4 Rampaging Monument
-4 Haazda Marshal
-4 Dimir Spybug
-4 Thought Erasure
-4 Flight of Equenauts
-4 Street Riot
-4 Lotleth Giant
-4 Inescapable Blaze
-4 Pilfering Imp
-4 Conclave Cavalier
-4 Sprouting Renewal
-4 Roc Charger
-4 Worldsoul Colossus
-4 Selective Snare
-4 Beacon Bolt
-4 Discovery // Dispersal
-4 Sinister Sabotage
-4 Ledev Champion
-4 Invert // Invent
-4 Attendant of Vraska
-4 Conclave Guildmage
-4 Grappling Sundew
-4 Gatekeeper Gargoyle
-4 Necrotic Wound
-4 Citywatch Sphinx
-4 Molderhulk
-4 Hellkite Whelp
-4 Golgari Raiders
-4 Kraul Swarm
-4 Undercity Necrolisk
-4 Whispering Snitch
-4 Nightveil Predator
-4 Legion Guildmage
-4 Justice Strike
-4 Boros Challenger
-4 Enhanced Surveillance
-4 Demotion
-4 Thoughtbound Phantasm
-4 Wand of Vertebrae
-4 Creeping Chill
-4 Status // Statue
-4 Conclave Tribunal
-4 Wee Dragonauts
-4 Ral's Staticaster
-4 Smelt-Ward Minotaur
-4 Ochran Assassin
-4 Beamsplitter Mage
+4 Join Shields (GRN)
+4 Integrity // Intervention (GRN)
+4 Swarm Guildmage (GRN)
+4 Arboretum Elemental (GRN)
+4 Glaive of the Guildpact (GRN)
+4 Goblin Cratermaker (GRN)
+4 Disinformation Campaign (GRN)
+4 District Guide (GRN)
+4 House Guildmage (GRN)
+4 Flower // Flourish (GRN)
+4 Electrostatic Field (GRN)
+4 Kraul Harpooner (GRN)
+4 Sunhome Stalwart (GRN)
+4 Truefire Captain (GRN)
+4 Guild Summit (GRN)
+4 Rampaging Monument (GRN)
+4 Haazda Marshal (GRN)
+4 Dimir Spybug (GRN)
+4 Thought Erasure (GRN)
+4 Flight of Equenauts (GRN)
+4 Street Riot (GRN)
+4 Lotleth Giant (GRN)
+4 Inescapable Blaze (GRN)
+4 Pilfering Imp (GRN)
+4 Conclave Cavalier (GRN)
+4 Sprouting Renewal (GRN)
+4 Roc Charger (GRN)
+4 Worldsoul Colossus (GRN)
+4 Selective Snare (GRN)
+4 Beacon Bolt (GRN)
+4 Discovery // Dispersal (GRN)
+4 Sinister Sabotage (GRN)
+4 Ledev Champion (GRN)
+4 Invert // Invent (GRN)
+4 Attendant of Vraska (GRN)
+4 Conclave Guildmage (GRN)
+4 Grappling Sundew (GRN)
+4 Gatekeeper Gargoyle (GRN)
+4 Necrotic Wound (GRN)
+4 Citywatch Sphinx (GRN)
+4 Molderhulk (GRN)
+4 Hellkite Whelp (GRN)
+4 Golgari Raiders (GRN)
+4 Kraul Swarm (GRN)
+4 Undercity Necrolisk (GRN)
+4 Whispering Snitch (GRN)
+4 Nightveil Predator (GRN)
+4 Legion Guildmage (GRN)
+4 Justice Strike (GRN)
+4 Boros Challenger (GRN)
+4 Enhanced Surveillance (GRN)
+4 Demotion (GRN)
+4 Thoughtbound Phantasm (GRN)
+4 Wand of Vertebrae (GRN)
+4 Creeping Chill (GRN)
+4 Status // Statue (GRN)
+4 Conclave Tribunal (GRN)
+4 Wee Dragonauts (GRN)
+4 Ral's Staticaster (GRN)
+4 Smelt-Ward Minotaur (GRN)
+4 Ochran Assassin (GRN)
+4 Beamsplitter Mage (GRN)
 ================================================================================
 Deck
-4 Book Devourer
-4 Swathcutter Giant
+4 Book Devourer (GRN)
+4 Swathcutter Giant (GRN)

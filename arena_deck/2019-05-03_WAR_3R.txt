@@ -1,45 +1,45 @@
 Deck
-4 Ravnica at War
-4 Storrev, Devkarin Lich
-4 Ugin, the Ineffable
-4 Command the Dreadhorde
-4 A-Teferi, Time Raveler
-4 Ignite the Beacon
-4 Bioessence Hydra
-4 Chandra, Fire Artisan
-4 Bolas's Citadel
-4 Widespread Brutality
-4 Tolsimir, Friend to Wolves
-4 Solar Blaze
-4 Silent Submersible
-4 Dreadhorde Arcanist
-4 Jace, Wielder of Mysteries
-4 Jace's Ruse
-4 Nissa, Who Shakes the World
-4 Awakening of Vitu-Ghazi
-4 Mizzium Tank
-4 Massacre Girl
-4 Sarkhan the Masterless
-4 Enter the God-Eternals
-4 Gideon's Battle Cry
-4 Tamiyo, Collector of Tales
-4 Single Combat
-4 Oath of Kaya
-4 Role Reversal
-4 Tomik, Distinguished Advokist
-4 Deliver Unto Evil
-4 Karn, the Great Creator
-4 Soul Diviner
-4 Feather, the Redeemed
-4 Teferi, Time Raveler
-4 Planewide Celebration
-4 Domri, Anarch of Bolas
-4 Ral, Storm Conduit
-4 Fblthp, the Lost
-4 Sorin, Vengeful Bloodlord
-4 Dreadhorde Butcher
-4 Narset's Reversal
-4 Vivien's Arkbow
-4 The Elderspell
-4 Ajani, the Greathearted
-4 Commence the Endgame
+4 Ravnica at War (WAR)
+4 Storrev, Devkarin Lich (WAR)
+4 Ugin, the Ineffable (WAR)
+4 Command the Dreadhorde (WAR)
+4 A-Teferi, Time Raveler (WAR)
+4 Ignite the Beacon (WAR)
+4 Bioessence Hydra (WAR)
+4 Chandra, Fire Artisan (WAR)
+4 Bolas's Citadel (WAR)
+4 Widespread Brutality (WAR)
+4 Tolsimir, Friend to Wolves (WAR)
+4 Solar Blaze (WAR)
+4 Silent Submersible (WAR)
+4 Dreadhorde Arcanist (WAR)
+4 Jace, Wielder of Mysteries (WAR)
+4 Jace's Ruse (WAR)
+4 Nissa, Who Shakes the World (WAR)
+4 Awakening of Vitu-Ghazi (WAR)
+4 Mizzium Tank (WAR)
+4 Massacre Girl (WAR)
+4 Sarkhan the Masterless (WAR)
+4 Enter the God-Eternals (WAR)
+4 Gideon's Battle Cry (WAR)
+4 Tamiyo, Collector of Tales (WAR)
+4 Single Combat (WAR)
+4 Oath of Kaya (WAR)
+4 Role Reversal (WAR)
+4 Tomik, Distinguished Advokist (WAR)
+4 Deliver Unto Evil (WAR)
+4 Karn, the Great Creator (WAR)
+4 Soul Diviner (WAR)
+4 Feather, the Redeemed (WAR)
+4 Teferi, Time Raveler (WAR)
+4 Planewide Celebration (WAR)
+4 Domri, Anarch of Bolas (WAR)
+4 Ral, Storm Conduit (WAR)
+4 Fblthp, the Lost (WAR)
+4 Sorin, Vengeful Bloodlord (WAR)
+4 Dreadhorde Butcher (WAR)
+4 Narset's Reversal (WAR)
+4 Vivien's Arkbow (WAR)
+4 The Elderspell (WAR)
+4 Ajani, the Greathearted (WAR)
+4 Commence the Endgame (WAR)
