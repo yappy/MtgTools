@@ -43,8 +43,8 @@ fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Resul
         writeln!(&mut outfile, "Deck")?;
         for card in cards {
             if count + 4 > 250 {
-                writeln!(&mut outfile, "Deck")?;
                 writeln!(&mut outfile, "================================================================================")?;
+                writeln!(&mut outfile, "Deck")?;
                 count = 0;
             }
             writeln!(&mut outfile, "4 {}", card.name)?;
