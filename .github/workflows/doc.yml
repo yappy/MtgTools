@@ -28,7 +28,7 @@ jobs:
 
       - name: Merge from main
         run: |
-          git merge --no-ff main
+          git merge --no-ff ${{ github.sha }}
 
       - name: Remove Old Data and Move
         run: |
