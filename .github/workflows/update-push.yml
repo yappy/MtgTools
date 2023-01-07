@@ -1,0 +1,45 @@
+name: Update to Latest Card Data
+on:
+  schedule:
+    # min[0,59] hour[0,23] day[1,31] mon[1,12] week[0,6; 0=Sunday]
+    # 20:00 UTC = 05:00 JST
+    - cron:  '43 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Build
+      run: |
+        cargo build --release
+
+    - name: Download latest data
+      run: |
+        cargo run --release -- --download
+
+    - name: Update arena_deck dir
+      run: |
+        git rm arena_deck/*
+        cargo run --release -- --arena-deck
+
+    - name: Git Add
+      run: |
+        git remote set-url origin https://github-actions:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}
+        git config --global user.name "${GITHUB_ACTOR}"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git status
+        git add .
+        git status
+
+    - name: Git Commit
+      continue-on-error: true
+      run: |
+        git commit -m "Update data (automatic push by github actions)"
+
+    - name: Git Push
+      run: |
+        git push origin HEAD:${GITHUB_REF}
