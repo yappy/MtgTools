@@ -1,6 +1,6 @@
-use crate::api::{self};
+use crate::{api, common};
 use anyhow::{anyhow, Result};
-use std::{fs::File, io::Write, path::Path};
+use std::{fs::File, io::Write};
 
 #[allow(dead_code)]
 const BULK_TYPE_ORACLE: &str = "oracle_cards";
@@ -20,7 +20,7 @@ fn bulk_get(bulk_type: &str) -> Result<String> {
     Ok(resp.text()?)
 }
 
-fn download_bulk(url: &str, size: u64, dist: &Path) -> Result<()> {
+fn download_bulk(url: &str, size: u64, dist: &str) -> Result<()> {
     let mut outfile = File::create(dist)?;
     let mut resp = reqwest::blocking::get(url)?;
     let read_size = resp.copy_to(&mut outfile)?;
@@ -53,23 +53,20 @@ pub fn entry() -> Result<()> {
     let sets = sets_get()?;
     println!("{} sets fetched", sets.len());
     {
-        let dist = "./download/sets.json";
-        let outfile = File::create(dist)?;
+        let outfile = File::create(common::PATH_SETS)?;
         serde_json::to_writer(outfile, &sets)?;
     }
 
     let bulk = bulk_get(BULK_TYPE_ORACLE)?;
     println!("bulk info fetched");
     {
-        let dist = "./download/cards_info.json";
-        let mut outfile = File::create(dist)?;
+        let mut outfile = File::create(common::PATH_CARDS_INFO)?;
         outfile.write_all(bulk.as_bytes())?;
     }
     let bulk: api::Bulk = serde_json::from_str(&bulk)?;
 
     println!("download bulk ({} MiB)", bulk.size / 1024 / 1024);
-    let dist = "./download/cards.json";
-    download_bulk(&bulk.download_uri, bulk.size, Path::new(dist))?;
+    download_bulk(&bulk.download_uri, bulk.size, common::PATH_CARDS)?;
 
     Ok(())
 }

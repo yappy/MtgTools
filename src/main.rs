@@ -1,4 +1,6 @@
 mod api;
+mod common;
+mod deck;
 mod download;
 
 use anyhow::Result;
@@ -13,6 +15,7 @@ fn main() -> Result<()> {
     let mut opts = Options::new();
     opts.optflag("h", "help", "Print this help");
     opts.optflag("d", "download", "Download");
+    opts.optflag("a", "arena-deck", "Build decks for Arena");
     let matches = match opts.parse(&args[1..]) {
         Ok(m) => m,
         Err(fail) => {
@@ -33,6 +36,8 @@ fn main() -> Result<()> {
 
     if matches.opt_present("d") {
         download::entry()?;
+    } else if matches.opt_present("a") {
+        deck::entry()?;
     } else {
         print_help();
         std::process::exit(1);
