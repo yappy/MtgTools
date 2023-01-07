@@ -47,7 +47,12 @@ fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Resul
                 writeln!(&mut outfile, "Deck")?;
                 count = 0;
             }
-            writeln!(&mut outfile, "4 {}", card.name)?;
+            writeln!(
+                &mut outfile,
+                "4 {} ({})",
+                card.name,
+                set.code.to_ascii_uppercase()
+            )?;
             count += 4;
         }
     }
