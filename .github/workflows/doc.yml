@@ -18,7 +18,7 @@ jobs:
 
       - name: Build
         run: |
-          cargo build doc --no-deps
+          cargo doc --no-deps
 
       - name: Git Setup
         run: |
