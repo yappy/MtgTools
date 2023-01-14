@@ -1,12 +1,6 @@
 Deck
-4 Sawblade Scamp (ONE)
-4 Bonepicker Skirge (ONE)
-4 Quicksilver Fisher (ONE)
 4 Swamp (ONE)
-4 Sinew Dancer (ONE)
-4 Soulless Jailer (ONE)
 4 Mountain (ONE)
 4 Island (ONE)
 4 Forest (ONE)
 4 Plains (ONE)
-4 Rustvine Cultivator (ONE)
