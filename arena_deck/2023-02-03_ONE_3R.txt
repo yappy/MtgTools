@@ -1,6 +1,7 @@
 Deck
 4 Green Sun's Twilight (ONE)
 4 The Mycosynth Gardens (ONE)
+4 Rhuk, Hexgold Nabber (ONE)
 4 Skrelv's Hive (ONE)
 4 Mirran Safehouse (ONE)
 4 Bloated Contaminator (ONE)
@@ -52,9 +53,15 @@ Deck
 4 Geth, Thane of Contracts (ONE)
 4 Blade of Shared Souls (ONE)
 4 Karumonix, the Rat King (ONE)
+4 Goliath Hatchery (ONE)
 4 Ezuri, Stalker of Spheres (ONE)
+4 Serum Sovereign (ONE)
 4 Nahiri, the Unforgiving (ONE)
+4 Mite Overseer (ONE)
 4 Monument to Perfection (ONE)
+4 Kinzu of the Bleak Coven (ONE)
 4 Venerated Rotpriest (ONE)
+================================================================================
+Deck
 4 Conduit of Worlds (ONE)
 4 Phyrexian Arena (ONE)
