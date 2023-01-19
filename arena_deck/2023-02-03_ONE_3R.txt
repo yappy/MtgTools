@@ -21,7 +21,7 @@ Deck
 4 Evolved Spinoderm (ONE)
 4 Dragonwing Glider (ONE)
 4 Mindsplice Apparatus (ONE)
-4 Unctus Grand Metatect (ONE)
+4 Unctus, Grand Metatect (ONE)
 4 Mirrex (ONE)
 4 Norn's Wellspring (ONE)
 4 Blackcleave Cliffs (ONE)
@@ -56,12 +56,11 @@ Deck
 4 Goliath Hatchery (ONE)
 4 Ezuri, Stalker of Spheres (ONE)
 4 Serum Sovereign (ONE)
-4 Nahiri, the Unforgiving (ONE)
 4 Mite Overseer (ONE)
 4 Monument to Perfection (ONE)
 4 Kinzu of the Bleak Coven (ONE)
 4 Venerated Rotpriest (ONE)
+4 Conduit of Worlds (ONE)
 ================================================================================
 Deck
-4 Conduit of Worlds (ONE)
 4 Phyrexian Arena (ONE)
