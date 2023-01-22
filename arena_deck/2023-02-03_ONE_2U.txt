@@ -18,6 +18,7 @@ Deck
 4 Necrogen Rotpriest (ONE)
 4 Prosthetic Injector (ONE)
 4 Bilious Skulldweller (ONE)
+4 Magmatic Sprinter (ONE)
 4 Noxious Assault (ONE)
 4 Viral Spawning (ONE)
 4 Urabrask's Anointer (ONE)

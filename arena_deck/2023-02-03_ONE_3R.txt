@@ -50,6 +50,7 @@ Deck
 4 Graaz, Unstoppable Juggernaut (ONE)
 4 Black Sun's Twilight (ONE)
 4 Ovika, Enigma Goliath (ONE)
+4 Vraan, Executioner Thane (ONE)
 4 Geth, Thane of Contracts (ONE)
 4 Blade of Shared Souls (ONE)
 4 Karumonix, the Rat King (ONE)
@@ -60,7 +61,7 @@ Deck
 4 Monument to Perfection (ONE)
 4 Kinzu of the Bleak Coven (ONE)
 4 Venerated Rotpriest (ONE)
-4 Conduit of Worlds (ONE)
 ================================================================================
 Deck
+4 Conduit of Worlds (ONE)
 4 Phyrexian Arena (ONE)

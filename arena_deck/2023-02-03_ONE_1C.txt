@@ -17,7 +17,6 @@ Deck
 4 Sinew Dancer (ONE)
 4 Blightbelly Rat (ONE)
 4 Island (ONE)
-4 Vraan, Executioner Thane (ONE)
 4 Carnivorous Canopy (ONE)
 4 Forest (ONE)
 4 Plains (ONE)
