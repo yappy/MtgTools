@@ -23,7 +23,6 @@ Deck
 4 Ecstatic Awakener // Awoken Demon (MID)
 4 Sungold Barrage (MID)
 4 Stormrider Spirit (MID)
-4 Duress (MID)
 4 Pestilent Wolf (MID)
 4 A-Falcon Abomination (MID)
 4 Moonrager's Slash (MID)
@@ -61,9 +60,9 @@ Deck
 4 Ritual Guardian (MID)
 4 Gavony Silversmith (MID)
 4 Flip the Switch (MID)
+4 Olivia's Midnight Ambush (MID)
 ================================================================================
 Deck
-4 Olivia's Midnight Ambush (MID)
 4 Organ Hoarder (MID)
 4 Siege Zombie (MID)
 4 Silver Bolt (MID)
