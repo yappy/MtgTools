@@ -24,6 +24,7 @@ Deck
 4 The Fair Basilica (ONE)
 4 Sawblade Scamp (ONE)
 4 "Fleshless Gladiator" (ONE)
+4 Crawling Chorus (ONE)
 4 Mountain (ONE)
 4 Sinew Dancer (ONE)
 4 Branchblight Stalker (ONE)
