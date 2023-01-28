@@ -41,7 +41,7 @@ Deck
 4 Bladegraft Aspirant (ONE)
 4 Infectious Inquiry (ONE)
 4 Lattice-Blade Mantis (ONE)
-4 Stinghive Master (ONE)
+4 Stinging Hivemaster (ONE)
 4 Chrome Prowler (ONE)
 4 Surgical Skullbomb (ONE)
 4 Eye of Malcator (ONE)
