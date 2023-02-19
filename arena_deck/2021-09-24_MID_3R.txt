@@ -49,6 +49,7 @@ Deck
 4 Galvanic Iteration (MID)
 4 Slogurk, the Overslime (MID)
 4 Florian, Voldaren Scion (MID)
+4 A-Patrician Geist (MID)
 4 Suspicious Stowaway // Seafaring Werewolf (MID)
 4 Haunted Ridge (MID)
 4 Grafted Identity (MID)
@@ -60,4 +61,6 @@ Deck
 4 Gisa, Glorious Resurrector (MID)
 4 Champion of the Perished (MID)
 4 Ludevic, Necrogenius // Olag, Ludevic's Hubris (MID)
+================================================================================
+Deck
 4 Jadar, Ghoulcaller of Nephalia (MID)

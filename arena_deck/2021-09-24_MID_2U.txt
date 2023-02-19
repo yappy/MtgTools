@@ -2,6 +2,7 @@ Deck
 4 Dawnhart Wardens (MID)
 4 Sunrise Cavalier (MID)
 4 Devoted Grafkeeper // Departed Soulkeeper (MID)
+4 A-Phantom Carriage (MID)
 4 Clear Shot (MID)
 4 Storm Skreelix (MID)
 4 Rootcoil Creeper (MID)
@@ -12,6 +13,7 @@ Deck
 4 Thermo-Alchemist (MID)
 4 Gavony Dawnguard (MID)
 4 Morbid Opportunist (MID)
+4 A-Devoted Grafkeeper // A-Departed Soulkeeper (MID)
 4 Moonsilver Key (MID)
 4 Ghoulish Procession (MID)
 4 Hungry for More (MID)
@@ -59,10 +61,10 @@ Deck
 4 Bereaved Survivor // Dauntless Avenger (MID)
 4 Defend the Celestus (MID)
 4 Chaplain of Alms // Chapel Shieldgeist (MID)
-4 Stromkirk Bloodthief (MID)
-4 Deathbonnet Sprout // Deathbonnet Hulk (MID)
 ================================================================================
 Deck
+4 Stromkirk Bloodthief (MID)
+4 Deathbonnet Sprout // Deathbonnet Hulk (MID)
 4 Flame Channeler // Embodiment of Flame (MID)
 4 Seize the Storm (MID)
 4 Arcane Infusion (MID)

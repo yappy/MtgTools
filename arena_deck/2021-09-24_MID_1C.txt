@@ -46,6 +46,7 @@ Deck
 4 Return to Nature (MID)
 4 Startle (MID)
 4 Brimstone Vandal (MID)
+4 A-Shipwreck Sifters (MID)
 4 Lambholt Harrier (MID)
 4 Plummet (MID)
 4 Harvesttide Infiltrator // Harvesttide Assailant (MID)
@@ -60,9 +61,9 @@ Deck
 4 Ritual Guardian (MID)
 4 Gavony Silversmith (MID)
 4 Flip the Switch (MID)
-4 Olivia's Midnight Ambush (MID)
 ================================================================================
 Deck
+4 Olivia's Midnight Ambush (MID)
 4 Organ Hoarder (MID)
 4 Siege Zombie (MID)
 4 Silver Bolt (MID)
