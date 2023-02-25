@@ -21,6 +21,7 @@ Deck
 4 Sanguine Statuette (VOW)
 4 Vampires' Vengeance (VOW)
 4 Markov Retribution (VOW)
+4 A-Mischievous Catgeist // A-Catlike Curiosity (VOW)
 4 Boarded Window (VOW)
 4 Vilespawn Spider (VOW)
 4 Bloodtithe Harvester (VOW)
@@ -30,6 +31,8 @@ Deck
 4 Frenzied Devils (VOW)
 4 Mischievous Catgeist // Catlike Curiosity (VOW)
 4 Twinblade Geist // Twinblade Invocation (VOW)
+4 A-Gutter Skulker // A-Gutter Shortcut (VOW)
+4 A-Brine Comber // A-Brinebound Gift (VOW)
 4 Archghoul of Thraben (VOW)
 4 A-Sigardian Paladin (VOW)
 4 Into the Night (VOW)
@@ -58,11 +61,11 @@ Deck
 4 Catapult Fodder // Catapult Captain (VOW)
 4 Wolfkin Outcast // Wedding Crasher (VOW)
 4 Laid to Rest (VOW)
+================================================================================
+Deck
 4 Ballista Watcher // Ballista Wielder (VOW)
 4 Groom's Finery (VOW)
 4 Fleeting Spirit (VOW)
-================================================================================
-Deck
 4 Markov Waltzer (VOW)
 4 Infestation Expert // Infested Werewolf (VOW)
 4 Arm the Cathars (VOW)

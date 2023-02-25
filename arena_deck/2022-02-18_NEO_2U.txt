@@ -43,6 +43,7 @@ Deck
 4 Enormous Energy Blade (NEO)
 4 Webspinner Cuff (NEO)
 4 Secluded Courtyard (NEO)
+4 A-Asari Captain (NEO)
 4 Historian's Wisdom (NEO)
 4 Replication Specialist (NEO)
 4 Born to Drive (NEO)
@@ -60,9 +61,9 @@ Deck
 4 Unforgiving One (NEO)
 4 Futurist Operative (NEO)
 4 Upriser Renegade (NEO)
-4 Heiko Yamazaki, the General (NEO)
 ================================================================================
 Deck
+4 Heiko Yamazaki, the General (NEO)
 4 Assassin's Ink (NEO)
 4 Dragonspark Reactor (NEO)
 4 Nezumi Prowler (NEO)

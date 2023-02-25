@@ -21,6 +21,7 @@ Deck
 4 Grolnok, the Omnivore (VOW)
 4 Mirrorhall Mimic // Ghastly Mimicry (VOW)
 4 Sundown Pass (VOW)
+4 A-Dreamshackle Geist (VOW)
 4 Inspired Idea (VOW)
 4 Welcoming Vampire (VOW)
 4 Odric, Blood-Cursed (VOW)
@@ -41,6 +42,7 @@ Deck
 4 Falkenrath Forebear (VOW)
 4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW)
 4 Thalia, Guardian of Thraben (VOW)
+4 A-Dorothea, Vengeful Victim // A-Dorothea's Retribution (VOW)
 4 Eruth, Tormented Prophet (VOW)
 4 Concealing Curtains // Revealing Eye (VOW)
 4 Voldaren Bloodcaster // Bloodbat Summoner (VOW)
@@ -59,8 +61,8 @@ Deck
 4 By Invitation Only (VOW)
 4 Kessig Wolfrider (VOW)
 4 Dreamroot Cascade (VOW)
-4 Deathcap Glade (VOW)
-4 Hamlet Vanguard (VOW)
 ================================================================================
 Deck
+4 Deathcap Glade (VOW)
+4 Hamlet Vanguard (VOW)
 4 Voldaren Estate (VOW)

@@ -1,0 +1,12 @@
+Deck
+4 Swiftwater Cliffs (MOM)
+4 Blossoming Sands (MOM)
+4 Tranquil Cove (MOM)
+4 Bloodfell Caves (MOM)
+4 Rugged Highlands (MOM)
+4 Jungle Hollow (MOM)
+4 Dismal Backwater (MOM)
+4 Wind-Scarred Crag (MOM)
+4 Scoured Barrens (MOM)
+4 Thornwood Falls (MOM)
+4 Moment of Truth (MOM)
