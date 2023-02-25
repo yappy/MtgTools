@@ -49,9 +49,10 @@ fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Resul
             }
             writeln!(
                 &mut outfile,
-                "4 {} ({})",
+                "4 {} ({}) {}",
                 card.name,
-                set.code.to_ascii_uppercase()
+                set.code.to_ascii_uppercase(),
+                card.collector_number
             )?;
             count += 4;
         }

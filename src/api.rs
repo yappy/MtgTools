@@ -159,6 +159,10 @@ pub struct Card {
     /// One of common, uncommon, rare, special, mythic, or bonus.
     pub rarity: String,
 
+    /// This card’s collector number.
+    /// Note that collector numbers can contain non-numeric characters,
+    /// such as letters or ★.
+    pub collector_number: String,
     /// This card’s full set name.
     pub set_name: String,
     /// A link to where you can begin paginating this card’s set
