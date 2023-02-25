@@ -1,71 +1,71 @@
 Deck
-4 Phyrexian Dragon Engine (BRO)
-4 Diabolic Intent (BRO)
-4 Queen Kayla bin-Kroog (BRO)
-4 Woodcaller Automaton (BRO)
-4 The Temporal Anchor (BRO)
-4 Fateful Handoff (BRO)
-4 Mishra's Command (BRO)
-4 Tocasia's Welcome (BRO)
-4 Soul Partition (BRO)
-4 Terror Ballista (BRO)
-4 Llanowar Wastes (BRO)
-4 Fauna Shaman (BRO)
-4 Fortified Beachhead (BRO)
-4 Blast Zone (BRO)
-4 Autonomous Assembler (BRO)
-4 Mishra, Tamer of Mak Fawa (BRO)
-4 Kayla's Command (BRO)
-4 Artificer's Dragon (BRO)
-4 Kayla's Reconstruction (BRO)
-4 Tawnos, the Toymaker (BRO)
-4 Siege Veteran (BRO)
-4 Fade from History (BRO)
-4 Razorlash Transmogrant (BRO)
-4 Brushland (BRO)
-4 Argoth, Sanctum of Nature (BRO)
-4 Visions of Phyrexia (BRO)
-4 Hajar, Loyal Bodyguard (BRO)
-4 Urza, Prince of Kroog (BRO)
-4 Battlefield Forge (BRO)
-4 Transmogrant's Crown (BRO)
-4 Feldon, Ronom Excavator (BRO)
-4 Simian Simulacrum (BRO)
-4 Thran Spider (BRO)
-4 Liberator, Urza's Battlethopter (BRO)
-4 Titania's Command (BRO)
-4 Gwenna, Eyes of Gaea (BRO)
-4 Ashnod, Flesh Mechanist (BRO)
-4 Steel Seraph (BRO)
-4 Underground River (BRO)
-4 Skystrike Officer (BRO)
-4 Rescue Retriever (BRO)
-4 Gix's Command (BRO)
-4 Misery's Shadow (BRO)
-4 Hurkyl, Master Wizard (BRO)
-4 Gixian Puppeteer (BRO)
-4 Hurkyl's Final Meditation (BRO)
-4 Teething Wurmlet (BRO)
-4 The Stasis Coffin (BRO)
-4 The Stone Brain (BRO)
-4 Loran of the Third Path (BRO)
-4 Mishra's Foundry (BRO)
-4 Deathbloom Ritualist (BRO)
-4 Over the Top (BRO)
-4 Painful Quandary (BRO)
-4 The Mightstone and Weakstone (BRO)
-4 Hostile Negotiations (BRO)
-4 Geology Enthusiast (BRO)
-4 Mechanized Warfare (BRO)
-4 Terisian Mindbreaker (BRO)
-4 Harbin, Vanguard Aviator (BRO)
-4 Legions to Ashes (BRO)
-4 Tocasia, Dig Site Mentor (BRO)
+4 Phyrexian Dragon Engine (BRO) 163a
+4 Diabolic Intent (BRO) 89
+4 Queen Kayla bin-Kroog (BRO) 218
+4 Woodcaller Automaton (BRO) 292
+4 The Temporal Anchor (BRO) 82
+4 Fateful Handoff (BRO) 94
+4 Mishra's Command (BRO) 141
+4 Tocasia's Welcome (BRO) 30
+4 Soul Partition (BRO) 26
+4 Terror Ballista (BRO) 290
+4 Llanowar Wastes (BRO) 264
+4 Fauna Shaman (BRO) 179
+4 Fortified Beachhead (BRO) 262
+4 Blast Zone (BRO) 258
+4 Autonomous Assembler (BRO) 34
+4 Mishra, Tamer of Mak Fawa (BRO) 217
+4 Kayla's Command (BRO) 9
+4 Artificer's Dragon (BRO) 291
+4 Kayla's Reconstruction (BRO) 10
+4 Tawnos, the Toymaker (BRO) 222
+4 Siege Veteran (BRO) 25
+4 Fade from History (BRO) 177
+4 Razorlash Transmogrant (BRO) 122
+4 Brushland (BRO) 259
+4 Argoth, Sanctum of Nature (BRO) 256a
+4 Visions of Phyrexia (BRO) 156
+4 Hajar, Loyal Bodyguard (BRO) 211
+4 Urza, Prince of Kroog (BRO) 226
+4 Battlefield Forge (BRO) 257
+4 Transmogrant's Crown (BRO) 125
+4 Feldon, Ronom Excavator (BRO) 135
+4 Simian Simulacrum (BRO) 205
+4 Thran Spider (BRO) 254
+4 Liberator, Urza's Battlethopter (BRO) 237
+4 Titania's Command (BRO) 194
+4 Gwenna, Eyes of Gaea (BRO) 185
+4 Ashnod, Flesh Mechanist (BRO) 84
+4 Steel Seraph (BRO) 38
+4 Underground River (BRO) 267
+4 Skystrike Officer (BRO) 62
+4 Rescue Retriever (BRO) 288
+4 Gix's Command (BRO) 97
+4 Misery's Shadow (BRO) 107
+4 Hurkyl, Master Wizard (BRO) 51
+4 Gixian Puppeteer (BRO) 99
+4 Hurkyl's Final Meditation (BRO) 52
+4 Teething Wurmlet (BRO) 192
+4 The Stasis Coffin (BRO) 245
+4 The Stone Brain (BRO) 247
+4 Loran of the Third Path (BRO) 12
+4 Mishra's Foundry (BRO) 265
+4 Deathbloom Ritualist (BRO) 208
+4 Over the Top (BRO) 146
+4 Painful Quandary (BRO) 111
+4 The Mightstone and Weakstone (BRO) 238a
+4 Hostile Negotiations (BRO) 105
+4 Geology Enthusiast (BRO) 289
+4 Mechanized Warfare (BRO) 139
+4 Terisian Mindbreaker (BRO) 83
+4 Harbin, Vanguard Aviator (BRO) 212
+4 Legions to Ashes (BRO) 215
+4 Tocasia, Dig Site Mentor (BRO) 224
 ================================================================================
 Deck
-4 Tyrant of Kher Ridges (BRO)
-4 Drafna, Founder of Lat-Nam (BRO)
-4 Perennial Behemoth (BRO)
-4 Urza's Command (BRO)
-4 Hall of Tagsin (BRO)
-4 Brotherhood's End (BRO)
+4 Tyrant of Kher Ridges (BRO) 154
+4 Drafna, Founder of Lat-Nam (BRO) 47
+4 Perennial Behemoth (BRO) 202
+4 Urza's Command (BRO) 70
+4 Hall of Tagsin (BRO) 263
+4 Brotherhood's End (BRO) 128

@@ -1,100 +1,100 @@
 Deck
-4 Akoum Hellhound (ZNR)
-4 Subtle Strike (ZNR)
-4 Spare Supplies (ZNR)
-4 Cascade Seer (ZNR)
-4 Mind Drain (ZNR)
-4 Deadly Alliance (ZNR)
-4 Kazandu Stomper (ZNR)
-4 Scale the Heights (ZNR)
-4 Highborn Vampire (ZNR)
-4 Grotag Bug-Catcher (ZNR)
-4 Expedition Skulker (ZNR)
-4 Nissa's Zendikon (ZNR)
-4 Tajuru Snarecaster (ZNR)
-4 Mesa Lynx (ZNR)
-4 A-Hagra Constrictor (ZNR)
-4 Kazandu Nectarpot (ZNR)
-4 Sizzling Barrage (ZNR)
-4 Nimana Skydancer (ZNR)
-4 Scavenged Blade (ZNR)
-4 Skyclave Squid (ZNR)
-4 Tazeem Raptor (ZNR)
-4 Hagra Constrictor (ZNR)
-4 Deliberate (ZNR)
-4 Skyclave Sentinel (ZNR)
-4 Sneaking Guide (ZNR)
-4 Kor Celebrant (ZNR)
-4 Angelheart Protector (ZNR)
-4 Ardent Electromancer (ZNR)
-4 Canopy Baloth (ZNR)
-4 Anticognition (ZNR)
-4 Tuktuk Rubblefort (ZNR)
-4 Vanquish the Weak (ZNR)
-4 Inordinate Rage (ZNR)
-4 Oblivion's Hunger (ZNR)
-4 Tazeem Roilmage (ZNR)
-4 Resolute Strike (ZNR)
-4 Molten Blast (ZNR)
-4 Cliffhaven Sell-Sword (ZNR)
-4 Murasa Brute (ZNR)
-4 Practiced Tactics (ZNR)
-4 Smite the Monstrous (ZNR)
-4 Roil Eruption (ZNR)
-4 Blood Beckoning (ZNR)
-4 Cliffhaven Kitesail (ZNR)
-4 Kabira Outrider (ZNR)
-4 Shepherd of Heroes (ZNR)
-4 Rabid Bite (ZNR)
-4 Adventure Awaits (ZNR)
-4 Ghastly Gloomhunter (ZNR)
-4 Spitfire Lagac (ZNR)
-4 Farsight Adept (ZNR)
-4 Shell Shield (ZNR)
-4 Cunning Geysermage (ZNR)
-4 Territorial Scythecat (ZNR)
-4 Stonework Packbeast (ZNR)
-4 Joraga Visionary (ZNR)
-4 Chilling Trap (ZNR)
-4 Marauding Blight-Priest (ZNR)
-4 Scorch Rider (ZNR)
-4 Dauntless Survivor (ZNR)
-4 Drana's Silencer (ZNR)
-4 Nahiri's Binding (ZNR)
+4 Akoum Hellhound (ZNR) 133
+4 Subtle Strike (ZNR) 128
+4 Spare Supplies (ZNR) 254
+4 Cascade Seer (ZNR) 48
+4 Mind Drain (ZNR) 114
+4 Deadly Alliance (ZNR) 96
+4 Kazandu Stomper (ZNR) 191
+4 Scale the Heights (ZNR) 202
+4 Highborn Vampire (ZNR) 107
+4 Grotag Bug-Catcher (ZNR) 142
+4 Expedition Skulker (ZNR) 101
+4 Nissa's Zendikon (ZNR) 197
+4 Tajuru Snarecaster (ZNR) 210
+4 Mesa Lynx (ZNR) 28
+4 A-Hagra Constrictor (ZNR) A-105
+4 Kazandu Nectarpot (ZNR) 190
+4 Sizzling Barrage (ZNR) 162
+4 Nimana Skydancer (ZNR) 117
+4 Scavenged Blade (ZNR) 157
+4 Skyclave Squid (ZNR) 82
+4 Tazeem Raptor (ZNR) 43
+4 Hagra Constrictor (ZNR) 105
+4 Deliberate (ZNR) 56
+4 Skyclave Sentinel (ZNR) 253
+4 Sneaking Guide (ZNR) 164
+4 Kor Celebrant (ZNR) 22
+4 Angelheart Protector (ZNR) 3
+4 Ardent Electromancer (ZNR) 135
+4 Canopy Baloth (ZNR) 182
+4 Anticognition (ZNR) 45
+4 Tuktuk Rubblefort (ZNR) 173
+4 Vanquish the Weak (ZNR) 131
+4 Inordinate Rage (ZNR) 144
+4 Oblivion's Hunger (ZNR) 119
+4 Tazeem Roilmage (ZNR) 84
+4 Resolute Strike (ZNR) 35
+4 Molten Blast (ZNR) 149
+4 Cliffhaven Sell-Sword (ZNR) 8
+4 Murasa Brute (ZNR) 195
+4 Practiced Tactics (ZNR) 32
+4 Smite the Monstrous (ZNR) 42
+4 Roil Eruption (ZNR) 155
+4 Blood Beckoning (ZNR) 92
+4 Cliffhaven Kitesail (ZNR) 243
+4 Kabira Outrider (ZNR) 18
+4 Shepherd of Heroes (ZNR) 38
+4 Rabid Bite (ZNR) 199
+4 Adventure Awaits (ZNR) 177
+4 Ghastly Gloomhunter (ZNR) 103
+4 Spitfire Lagac (ZNR) 167
+4 Farsight Adept (ZNR) 14
+4 Shell Shield (ZNR) 79
+4 Cunning Geysermage (ZNR) 55
+4 Territorial Scythecat (ZNR) 213
+4 Stonework Packbeast (ZNR) 255
+4 Joraga Visionary (ZNR) 188
+4 Chilling Trap (ZNR) 50
+4 Marauding Blight-Priest (ZNR) 112
+4 Scorch Rider (ZNR) 158
+4 Dauntless Survivor (ZNR) 184
+4 Drana's Silencer (ZNR) 99
+4 Nahiri's Binding (ZNR) 29
 ================================================================================
 Deck
-4 Might of Murasa (ZNR)
-4 Turntimber Ascetic (ZNR)
-4 Blood Price (ZNR)
-4 Cleansing Wildfire (ZNR)
-4 Cleric of Chill Depths (ZNR)
-4 Dreadwurm (ZNR)
-4 Guul Draz Mucklord (ZNR)
-4 Pyroclastic Hellion (ZNR)
-4 Utility Knife (ZNR)
-4 Field Research (ZNR)
-4 Expedition Diviner (ZNR)
-4 Bubble Snare (ZNR)
-4 A-Gnarlid Colony (ZNR)
-4 Synchronized Spellcraft (ZNR)
-4 Glacial Grasp (ZNR)
-4 Reclaim the Wastes (ZNR)
-4 Nimana Skitter-Sneak (ZNR)
-4 Seafloor Stalker (ZNR)
-4 Expedition Champion (ZNR)
-4 Pressure Point (ZNR)
-4 Living Tempest (ZNR)
-4 Dauntless Unity (ZNR)
-4 Sea Gate Banneret (ZNR)
-4 Tajuru Blightblade (ZNR)
-4 Fissure Wizard (ZNR)
-4 Makindi Ox (ZNR)
-4 Gnarlid Colony (ZNR)
-4 Risen Riptide (ZNR)
-4 Zulaport Duelist (ZNR)
-4 Expedition Healer (ZNR)
-4 Prowling Felidar (ZNR)
-4 Sea Gate Colossus (ZNR)
-4 Tormenting Voice (ZNR)
-4 Strength of Solidarity (ZNR)
-4 Teeterpeak Ambusher (ZNR)
+4 Might of Murasa (ZNR) 194
+4 Turntimber Ascetic (ZNR) 214
+4 Blood Price (ZNR) 93
+4 Cleansing Wildfire (ZNR) 137
+4 Cleric of Chill Depths (ZNR) 51
+4 Dreadwurm (ZNR) 100
+4 Guul Draz Mucklord (ZNR) 104
+4 Pyroclastic Hellion (ZNR) 152
+4 Utility Knife (ZNR) 256
+4 Field Research (ZNR) 58
+4 Expedition Diviner (ZNR) 57
+4 Bubble Snare (ZNR) 47
+4 A-Gnarlid Colony (ZNR) A-185
+4 Synchronized Spellcraft (ZNR) 168
+4 Glacial Grasp (ZNR) 59
+4 Reclaim the Wastes (ZNR) 200
+4 Nimana Skitter-Sneak (ZNR) 116
+4 Seafloor Stalker (ZNR) 78
+4 Expedition Champion (ZNR) 138
+4 Pressure Point (ZNR) 33
+4 Living Tempest (ZNR) 65
+4 Dauntless Unity (ZNR) 9
+4 Sea Gate Banneret (ZNR) 36
+4 Tajuru Blightblade (ZNR) 208
+4 Fissure Wizard (ZNR) 140
+4 Makindi Ox (ZNR) 25
+4 Gnarlid Colony (ZNR) 185
+4 Risen Riptide (ZNR) 73
+4 Zulaport Duelist (ZNR) 88
+4 Expedition Healer (ZNR) 13
+4 Prowling Felidar (ZNR) 34
+4 Sea Gate Colossus (ZNR) 251
+4 Tormenting Voice (ZNR) 172
+4 Strength of Solidarity (ZNR) 206
+4 Teeterpeak Ambusher (ZNR) 169

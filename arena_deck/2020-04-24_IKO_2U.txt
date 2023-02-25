@@ -1,77 +1,77 @@
 Deck
-4 Pollywog Symbiote (IKO)
-4 Dire Tactics (IKO)
-4 Fight as One (IKO)
-4 Boon of the Wish-Giver (IKO)
-4 Clash of Titans (IKO)
-4 Sanctuary Smasher (IKO)
-4 Stormwild Capridor (IKO)
-4 Indatha Crystal (IKO)
-4 Heartless Act (IKO)
-4 Unbreakable Bond (IKO)
-4 Ivy Elemental (IKO)
-4 Pouncing Shoreshark (IKO)
-4 Huntmaster Liger (IKO)
-4 Skull Prophet (IKO)
-4 Frillscare Mentor (IKO)
-4 Lore Drakkis (IKO)
-4 Ketria Crystal (IKO)
-4 Rooting Moloch (IKO)
-4 Exuberant Wolfbear (IKO)
-4 Flourishing Fox (IKO)
-4 Insatiable Hemophage (IKO)
-4 Grimdancer (IKO)
-4 Keensight Mentor (IKO)
-4 Momentum Rumbler (IKO)
-4 Swallow Whole (IKO)
-4 Barrier Breach (IKO)
-4 Ominous Seas (IKO)
-4 Savai Thundermane (IKO)
-4 Sanctuary Lockdown (IKO)
-4 Back for More (IKO)
-4 Alert Heedbonder (IKO)
-4 Void Beckoner (IKO)
-4 Trumpeting Gnarr (IKO)
-4 Cunning Nightbonder (IKO)
-4 Reptilian Reflection (IKO)
-4 Necropanther (IKO)
-4 Auspicious Starrix (IKO)
-4 Titanoth Rex (IKO)
-4 Zagoth Crystal (IKO)
-4 Boneyard Lurker (IKO)
-4 Sonorous Howlbonder (IKO)
-4 General's Enforcer (IKO)
-4 Charge of the Forever-Beast (IKO)
-4 Chittering Harvester (IKO)
-4 Call of the Death-Dweller (IKO)
-4 Majestic Auricorn (IKO)
-4 Jubilant Skybonder (IKO)
-4 Zagoth Mamba (IKO)
-4 Zenith Flare (IKO)
-4 Archipelagore (IKO)
-4 Raugrin Crystal (IKO)
-4 Monstrous Step (IKO)
-4 Glowstone Recluse (IKO)
-4 Easy Prey (IKO)
-4 Neutralize (IKO)
-4 Bastion of Remembrance (IKO)
-4 Valiant Rescuer (IKO)
-4 Savai Crystal (IKO)
-4 Blitz of the Thunder-Raptor (IKO)
-4 Avian Oddity (IKO)
-4 Duskfang Mentor (IKO)
-4 Flame Spill (IKO)
+4 Pollywog Symbiote (IKO) 63
+4 Dire Tactics (IKO) 183
+4 Fight as One (IKO) 12
+4 Boon of the Wish-Giver (IKO) 43
+4 Clash of Titans (IKO) 111
+4 Sanctuary Smasher (IKO) 135
+4 Stormwild Capridor (IKO) 34
+4 Indatha Crystal (IKO) 235
+4 Heartless Act (IKO) 91
+4 Unbreakable Bond (IKO) 101
+4 Ivy Elemental (IKO) 161
+4 Pouncing Shoreshark (IKO) 64
+4 Huntmaster Liger (IKO) 16
+4 Skull Prophet (IKO) 206
+4 Frillscare Mentor (IKO) 121
+4 Lore Drakkis (IKO) 194
+4 Ketria Crystal (IKO) 236
+4 Rooting Moloch (IKO) 133
+4 Exuberant Wolfbear (IKO) 151
+4 Flourishing Fox (IKO) 13
+4 Insatiable Hemophage (IKO) 93
+4 Grimdancer (IKO) 90
+4 Keensight Mentor (IKO) 18
+4 Momentum Rumbler (IKO) 126
+4 Swallow Whole (IKO) 35
+4 Barrier Breach (IKO) 145
+4 Ominous Seas (IKO) 61
+4 Savai Thundermane (IKO) 205
+4 Sanctuary Lockdown (IKO) 28
+4 Back for More (IKO) 177
+4 Alert Heedbonder (IKO) 218
+4 Void Beckoner (IKO) 104
+4 Trumpeting Gnarr (IKO) 213
+4 Cunning Nightbonder (IKO) 219
+4 Reptilian Reflection (IKO) 132
+4 Necropanther (IKO) 196
+4 Auspicious Starrix (IKO) 144
+4 Titanoth Rex (IKO) 174
+4 Zagoth Crystal (IKO) 242
+4 Boneyard Lurker (IKO) 178
+4 Sonorous Howlbonder (IKO) 230
+4 General's Enforcer (IKO) 188
+4 Charge of the Forever-Beast (IKO) 147
+4 Chittering Harvester (IKO) 80
+4 Call of the Death-Dweller (IKO) 78
+4 Majestic Auricorn (IKO) 22
+4 Jubilant Skybonder (IKO) 223
+4 Zagoth Mamba (IKO) 106
+4 Zenith Flare (IKO) 217
+4 Archipelagore (IKO) 41
+4 Raugrin Crystal (IKO) 238
+4 Monstrous Step (IKO) 166
+4 Glowstone Recluse (IKO) 156
+4 Easy Prey (IKO) 87
+4 Neutralize (IKO) 59
+4 Bastion of Remembrance (IKO) 73
+4 Valiant Rescuer (IKO) 36
+4 Savai Crystal (IKO) 239
+4 Blitz of the Thunder-Raptor (IKO) 109
+4 Avian Oddity (IKO) 42
+4 Duskfang Mentor (IKO) 86
+4 Flame Spill (IKO) 117
 ================================================================================
 Deck
-4 Parcelbeast (IKO)
-4 Will of the All-Hunter (IKO)
-4 Channeled Force (IKO)
-4 Porcuparrot (IKO)
-4 Proud Wildbonder (IKO)
-4 Escape Protocol (IKO)
-4 Lead the Stampede (IKO)
-4 Hornbash Mentor (IKO)
-4 Weaponize the Monsters (IKO)
-4 Regal Leosaur (IKO)
-4 Splendor Mare (IKO)
-4 Mystic Subdual (IKO)
+4 Parcelbeast (IKO) 199
+4 Will of the All-Hunter (IKO) 38
+4 Channeled Force (IKO) 180
+4 Porcuparrot (IKO) 128
+4 Proud Wildbonder (IKO) 229
+4 Escape Protocol (IKO) 48
+4 Lead the Stampede (IKO) 163
+4 Hornbash Mentor (IKO) 159
+4 Weaponize the Monsters (IKO) 140
+4 Regal Leosaur (IKO) 202
+4 Splendor Mare (IKO) 32
+4 Mystic Subdual (IKO) 57

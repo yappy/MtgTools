@@ -1,90 +1,90 @@
 Deck
-4 Faerie Guidemother // Gift of the Fae (ELD)
-4 Redcap Raiders (ELD)
-4 Shining Armor (ELD)
-4 Tuinvale Treefolk // Oaken Boon (ELD)
-4 Weapon Rack (ELD)
-4 Smitten Swordmaster // Curry Favor (ELD)
-4 Mystic Sanctuary (ELD)
-4 Outmuscle (ELD)
-4 Vantress Paladin (ELD)
-4 So Tiny (ELD)
-4 Memory Theft (ELD)
-4 Idyllic Grange (ELD)
-4 Rimrock Knight // Boulder Rush (ELD)
-4 Golden Egg (ELD)
-4 Searing Barrage (ELD)
-4 Garenbrig Squire (ELD)
-4 Garrison Griffin (ELD)
-4 Ardenvale Paladin (ELD)
-4 Forever Young (ELD)
-4 Crashing Drawbridge (ELD)
-4 Barge In (ELD)
-4 Foreboding Fruit (ELD)
-4 Bartered Cow (ELD)
-4 Garenbrig Paladin (ELD)
-4 Steelgaze Griffin (ELD)
-4 Garenbrig Carver // Shield's Might (ELD)
-4 Malevolent Noble (ELD)
-4 Wildwood Tracker (ELD)
-4 Merfolk Secretkeeper // Venture Deeper (ELD)
-4 Seven Dwarves (ELD)
-4 Insatiable Appetite (ELD)
-4 Eye Collector (ELD)
-4 Trapped in the Tower (ELD)
-4 Mantle of Tides (ELD)
-4 Flutterfox (ELD)
-4 Bloodhaze Wolverine (ELD)
-4 Rosethorn Acolyte // Seasonal Ritual (ELD)
-4 Lash of Thorns (ELD)
-4 Maraleaf Rider (ELD)
-4 Raging Redcap (ELD)
-4 Beloved Princess (ELD)
-4 Witch's Cottage (ELD)
-4 Locthwain Paladin (ELD)
-4 Dwarven Mine (ELD)
-4 Moonlit Scavengers (ELD)
-4 Festive Funeral (ELD)
-4 Crystal Slipper (ELD)
-4 Reave Soul (ELD)
-4 Oko's Accomplices (ELD)
-4 Silverflame Squire // On Alert (ELD)
-4 Rosethorn Halberd (ELD)
-4 True Love's Kiss (ELD)
-4 Barrow Witches (ELD)
-4 Unexplained Vision (ELD)
-4 Blow Your House Down (ELD)
-4 Giant's Skewer (ELD)
-4 Knight of the Keep (ELD)
-4 Fierce Witchstalker (ELD)
-4 Weaselback Redcap (ELD)
-4 Tall as a Beanstalk (ELD)
-4 Lost Legion (ELD)
-4 Didn't Say Please (ELD)
+4 Faerie Guidemother // Gift of the Fae (ELD) 11
+4 Redcap Raiders (ELD) 136
+4 Shining Armor (ELD) 29
+4 Tuinvale Treefolk // Oaken Boon (ELD) 180
+4 Weapon Rack (ELD) 236
+4 Smitten Swordmaster // Curry Favor (ELD) 105
+4 Mystic Sanctuary (ELD) 247
+4 Outmuscle (ELD) 170
+4 Vantress Paladin (ELD) 72
+4 So Tiny (ELD) 64
+4 Memory Theft (ELD) 96
+4 Idyllic Grange (ELD) 246
+4 Rimrock Knight // Boulder Rush (ELD) 137
+4 Golden Egg (ELD) 220
+4 Searing Barrage (ELD) 140
+4 Garenbrig Squire (ELD) 158
+4 Garrison Griffin (ELD) 305
+4 Ardenvale Paladin (ELD) 4
+4 Forever Young (ELD) 89
+4 Crashing Drawbridge (ELD) 217
+4 Barge In (ELD) 112
+4 Foreboding Fruit (ELD) 88
+4 Bartered Cow (ELD) 6
+4 Garenbrig Paladin (ELD) 157
+4 Steelgaze Griffin (ELD) 65
+4 Garenbrig Carver // Shield's Might (ELD) 156
+4 Malevolent Noble (ELD) 95
+4 Wildwood Tracker (ELD) 183
+4 Merfolk Secretkeeper // Venture Deeper (ELD) 53
+4 Seven Dwarves (ELD) 141
+4 Insatiable Appetite (ELD) 162
+4 Eye Collector (ELD) 86
+4 Trapped in the Tower (ELD) 33
+4 Mantle of Tides (ELD) 52
+4 Flutterfox (ELD) 12
+4 Bloodhaze Wolverine (ELD) 113
+4 Rosethorn Acolyte // Seasonal Ritual (ELD) 174
+4 Lash of Thorns (ELD) 92
+4 Maraleaf Rider (ELD) 166
+4 Raging Redcap (ELD) 134
+4 Beloved Princess (ELD) 7
+4 Witch's Cottage (ELD) 249
+4 Locthwain Paladin (ELD) 93
+4 Dwarven Mine (ELD) 243
+4 Moonlit Scavengers (ELD) 57
+4 Festive Funeral (ELD) 87
+4 Crystal Slipper (ELD) 119
+4 Reave Soul (ELD) 103
+4 Oko's Accomplices (ELD) 310
+4 Silverflame Squire // On Alert (ELD) 31
+4 Rosethorn Halberd (ELD) 175
+4 True Love's Kiss (ELD) 34
+4 Barrow Witches (ELD) 77
+4 Unexplained Vision (ELD) 70
+4 Blow Your House Down (ELD) 114
+4 Giant's Skewer (ELD) 91
+4 Knight of the Keep (ELD) 19
+4 Fierce Witchstalker (ELD) 154
+4 Weaselback Redcap (ELD) 148
+4 Tall as a Beanstalk (ELD) 178
+4 Lost Legion (ELD) 94
+4 Didn't Say Please (ELD) 42
 ================================================================================
 Deck
-4 Witching Well (ELD)
-4 Outflank (ELD)
-4 Mistford River Turtle (ELD)
-4 Wolf's Quarry (ELD)
-4 Fell the Pheasant (ELD)
-4 Lonesome Unicorn // Rider in Need (ELD)
-4 Prized Griffin (ELD)
-4 Reaper of Night // Harvest Fear (ELD)
-4 Henge Walker (ELD)
-4 Silverflame Ritual (ELD)
-4 Locthwain Gargoyle (ELD)
-4 Brimstone Trebuchet (ELD)
-4 Scalding Cauldron (ELD)
-4 Wicked Guardian (ELD)
-4 Curious Pair // Treats to Share (ELD)
-4 Sporecap Spider (ELD)
-4 Ardenvale Tactician // Dizzying Swoop (ELD)
-4 Prophet of the Peak (ELD)
-4 Tome Raider (ELD)
-4 Embereth Paladin (ELD)
-4 Youthful Knight (ELD)
-4 Fortifying Provisions (ELD)
-4 Queen of Ice // Rage of Winter (ELD)
-4 Merchant of the Vale // Haggle (ELD)
-4 Ogre Errant (ELD)
+4 Witching Well (ELD) 74
+4 Outflank (ELD) 23
+4 Mistford River Turtle (ELD) 56
+4 Wolf's Quarry (ELD) 184
+4 Fell the Pheasant (ELD) 153
+4 Lonesome Unicorn // Rider in Need (ELD) 21
+4 Prized Griffin (ELD) 24
+4 Reaper of Night // Harvest Fear (ELD) 102
+4 Henge Walker (ELD) 221
+4 Silverflame Ritual (ELD) 30
+4 Locthwain Gargoyle (ELD) 225
+4 Brimstone Trebuchet (ELD) 116
+4 Scalding Cauldron (ELD) 229
+4 Wicked Guardian (ELD) 109
+4 Curious Pair // Treats to Share (ELD) 150
+4 Sporecap Spider (ELD) 176
+4 Ardenvale Tactician // Dizzying Swoop (ELD) 5
+4 Prophet of the Peak (ELD) 227
+4 Tome Raider (ELD) 68
+4 Embereth Paladin (ELD) 121
+4 Youthful Knight (ELD) 37
+4 Fortifying Provisions (ELD) 13
+4 Queen of Ice // Rage of Winter (ELD) 61
+4 Merchant of the Vale // Haggle (ELD) 131
+4 Ogre Errant (ELD) 132

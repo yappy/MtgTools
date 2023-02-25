@@ -1,62 +1,62 @@
 Deck
-4 Kargan Intimidator (ZNR)
-4 Maul of the Skyclaves (ZNR)
-4 A-Phylath, World Sculptor (ZNR)
-4 Kaza, Roil Chaser (ZNR)
-4 Clearwater Pathway // Murkwater Pathway (ZNR)
-4 Inscription of Insight (ZNR)
-4 Ondu Inversion // Ondu Skyruins (ZNR)
-4 Brightclimb Pathway // Grimclimb Pathway (ZNR)
-4 Kazandu Mammoth // Kazandu Valley (ZNR)
-4 A-Oran-Rief Ooze (ZNR)
-4 Roiling Vortex (ZNR)
-4 Hagra Mauling // Hagra Broodpit (ZNR)
-4 Magmatic Channeler (ZNR)
-4 Phylath, World Sculptor (ZNR)
-4 Cragplate Baloth (ZNR)
-4 A-Kargan Intimidator (ZNR)
-4 Riverglide Pathway // Lavaglide Pathway (ZNR)
-4 Coveted Prize (ZNR)
-4 Shatterskull Charger (ZNR)
-4 A-Master of Winds (ZNR)
-4 Soul Shatter (ZNR)
-4 Coralhelm Chronicler (ZNR)
-4 Yasharn, Implacable Earth (ZNR)
-4 Cragcrown Pathway // Timbercrown Pathway (ZNR)
-4 Inscription of Ruin (ZNR)
-4 Master of Winds (ZNR)
-4 Branchloft Pathway // Boulderloft Pathway (ZNR)
-4 Throne of Makindi (ZNR)
-4 Shadows' Verdict (ZNR)
-4 Legion Angel (ZNR)
-4 Relic Robber (ZNR)
-4 Nahiri's Lithoforming (ZNR)
-4 Lotus Cobra (ZNR)
-4 Oran-Rief Ooze (ZNR)
-4 Taborax, Hope's Demise (ZNR)
-4 Grakmaw, Skyclave Ravager (ZNR)
-4 Zagras, Thief of Heartbeats (ZNR)
-4 Zareth San, the Trickster (ZNR)
-4 Inscription of Abundance (ZNR)
-4 Needleverge Pathway // Pillarverge Pathway (ZNR)
-4 Linvala, Shield of Sea Gate (ZNR)
-4 Tajuru Paragon (ZNR)
-4 Akiri, Fearless Voyager (ZNR)
-4 Nullpriest of Oblivion (ZNR)
-4 Glasspool Mimic // Glasspool Shore (ZNR)
-4 Charix, the Raging Isle (ZNR)
-4 Wayward Guide-Beast (ZNR)
-4 Archon of Emeria (ZNR)
-4 Valakut Exploration (ZNR)
-4 Verazol, the Split Current (ZNR)
-4 Skyclave Apparition (ZNR)
-4 Crawling Barrens (ZNR)
-4 Maddening Cacophony (ZNR)
-4 Nimble Trapfinder (ZNR)
-4 Skyclave Relic (ZNR)
-4 Swarm Shambler (ZNR)
-4 Thieving Skydiver (ZNR)
-4 Myriad Construct (ZNR)
-4 Confounding Conundrum (ZNR)
-4 Orah, Skyclave Hierophant (ZNR)
-4 Valakut Awakening // Valakut Stoneforge (ZNR)
+4 Kargan Intimidator (ZNR) 145
+4 Maul of the Skyclaves (ZNR) 27
+4 A-Phylath, World Sculptor (ZNR) A-234
+4 Kaza, Roil Chaser (ZNR) 225
+4 Clearwater Pathway // Murkwater Pathway (ZNR) 260
+4 Inscription of Insight (ZNR) 61
+4 Ondu Inversion // Ondu Skyruins (ZNR) 30
+4 Brightclimb Pathway // Grimclimb Pathway (ZNR) 259
+4 Kazandu Mammoth // Kazandu Valley (ZNR) 189
+4 A-Oran-Rief Ooze (ZNR) A-198
+4 Roiling Vortex (ZNR) 156
+4 Hagra Mauling // Hagra Broodpit (ZNR) 106
+4 Magmatic Channeler (ZNR) 148
+4 Phylath, World Sculptor (ZNR) 234
+4 Cragplate Baloth (ZNR) 183
+4 A-Kargan Intimidator (ZNR) A-145
+4 Riverglide Pathway // Lavaglide Pathway (ZNR) 264
+4 Coveted Prize (ZNR) 95
+4 Shatterskull Charger (ZNR) 159
+4 A-Master of Winds (ZNR) A-68
+4 Soul Shatter (ZNR) 127
+4 Coralhelm Chronicler (ZNR) 54
+4 Yasharn, Implacable Earth (ZNR) 240
+4 Cragcrown Pathway // Timbercrown Pathway (ZNR) 261
+4 Inscription of Ruin (ZNR) 108
+4 Master of Winds (ZNR) 68
+4 Branchloft Pathway // Boulderloft Pathway (ZNR) 258
+4 Throne of Makindi (ZNR) 265
+4 Shadows' Verdict (ZNR) 124
+4 Legion Angel (ZNR) 23
+4 Relic Robber (ZNR) 153
+4 Nahiri's Lithoforming (ZNR) 151
+4 Lotus Cobra (ZNR) 193
+4 Oran-Rief Ooze (ZNR) 198
+4 Taborax, Hope's Demise (ZNR) 129
+4 Grakmaw, Skyclave Ravager (ZNR) 223
+4 Zagras, Thief of Heartbeats (ZNR) 241
+4 Zareth San, the Trickster (ZNR) 242
+4 Inscription of Abundance (ZNR) 186
+4 Needleverge Pathway // Pillarverge Pathway (ZNR) 263
+4 Linvala, Shield of Sea Gate (ZNR) 226
+4 Tajuru Paragon (ZNR) 209
+4 Akiri, Fearless Voyager (ZNR) 220
+4 Nullpriest of Oblivion (ZNR) 118
+4 Glasspool Mimic // Glasspool Shore (ZNR) 60
+4 Charix, the Raging Isle (ZNR) 49
+4 Wayward Guide-Beast (ZNR) 176
+4 Archon of Emeria (ZNR) 4
+4 Valakut Exploration (ZNR) 175
+4 Verazol, the Split Current (ZNR) 239
+4 Skyclave Apparition (ZNR) 39
+4 Crawling Barrens (ZNR) 262
+4 Maddening Cacophony (ZNR) 67
+4 Nimble Trapfinder (ZNR) 72
+4 Skyclave Relic (ZNR) 252
+4 Swarm Shambler (ZNR) 207
+4 Thieving Skydiver (ZNR) 85
+4 Myriad Construct (ZNR) 246
+4 Confounding Conundrum (ZNR) 53
+4 Orah, Skyclave Hierophant (ZNR) 233
+4 Valakut Awakening // Valakut Stoneforge (ZNR) 174

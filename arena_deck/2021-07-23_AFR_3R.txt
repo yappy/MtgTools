@@ -1,63 +1,63 @@
 Deck
-4 Minion of the Mighty (AFR)
-4 Werewolf Pack Leader (AFR)
-4 Hall of Storm Giants (AFR)
-4 Wight (AFR)
-4 Nadaar, Selfless Paladin (AFR)
-4 Xorn (AFR)
-4 Lair of the Hydra (AFR)
-4 Sorcerer Class (AFR)
-4 Circle of Dreams Druid (AFR)
-4 Asmodeus the Archfiend (AFR)
-4 Cave of the Frost Dragon (AFR)
-4 Drizzt Do'Urden (AFR)
-4 Ochre Jelly (AFR)
-4 Wish (AFR)
-4 Westgate Regent (AFR)
-4 Eye of Vecna (AFR)
-4 Hand of Vecna (AFR)
-4 Gelatinous Cube (AFR)
-4 Treasure Vault (AFR)
-4 Treasure Chest (AFR)
-4 Meteor Swarm (AFR)
-4 Hobgoblin Bandit Lord (AFR)
-4 Bard Class (AFR)
-4 Vorpal Sword (AFR)
-4 Monk Class (AFR)
-4 Froghemoth (AFR)
-4 Triumphant Adventurer (AFR)
-4 A-Dungeon Descent (AFR)
-4 Wizard's Spellbook (AFR)
-4 Rogue Class (AFR)
-4 Fighter Class (AFR)
-4 True Polymorph (AFR)
-4 Delina, Wild Mage (AFR)
-4 Guardian of Faith (AFR)
-4 Skeletal Swarming (AFR)
-4 A-Ochre Jelly (AFR)
-4 Orcus, Prince of Undeath (AFR)
-4 Dragon Turtle (AFR)
-4 Adult Gold Dragon (AFR)
-4 The Blackstaff of Waterdeep (AFR)
-4 Paladin Class (AFR)
-4 Sphere of Annihilation (AFR)
-4 A-Sorcerer Class (AFR)
-4 Flumph (AFR)
-4 Varis, Silverymoon Ranger (AFR)
-4 Teleportation Circle (AFR)
-4 Loyal Warhound (AFR)
-4 Ranger Class (AFR)
-4 Hive of the Eye Tyrant (AFR)
-4 Forsworn Paladin (AFR)
-4 Instrument of the Bards (AFR)
-4 Orb of Dragonkind (AFR)
-4 Dancing Sword (AFR)
-4 Oswald Fiddlebender (AFR)
-4 Tasha's Hideous Laughter (AFR)
-4 Dungeon Descent (AFR)
-4 Yuan-Ti Malison (AFR)
-4 Volo, Guide to Monsters (AFR)
-4 A-Triumphant Adventurer (AFR)
-4 Den of the Bugbear (AFR)
-4 Zalto, Fire Giant Duke (AFR)
-4 Long Rest (AFR)
+4 Minion of the Mighty (AFR) 156
+4 Werewolf Pack Leader (AFR) 211
+4 Hall of Storm Giants (AFR) 257
+4 Wight (AFR) 127
+4 Nadaar, Selfless Paladin (AFR) 27
+4 Xorn (AFR) 167
+4 Lair of the Hydra (AFR) 259
+4 Sorcerer Class (AFR) 233
+4 Circle of Dreams Druid (AFR) 176
+4 Asmodeus the Archfiend (AFR) 88
+4 Cave of the Frost Dragon (AFR) 253
+4 Drizzt Do'Urden (AFR) 220
+4 Ochre Jelly (AFR) 196
+4 Wish (AFR) 166
+4 Westgate Regent (AFR) 126
+4 Eye of Vecna (AFR) 243
+4 Hand of Vecna (AFR) 246
+4 Gelatinous Cube (AFR) 105
+4 Treasure Vault (AFR) 261
+4 Treasure Chest (AFR) 252
+4 Meteor Swarm (AFR) 155
+4 Hobgoblin Bandit Lord (AFR) 147
+4 Bard Class (AFR) 217
+4 Vorpal Sword (AFR) 124
+4 Monk Class (AFR) 228
+4 Froghemoth (AFR) 184
+4 Triumphant Adventurer (AFR) 237
+4 A-Dungeon Descent (AFR) A-255
+4 Wizard's Spellbook (AFR) 82
+4 Rogue Class (AFR) 230
+4 Fighter Class (AFR) 222
+4 True Polymorph (AFR) 80
+4 Delina, Wild Mage (AFR) 138
+4 Guardian of Faith (AFR) 18
+4 Skeletal Swarming (AFR) 232
+4 A-Ochre Jelly (AFR) A-196
+4 Orcus, Prince of Undeath (AFR) 229
+4 Dragon Turtle (AFR) 56
+4 Adult Gold Dragon (AFR) 216
+4 The Blackstaff of Waterdeep (AFR) 48
+4 Paladin Class (AFR) 29
+4 Sphere of Annihilation (AFR) 121
+4 A-Sorcerer Class (AFR) A-233
+4 Flumph (AFR) 15
+4 Varis, Silverymoon Ranger (AFR) 209
+4 Teleportation Circle (AFR) 39
+4 Loyal Warhound (AFR) 23
+4 Ranger Class (AFR) 202
+4 Hive of the Eye Tyrant (AFR) 258
+4 Forsworn Paladin (AFR) 104
+4 Instrument of the Bards (AFR) 190
+4 Orb of Dragonkind (AFR) 157
+4 Dancing Sword (AFR) 8
+4 Oswald Fiddlebender (AFR) 28
+4 Tasha's Hideous Laughter (AFR) 78
+4 Dungeon Descent (AFR) 255
+4 Yuan-Ti Malison (AFR) 86
+4 Volo, Guide to Monsters (AFR) 238
+4 A-Triumphant Adventurer (AFR) A-237
+4 Den of the Bugbear (AFR) 254
+4 Zalto, Fire Giant Duke (AFR) 171
+4 Long Rest (AFR) 193

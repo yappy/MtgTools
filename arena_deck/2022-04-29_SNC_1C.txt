@@ -1,134 +1,134 @@
 Deck
-4 High-Rise Sawjack (SNC)
-4 Spara's Adjudicators (SNC)
-4 Ready to Rumble (SNC)
-4 Hold for Ransom (SNC)
-4 A-Social Climber (SNC)
-4 Chrome Cat (SNC)
-4 A-Celestial Regulator (SNC)
-4 Disdainful Stroke (SNC)
-4 Halo Scarab (SNC)
-4 Most Wanted (SNC)
-4 Dig Up the Body (SNC)
-4 Extract the Truth (SNC)
-4 Glittermonger (SNC)
-4 Waterfront District (SNC)
-4 Botanical Plaza (SNC)
-4 A-Shattered Seraph (SNC)
-4 Strangle (SNC)
-4 Civil Servant (SNC)
-4 Revelation of Power (SNC)
-4 Buy Your Silence (SNC)
-4 A-Jackhammer (SNC)
-4 Snooping Newsie (SNC)
-4 Witty Roastmaster (SNC)
-4 Boon of Safety (SNC)
-4 Backstreet Bruiser (SNC)
-4 A-Deal Gone Bad (SNC)
-4 Celebrity Fencer (SNC)
-4 Dapper Shieldmate (SNC)
-4 Celestial Regulator (SNC)
-4 Cutthroat Contender (SNC)
-4 Skybridge Towers (SNC)
-4 Jewel Thief (SNC)
-4 Quick-Draw Dagger (SNC)
-4 A-Midnight Assassin (SNC)
-4 Speakeasy Server (SNC)
-4 A-Ready to Rumble (SNC)
-4 Wrecking Crew (SNC)
-4 Warm Welcome (SNC)
-4 Riveteers Overlook (SNC)
-4 Capenna Express (SNC)
-4 Case the Joint (SNC)
-4 Majestic Metamorphosis (SNC)
-4 A-Speakeasy Server (SNC)
-4 Cabaretti Initiate (SNC)
-4 Make Disappear (SNC)
-4 Attended Socialite (SNC)
-4 A-Celebrity Fencer (SNC)
-4 Cabaretti Courtyard (SNC)
-4 Girder Goons (SNC)
-4 A-Paragon of Modernity (SNC)
-4 A-Warm Welcome (SNC)
-4 Expendable Lackey (SNC)
-4 Social Climber (SNC)
-4 A-Masked Bandits (SNC)
-4 Exhibition Magician (SNC)
-4 A-Ominous Parcel (SNC)
-4 Rakish Revelers (SNC)
-4 Racers' Ring (SNC)
-4 Raffine's Informant (SNC)
-4 Join the Maestros (SNC)
-4 Masked Bandits (SNC)
-4 Maestros Initiate (SNC)
+4 High-Rise Sawjack (SNC) 150
+4 Spara's Adjudicators (SNC) 224
+4 Ready to Rumble (SNC) 119
+4 Hold for Ransom (SNC) 16
+4 A-Social Climber (SNC) A-157
+4 Chrome Cat (SNC) 236
+4 A-Celestial Regulator (SNC) A-174
+4 Disdainful Stroke (SNC) 39
+4 Halo Scarab (SNC) 239
+4 Most Wanted (SNC) 153
+4 Dig Up the Body (SNC) 76
+4 Extract the Truth (SNC) 78
+4 Glittermonger (SNC) 149
+4 Waterfront District (SNC) 259
+4 Botanical Plaza (SNC) 247
+4 A-Shattered Seraph (SNC) A-221
+4 Strangle (SNC) 125
+4 Civil Servant (SNC) 176
+4 Revelation of Power (SNC) 28
+4 Buy Your Silence (SNC) 6
+4 A-Jackhammer (SNC) A-111
+4 Snooping Newsie (SNC) 222
+4 Witty Roastmaster (SNC) 131
+4 Boon of Safety (SNC) 4
+4 Backstreet Bruiser (SNC) 35
+4 A-Deal Gone Bad (SNC) A-74
+4 Celebrity Fencer (SNC) 7
+4 Dapper Shieldmate (SNC) 9
+4 Celestial Regulator (SNC) 174
+4 Cutthroat Contender (SNC) 73
+4 Skybridge Towers (SNC) 256
+4 Jewel Thief (SNC) 151
+4 Quick-Draw Dagger (SNC) 243
+4 A-Midnight Assassin (SNC) A-87
+4 Speakeasy Server (SNC) 32
+4 A-Ready to Rumble (SNC) A-119
+4 Wrecking Crew (SNC) 132
+4 Warm Welcome (SNC) 164
+4 Riveteers Overlook (SNC) 255
+4 Capenna Express (SNC) 139
+4 Case the Joint (SNC) 37
+4 Majestic Metamorphosis (SNC) 48
+4 A-Speakeasy Server (SNC) A-32
+4 Cabaretti Initiate (SNC) 137
+4 Make Disappear (SNC) 49
+4 Attended Socialite (SNC) 133
+4 A-Celebrity Fencer (SNC) A-7
+4 Cabaretti Courtyard (SNC) 249
+4 Girder Goons (SNC) 80
+4 A-Paragon of Modernity (SNC) A-242
+4 A-Warm Welcome (SNC) A-164
+4 Expendable Lackey (SNC) 43
+4 Social Climber (SNC) 157
+4 A-Masked Bandits (SNC) A-201
+4 Exhibition Magician (SNC) 106
+4 A-Ominous Parcel (SNC) A-241
+4 Rakish Revelers (SNC) 214
+4 Racers' Ring (SNC) 253
+4 Raffine's Informant (SNC) 26
+4 Join the Maestros (SNC) 85
+4 Masked Bandits (SNC) 201
+4 Maestros Initiate (SNC) 86
 ================================================================================
 Deck
-4 Rooftop Nuisance (SNC)
-4 Rhox Pummeler (SNC)
-4 Gilded Pinions (SNC)
-4 Shattered Seraph (SNC)
-4 A-Rakish Revelers (SNC)
-4 Maestros Theater (SNC)
-4 Run Out of Town (SNC)
-4 A-Revel Ruiner (SNC)
-4 Brokers Initiate (SNC)
-4 Crooked Custodian (SNC)
-4 Civic Gardener (SNC)
-4 A-Psionic Snoop (SNC)
-4 Psionic Snoop (SNC)
-4 Big Score (SNC)
-4 Witness Protection (SNC)
-4 A-Case the Joint (SNC)
-4 Fake Your Own Death (SNC)
-4 Raffine's Guidance (SNC)
-4 Revel Ruiner (SNC)
-4 Sewer Crocodile (SNC)
-4 Goldhound (SNC)
-4 A-Glittermonger (SNC)
-4 Gathering Throng (SNC)
-4 Brokers Hideout (SNC)
-4 Obscura Initiate (SNC)
-4 Ominous Parcel (SNC)
-4 Demon's Due (SNC)
-4 Body Dropper (SNC)
-4 Prizefight (SNC)
-4 A-Exhibition Magician (SNC)
-4 Paragon of Modernity (SNC)
-4 Light 'Em Up (SNC)
-4 Riveteers Initiate (SNC)
-4 Daring Escape (SNC)
-4 Security Bypass (SNC)
-4 Glamorous Outlaw (SNC)
-4 A-Buy Your Silence (SNC)
-4 A-Capenna Express (SNC)
-4 A-Sewer Crocodile (SNC)
-4 A-Riveteers Initiate (SNC)
-4 Inspiring Overseer (SNC)
-4 Echo Inspector (SNC)
-4 Sky Crier (SNC)
-4 Incriminate (SNC)
-4 A-High-Rise Sawjack (SNC)
-4 A-Demon's Due (SNC)
-4 Obscura Storefront (SNC)
-4 A-Spara's Adjudicators (SNC)
-4 Plasma Jockey (SNC)
-4 Backup Agent (SNC)
-4 Caldaia Strongarm (SNC)
-4 A-Glamorous Outlaw (SNC)
-4 Kill Shot (SNC)
-4 A-Most Wanted (SNC)
-4 Tramway Station (SNC)
-4 Deal Gone Bad (SNC)
-4 Corrupt Court Official (SNC)
-4 A-Incriminate (SNC)
-4 Midnight Assassin (SNC)
-4 A-Civil Servant (SNC)
-4 Antagonize (SNC)
-4 For the Family (SNC)
+4 Rooftop Nuisance (SNC) 57
+4 Rhox Pummeler (SNC) 155
+4 Gilded Pinions (SNC) 238
+4 Shattered Seraph (SNC) 221
+4 A-Rakish Revelers (SNC) A-214
+4 Maestros Theater (SNC) 251
+4 Run Out of Town (SNC) 58
+4 A-Revel Ruiner (SNC) A-91
+4 Brokers Initiate (SNC) 5
+4 Crooked Custodian (SNC) 71
+4 Civic Gardener (SNC) 140
+4 A-Psionic Snoop (SNC) A-53
+4 Psionic Snoop (SNC) 53
+4 Big Score (SNC) 102
+4 Witness Protection (SNC) 66
+4 A-Case the Joint (SNC) A-37
+4 Fake Your Own Death (SNC) 79
+4 Raffine's Guidance (SNC) 25
+4 Revel Ruiner (SNC) 91
+4 Sewer Crocodile (SNC) 60
+4 Goldhound (SNC) 108
+4 A-Glittermonger (SNC) A-149
+4 Gathering Throng (SNC) 13
+4 Brokers Hideout (SNC) 248
+4 Obscura Initiate (SNC) 50
+4 Ominous Parcel (SNC) 241
+4 Demon's Due (SNC) 75
+4 Body Dropper (SNC) 168
+4 Prizefight (SNC) 154
+4 A-Exhibition Magician (SNC) A-106
+4 Paragon of Modernity (SNC) 242
+4 Light 'Em Up (SNC) 113
+4 Riveteers Initiate (SNC) 120
+4 Daring Escape (SNC) 104
+4 Security Bypass (SNC) 59
+4 Glamorous Outlaw (SNC) 190
+4 A-Buy Your Silence (SNC) A-6
+4 A-Capenna Express (SNC) A-139
+4 A-Sewer Crocodile (SNC) A-60
+4 A-Riveteers Initiate (SNC) A-120
+4 Inspiring Overseer (SNC) 18
+4 Echo Inspector (SNC) 40
+4 Sky Crier (SNC) 31
+4 Incriminate (SNC) 84
+4 A-High-Rise Sawjack (SNC) A-150
+4 A-Demon's Due (SNC) A-75
+4 Obscura Storefront (SNC) 252
+4 A-Spara's Adjudicators (SNC) A-224
+4 Plasma Jockey (SNC) 115
+4 Backup Agent (SNC) 2
+4 Caldaia Strongarm (SNC) 138
+4 A-Glamorous Outlaw (SNC) A-190
+4 Kill Shot (SNC) 19
+4 A-Most Wanted (SNC) A-153
+4 Tramway Station (SNC) 258
+4 Deal Gone Bad (SNC) 74
+4 Corrupt Court Official (SNC) 70
+4 A-Incriminate (SNC) A-84
+4 Midnight Assassin (SNC) 87
+4 A-Civil Servant (SNC) A-176
+4 Antagonize (SNC) 100
+4 For the Family (SNC) 146
 ================================================================================
 Deck
-4 Jackhammer (SNC)
-4 Mayhem Patrol (SNC)
-4 Jetmir's Fixer (SNC)
-4 Sticky Fingers (SNC)
-4 Brokers Veteran (SNC)
+4 Jackhammer (SNC) 111
+4 Mayhem Patrol (SNC) 114
+4 Jetmir's Fixer (SNC) 194
+4 Sticky Fingers (SNC) 124
+4 Brokers Veteran (SNC) 36
