@@ -2,7 +2,6 @@ Deck
 4 Robber of the Rich (ELD) 138
 4 The Royal Scions (ELD) 199
 4 Oko, Thief of Crowns (ELD) 197
-4 The Great Henge (ELD) 161
 4 Outlaws' Merriment (ELD) 198
 4 The Magic Mirror (ELD) 51
 4 Korvold, Fae-Cursed King (ELD) 329
