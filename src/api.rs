@@ -139,7 +139,7 @@ pub struct Card {
     /// This value is consistent across reprinted card editions,
     /// and unique among different cards with the same name
     /// (tokens, Unstable variants, etc).
-    pub oracle_id: String,
+    pub oracle_id: Option<String>,
     /// A link to where you can begin paginating all re/prints for this card
     /// on Scryfall’s API.
     pub prints_search_uri: String,
