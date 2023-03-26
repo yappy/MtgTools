@@ -177,6 +177,8 @@
 <a href="#177" id="177">177</a>
 <a href="#178" id="178">178</a>
 <a href="#179" id="179">179</a>
+<a href="#180" id="180">180</a>
+<a href="#181" id="181">181</a>
 </pre><pre class="rust"><code><span class="kw">use </span>serde::{Deserialize, Serialize};
 
 <span class="doccomment">/// &lt;https://scryfall.com/docs/api/lists&gt;
@@ -333,6 +335,8 @@
     /// If this card has multiple faces,
     /// this field will contain both names separated by ␣//␣.
     </span><span class="kw">pub </span>name: String,
+    <span class="doccomment">/// The type line of this card.
+    </span><span class="kw">pub </span>type_line: <span class="prelude-ty">Option</span>&lt;String&gt;,
 
     <span class="doccomment">/// This card’s rarity.
     /// One of common, uncommon, rare, special, mythic, or bonus.

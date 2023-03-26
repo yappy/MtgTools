@@ -121,6 +121,7 @@
 <a href="#121" id="121">121</a>
 <a href="#122" id="122">122</a>
 <a href="#123" id="123">123</a>
+<a href="#124" id="124">124</a>
 </pre><pre class="rust"><code><span class="kw">use </span>std::{
     cmp::Ordering,
     fs::File,
@@ -168,7 +169,8 @@
 <span class="kw">fn </span>create_one(cards: <span class="kw-2">&amp;</span>Cards, set: <span class="kw-2">&amp;</span>api::Set, rarity: <span class="kw-2">&amp;</span>str, rname: <span class="kw-2">&amp;</span>str) -&gt; <span class="prelude-ty">Result</span>&lt;()&gt; {
     <span class="kw">let </span>cards = cards
         .iter()
-        .filter(|card| card.set_id == set.id &amp;&amp; card.rarity == rarity);
+        .filter(|card| card.set_id == set.id &amp;&amp; card.rarity == rarity)
+        .filter(|card| !(card.type_line.is_some() &amp;&amp; card.type_line.as_ref().unwrap().starts_with(<span class="string">&quot;Basic Land&quot;</span>)));
 
     {
         <span class="kw">let </span>path = <span class="macro">format!</span>(
