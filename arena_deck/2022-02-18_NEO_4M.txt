@@ -1,69 +1,69 @@
 Deck
+4 Ao, the Dawn Sky (NEO) 2
+4 Ao, the Dawn Sky (NEO) 406
+4 Ao, the Dawn Sky (NEO) 433
+4 Atsushi, the Blazing Sky (NEO) 134
+4 Atsushi, the Blazing Sky (NEO) 410
+4 Atsushi, the Blazing Sky (NEO) 463
+4 Blade of the Oni (NEO) 89
+4 Blade of the Oni (NEO) 377
+4 Blade of the Oni (NEO) 420
+4 Blade of the Oni (NEO) 453
+4 Explosive Singularity (NEO) 140
+4 Explosive Singularity (NEO) 383
+4 Explosive Singularity (NEO) 422
+4 Explosive Singularity (NEO) 464
+4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 221
+4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 361
+4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 486
+4 Jin-Gitaxias, Progress Tyrant (NEO) 59
+4 Jin-Gitaxias, Progress Tyrant (NEO) 307
 4 Jin-Gitaxias, Progress Tyrant (NEO) 371
+4 Jin-Gitaxias, Progress Tyrant (NEO) 427
+4 Jin-Gitaxias, Progress Tyrant (NEO) 445
+4 Jin-Gitaxias, Progress Tyrant (NEO) 513
+4 Jin-Gitaxias, Progress Tyrant (NEO) 514
+4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
+4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 359
+4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 475
+4 Junji, the Midnight Sky (NEO) 102
+4 Junji, the Midnight Sky (NEO) 409
+4 Junji, the Midnight Sky (NEO) 456
+4 Kairi, the Swirling Sky (NEO) 60
+4 Kairi, the Swirling Sky (NEO) 408
+4 Kairi, the Swirling Sky (NEO) 446
+4 Kaito Shizuki (NEO) 226
+4 Kaito Shizuki (NEO) 305
+4 Kaito Shizuki (NEO) 350
+4 Kaito Shizuki (NEO) 424
+4 Kodama of the West Tree (NEO) 199
+4 Kodama of the West Tree (NEO) 392
+4 Kodama of the West Tree (NEO) 423
+4 Kodama of the West Tree (NEO) 477
 4 Kura, the Boundless Sky (NEO) 200
 4 Kura, the Boundless Sky (NEO) 411
-4 Ao, the Dawn Sky (NEO) 433
-4 Junji, the Midnight Sky (NEO) 409
-4 Blade of the Oni (NEO) 420
-4 Tezzeret, Betrayer of Flesh (NEO) 84
-4 Tamiyo, Compleated Sage (NEO) 238
-4 The Wandering Emperor (NEO) 418
-4 Nashi, Moon Sage's Scion (NEO) 114
-4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 359
-4 Nashi, Moon Sage's Scion (NEO) 459
-4 Kaito Shizuki (NEO) 226
-4 Nashi, Moon Sage's Scion (NEO) 421
-4 The Kami War // O-Kagachi Made Manifest (NEO) 227
-4 Tezzeret, Betrayer of Flesh (NEO) 419
-4 Blade of the Oni (NEO) 377
-4 Blade of the Oni (NEO) 453
-4 Kairi, the Swirling Sky (NEO) 408
-4 Junji, the Midnight Sky (NEO) 456
-4 Tamiyo, Compleated Sage (NEO) 306
-4 Ao, the Dawn Sky (NEO) 406
-4 The Kami War // O-Kagachi Made Manifest (NEO) 489
-4 The Wandering Emperor (NEO) 303
-4 Jin-Gitaxias, Progress Tyrant (NEO) 445
-4 Atsushi, the Blazing Sky (NEO) 134
-4 Nashi, Moon Sage's Scion (NEO) 343
-4 Atsushi, the Blazing Sky (NEO) 463
-4 Spirit-Sister's Call (NEO) 495
-4 Explosive Singularity (NEO) 422
-4 Tamiyo, Compleated Sage (NEO) 428
-4 Kodama of the West Tree (NEO) 423
-4 Jin-Gitaxias, Progress Tyrant (NEO) 307
-4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 361
-4 Jin-Gitaxias, Progress Tyrant (NEO) 513
-4 Ao, the Dawn Sky (NEO) 2
-4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 221
-4 Junji, the Midnight Sky (NEO) 102
-4 Jin-Gitaxias, Progress Tyrant (NEO) 514
-4 Explosive Singularity (NEO) 383
-4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
-4 Kodama of the West Tree (NEO) 477
-4 Explosive Singularity (NEO) 464
-4 Tezzeret, Betrayer of Flesh (NEO) 304
-4 Kaito Shizuki (NEO) 350
-4 Kairi, the Swirling Sky (NEO) 60
-4 Kaito Shizuki (NEO) 424
-4 Kodama of the West Tree (NEO) 392
-4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 486
-4 Blade of the Oni (NEO) 89
-4 The Wandering Emperor (NEO) 316
-4 Kairi, the Swirling Sky (NEO) 446
-4 Jin-Gitaxias, Progress Tyrant (NEO) 59
-4 Tamiyo, Compleated Sage (NEO) 308
-4 Spirit-Sister's Call (NEO) 400
-4 The Kami War // O-Kagachi Made Manifest (NEO) 362
-4 Tezzeret, Betrayer of Flesh (NEO) 376
 4 Kura, the Boundless Sky (NEO) 478
-4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 475
-4 Kaito Shizuki (NEO) 305
-4 Explosive Singularity (NEO) 140
-4 Atsushi, the Blazing Sky (NEO) 410
+4 Nashi, Moon Sage's Scion (NEO) 114
+4 Nashi, Moon Sage's Scion (NEO) 343
+4 Nashi, Moon Sage's Scion (NEO) 421
+4 Nashi, Moon Sage's Scion (NEO) 459
+4 Spirit-Sister's Call (NEO) 237
+4 Spirit-Sister's Call (NEO) 400
+4 Spirit-Sister's Call (NEO) 495
+4 Tamiyo, Compleated Sage (NEO) 238
+4 Tamiyo, Compleated Sage (NEO) 306
+4 Tamiyo, Compleated Sage (NEO) 308
+4 Tamiyo, Compleated Sage (NEO) 428
+4 Tezzeret, Betrayer of Flesh (NEO) 84
+4 Tezzeret, Betrayer of Flesh (NEO) 304
+4 Tezzeret, Betrayer of Flesh (NEO) 376
+4 Tezzeret, Betrayer of Flesh (NEO) 419
+4 The Kami War // O-Kagachi Made Manifest (NEO) 227
+4 The Kami War // O-Kagachi Made Manifest (NEO) 362
+4 The Kami War // O-Kagachi Made Manifest (NEO) 489
 ================================================================================
 Deck
-4 Kodama of the West Tree (NEO) 199
-4 Spirit-Sister's Call (NEO) 237
 4 The Wandering Emperor (NEO) 42
-4 Jin-Gitaxias, Progress Tyrant (NEO) 427
+4 The Wandering Emperor (NEO) 303
+4 The Wandering Emperor (NEO) 316
+4 The Wandering Emperor (NEO) 418

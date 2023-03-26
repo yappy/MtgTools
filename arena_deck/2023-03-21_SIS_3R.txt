@@ -1,13 +1,13 @@
 Deck
-4 Skirsdag High Priest (SIS) 34
 4 Angel of Flight Alabaster (SIS) 1
-4 Gutter Grime (SIS) 51
 4 Cackling Counterpart (SIS) 14
-4 Zealous Conscripts (SIS) 47
+4 Devil's Play (SIS) 39
+4 Divine Reckoning (SIS) 4
+4 Gutter Grime (SIS) 51
+4 Havengul Runebinder (SIS) 16
 4 Increasing Ambition (SIS) 32
 4 Kruin Outlaw // Terror of Kruin Pass (SIS) 42
 4 Mayor of Avabruck // Howlpack Alpha (SIS) 53
-4 Divine Reckoning (SIS) 4
 4 Requiem Angel (SIS) 11
-4 Devil's Play (SIS) 39
-4 Havengul Runebinder (SIS) 16
+4 Skirsdag High Priest (SIS) 34
+4 Zealous Conscripts (SIS) 47

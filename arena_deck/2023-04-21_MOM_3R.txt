@@ -1,16 +1,16 @@
 Deck
-4 Omnath, Locus of All (MOM) 249
-4 Yargle and Multani (MOM) 317
+4 Breach the Multiverse (MOM) 94
+4 Breach the Multiverse (MOM) 358
+4 Drana and Linvala (MOM) 222
 4 Faerie Mastermind (MOM) 58
-4 Omnath, Locus of All (MOM) 313
-4 Omnath, Locus of All (MOM) 387
-4 Ghalta and Mavren (MOM) 386
-4 Yargle and Multani (MOM) 256
-4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 17
+4 Faerie Mastermind (MOM) 352
 4 Ghalta and Mavren (MOM) 225
 4 Ghalta and Mavren (MOM) 307
-4 Drana and Linvala (MOM) 222
+4 Ghalta and Mavren (MOM) 386
+4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 17
 4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 293
-4 Breach the Multiverse (MOM) 94
-4 Faerie Mastermind (MOM) 352
-4 Breach the Multiverse (MOM) 358
+4 Omnath, Locus of All (MOM) 249
+4 Omnath, Locus of All (MOM) 313
+4 Omnath, Locus of All (MOM) 387
+4 Yargle and Multani (MOM) 256
+4 Yargle and Multani (MOM) 317

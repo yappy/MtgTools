@@ -1,11 +1,11 @@
 Deck
-4 Jin-Gitaxias // The Great Synthesis (MOM) 294
-4 Wrenn and Realmbreaker (MOM) 322
-4 Jin-Gitaxias // The Great Synthesis (MOM) 65
-4 Thalia and The Gitrog Monster (MOM) 316
-4 Chandra, Hope's Beacon (MOM) 321
-4 Wrenn and Realmbreaker (MOM) 217
-4 Thalia and The Gitrog Monster (MOM) 255
 4 Archangel Elspeth (MOM) 320
 4 Chandra, Hope's Beacon (MOM) 134
+4 Chandra, Hope's Beacon (MOM) 321
+4 Jin-Gitaxias // The Great Synthesis (MOM) 65
+4 Jin-Gitaxias // The Great Synthesis (MOM) 294
 4 Jin-Gitaxias // The Great Synthesis (MOM) 339
+4 Thalia and The Gitrog Monster (MOM) 255
+4 Thalia and The Gitrog Monster (MOM) 316
+4 Wrenn and Realmbreaker (MOM) 217
+4 Wrenn and Realmbreaker (MOM) 322

@@ -45,7 +45,8 @@ fn load_all_cards() -> Result<Cards> {
 fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Result<()> {
     let cards = cards
         .iter()
-        .filter(|card| card.set_id == set.id && card.rarity == rarity);
+        .filter(|card| card.set_id == set.id && card.rarity == rarity)
+        .filter(|card| !(card.type_line.is_some() && card.type_line.as_ref().unwrap().starts_with("Basic Land")));
 
     {
         let path = format!(

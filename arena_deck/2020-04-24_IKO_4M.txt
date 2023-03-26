@@ -1,40 +1,40 @@
 Deck
-4 Luminous Broodmoth (IKO) 316
-4 Zilortha, Strength Incarnate (IKO) 275a
-4 Chevill, Bane of Monsters (IKO) 330
-4 Lukka, Coppercoat Outcast (IKO) 276
-4 General Kudro of Drannith (IKO) 187
-4 Vivien, Monsters' Advocate (IKO) 277
+4 A-Winota, Joiner of Forces (IKO) A-216
+4 Brokkos, Apex of Forever (IKO) 179
+4 Brokkos, Apex of Forever (IKO) 299
 4 Brokkos, Apex of Forever (IKO) 378
-4 Luminous Broodmoth (IKO) 371
-4 Vivien, Monsters' Advocate (IKO) 175
-4 Snapdax, Apex of the Hunt (IKO) 209
+4 Chevill, Bane of Monsters (IKO) 181
+4 Chevill, Bane of Monsters (IKO) 330
+4 Fiend Artisan (IKO) 220
+4 Fiend Artisan (IKO) 350
+4 General Kudro of Drannith (IKO) 187
+4 General Kudro of Drannith (IKO) 335
+4 Illuna, Apex of Wishes (IKO) 190
+4 Illuna, Apex of Wishes (IKO) 300
+4 Illuna, Apex of Wishes (IKO) 379
+4 Kinnan, Bonder Prodigy (IKO) 192
 4 Kinnan, Bonder Prodigy (IKO) 338
 4 Lukka, Coppercoat Outcast (IKO) 125
-4 Illuna, Apex of Wishes (IKO) 300
-4 Winota, Joiner of Forces (IKO) 216
-4 Brokkos, Apex of Forever (IKO) 299
-4 Rielle, the Everwise (IKO) 203
-4 Kinnan, Bonder Prodigy (IKO) 192
-4 Fiend Artisan (IKO) 350
-4 Vadrok, Apex of Thunder (IKO) 308
-4 Snapdax, Apex of the Hunt (IKO) 381
-4 A-Winota, Joiner of Forces (IKO) A-216
-4 Rielle, the Everwise (IKO) 342
-4 Fiend Artisan (IKO) 220
-4 Winota, Joiner of Forces (IKO) 349
-4 Nethroi, Apex of Death (IKO) 197
-4 Narset of the Ancient Way (IKO) 278
-4 Zilortha, Strength Incarnate (IKO) 275
-4 Illuna, Apex of Wishes (IKO) 190
-4 Nethroi, Apex of Death (IKO) 380
-4 Nethroi, Apex of Death (IKO) 303
+4 Lukka, Coppercoat Outcast (IKO) 276
 4 Luminous Broodmoth (IKO) 21
-4 Illuna, Apex of Wishes (IKO) 379
-4 Brokkos, Apex of Forever (IKO) 179
-4 Snapdax, Apex of the Hunt (IKO) 306
-4 Vadrok, Apex of Thunder (IKO) 383
-4 General Kudro of Drannith (IKO) 335
-4 Vadrok, Apex of Thunder (IKO) 214
+4 Luminous Broodmoth (IKO) 316
+4 Luminous Broodmoth (IKO) 371
 4 Narset of the Ancient Way (IKO) 195
-4 Chevill, Bane of Monsters (IKO) 181
+4 Narset of the Ancient Way (IKO) 278
+4 Nethroi, Apex of Death (IKO) 197
+4 Nethroi, Apex of Death (IKO) 303
+4 Nethroi, Apex of Death (IKO) 380
+4 Rielle, the Everwise (IKO) 203
+4 Rielle, the Everwise (IKO) 342
+4 Snapdax, Apex of the Hunt (IKO) 209
+4 Snapdax, Apex of the Hunt (IKO) 306
+4 Snapdax, Apex of the Hunt (IKO) 381
+4 Vadrok, Apex of Thunder (IKO) 214
+4 Vadrok, Apex of Thunder (IKO) 308
+4 Vadrok, Apex of Thunder (IKO) 383
+4 Vivien, Monsters' Advocate (IKO) 175
+4 Vivien, Monsters' Advocate (IKO) 277
+4 Winota, Joiner of Forces (IKO) 216
+4 Winota, Joiner of Forces (IKO) 349
+4 Zilortha, Strength Incarnate (IKO) 275
+4 Zilortha, Strength Incarnate (IKO) 275a
