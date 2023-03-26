@@ -154,6 +154,8 @@ pub struct Card {
     /// If this card has multiple faces,
     /// this field will contain both names separated by ␣//␣.
     pub name: String,
+    /// The type line of this card.
+    pub type_line: Option<String>,
 
     /// This card’s rarity.
     /// One of common, uncommon, rare, special, mythic, or bonus.
