@@ -42,6 +42,16 @@ fn load_all_cards() -> Result<Cards> {
     Ok(cards)
 }
 
+/// Return 1st-face name if multiple faced card
+fn convert_name(orig: &str) -> &str {
+    let idx = orig.find(" // ");
+    if let Some(idx) = idx {
+        &orig[0..idx]
+    }else {
+        orig
+    }
+}
+
 fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Result<()> {
     let cards = cards
         .iter()
@@ -70,7 +80,7 @@ fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Resul
             writeln!(
                 &mut outfile,
                 "4 {} ({}) {}",
-                card.name,
+                convert_name(&card.name),
                 set.code.to_ascii_uppercase(),
                 card.collector_number
             )?;
