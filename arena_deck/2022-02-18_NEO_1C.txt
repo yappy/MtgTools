@@ -14,7 +14,7 @@ Deck
 4 Automated Artificer (NEO) 239
 4 Bamboo Grove Archer (NEO) 173
 4 Bearer of Memory (NEO) 174
-4 Befriending the Moths // Imperial Moth (NEO) 4
+4 Befriending the Moths (NEO) 4
 4 Bloodfell Caves (NEO) 264
 4 Blossoming Sands (NEO) 265
 4 Brute Suit (NEO) 241
@@ -35,7 +35,7 @@ Deck
 4 Ecologist's Terrarium (NEO) 246
 4 Eiganjo Exemplar (NEO) 10
 4 Eiganjo Exemplar (NEO) 309
-4 Era of Enlightenment // Hand of Enlightenment (NEO) 11
+4 Era of Enlightenment (NEO) 11
 4 Experimental Synthesizer (NEO) 138
 4 Explosive Entry (NEO) 139
 4 Fade into Antiquity (NEO) 182
@@ -94,7 +94,7 @@ Deck
 4 Nezumi Bladeblesser (NEO) 115
 4 Nezumi Bladeblesser (NEO) 318
 4 Ninja's Kunai (NEO) 252
-4 Okiba Reckoner Raid // Nezumi Road Captain (NEO) 117
+4 Okiba Reckoner Raid (NEO) 117
 4 Papercraft Decoy (NEO) 253
 4 Peerless Samurai (NEO) 156
 4 Peerless Samurai (NEO) 322
@@ -123,13 +123,13 @@ Deck
 4 Sunblade Samurai (NEO) 39
 4 Sunblade Samurai (NEO) 315
 4 Swiftwater Cliffs (NEO) 277
-4 Tales of Master Seshiro // Seshiro's Living Legacy (NEO) 210
+4 Tales of Master Seshiro (NEO) 210
 4 Tamiyo's Compleation (NEO) 83
 ================================================================================
 Deck
 4 Tamiyo's Safekeeping (NEO) 211
-4 The Modern Age // Vector Glider (NEO) 66
-4 The Shattered States Era // Nameless Conqueror (NEO) 162
+4 The Modern Age (NEO) 66
+4 The Shattered States Era (NEO) 162
 4 Thornwood Falls (NEO) 279
 4 Thundersteel Colossus (NEO) 261
 4 Towashi Songshaper (NEO) 167

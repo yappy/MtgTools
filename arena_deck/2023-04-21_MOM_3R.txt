@@ -7,8 +7,8 @@ Deck
 4 Ghalta and Mavren (MOM) 225
 4 Ghalta and Mavren (MOM) 307
 4 Ghalta and Mavren (MOM) 386
-4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 17
-4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 293
+4 Heliod, the Radiant Dawn (MOM) 17
+4 Heliod, the Radiant Dawn (MOM) 293
 4 Omnath, Locus of All (MOM) 249
 4 Omnath, Locus of All (MOM) 313
 4 Omnath, Locus of All (MOM) 387

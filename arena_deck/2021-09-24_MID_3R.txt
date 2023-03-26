@@ -10,8 +10,8 @@ Deck
 4 Bloodline Culling (MID) 343
 4 Briarbridge Tracker (MID) 172
 4 Briarbridge Tracker (MID) 361
-4 Brutal Cathar // Moonrage Brute (MID) 7
-4 Brutal Cathar // Moonrage Brute (MID) 286
+4 Brutal Cathar (MID) 7
+4 Brutal Cathar (MID) 286
 4 Burn Down the House (MID) 131
 4 Burn Down the House (MID) 352
 4 Can't Stay Away (MID) 213
@@ -21,16 +21,16 @@ Deck
 4 Champion of the Perished (MID) 385
 4 Croaking Counterpart (MID) 215
 4 Croaking Counterpart (MID) 369
-4 Curse of Leeches // Leeching Lurker (MID) 94
-4 Curse of Leeches // Leeching Lurker (MID) 345
+4 Curse of Leeches (MID) 94
+4 Curse of Leeches (MID) 345
 4 Curse of Shaken Faith (MID) 134
 4 Curse of Shaken Faith (MID) 353
 4 Curse of Silence (MID) 15
 4 Curse of Silence (MID) 326
 4 Curse of Surveillance (MID) 46
 4 Curse of Surveillance (MID) 334
-4 Dennick, Pious Apprentice // Dennick, Pious Apparition (MID) 217
-4 Dennick, Pious Apprentice // Dennick, Pious Apparition (MID) 317
+4 Dennick, Pious Apprentice (MID) 217
+4 Dennick, Pious Apprentice (MID) 317
 4 Deserted Beach (MID) 260
 4 Deserted Beach (MID) 281
 4 Dire-Strain Rampage (MID) 219
@@ -52,8 +52,8 @@ Deck
 4 Grafted Identity (MID) 57
 4 Grafted Identity (MID) 335
 4 Grafted Identity (MID) 57†
-4 Graveyard Trespasser // Graveyard Glutton (MID) 104
-4 Graveyard Trespasser // Graveyard Glutton (MID) 290
+4 Graveyard Trespasser (MID) 104
+4 Graveyard Trespasser (MID) 290
 4 Hallowed Respite (MID) 227
 4 Hallowed Respite (MID) 373
 4 Haunted Ridge (MID) 263
@@ -68,10 +68,10 @@ Deck
 4 Liesa, Forgotten Archangel (MID) 319
 4 Light Up the Night (MID) 146
 4 Light Up the Night (MID) 356
-4 Ludevic, Necrogenius // Olag, Ludevic's Hubris (MID) 233
-4 Ludevic, Necrogenius // Olag, Ludevic's Hubris (MID) 320
-4 Malevolent Hermit // Benevolent Geist (MID) 61
-4 Malevolent Hermit // Benevolent Geist (MID) 336
+4 Ludevic, Necrogenius (MID) 233
+4 Ludevic, Necrogenius (MID) 320
+4 Malevolent Hermit (MID) 61
+4 Malevolent Hermit (MID) 336
 4 Mask of Griselbrand (MID) 111
 4 Mask of Griselbrand (MID) 347
 4 Memory Deluge (MID) 62
@@ -84,8 +84,8 @@ Deck
 4 Patrician Geist (MID) 338
 4 Pithing Needle (MID) 257
 4 Pithing Needle (MID) 378
-4 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
-4 Reckless Stormseeker // Storm-Charged Slasher (MID) 294
+4 Reckless Stormseeker (MID) 157
+4 Reckless Stormseeker (MID) 294
 4 Rem Karolus, Stalwart Slayer (MID) 235
 4 Rem Karolus, Stalwart Slayer (MID) 322
 4 Rite of Harmony (MID) 236
@@ -106,20 +106,20 @@ Deck
 4 Slogurk, the Overslime (MID) 324
 4 Sludge Monster (MID) 76
 4 Sludge Monster (MID) 340
-4 Smoldering Egg // Ashmouth Dragon (MID) 159
-4 Smoldering Egg // Ashmouth Dragon (MID) 358
+4 Smoldering Egg (MID) 159
+4 Smoldering Egg (MID) 358
 4 Storm the Festival (MID) 200
 4 Storm the Festival (MID) 364
 4 Sungold Sentinel (MID) 37
 4 Sungold Sentinel (MID) 332
-4 Suspicious Stowaway // Seafaring Werewolf (MID) 80
-4 Suspicious Stowaway // Seafaring Werewolf (MID) 288
+4 Suspicious Stowaway (MID) 80
+4 Suspicious Stowaway (MID) 288
 4 The Celestus (MID) 252
 4 The Celestus (MID) 377
-4 Tovolar's Huntmaster // Tovolar's Packleader (MID) 204
-4 Tovolar's Huntmaster // Tovolar's Packleader (MID) 306
-4 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (MID) 246
-4 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (MID) 311
+4 Tovolar's Huntmaster (MID) 204
+4 Tovolar's Huntmaster (MID) 306
+4 Tovolar, Dire Overlord (MID) 246
+4 Tovolar, Dire Overlord (MID) 311
 4 Triskaidekaphile (MID) 81
 4 Triskaidekaphile (MID) 342
 4 Triskaidekaphile (MID) 386

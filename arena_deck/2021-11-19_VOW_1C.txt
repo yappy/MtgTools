@@ -1,6 +1,6 @@
 Deck
-4 A-Binding Geist // A-Spectral Binding (VOW) A-48
-4 A-Lantern Bearer // A-Lanterns' Lift (VOW) A-66
+4 A-Binding Geist (VOW) A-48
+4 A-Lantern Bearer (VOW) A-66
 4 A-Stitched Assistant (VOW) A-81
 4 Abrade (VOW) 139
 4 Adamant Will (VOW) 1
@@ -10,7 +10,7 @@ Deck
 4 Apprentice Sharpshooter (VOW) 185
 4 Belligerent Guest (VOW) 144
 4 Belligerent Guest (VOW) 301
-4 Binding Geist // Spectral Binding (VOW) 48
+4 Binding Geist (VOW) 48
 4 Bleed Dry (VOW) 94
 4 Blood Fountain (VOW) 95
 4 Blood Petal Celebrant (VOW) 146
@@ -28,18 +28,18 @@ Deck
 4 Crushing Canopy (VOW) 194
 4 Dawnhart Disciple (VOW) 196
 4 Daybreak Combatants (VOW) 153
-4 Desperate Farmer // Depraved Harvester (VOW) 104
+4 Desperate Farmer (VOW) 104
 4 Diregraf Scavenger (VOW) 105
 4 Doomed Dissenter (VOW) 106
 4 Dreadlight Monstrosity (VOW) 57
-4 Drogskol Infantry // Drogskol Armaments (VOW) 10
+4 Drogskol Infantry (VOW) 10
 4 End the Festivities (VOW) 155
 4 Estwald Shieldbasher (VOW) 11
 4 Evolving Wilds (VOW) 263
 4 Falkenrath Celebrants (VOW) 156
 4 Falkenrath Celebrants (VOW) 306
 4 Fear of Death (VOW) 59
-4 Fearful Villager // Fearsome Werewolf (VOW) 157
+4 Fearful Villager (VOW) 157
 4 Fierce Retribution (VOW) 13
 4 Flame-Blessed Bolt (VOW) 158
 4 Flourishing Hunter (VOW) 199
@@ -51,12 +51,12 @@ Deck
 4 Heron of Hope (VOW) 18
 4 Heron-Blessed Geist (VOW) 19
 4 Honored Heirloom (VOW) 257
-4 Hookhand Mariner // Riphook Raider (VOW) 203
+4 Hookhand Mariner (VOW) 203
 4 Hungry Ridgewolf (VOW) 161
 4 Kessig Flamebreather (VOW) 164
-4 Kindly Ancestor // Ancestor's Embrace (VOW) 22
+4 Kindly Ancestor (VOW) 22
 4 Lacerate Flesh (VOW) 166
-4 Lantern Bearer // Lanterns' Lift (VOW) 66
+4 Lantern Bearer (VOW) 66
 4 Lightning Wolf (VOW) 168
 4 Massive Might (VOW) 208
 4 Militia Rallier (VOW) 24
@@ -73,7 +73,7 @@ Deck
 4 Piercing Light (VOW) 30
 4 Pointed Discussion (VOW) 126
 4 Pyre Spawn (VOW) 173
-4 Ragged Recluse // Odious Witch (VOW) 127
+4 Ragged Recluse (VOW) 127
 4 Reckless Impulse (VOW) 174
 4 Repository Skaab (VOW) 73
 4 Rot-Tide Gargantua (VOW) 129
@@ -105,8 +105,8 @@ Deck
 4 Voldaren Epicure (VOW) 182
 4 Voldaren Epicure (VOW) 308
 4 Wanderlight Spirit (VOW) 86
-4 Weary Prisoner // Wrathful Jailbreaker (VOW) 184
-4 Weaver of Blossoms // Blossom-Clad Werewolf (VOW) 226
+4 Weary Prisoner (VOW) 184
+4 Weaver of Blossoms (VOW) 226
 4 Wedding Invitation (VOW) 260
 4 Witch's Web (VOW) 227
 4 Wolf Strike (VOW) 228

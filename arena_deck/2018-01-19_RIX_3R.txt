@@ -16,18 +16,18 @@ Deck
 4 Etali, Primal Storm (RIX) 100
 4 Form of the Dinosaur (RIX) 103
 4 Ghalta, Primal Hunger (RIX) 130
-4 Golden Guardian // Gold-Forge Garrison (RIX) 179
-4 Hadana's Climb // Winged Temple of Orazca (RIX) 158
+4 Golden Guardian (RIX) 179
+4 Hadana's Climb (RIX) 158
 4 Induced Amnesia (RIX) 40
 4 Jadelight Ranger (RIX) 136
-4 Journey to Eternity // Atzal, Cave of Eternity (RIX) 160
+4 Journey to Eternity (RIX) 160
 4 Kumena's Awakening (RIX) 42
 4 Mastermind's Acquisition (RIX) 77
 4 Nezahal, Primal Tide (RIX) 45
 4 Paladin of Atonement (RIX) 16
 4 Path of Discovery (RIX) 142
-4 Path of Mettle // Metzali, Tower of Triumph (RIX) 165
-4 Profane Procession // Tomb of the Dusk Rose (RIX) 166
+4 Path of Mettle (RIX) 165
+4 Profane Procession (RIX) 166
 4 Protean Raider (RIX) 167
 4 Radiant Destiny (RIX) 18
 4 Release to the Wind (RIX) 46
@@ -37,7 +37,7 @@ Deck
 4 Silverclad Ferocidons (RIX) 115
 4 Slaughter the Strong (RIX) 22
 4 Sphinx's Decree (RIX) 24
-4 Storm the Vault // Vault of Catlacan (RIX) 173
+4 Storm the Vault (RIX) 173
 4 Temple Altisaur (RIX) 28
 4 Tendershoot Dryad (RIX) 147
 4 Tetzimoc, Primal Death (RIX) 86

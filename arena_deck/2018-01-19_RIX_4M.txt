@@ -1,7 +1,7 @@
 Deck
 4 Angrath, Minotaur Pirate (RIX) 201
 4 Angrath, the Flame-Chained (RIX) 152
-4 Azor's Gateway // Sanctum of the Sun (RIX) 176
+4 Azor's Gateway (RIX) 176
 4 Azor, the Lawbringer (RIX) 154
 4 Elenda, the Dusk Rose (RIX) 157
 4 Huatli, Radiant Champion (RIX) 159

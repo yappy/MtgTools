@@ -17,13 +17,13 @@ Deck
 4 Crush Contraband (GRN) 7
 4 Demotion (GRN) 9
 4 Dimir Spybug (GRN) 166
-4 Discovery // Dispersal (GRN) 223
+4 Discovery (GRN) 223
 4 Disinformation Campaign (GRN) 167
 4 District Guide (GRN) 128
 4 Electrostatic Field (GRN) 97
 4 Enhanced Surveillance (GRN) 40
 4 Flight of Equenauts (GRN) 11
-4 Flower // Flourish (GRN) 226
+4 Flower (GRN) 226
 4 Gatekeeper Gargoyle (GRN) 235
 4 Gird for Battle (GRN) 12
 4 Glaive of the Guildpact (GRN) 236
@@ -39,8 +39,8 @@ Deck
 4 House Guildmage (GRN) 177
 4 Inescapable Blaze (GRN) 107
 4 Inspiring Unicorn (GRN) 16
-4 Integrity // Intervention (GRN) 227
-4 Invert // Invent (GRN) 228
+4 Integrity (GRN) 227
+4 Invert (GRN) 228
 4 Join Shields (GRN) 181
 4 Justice Strike (GRN) 182
 4 Kraul Harpooner (GRN) 136
@@ -70,7 +70,7 @@ Deck
 4 Sinister Sabotage (GRN) 54
 4 Smelt-Ward Minotaur (GRN) 116
 4 Sprouting Renewal (GRN) 145
-4 Status // Statue (GRN) 230
+4 Status (GRN) 230
 4 Street Riot (GRN) 117
 4 Sunhome Stalwart (GRN) 26
 4 Swarm Guildmage (GRN) 201

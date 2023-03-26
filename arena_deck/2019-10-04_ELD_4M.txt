@@ -1,7 +1,7 @@
 Deck
 4 Alela, Artful Provocateur (ELD) 324
-4 Brazen Borrower // Petty Theft (ELD) 39
-4 Brazen Borrower // Petty Theft (ELD) 281
+4 Brazen Borrower (ELD) 39
+4 Brazen Borrower (ELD) 281
 4 Chulane, Teller of Tales (ELD) 326
 4 Embercleave (ELD) 120
 4 Embercleave (ELD) 359
@@ -20,8 +20,8 @@ Deck
 4 Questing Beast (ELD) 372
 4 Rankle, Master of Pranks (ELD) 101
 4 Rankle, Master of Pranks (ELD) 356
-4 Realm-Cloaked Giant // Cast Off (ELD) 26
-4 Realm-Cloaked Giant // Cast Off (ELD) 277
+4 Realm-Cloaked Giant (ELD) 26
+4 Realm-Cloaked Giant (ELD) 277
 4 Robber of the Rich (ELD) 138
 4 Robber of the Rich (ELD) 365
 4 Rowan, Fearless Sparkmage (ELD) 304

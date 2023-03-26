@@ -13,7 +13,7 @@ Deck
 4 Briarbridge Patrol (SIR) 187
 4 Byway Courier (SIR) 188
 4 Certain Death (SIR) 102
-4 Conduit of Storms // Conduit of Emrakul (SIR) 149
+4 Conduit of Storms (SIR) 149
 4 Confront the Unknown (SIR) 190
 4 Convolute (SIR) 57
 4 Crow of Dark Tidings (SIR) 104
@@ -36,7 +36,7 @@ Deck
 4 Fiend Binder (SIR) 29
 4 Fogwalker (SIR) 70
 4 Galvanic Bombardment (SIR) 157
-4 Gatstaf Arsonists // Gatstaf Ravagers (SIR) 158
+4 Gatstaf Arsonists (SIR) 158
 4 Gavony Unhallowed (SIR) 111
 4 Geist of the Archives (SIR) 72
 4 Ghoulcaller's Accomplice (SIR) 112
@@ -46,7 +46,7 @@ Deck
 4 Grapple with the Past (SIR) 198
 4 Grotesque Mutation (SIR) 116
 4 Guardian of Pilgrims (SIR) 32
-4 Hinterland Logger // Timber Shredder (SIR) 201
+4 Hinterland Logger (SIR) 201
 4 Howlpack Wolf (SIR) 162
 4 Imprisoned in the Moon (SIR) 74
 4 Incendiary Flow (SIR) 163
@@ -89,7 +89,7 @@ Deck
 4 Thraben Inspector (SIR) 51
 4 Tormenting Voice (SIR) 181
 4 True-Faith Censer (SIR) 262
-4 Ulvenwald Captive // Ulvenwald Abomination (SIR) 221
+4 Ulvenwald Captive (SIR) 221
 4 Weirded Vampire (SIR) 139
 4 Weirding Wood (SIR) 226
 4 Wild-Field Scarecrow (SIR) 263

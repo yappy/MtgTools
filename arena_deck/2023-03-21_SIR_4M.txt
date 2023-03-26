@@ -1,6 +1,6 @@
 Deck
-4 Archangel Avacyn // Avacyn, the Purifier (SIR) 13
-4 Arlinn Kord // Arlinn, Embraced by the Moon (SIR) 230
+4 Archangel Avacyn (SIR) 13
+4 Arlinn Kord (SIR) 230
 4 Decimator of the Provinces (SIR) 2
 4 Descend upon the Sinful (SIR) 24
 4 Emrakul, the Promised End (SIR) 6
@@ -20,5 +20,5 @@ Deck
 4 Seasons Past (SIR) 212
 4 Sigarda, Heron's Grace (SIR) 242
 4 Sorin, Grim Nemesis (SIR) 243
-4 Startled Awake // Persistent Nightmare (SIR) 90
+4 Startled Awake (SIR) 90
 4 Tamiyo, Field Researcher (SIR) 245

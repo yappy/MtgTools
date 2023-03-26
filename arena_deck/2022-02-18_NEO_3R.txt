@@ -21,9 +21,9 @@ Deck
 4 Eiganjo, Seat of the Empire (NEO) 268
 4 Eiganjo, Seat of the Empire (NEO) 413
 4 Eiganjo, Seat of the Empire (NEO) 502
-4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
-4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 357
-4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 465
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Fable of the Mirror-Breaker (NEO) 357
+4 Fable of the Mirror-Breaker (NEO) 465
 4 Farewell (NEO) 13
 4 Farewell (NEO) 365
 4 Farewell (NEO) 417
@@ -44,9 +44,9 @@ Deck
 4 Hinata, Dawn-Crowned (NEO) 222
 4 Hinata, Dawn-Crowned (NEO) 398
 4 Hinata, Dawn-Crowned (NEO) 487
-4 Inventive Iteration // Living Breakthrough (NEO) 57
-4 Inventive Iteration // Living Breakthrough (NEO) 355
-4 Inventive Iteration // Living Breakthrough (NEO) 443
+4 Inventive Iteration (NEO) 57
+4 Inventive Iteration (NEO) 355
+4 Inventive Iteration (NEO) 443
 4 Invoke Calamity (NEO) 147
 4 Invoke Calamity (NEO) 384
 4 Invoke Calamity (NEO) 467
@@ -166,27 +166,27 @@ Deck
 4 Tatsunari, Toad Rider (NEO) 123
 4 Tatsunari, Toad Rider (NEO) 345
 4 Tatsunari, Toad Rider (NEO) 461
-4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 212
-4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 360
-4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 482
-4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 181
-4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 358
-4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 473
+4 Teachings of the Kirin (NEO) 212
+4 Teachings of the Kirin (NEO) 360
+4 Teachings of the Kirin (NEO) 482
+4 The Dragon-Kami Reborn (NEO) 181
+4 The Dragon-Kami Reborn (NEO) 358
+4 The Dragon-Kami Reborn (NEO) 473
 4 The Reality Chip (NEO) 74
 4 The Reality Chip (NEO) 374
 4 The Reality Chip (NEO) 449
-4 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
-4 The Restoration of Eiganjo // Architect of Restoration (NEO) 354
-4 The Restoration of Eiganjo // Architect of Restoration (NEO) 442
+4 The Restoration of Eiganjo (NEO) 34
+4 The Restoration of Eiganjo (NEO) 354
+4 The Restoration of Eiganjo (NEO) 442
 4 Thousand-Faced Shadow (NEO) 86
 4 Thousand-Faced Shadow (NEO) 337
 4 Thousand-Faced Shadow (NEO) 451
 4 Thundering Raiju (NEO) 166
 4 Thundering Raiju (NEO) 389
 4 Thundering Raiju (NEO) 472
-4 Tribute to Horobi // Echo of Death's Wail (NEO) 124
-4 Tribute to Horobi // Echo of Death's Wail (NEO) 356
-4 Tribute to Horobi // Echo of Death's Wail (NEO) 462
+4 Tribute to Horobi (NEO) 124
+4 Tribute to Horobi (NEO) 356
+4 Tribute to Horobi (NEO) 462
 4 Weaver of Harmony (NEO) 213
 4 Weaver of Harmony (NEO) 395
 ================================================================================

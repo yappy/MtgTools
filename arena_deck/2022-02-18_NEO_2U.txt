@@ -6,15 +6,15 @@ Deck
 4 Asari Captain (NEO) 327
 4 Assassin's Ink (NEO) 87
 4 Awakened Awareness (NEO) 47
-4 Azusa's Many Journeys // Likeness of the Seeker (NEO) 172
+4 Azusa's Many Journeys (NEO) 172
 4 Banishing Slash (NEO) 3
-4 Behold the Unspeakable // Vision of the Unspeakable (NEO) 48
+4 Behold the Unspeakable (NEO) 48
 4 Blade-Blizzard Kitsune (NEO) 5
 4 Blade-Blizzard Kitsune (NEO) 331
 4 Blossom Prancer (NEO) 175
 4 Boon of Boseiju (NEO) 176
 4 Born to Drive (NEO) 6
-4 Boseiju Reaches Skyward // Branch of Boseiju (NEO) 177
+4 Boseiju Reaches Skyward (NEO) 177
 4 Bronze Cudgels (NEO) 240
 4 Bronzeplate Boar (NEO) 135
 4 Circuit Mender (NEO) 242
@@ -53,12 +53,12 @@ Deck
 4 Jukai Naturalist (NEO) 510
 4 Kappa Tech-Wrecker (NEO) 198
 4 Kappa Tech-Wrecker (NEO) 348
-4 Kumano Faces Kakkazan // Etching of Kumano (NEO) 152
+4 Kumano Faces Kakkazan (NEO) 152
 4 Leech Gauntlet (NEO) 106
-4 Life of Toshiro Umezawa // Memory of Toshiro (NEO) 108
+4 Life of Toshiro Umezawa (NEO) 108
 4 Malicious Malfunction (NEO) 110
 4 Mech Hangar (NEO) 270
-4 Michiko's Reign of Truth // Portrait of Michiko (NEO) 29
+4 Michiko's Reign of Truth (NEO) 29
 4 Mobilizer Mech (NEO) 65
 4 Naomi, Pillar of Order (NEO) 229
 ================================================================================
@@ -97,8 +97,8 @@ Deck
 4 Spinning Wheel Kick (NEO) 207
 4 Storyweave (NEO) 209
 4 Tempered in Solitude (NEO) 165
-4 The Fall of Lord Konda // Fragment of Konda (NEO) 12
-4 The Long Reach of Night // Animus of Night's Reach (NEO) 109
+4 The Fall of Lord Konda (NEO) 12
+4 The Long Reach of Night (NEO) 109
 4 Thirst for Knowledge (NEO) 85
 4 Touch the Spirit Realm (NEO) 40
 4 Towashi Guide-Bot (NEO) 262

@@ -18,7 +18,7 @@ Deck
 4 Devils' Playground (SIR) 151
 4 Diregraf Colossus (SIR) 108
 4 Distended Mindbender (SIR) 3
-4 Docent of Perfection // Final Iteration (SIR) 61
+4 Docent of Perfection (SIR) 61
 4 Elder Deep-Fiend (SIR) 5
 4 Eldritch Evolution (SIR) 195
 4 Epiphany at the Drownyard (SIR) 65
@@ -40,7 +40,7 @@ Deck
 4 Permeating Mass (SIR) 209
 4 Prized Amalgam (SIR) 240
 4 Rattlechains (SIR) 87
-4 Sage of Ancient Lore // Werewolf of Ancient Hunger (SIR) 211
+4 Sage of Ancient Lore (SIR) 211
 4 Second Harvest (SIR) 213
 4 Selfless Spirit (SIR) 42
 4 Sigarda's Aid (SIR) 43
@@ -55,15 +55,15 @@ Deck
 4 Tamiyo's Journal (SIR) 260
 4 Thalia's Lancers (SIR) 50
 4 Thalia, Heretic Cathar (SIR) 49
-4 Thing in the Ice // Awoken Horror (SIR) 95
+4 Thing in the Ice (SIR) 95
 4 Tireless Tracker (SIR) 219
 4 Traverse the Ulvenwald (SIR) 220
 4 Tree of Perdition (SIR) 136
 4 Triskaidekaphobia (SIR) 137
-4 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha (SIR) 246
+4 Ulrich of the Krallenhorde (SIR) 246
 ================================================================================
 Deck
 4 Ulvenwald Hydra (SIR) 222
-4 Voldaren Pariah // Abolisher of Bloodlines (SIR) 138
-4 Westvale Abbey // Ormendahl, Profane Prince (SIR) 275
+4 Voldaren Pariah (SIR) 138
+4 Westvale Abbey (SIR) 275
 4 Wharf Infiltrator (SIR) 96

@@ -1,8 +1,8 @@
 Deck
 4 Arcane Signet (ELD) 331
 4 Ardenvale Paladin (ELD) 4
-4 Ardenvale Tactician // Dizzying Swoop (ELD) 5
-4 Ardenvale Tactician // Dizzying Swoop (ELD) 273
+4 Ardenvale Tactician (ELD) 5
+4 Ardenvale Tactician (ELD) 273
 4 Bake into a Pie (ELD) 76
 4 Barge In (ELD) 112
 4 Barrow Witches (ELD) 77
@@ -16,14 +16,14 @@ Deck
 4 Corridor Monitor (ELD) 41
 4 Crashing Drawbridge (ELD) 217
 4 Crystal Slipper (ELD) 119
-4 Curious Pair // Treats to Share (ELD) 150
-4 Curious Pair // Treats to Share (ELD) 296
+4 Curious Pair (ELD) 150
+4 Curious Pair (ELD) 296
 4 Didn't Say Please (ELD) 42
 4 Dwarven Mine (ELD) 243
 4 Embereth Paladin (ELD) 121
 4 Eye Collector (ELD) 86
-4 Faerie Guidemother // Gift of the Fae (ELD) 11
-4 Faerie Guidemother // Gift of the Fae (ELD) 274
+4 Faerie Guidemother (ELD) 11
+4 Faerie Guidemother (ELD) 274
 4 Fell the Pheasant (ELD) 153
 4 Festive Funeral (ELD) 87
 4 Fierce Witchstalker (ELD) 154
@@ -32,8 +32,8 @@ Deck
 4 Foreboding Fruit (ELD) 88
 4 Forever Young (ELD) 89
 4 Fortifying Provisions (ELD) 13
-4 Garenbrig Carver // Shield's Might (ELD) 156
-4 Garenbrig Carver // Shield's Might (ELD) 298
+4 Garenbrig Carver (ELD) 156
+4 Garenbrig Carver (ELD) 298
 4 Garenbrig Paladin (ELD) 157
 4 Garenbrig Squire (ELD) 158
 4 Garrison Griffin (ELD) 305
@@ -49,17 +49,17 @@ Deck
 4 Lash of Thorns (ELD) 92
 4 Locthwain Gargoyle (ELD) 225
 4 Locthwain Paladin (ELD) 93
-4 Lonesome Unicorn // Rider in Need (ELD) 21
-4 Lonesome Unicorn // Rider in Need (ELD) 276
+4 Lonesome Unicorn (ELD) 21
+4 Lonesome Unicorn (ELD) 276
 4 Lost Legion (ELD) 94
 4 Malevolent Noble (ELD) 95
 4 Mantle of Tides (ELD) 52
 4 Maraleaf Rider (ELD) 166
 4 Memory Theft (ELD) 96
-4 Merchant of the Vale // Haggle (ELD) 131
-4 Merchant of the Vale // Haggle (ELD) 293
-4 Merfolk Secretkeeper // Venture Deeper (ELD) 53
-4 Merfolk Secretkeeper // Venture Deeper (ELD) 284
+4 Merchant of the Vale (ELD) 131
+4 Merchant of the Vale (ELD) 293
+4 Merfolk Secretkeeper (ELD) 53
+4 Merfolk Secretkeeper (ELD) 284
 4 Mistford River Turtle (ELD) 56
 ================================================================================
 Deck
@@ -72,18 +72,18 @@ Deck
 4 Outmuscle (ELD) 170
 4 Prized Griffin (ELD) 24
 4 Prophet of the Peak (ELD) 227
-4 Queen of Ice // Rage of Winter (ELD) 61
-4 Queen of Ice // Rage of Winter (ELD) 285
+4 Queen of Ice (ELD) 61
+4 Queen of Ice (ELD) 285
 4 Raging Redcap (ELD) 134
-4 Reaper of Night // Harvest Fear (ELD) 102
-4 Reaper of Night // Harvest Fear (ELD) 289
+4 Reaper of Night (ELD) 102
+4 Reaper of Night (ELD) 289
 4 Reave Soul (ELD) 103
 4 Redcap Raiders (ELD) 136
 4 Return to Nature (ELD) 173
-4 Rimrock Knight // Boulder Rush (ELD) 137
-4 Rimrock Knight // Boulder Rush (ELD) 294
-4 Rosethorn Acolyte // Seasonal Ritual (ELD) 174
-4 Rosethorn Acolyte // Seasonal Ritual (ELD) 300
+4 Rimrock Knight (ELD) 137
+4 Rimrock Knight (ELD) 294
+4 Rosethorn Acolyte (ELD) 174
+4 Rosethorn Acolyte (ELD) 300
 4 Rosethorn Halberd (ELD) 175
 4 Roving Keep (ELD) 228
 4 Run Away Together (ELD) 62
@@ -94,10 +94,10 @@ Deck
 4 Shining Armor (ELD) 29
 4 Signpost Scarecrow (ELD) 231
 4 Silverflame Ritual (ELD) 30
-4 Silverflame Squire // On Alert (ELD) 31
-4 Silverflame Squire // On Alert (ELD) 279
-4 Smitten Swordmaster // Curry Favor (ELD) 105
-4 Smitten Swordmaster // Curry Favor (ELD) 290
+4 Silverflame Squire (ELD) 31
+4 Silverflame Squire (ELD) 279
+4 Smitten Swordmaster (ELD) 105
+4 Smitten Swordmaster (ELD) 290
 4 So Tiny (ELD) 64
 4 Sporecap Spider (ELD) 176
 4 Steelgaze Griffin (ELD) 65
@@ -108,8 +108,8 @@ Deck
 4 Tome Raider (ELD) 68
 4 Trapped in the Tower (ELD) 33
 4 True Love's Kiss (ELD) 34
-4 Tuinvale Treefolk // Oaken Boon (ELD) 180
-4 Tuinvale Treefolk // Oaken Boon (ELD) 301
+4 Tuinvale Treefolk (ELD) 180
+4 Tuinvale Treefolk (ELD) 301
 4 Unexplained Vision (ELD) 70
 4 Vantress Paladin (ELD) 72
 4 Weapon Rack (ELD) 236

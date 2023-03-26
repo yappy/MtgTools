@@ -8,13 +8,13 @@ Deck
 4 A-Skyclave Shadowcat (ZNR) A-126
 4 A-Umara Mystic (ZNR) A-238
 4 Acquisitions Expert (ZNR) 89
-4 Akoum Warrior // Akoum Teeth (ZNR) 134
+4 Akoum Warrior (ZNR) 134
 4 Allied Assault (ZNR) 1
 4 Attended Healer (ZNR) 6
-4 Bala Ged Recovery // Bala Ged Sanctuary (ZNR) 180
+4 Bala Ged Recovery (ZNR) 180
 4 Base Camp (ZNR) 257
-4 Beyeen Veil // Beyeen Coast (ZNR) 46
-4 Blackbloom Rogue // Blackbloom Bog (ZNR) 91
+4 Beyeen Veil (ZNR) 46
+4 Blackbloom Rogue (ZNR) 91
 4 Bloodchief's Thirst (ZNR) 94
 4 Bloodchief's Thirst (ZNR) 388
 4 Brushfire Elemental (ZNR) 221
@@ -33,19 +33,19 @@ Deck
 4 Grotag Night-Runner (ZNR) 143
 4 Iridescent Hornbeetle (ZNR) 187
 4 Journey to Oblivion (ZNR) 17
-4 Jwari Disruption // Jwari Ruins (ZNR) 64
-4 Kabira Takedown // Kabira Plateau (ZNR) 19
+4 Jwari Disruption (ZNR) 64
+4 Kabira Takedown (ZNR) 19
 4 Kargan Warleader (ZNR) 224
 4 Kargan Warleader (ZNR) 391
-4 Kazuul's Fury // Kazuul's Cliffs (ZNR) 146
-4 Khalni Ambush // Khalni Territory (ZNR) 192
+4 Kazuul's Fury (ZNR) 146
+4 Khalni Ambush (ZNR) 192
 4 Kitesail Cleric (ZNR) 20
 4 Kor Blademaster (ZNR) 21
 4 Lithoform Blight (ZNR) 109
 4 Lullmage's Domination (ZNR) 66
 4 Lullmage's Familiar (ZNR) 227
-4 Makindi Stampede // Makindi Mesas (ZNR) 26
-4 Malakir Rebirth // Malakir Mire (ZNR) 111
+4 Makindi Stampede (ZNR) 26
+4 Malakir Rebirth (ZNR) 111
 4 Merfolk Falconer (ZNR) 69
 4 Merfolk Windrobber (ZNR) 70
 4 Mind Carver (ZNR) 113
@@ -53,7 +53,7 @@ Deck
 4 Murasa Rootgrazer (ZNR) 229
 4 Murasa Sproutling (ZNR) 196
 4 Paired Tactician (ZNR) 31
-4 Pelakka Predation // Pelakka Caverns (ZNR) 120
+4 Pelakka Predation (ZNR) 120
 4 Ravager's Mace (ZNR) 235
 4 Relic Amulet (ZNR) 247
 4 Relic Axe (ZNR) 248
@@ -68,11 +68,11 @@ Deck
 4 Ruin Crab (ZNR) 75
 4 Ruin Crab (ZNR) 295
 4 Scion of the Swarm (ZNR) 121
-4 Sejiri Shelter // Sejiri Glacier (ZNR) 37
+4 Sejiri Shelter (ZNR) 37
 4 Shadow Stinger (ZNR) 123
 4 Shatterskull Minotaur (ZNR) 160
-4 Silundi Vision // Silundi Isle (ZNR) 80
-4 Skyclave Cleric // Skyclave Basilica (ZNR) 40
+4 Silundi Vision (ZNR) 80
+4 Skyclave Cleric (ZNR) 40
 4 Skyclave Geopede (ZNR) 163
 4 Skyclave Geopede (ZNR) 301
 4 Skyclave Pick-Axe (ZNR) 204
@@ -80,21 +80,21 @@ Deck
 4 Skyclave Plunder (ZNR) 81
 4 Skyclave Shadowcat (ZNR) 126
 4 Soaring Thought-Thief (ZNR) 236
-4 Song-Mad Treachery // Song-Mad Ruins (ZNR) 165
-4 Spikefield Hazard // Spikefield Cave (ZNR) 166
+4 Song-Mad Treachery (ZNR) 165
+4 Spikefield Hazard (ZNR) 166
 4 Spoils of Adventure (ZNR) 237
 4 Springmantle Cleric (ZNR) 205
 4 Sure-Footed Infiltrator (ZNR) 83
-4 Tangled Florahedron // Tangled Vale (ZNR) 211
+4 Tangled Florahedron (ZNR) 211
 4 Taunting Arbormage (ZNR) 212
 4 Thundering Rebuke (ZNR) 170
 4 Thundering Sparkmage (ZNR) 171
 4 Thwart the Grave (ZNR) 130
 4 Umara Mystic (ZNR) 238
-4 Umara Wizard // Umara Skyfalls (ZNR) 86
-4 Vastwood Fortification // Vastwood Thicket (ZNR) 216
+4 Umara Wizard (ZNR) 86
+4 Vastwood Fortification (ZNR) 216
 4 Vastwood Surge (ZNR) 217
 4 Veteran Adventurer (ZNR) 218
 4 Vine Gecko (ZNR) 219
 4 Windrider Wizard (ZNR) 87
-4 Zof Consumption // Zof Bloodbog (ZNR) 132
+4 Zof Consumption (ZNR) 132

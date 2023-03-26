@@ -1,19 +1,19 @@
 Deck
 4 Angrath's Marauders (XLN) 132
 4 Arcane Adaptation (XLN) 46
-4 Arguel's Blood Fast // Temple of Aclazotz (XLN) 90
+4 Arguel's Blood Fast (XLN) 90
 4 Ashes of the Abhorrent (XLN) 2
 4 Bishop of Rebirth (XLN) 5
 4 Bloodcrazed Paladin (XLN) 93
 4 Burning Sun's Avatar (XLN) 135
 4 Captain Lannery Storm (XLN) 136
 4 Captivating Crew (XLN) 137
-4 Conqueror's Galleon // Conqueror's Foothold (XLN) 234
+4 Conqueror's Galleon (XLN) 234
 4 Daring Saboteur (XLN) 49
 4 Deadeye Tracker (XLN) 99
 4 Deathgorge Scavenger (XLN) 184
 4 Deeproot Champion (XLN) 185
-4 Dowsing Dagger // Lost Vale (XLN) 235
+4 Dowsing Dagger (XLN) 235
 4 Dragonskull Summit (XLN) 252
 4 Dreamcaller Siren (XLN) 54
 4 Drowned Catacomb (XLN) 253
@@ -25,16 +25,16 @@ Deck
 4 Glacial Fortress (XLN) 255
 4 Goring Ceratops (XLN) 13
 4 Grasping Current (XLN) 282
-4 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191
+4 Growing Rites of Itlimoc (XLN) 191
 4 Herald of Secret Streams (XLN) 59
 4 Hostage Taker (XLN) 223
 4 Kinjalli's Sunwing (XLN) 19
 4 Kopala, Warden of Waves (XLN) 61
-4 Legion's Landing // Adanto, the First Fort (XLN) 22
+4 Legion's Landing (XLN) 22
 4 Mavren Fein, Dusk Apostle (XLN) 24
 4 Old-Growth Dryads (XLN) 199
 4 Priest of the Wakening Sun (XLN) 27
-4 Primal Amulet // Primal Wellspring (XLN) 243
+4 Primal Amulet (XLN) 243
 4 Rampaging Ferocidon (XLN) 154
 4 Regisaur Alpha (XLN) 227
 4 Repeating Barrage (XLN) 156
@@ -45,7 +45,7 @@ Deck
 4 Ruin Raider (XLN) 118
 4 Sanctum Seeker (XLN) 120
 4 Sanguine Sacrament (XLN) 33
-4 Search for Azcanta // Azcanta, the Sunken Ruin (XLN) 74
+4 Search for Azcanta (XLN) 74
 4 Settle the Wreckage (XLN) 34
 4 Shadowed Caravel (XLN) 246
 4 Shapers' Sanctuary (XLN) 206
@@ -55,11 +55,11 @@ Deck
 4 Sunbird's Invocation (XLN) 165
 4 Sunpetal Grove (XLN) 257
 4 Sword-Point Diplomacy (XLN) 126
-4 Thaumatic Compass // Spires of Orazca (XLN) 249
+4 Thaumatic Compass (XLN) 249
 4 Tilonalli's Skinshifter (XLN) 170
 4 Tocatli Honor Guard (XLN) 42
-4 Treasure Map // Treasure Cove (XLN) 250
-4 Vance's Blasting Cannons // Spitfire Bastion (XLN) 173
+4 Treasure Map (XLN) 250
+4 Vance's Blasting Cannons (XLN) 173
 4 Vanquisher's Banner (XLN) 251
 ================================================================================
 Deck

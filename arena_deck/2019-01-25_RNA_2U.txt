@@ -7,20 +7,20 @@ Deck
 4 Biogenic Upgrade (RNA) 123
 4 Bloodmist Infiltrator (RNA) 65
 4 Bolrac-Clan Crusher (RNA) 159
-4 Carnival // Carnage (RNA) 222
+4 Carnival (RNA) 222
 4 Cavalcade of Calamity (RNA) 95
 4 Charging War Boar (RNA) 271
 4 Clamor Shaman (RNA) 96
 4 Clan Guildmage (RNA) 162
 4 Clear the Stage (RNA) 68
 4 Code of Constraint (RNA) 35
-4 Collision // Colossus (RNA) 223
+4 Collision (RNA) 223
 4 Combine Guildmage (RNA) 163
-4 Consecrate // Consume (RNA) 224
+4 Consecrate (RNA) 224
 4 Cry of the Carnarium (RNA) 70
 4 Cult Guildmage (RNA) 164
 4 Dagger Caster (RNA) 97
-4 Depose // Deploy (RNA) 225
+4 Depose (RNA) 225
 4 Dovin's Acuity (RNA) 168
 4 Dovin's Automaton (RNA) 268
 4 Drill Bit (RNA) 73
@@ -40,7 +40,7 @@ Deck
 4 Gyre Engineer (RNA) 180
 4 Hackrobat (RNA) 181
 4 High Alert (RNA) 182
-4 Incubation // Incongruity (RNA) 226
+4 Incubation (RNA) 226
 4 Junktroller (RNA) 235
 4 Knight of the Last Breath (RNA) 188
 4 Light Up the Stage (RNA) 107

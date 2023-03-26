@@ -1,8 +1,8 @@
 Deck
 4 A-Nahiri, Heir of the Ancients (ZNR) A-230
 4 A-Omnath, Locus of Creation (ZNR) A-232
-4 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
-4 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 336
+4 Agadeem's Awakening (ZNR) 90
+4 Agadeem's Awakening (ZNR) 336
 4 Ancient Greenwarden (ZNR) 178
 4 Ancient Greenwarden (ZNR) 357
 4 Angel of Destiny (ZNR) 2
@@ -11,8 +11,8 @@ Deck
 4 Ashaya, Soul of the Wild (ZNR) 358
 4 Drana, the Last Bloodchief (ZNR) 98
 4 Drana, the Last Bloodchief (ZNR) 338
-4 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12
-4 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 317
+4 Emeria's Call (ZNR) 12
+4 Emeria's Call (ZNR) 317
 4 Forsaken Monument (ZNR) 244
 4 Forsaken Monument (ZNR) 374
 4 Jace, Mirror Mage (ZNR) 63
@@ -31,13 +31,13 @@ Deck
 4 Omnath, Locus of Creation (ZNR) 312
 4 Scourge of the Skyclaves (ZNR) 122
 4 Scourge of the Skyclaves (ZNR) 343
-4 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 76
-4 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+4 Sea Gate Restoration (ZNR) 76
+4 Sea Gate Restoration (ZNR) 333
 4 Sea Gate Stormcaller (ZNR) 77
 4 Sea Gate Stormcaller (ZNR) 334
-4 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 161
-4 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
+4 Shatterskull Smashing (ZNR) 161
+4 Shatterskull Smashing (ZNR) 354
 4 Tazri, Beacon of Unity (ZNR) 44
 4 Tazri, Beacon of Unity (ZNR) 324
-4 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 215
-4 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
+4 Turntimber Symbiosis (ZNR) 215
+4 Turntimber Symbiosis (ZNR) 364
