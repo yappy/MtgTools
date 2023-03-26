@@ -1,23 +1,43 @@
 Deck
-4 Angel of Destiny (ZNR) 2
-4 Lithoform Engine (ZNR) 245
 4 A-Nahiri, Heir of the Ancients (ZNR) A-230
-4 Nissa of Shadowed Boughs (ZNR) 231
-4 Ashaya, Soul of the Wild (ZNR) 179
-4 Nahiri, Heir of the Ancients (ZNR) 230
-4 Drana, the Last Bloodchief (ZNR) 98
-4 Ancient Greenwarden (ZNR) 178
-4 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 215
+4 Forsaken Monument (ZNR) 374
+4 Sea Gate Stormcaller (ZNR) 334
 4 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 76
-4 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
-4 Moraug, Fury of Akoum (ZNR) 150
 4 Sea Gate Stormcaller (ZNR) 77
-4 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12
+4 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
 4 Forsaken Monument (ZNR) 244
-4 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 161
-4 Jace, Mirror Mage (ZNR) 63
-4 A-Omnath, Locus of Creation (ZNR) A-232
+4 Nahiri, Heir of the Ancients (ZNR) 230
+4 Scourge of the Skyclaves (ZNR) 343
+4 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 336
 4 Scourge of the Skyclaves (ZNR) 122
 4 Omnath, Locus of Creation (ZNR) 232
-4 Tazri, Beacon of Unity (ZNR) 44
+4 Drana, the Last Bloodchief (ZNR) 98
+4 Angel of Destiny (ZNR) 314
+4 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 215
+4 Leyline Tyrant (ZNR) 348
+4 Lithoform Engine (ZNR) 245
+4 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+4 Nissa of Shadowed Boughs (ZNR) 231
+4 Nahiri, Heir of the Ancients (ZNR) 282
+4 Ashaya, Soul of the Wild (ZNR) 179
 4 Leyline Tyrant (ZNR) 147
+4 Ashaya, Soul of the Wild (ZNR) 358
+4 Tazri, Beacon of Unity (ZNR) 324
+4 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
+4 Drana, the Last Bloodchief (ZNR) 338
+4 Jace, Mirror Mage (ZNR) 281
+4 Angel of Destiny (ZNR) 2
+4 Omnath, Locus of Creation (ZNR) 312
+4 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+4 Moraug, Fury of Akoum (ZNR) 300
+4 A-Omnath, Locus of Creation (ZNR) A-232
+4 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 161
+4 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12
+4 Ancient Greenwarden (ZNR) 357
+4 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 317
+4 Moraug, Fury of Akoum (ZNR) 150
+4 Tazri, Beacon of Unity (ZNR) 44
+4 Nissa of Shadowed Boughs (ZNR) 283
+4 Ancient Greenwarden (ZNR) 178
+4 Lithoform Engine (ZNR) 375
+4 Jace, Mirror Mage (ZNR) 63

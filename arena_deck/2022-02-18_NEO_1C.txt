@@ -1,114 +1,165 @@
 Deck
-4 Reckoner's Bargain (NEO) 120
-4 Ecologist's Terrarium (NEO) 246
-4 Favor of Jukai (NEO) 184
-4 Tales of Master Seshiro // Seshiro's Living Legacy (NEO) 210
-4 Clawing Torment (NEO) 91
-4 A-Imperial Subduer (NEO) A-19
-4 Network Disruptor (NEO) 71
-4 Experimental Synthesizer (NEO) 138
-4 Ancestral Katana (NEO) 1
-4 Reckoner Shakedown (NEO) 119
-4 Scrapyard Steelbreaker (NEO) 160
-4 Unstoppable Ogre (NEO) 169
-4 Voltage Surge (NEO) 171
-4 A-Akki Ronin (NEO) A-131
-4 Kitsune Ace (NEO) 22
-4 Dokuchi Shadow-Walker (NEO) 94
-4 Kaito's Pursuit (NEO) 103
-4 Undercity Scrounger (NEO) 126
-4 Suit Up (NEO) 81
-4 Twisted Embrace (NEO) 125
-4 Befriending the Moths // Imperial Moth (NEO) 4
-4 Seven-Tail Mentor (NEO) 36
-4 Golden-Tail Disciple (NEO) 15
-4 Mukotai Ambusher (NEO) 112
-4 Fade into Antiquity (NEO) 182
-4 Ambitious Assault (NEO) 133
-4 Nezumi Bladeblesser (NEO) 115
-4 Season of Renewal (NEO) 205
-4 Searchlight Companion (NEO) 258
-4 Guardians of Oboro (NEO) 56
-4 Wanderer's Intervention (NEO) 41
-4 Imperial Oath (NEO) 17
-4 Akki Ronin (NEO) 131
-4 Disruption Protocol (NEO) 51
-4 A-Peerless Samurai (NEO) A-156
-4 Bearer of Memory (NEO) 174
-4 Skyswimmer Koi (NEO) 79
-4 Mnemonic Sphere (NEO) 64
-4 Okiba Reckoner Raid // Nezumi Road Captain (NEO) 117
-4 Regent's Authority (NEO) 32
-4 Coiling Stalker (NEO) 179
-4 Explosive Entry (NEO) 139
-4 Short Circuit (NEO) 78
-4 Automated Artificer (NEO) 239
-4 Lethal Exploit (NEO) 107
-4 Bamboo Grove Archer (NEO) 173
-4 Commune with Spirits (NEO) 180
-4 Inkrise Infiltrator (NEO) 100
-4 Heir of the Ancient Fang (NEO) 191
+4 Scoured Barrens (NEO) 274
 4 A-Ancestral Katana (NEO) A-1
-4 Tamiyo's Compleation (NEO) 83
-4 Moonsnare Prototype (NEO) 69
-4 Futurist Sentinel (NEO) 54
-4 Moon-Circuit Hacker (NEO) 67
-4 Kami of Restless Shadows (NEO) 104
+4 Mirrorshell Crab (NEO) 63
+4 Mountain (NEO) 299
+4 Disruption Protocol (NEO) 51
+4 Mukotai Ambusher (NEO) 112
+4 Searchlight Companion (NEO) 258
+4 A-Akki Ronin (NEO) A-131
+4 Island (NEO) 285
+4 Favor of Jukai (NEO) 184
+4 Imperial Subduer (NEO) 19
+4 Iron Apprentice (NEO) 248
+4 Jukai Trainee (NEO) 326
+4 Mnemonic Sphere (NEO) 64
+4 Uncharted Haven (NEO) 281
+4 Ecologist's Terrarium (NEO) 246
+4 Moonsnare Specialist (NEO) 70
+4 Peerless Samurai (NEO) 322
+4 Chainflail Centipede (NEO) 90
+4 Lucky Offering (NEO) 27
+4 Seven-Tail Mentor (NEO) 313
+4 Fang of Shigeki (NEO) 183
+4 Mountain (NEO) 289
+4 Nezumi Bladeblesser (NEO) 318
+4 Return to Action (NEO) 121
+4 Papercraft Decoy (NEO) 253
+4 Mukotai Ambusher (NEO) 342
+4 Brute Suit (NEO) 241
+4 Simian Sling (NEO) 163
 4 Light the Way (NEO) 24
-4 Careful Cultivation (NEO) 178
-4 Akki Ember-Keeper (NEO) 130
 4 Eiganjo Exemplar (NEO) 10
-4 Moonfolk Puzzlemaker (NEO) 68
-4 A-Eiganjo Exemplar (NEO) A-10
-4 Ironhoof Boar (NEO) 148
+4 Gift of Wrath (NEO) 143
+4 Imperial Oath (NEO) 17
+4 Imperial Subduer (NEO) 310
+4 Wanderer's Intervention (NEO) 41
+4 Virus Beetle (NEO) 128
+4 Swamp (NEO) 287
+4 Dragonfly Suit (NEO) 9
+4 Mountain (NEO) 290
+4 Akki Ember-Keeper (NEO) 130
+4 Plains (NEO) 284
+4 Okiba Reckoner Raid // Nezumi Road Captain (NEO) 117
+4 Suit Up (NEO) 81
+4 Tales of Master Seshiro // Seshiro's Living Legacy (NEO) 210
+4 The Shattered States Era // Nameless Conqueror (NEO) 162
+4 Bearer of Memory (NEO) 174
+4 Heir of the Ancient Fang (NEO) 325
+4 Fade into Antiquity (NEO) 182
+4 Geothermal Kami (NEO) 186
+4 Scrapyard Steelbreaker (NEO) 160
+4 Swamp (NEO) 298
+4 Kindled Fury (NEO) 151
+4 Rugged Highlands (NEO) 273
+4 Kami of Terrible Secrets (NEO) 105
+4 Network Disruptor (NEO) 71
+4 Voltage Surge (NEO) 171
+4 Spirited Companion (NEO) 38
+4 Plains (NEO) 283
+4 Clawing Torment (NEO) 91
+4 Kami of Restless Shadows (NEO) 104
+4 Undercity Scrounger (NEO) 126
+4 Reckoner's Bargain (NEO) 120
 ================================================================================
 Deck
-4 Shrine Steward (NEO) 259
-4 The Shattered States Era // Nameless Conqueror (NEO) 162
-4 Gift of Wrath (NEO) 143
-4 Return to Action (NEO) 121
-4 Spirited Companion (NEO) 38
-4 Thundersteel Colossus (NEO) 261
-4 Fang of Shigeki (NEO) 183
-4 Network Terminal (NEO) 251
-4 Era of Enlightenment // Hand of Enlightenment (NEO) 11
-4 Armguard Familiar (NEO) 46
-4 The Modern Age // Vector Glider (NEO) 66
-4 Jukai Preserver (NEO) 195
-4 Planar Incision (NEO) 72
-4 Repel the Vile (NEO) 33
-4 Harmonious Emergence (NEO) 190
-4 Papercraft Decoy (NEO) 253
-4 Greater Tanuki (NEO) 189
-4 Kami of Industry (NEO) 149
-4 Sunblade Samurai (NEO) 39
-4 Moonsnare Specialist (NEO) 70
-4 Tamiyo's Safekeeping (NEO) 211
-4 Brute Suit (NEO) 241
-4 Imperial Subduer (NEO) 19
-4 You Are Already Dead (NEO) 129
-4 Mothrider Patrol (NEO) 30
-4 Grafted Growth (NEO) 188
-4 Debt to the Kami (NEO) 92
+4 Tranquil Cove (NEO) 280
+4 Eiganjo Exemplar (NEO) 309
+4 Dokuchi Shadow-Walker (NEO) 339
+4 Coiling Stalker (NEO) 179
+4 A-Peerless Samurai (NEO) A-156
 4 Crackling Emergence (NEO) 136
-4 Jukai Trainee (NEO) 196
-4 Lucky Offering (NEO) 27
-4 Iron Apprentice (NEO) 248
-4 Mirrorshell Crab (NEO) 63
-4 Uncharted Haven (NEO) 281
-4 Towashi Songshaper (NEO) 167
-4 Saiba Trespassers (NEO) 77
-4 Intercessor's Arrest (NEO) 20
-4 Kami's Flare (NEO) 150
-4 Kami of Terrible Secrets (NEO) 105
-4 Akki War Paint (NEO) 132
-4 Virus Beetle (NEO) 128
-4 Dramatist's Puppet (NEO) 244
-4 Simian Sling (NEO) 163
+4 Island (NEO) 296
+4 Unstoppable Ogre (NEO) 169
+4 Ironhoof Boar (NEO) 148
+4 Armguard Familiar (NEO) 46
+4 Era of Enlightenment // Hand of Enlightenment (NEO) 11
+4 Short Circuit (NEO) 78
+4 Moon-Circuit Hacker (NEO) 334
+4 Shrine Steward (NEO) 259
+4 You Are Already Dead (NEO) 129
+4 Regent's Authority (NEO) 32
+4 Plains (NEO) 294
+4 Explosive Entry (NEO) 139
 4 Master's Rebuke (NEO) 202
-4 Chainflail Centipede (NEO) 90
-4 Kindled Fury (NEO) 151
-4 Dragonfly Suit (NEO) 9
+4 Mountain (NEO) 300
+4 Dokuchi Shadow-Walker (NEO) 94
+4 Coiling Stalker (NEO) 346
+4 Season of Renewal (NEO) 205
+4 Futurist Sentinel (NEO) 54
+4 Befriending the Moths // Imperial Moth (NEO) 4
+4 Bamboo Grove Archer (NEO) 173
+4 Jukai Trainee (NEO) 196
+4 Lethal Exploit (NEO) 107
+4 Forest (NEO) 292
+4 Island (NEO) 286
+4 Planar Incision (NEO) 72
+4 Fang of Shigeki (NEO) 347
+4 Guardians of Oboro (NEO) 317
+4 Akki Ronin (NEO) 131
+4 Nezumi Bladeblesser (NEO) 115
+4 Repel the Vile (NEO) 33
+4 Spirited Companion (NEO) 508
+4 Seven-Tail Mentor (NEO) 36
+4 Moonsnare Prototype (NEO) 69
+4 Careful Cultivation (NEO) 178
+4 Sunblade Samurai (NEO) 315
+4 Commune with Spirits (NEO) 180
+4 Forest (NEO) 301
+4 Forest (NEO) 291
+4 Tamiyo's Compleation (NEO) 83
 4 Ninja's Kunai (NEO) 252
-4 Geothermal Kami (NEO) 186
+4 Dramatist's Puppet (NEO) 244
+4 Greater Tanuki (NEO) 189
+4 Thundersteel Colossus (NEO) 261
+4 Automated Artificer (NEO) 239
+4 Bloodfell Caves (NEO) 264
+4 Spell Pierce (NEO) 80
+4 Kami's Flare (NEO) 150
+4 Debt to the Kami (NEO) 92
+4 Saiba Trespassers (NEO) 77
+4 Experimental Synthesizer (NEO) 138
+4 Swamp (NEO) 297
+4 Moon-Circuit Hacker (NEO) 67
+4 Forest (NEO) 302
+4 Harmonious Emergence (NEO) 190
+4 Moonfolk Puzzlemaker (NEO) 68
+4 Plains (NEO) 293
+================================================================================
+Deck
+4 Inkrise Infiltrator (NEO) 100
+4 Reckoner Shakedown (NEO) 119
+4 Wind-Scarred Crag (NEO) 282
+4 Ambitious Assault (NEO) 133
+4 Blossoming Sands (NEO) 265
+4 Kami of Industry (NEO) 149
+4 Heir of the Ancient Fang (NEO) 191
+4 Thornwood Falls (NEO) 279
+4 Network Terminal (NEO) 251
+4 Golden-Tail Disciple (NEO) 15
+4 A-Imperial Subduer (NEO) A-19
+4 Ancestral Katana (NEO) 1
+4 Skyswimmer Koi (NEO) 79
+4 Kaito's Pursuit (NEO) 103
+4 Jungle Hollow (NEO) 269
+4 A-Eiganjo Exemplar (NEO) A-10
+4 Twisted Embrace (NEO) 125
 4 Peerless Samurai (NEO) 156
+4 Jukai Preserver (NEO) 195
+4 Sunblade Samurai (NEO) 39
+4 Grafted Growth (NEO) 188
+4 Intercessor's Arrest (NEO) 20
+4 Guardians of Oboro (NEO) 56
+4 Swiftwater Cliffs (NEO) 277
+4 The Modern Age // Vector Glider (NEO) 66
+4 Kitsune Ace (NEO) 22
+4 Island (NEO) 295
+4 Akki War Paint (NEO) 132
+4 Moonsnare Specialist (NEO) 335
+4 Mothrider Patrol (NEO) 30
+4 Inkrise Infiltrator (NEO) 341
+4 Towashi Songshaper (NEO) 167
+4 Akki Ronin (NEO) 319
+4 Dismal Backwater (NEO) 267
+4 Tamiyo's Safekeeping (NEO) 211
+4 Swamp (NEO) 288

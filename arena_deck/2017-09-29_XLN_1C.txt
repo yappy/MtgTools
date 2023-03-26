@@ -1,76 +1,130 @@
 Deck
-4 Desperate Castaways (XLN) 101
-4 Fire Shrine Keeper (XLN) 144
-4 Headwater Sentries (XLN) 58
-4 Ixalli's Keeper (XLN) 193
-4 Blight Keeper (XLN) 92
-4 Deeproot Warrior (XLN) 186
-4 Dive Down (XLN) 53
-4 Spike-Tailed Ceratops (XLN) 209
-4 Spreading Rot (XLN) 125
-4 Swashbuckling (XLN) 167
-4 Blinding Fog (XLN) 177
-4 Anointed Deacon (XLN) 89
-4 Hierophant's Chalice (XLN) 240
-4 Blossom Dryad (XLN) 178
-4 Ixalli's Diviner (XLN) 192
-4 Siren's Ruse (XLN) 80
-4 Queen's Agent (XLN) 114
-4 Queen's Commission (XLN) 29
-4 Thrash of Raptors (XLN) 168
-4 Prying Blade (XLN) 244
-4 Headstrong Brute (XLN) 147
-4 Skyblade of the Legion (XLN) 37
-4 River Heralds' Boon (XLN) 204
-4 Pirate's Prize (XLN) 68
-4 Run Aground (XLN) 72
-4 Ancient Brontodon (XLN) 175
-4 Dire Fleet Interloper (XLN) 103
-4 Ritual of Rejuvenation (XLN) 32
-4 Bishop's Soldier (XLN) 6
-4 Huatli's Snubhorn (XLN) 286
-4 Tishana's Wayfinder (XLN) 211
-4 Encampment Keeper (XLN) 11
-4 Crash the Ramparts (XLN) 182
-4 Cobbled Wings (XLN) 233
-4 Pterodon Knight (XLN) 28
-4 Skulduggery (XLN) 123
-4 Jade Guardian (XLN) 194
-4 One With the Wind (XLN) 64
-4 Shore Keeper (XLN) 77
-4 Firecannon Blast (XLN) 145
-4 Wind Strider (XLN) 88
-4 Castaway's Despair (XLN) 281
-4 Sun-Crowned Hunters (XLN) 164
 4 Siren Lookout (XLN) 78
-4 Fathom Fleet Firebrand (XLN) 142
+4 Duress (XLN) 105
 4 Gilded Sentinel (XLN) 239
-4 Territorial Hammerskull (XLN) 41
-4 Shining Aerosaur (XLN) 36
-4 Contract Killing (XLN) 95
-4 Deadeye Tormentor (XLN) 98
-4 Tilonalli's Knight (XLN) 169
-4 Looming Altisaur (XLN) 23
-4 Queen's Bay Soldier (XLN) 115
-4 Nest Robber (XLN) 152
-4 Kinjalli's Caller (XLN) 18
-4 Brazen Buccaneers (XLN) 134
-4 Depths of Desire (XLN) 52
-4 Vampire's Zeal (XLN) 43
+4 Swashbuckling (XLN) 167
+4 Shaper Apprentice (XLN) 75
+4 Stone Quarry (XLN) 289
 4 Skittering Heartstopper (XLN) 122
-4 Sunrise Seeker (XLN) 40
 4 Dual Shot (XLN) 141
+4 Watertrap Weaver (XLN) 87
+4 Dire Fleet Hoarder (XLN) 102
+4 Shore Keeper (XLN) 77
+4 New Horizons (XLN) 198
+4 Mountain (XLN) 272
+4 Forest (XLN) 279
+4 Swamp (XLN) 270
+4 Skymarch Bloodletter (XLN) 124
+4 Crash the Ramparts (XLN) 182
+4 Thrash of Raptors (XLN) 168
+4 Mountain (XLN) 273
+4 Headwater Sentries (XLN) 58
+4 Pounce (XLN) 200
+4 One With the Wind (XLN) 64
+4 Raptor Companion (XLN) 31
+4 Ravenous Daggertooth (XLN) 202
+4 Queen's Agent (XLN) 114
+4 Legion's Judgment (XLN) 21
+4 Ancient Brontodon (XLN) 175
+4 Forest (XLN) 278
+4 Plains (XLN) 262
+4 Cobbled Wings (XLN) 233
+4 Blight Keeper (XLN) 92
+4 Sun-Crowned Hunters (XLN) 164
+4 March of the Drowned (XLN) 112
+4 Island (XLN) 264
+4 Spike-Tailed Ceratops (XLN) 209
+4 Pterodon Knight (XLN) 28
+4 Pirate's Prize (XLN) 68
+4 Swamp (XLN) 269
+4 Prosperous Pirates (XLN) 69
+4 Unknown Shores (XLN) 259
+4 Hijack (XLN) 148
+4 Plains (XLN) 260
+4 Fathom Fleet Firebrand (XLN) 142
+4 Sure Strike (XLN) 166
+4 Fire Shrine Keeper (XLN) 144
+4 Mark of the Vampire (XLN) 113
+4 Nest Robber (XLN) 152
+4 Paladin of the Bloodstained (XLN) 25
+4 Wind Strider (XLN) 88
+4 Kinjalli's Caller (XLN) 18
+4 Depths of Desire (XLN) 52
+4 Headstrong Brute (XLN) 147
+4 Blossom Dryad (XLN) 178
+4 Opt (XLN) 65
 4 Pious Interdiction (XLN) 26
+4 Skyblade of the Legion (XLN) 37
+4 Sailor of Means (XLN) 73
+4 Ritual of Rejuvenation (XLN) 32
+4 Spell Pierce (XLN) 81
+4 Hierophant's Chalice (XLN) 240
+4 Encampment Keeper (XLN) 11
+4 Sunrise Seeker (XLN) 40
 ================================================================================
 Deck
-4 March of the Drowned (XLN) 112
-4 Shipwreck Looter (XLN) 76
+4 Woodland Stream (XLN) 284
+4 Grazing Whiptail (XLN) 190
+4 Colossal Dreadmaw (XLN) 180
 4 Unfriendly Fire (XLN) 172
-4 Shaper Apprentice (XLN) 75
-4 Watertrap Weaver (XLN) 87
+4 Deeproot Warrior (XLN) 186
+4 Forest (XLN) 276
+4 Rile (XLN) 158
+4 Rummaging Goblin (XLN) 160
+4 Vampire's Zeal (XLN) 43
+4 Shipwreck Looter (XLN) 76
+4 Shining Aerosaur (XLN) 36
+4 Siren's Ruse (XLN) 80
+4 Storm Sculptor (XLN) 85
+4 Mountain (XLN) 274
+4 Desperate Castaways (XLN) 101
+4 Anointed Deacon (XLN) 89
+4 Brazen Buccaneers (XLN) 134
+4 Run Aground (XLN) 72
+4 Island (XLN) 267
+4 Crushing Canopy (XLN) 183
+4 Frenzied Raptor (XLN) 146
 4 Slash of Talons (XLN) 38
-4 Paladin of the Bloodstained (XLN) 25
-4 Pounce (XLN) 200
-4 Ravenous Daggertooth (XLN) 202
-4 Hijack (XLN) 148
+4 Storm Fleet Pyromancer (XLN) 163
+4 Forest (XLN) 277
+4 Jade Guardian (XLN) 194
+4 Prying Blade (XLN) 244
+4 Tishana's Wayfinder (XLN) 211
+4 Territorial Hammerskull (XLN) 41
+4 Firecannon Blast (XLN) 145
+4 Ixalli's Diviner (XLN) 192
+4 Tilonalli's Knight (XLN) 169
+4 Dive Down (XLN) 53
+4 Castaway's Despair (XLN) 281
+4 Pirate's Cutlass (XLN) 242
+4 Skulduggery (XLN) 123
+4 Blinding Fog (XLN) 177
+4 Jungle Delver (XLN) 195
+4 Costly Plunder (XLN) 96
+4 Spreading Rot (XLN) 125
+4 Queen's Bay Soldier (XLN) 115
+4 Island (XLN) 265
+4 Cancel (XLN) 47
+4 Looming Altisaur (XLN) 23
+4 Contract Killing (XLN) 95
+4 Deadeye Tormentor (XLN) 98
+4 Demolish (XLN) 139
+4 Bishop's Soldier (XLN) 6
+4 Swamp (XLN) 268
+4 Swamp (XLN) 271
+4 Commune with Dinosaurs (XLN) 181
+4 Mountain (XLN) 275
+4 Huatli's Snubhorn (XLN) 286
+4 Dire Fleet Interloper (XLN) 103
+4 River Heralds' Boon (XLN) 204
 4 Demystify (XLN) 8
+4 Vanquish the Weak (XLN) 127
+4 Ixalli's Keeper (XLN) 193
+4 Fathom Fleet Cutthroat (XLN) 107
+4 Plains (XLN) 261
+4 Queen's Commission (XLN) 29
+4 Plains (XLN) 263
+4 Legion Conquistador (XLN) 20
+================================================================================
+Deck
+4 Island (XLN) 266

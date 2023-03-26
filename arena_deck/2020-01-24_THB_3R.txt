@@ -1,52 +1,119 @@
 Deck
-4 Ashiok's Forerunner (THB) 277
-4 Phoenix of Ash (THB) 148
-4 Bronzehide Lion (THB) 210
-4 Nessian Boar (THB) 181
-4 Ashiok's Erasure (THB) 43
-4 Protean Thaumaturge (THB) 60
-4 Eidolon of Obstruction (THB) 12
-4 Storm Herald (THB) 156
-4 Treacherous Blessing (THB) 117
-4 Tymaret Calls the Dead (THB) 118
-4 Thassa's Oracle (THB) 73
-4 Taranika, Akroan Veteran (THB) 39
-4 Thryx, the Sudden Storm (THB) 76
-4 Dalakos, Crafter of Wonders (THB) 212
-4 Allure of the Unknown (THB) 207
-4 Underworld Breach (THB) 161
-4 Gravebreaker Lamia (THB) 98
-4 Demon of Loathing (THB) 292
-4 Shatter the Sky (THB) 37
-4 Wavebreak Hippocamp (THB) 80
-4 Setessan Champion (THB) 198
-4 Elspeth Conquers Death (THB) 13
-4 Gallia of the Endless Dance (THB) 217
-4 Archon of Sun's Grace (THB) 3
-4 Idyllic Tutor (THB) 24
-4 The First Iroan Games (THB) 170
-4 Dream Trawler (THB) 214
-4 Aphemia, the Cacophony (THB) 84
-4 Atris, Oracle of Half-Truths (THB) 209
-4 Enigmatic Incarnation (THB) 215
-4 Haktos the Unscarred (THB) 218
-4 Deathbellow War Cry (THB) 294
-4 Labyrinth of Skophos (THB) 243
-4 Sphinx Mindbreaker (THB) 290
-4 Nylea's Intervention (THB) 188
-4 Nightmare Shepherd (THB) 108
-4 Dryad of the Ilysian Grove (THB) 169
-4 Eat to Extinction (THB) 90
-4 Elspeth's Devotee (THB) 272
-4 Mantle of the Wolf (THB) 178
 4 Ironscale Hydra (THB) 296
-4 Nyx Lotus (THB) 235
-4 Kunoros, Hound of Athreos (THB) 222
-4 Serpent of Yawning Depths (THB) 291
-4 Grasping Giant (THB) 288
-4 Erebos's Intervention (THB) 94
-4 Purphoros's Intervention (THB) 151
-4 Heliod's Intervention (THB) 19
-4 Storm's Wrath (THB) 157
-4 Underworld Sentinel (THB) 293
+4 Eidolon of Obstruction (THB) 299
+4 Arasta of the Endless Web (THB) 325
+4 Woe Strider (THB) 317
+4 Gallia of the Endless Dance (THB) 217
+4 Underworld Breach (THB) 161
+4 Elspeth's Devotee (THB) 272
+4 Enigmatic Incarnation (THB) 337
+4 Shadowspear (THB) 345
+4 Thassa's Oracle (THB) 308
+4 Mantle of the Wolf (THB) 327
+4 Underworld Breach (THB) 324
+4 Nightmare Shepherd (THB) 315
+4 Archon of Sun's Grace (THB) 3
+4 Eat to Extinction (THB) 312
+4 The Akroan War (THB) 124
+4 Temple of Abandon (THB) 347
 4 Thassa's Intervention (THB) 72
+4 Eidolon of Obstruction (THB) 12
+4 Thryx, the Sudden Storm (THB) 309
+4 Terror of Mount Velus (THB) 295
+4 Woe Strider (THB) 123
+4 Shatter the Sky (THB) 302
+4 Treacherous Blessing (THB) 117
+4 Dryad of the Ilysian Grove (THB) 326
+4 Idyllic Tutor (THB) 301
+4 Gravebreaker Lamia (THB) 98
+4 Thryx, the Sudden Storm (THB) 76
+4 Haktos the Unscarred (THB) 339
+4 Labyrinth of Skophos (THB) 346
+4 Treeshaker Chimera (THB) 297
+4 Nightmare Shepherd (THB) 108
+4 The First Iroan Games (THB) 170
+4 Storm's Wrath (THB) 157
+4 Nylea's Intervention (THB) 329
+4 Wavebreak Hippocamp (THB) 310
+4 Arasta of the Endless Web (THB) 352
+4 Demon of Loathing (THB) 292
+4 Dalakos, Crafter of Wonders (THB) 212
+4 Aphemia, the Cacophony (THB) 84
+4 Nyx Lotus (THB) 235
+4 Temple of Plenty (THB) 351
+4 Ashiok's Erasure (THB) 304
+4 Tymaret Calls the Dead (THB) 118
+4 Heliod's Intervention (THB) 300
+4 Dryad of the Ilysian Grove (THB) 169
+4 Temple of Plenty (THB) 248
+4 Tectonic Giant (THB) 158
+4 Storm's Wrath (THB) 322
+4 Haktos the Unscarred (THB) 218
+4 Phoenix of Ash (THB) 148
+4 Thassa's Oracle (THB) 73
+4 Protean Thaumaturge (THB) 60
+4 Nadir Kraken (THB) 55
+4 Ashiok's Forerunner (THB) 277
+4 Temple of Enlightenment (THB) 349
+4 Arasta of the Endless Web (THB) 165
+4 Treacherous Blessing (THB) 316
+4 Phoenix of Ash (THB) 319
+4 Dream Trawler (THB) 214
+4 Temple of Abandon (THB) 244
+4 Dalakos, Crafter of Wonders (THB) 335
+================================================================================
+Deck
+4 Victory's Envoy (THB) 289
+4 Temple of Deceit (THB) 348
+4 Protean Thaumaturge (THB) 306
+4 Mantle of the Wolf (THB) 178
+4 Thassa's Intervention (THB) 307
+4 Erebos's Intervention (THB) 94
+4 Heliod's Intervention (THB) 19
+4 Bronzehide Lion (THB) 210
+4 Shadowspear (THB) 236
+4 Temple of Malice (THB) 247
+4 Eat to Extinction (THB) 90
+4 Nessian Boar (THB) 328
+4 Gravebreaker Lamia (THB) 314
+4 Grasping Giant (THB) 288
+4 Tectonic Giant (THB) 323
+4 Atris, Oracle of Half-Truths (THB) 333
+4 Serpent of Yawning Depths (THB) 291
+4 Erebos's Intervention (THB) 313
+4 Kunoros, Hound of Athreos (THB) 341
+4 Aphemia, the Cacophony (THB) 311
+4 Taranika, Akroan Veteran (THB) 39
+4 Nessian Boar (THB) 181
+4 Temple of Enlightenment (THB) 246
+4 Storm Herald (THB) 321
+4 Temple of Abandon (THB) 347★
+4 Shatter the Sky (THB) 37
+4 Allure of the Unknown (THB) 332
+4 Bronzehide Lion (THB) 334
+4 Temple of Malice (THB) 350
+4 Deathbellow War Cry (THB) 294
+4 Ashiok's Erasure (THB) 43
+4 Sphinx Mindbreaker (THB) 290
+4 Purphoros's Intervention (THB) 320
+4 Underworld Sentinel (THB) 293
+4 Wavebreak Hippocamp (THB) 80
+4 Nylea's Intervention (THB) 188
+4 Atris, Oracle of Half-Truths (THB) 209
+4 Kunoros, Hound of Athreos (THB) 222
+4 Enigmatic Incarnation (THB) 215
+4 Storm Herald (THB) 156
+4 Archon of Sun's Grace (THB) 298
+4 Temple of Deceit (THB) 245
+4 Setessan Champion (THB) 331
+4 Dream Trawler (THB) 336
+4 Elspeth Conquers Death (THB) 13
+4 Purphoros's Intervention (THB) 151
+4 Taranika, Akroan Veteran (THB) 303
+4 Idyllic Tutor (THB) 24
+4 Nadir Kraken (THB) 305
+4 Nyx Lotus (THB) 344
+4 Gallia of the Endless Dance (THB) 338
+4 Allure of the Unknown (THB) 207
+4 Setessan Champion (THB) 198
+4 Labyrinth of Skophos (THB) 243

@@ -1,0 +1,93 @@
+Deck
+4 Enigma Drake (AKR) 234
+4 Bone Picker (AKR) 94
+4 Defiant Greatmaw (AKR) 188
+4 Sunset Pyramid (AKR) 280
+4 Crocodile of the Crossing (AKR) 187
+4 Start // Finish (AKR) 264
+4 Hashep Oasis (AKR) 301
+4 Bontu's Monument (AKR) 269
+4 Baleful Ammit (AKR) 92
+4 Honored Crop-Captain (AKR) 240
+4 Edifice of Authority (AKR) 270
+4 Onward // Victory (AKR) 250
+4 Sunscourge Champion (AKR) 38
+4 Oketra's Attendant (AKR) 28
+4 Shefet Dunes (AKR) 329
+4 Merciless Javelineer (AKR) 245
+4 Liliana's Defeat (AKR) 112
+4 Vizier of Remedies (AKR) 45
+4 Sand Strangler (AKR) 173
+4 Renewed Faith (AKR) 32
+4 Hazoret's Monument (AKR) 273
+4 Labyrinth Guardian (AKR) 67
+4 Trial of Ambition (AKR) 130
+4 Wayward Servant (AKR) 267
+4 Destined // Lead (AKR) 232
+4 Riddleform (AKR) 75
+4 Doomfall (AKR) 102
+4 Deem Worthy (AKR) 150
+4 Claim // Fame (AKR) 229
+4 Wasp of the Bitter End (AKR) 134
+4 Shadowstorm Vizier (AKR) 261
+4 Shefet Monitor (AKR) 217
+4 Trial of Zeal (AKR) 180
+4 Unconventional Tactics (AKR) 43
+4 Ruthless Sniper (AKR) 121
+4 Reduce // Rubble (AKR) 254
+4 Trial of Knowledge (AKR) 84
+4 Vile Manifestation (AKR) 132
+4 Ahn-Crop Champion (AKR) 226
+4 Abrade (AKR) 136
+4 Desert's Hold (AKR) 13
+4 Lay Claim (AKR) 68
+4 By Force (AKR) 144
+4 Vizier of the Anointed (AKR) 88
+4 Struggle // Survive (AKR) 265
+4 Watchful Naga (AKR) 225
+4 Aven Wind Guide (AKR) 228
+4 Farm // Market (AKR) 236
+4 Trial of Solidarity (AKR) 42
+4 Hope Tender (AKR) 195
+4 Watchers of the Dead (AKR) 283
+4 Synchronized Strike (AKR) 222
+4 Cryptic Serpent (AKR) 57
+4 Steward of Solidarity (AKR) 37
+4 Lord of the Accursed (AKR) 114
+4 Manglehorn (AKR) 201
+4 Kefnet's Monument (AKR) 275
+4 Supreme Will (AKR) 83
+4 Burning-Fist Minotaur (AKR) 143
+4 Eternal of Harsh Truths (AKR) 61
+4 Ipnu Rivulet (AKR) 303
+4 Khenra Charioteer (AKR) 241
+================================================================================
+Deck
+4 Vizier of Deferment (AKR) 44
+4 Exemplar of Strength (AKR) 190
+4 Fervent Paincaster (AKR) 153
+4 Gate to the Afterlife (AKR) 271
+4 Obelisk Spider (AKR) 249
+4 Sixth Sense (AKR) 220
+4 Spring // Mind (AKR) 263
+4 Sifter Wurm (AKR) 219
+4 Ifnir Deadlands (AKR) 302
+4 Battlefield Scavenger (AKR) 139
+4 Gravedigger (AKR) 107
+4 Protection of the Hekma (AKR) 31
+4 Crypt of the Eternals (AKR) 286
+4 River Hoopoe (AKR) 256
+4 Magmaroth (AKR) 165
+4 Nest of Scarabs (AKR) 117
+4 Vizier of Tumbling Sands (AKR) 89
+4 Ominous Sphinx (AKR) 72
+4 Consign // Oblivion (AKR) 230
+4 Rhonas's Monument (AKR) 279
+4 Appeal // Authority (AKR) 227
+4 Cast Out (AKR) 9
+4 Ramunap Ruins (AKR) 326
+4 Chandra's Defeat (AKR) 147
+4 Censor (AKR) 52
+4 Oketra's Monument (AKR) 277
+4 Ahn-Crop Crasher (AKR) 137
+4 Trial of Strength (AKR) 223

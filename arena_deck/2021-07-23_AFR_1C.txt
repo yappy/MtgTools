@@ -1,101 +1,150 @@
 Deck
-4 Devoted Paladin (AFR) 11
-4 Half-Elf Monk (AFR) 19
-4 Earth-Cult Elemental (AFR) 141
-4 Sepulcher Ghoul (AFR) 118
-4 Hill Giant Herdgorger (AFR) 187
-4 Zombie Ogre (AFR) 129
-4 Owlbear (AFR) 198
-4 Eyes of the Beholder (AFR) 101
-4 Bar the Gate (AFR) 47
-4 Potion of Healing (AFR) 34
-4 Gloom Stalker (AFR) 16
-4 Arcane Investigator (AFR) 46
-4 Hoard Robber (AFR) 110
-4 Veteran Dungeoneer (AFR) 40
-4 A-Armory Veteran (AFR) A-130
-4 Brazen Dwarf (AFR) 134
-4 Compelled Duel (AFR) 178
-4 Herald of Hadar (AFR) 108
-4 A-Find the Path (AFR) A-183
-4 Elturgard Ranger (AFR) 182
-4 Shortcut Seeker (AFR) 73
-4 A-Fates' Reversal (AFR) A-102
-4 Armory Veteran (AFR) 130
-4 Shocking Grasp (AFR) 72
-4 Vampire Spawn (AFR) 123
-4 Underdark Basilisk (AFR) 208
-4 A-Precipitous Drop (AFR) A-115
-4 Dwarfhold Champion (AFR) 14
-4 Valor Singer (AFR) 165
-4 A-Sepulcher Ghoul (AFR) A-118
-4 You Find the Villains' Lair (AFR) 84
-4 Ranger's Hawk (AFR) 37
-4 A-Dwarfhold Champion (AFR) A-14
-4 Unexpected Windfall (AFR) 164
-4 You See a Guard Approach (AFR) 85
-4 Ranger's Longbow (AFR) 203
-4 Hobgoblin Captain (AFR) 148
-4 Silver Raven (AFR) 74
-4 Bulette (AFR) 173
-4 You Hear Something on Watch (AFR) 42
-4 Mordenkainen's Polymorph (AFR) 65
-4 Steadfast Paladin (AFR) 38
-4 Clever Conjurer (AFR) 51
-4 +2 Mace (AFR) 1
-4 Swarming Goblins (AFR) 162
-4 Air-Cult Elemental (AFR) 45
-4 Boots of Speed (AFR) 133
-4 Scaled Herbalist (AFR) 204
-4 Dragon's Fire (AFR) 139
-4 Leather Armor (AFR) 248
-4 Dueling Rapier (AFR) 140
-4 Grim Bounty (AFR) 106
+4 Neverwinter Dryad (AFR) 329
 4 Soulknife Spy (AFR) 75
-4 Greataxe (AFR) 245
-4 Find the Path (AFR) 183
+4 Minimus Containment (AFR) 24
+4 Bull's Strength (AFR) 174
+4 Clattering Skeletons (AFR) 93
 4 Inspiring Bard (AFR) 189
+4 Goblin Javelineer (AFR) 318
+4 You Come to the Gnoll Camp (AFR) 168
+4 Clattering Skeletons (AFR) 312
+4 Spoils of the Hunt (AFR) 205
+4 Gnoll Hunter (AFR) 326
+4 Shortcut Seeker (AFR) 73
+4 Owlbear (AFR) 331
+4 Devour Intellect (AFR) 97
+4 Swamp (AFR) 273
+4 A-Dwarfhold Champion (AFR) A-14
 4 Fates' Reversal (AFR) 102
-4 Yuan-Ti Fang-Blade (AFR) 128
-4 Circle of the Moon Druid (AFR) 177
+4 You Find the Villains' Lair (AFR) 399
+4 Island (AFR) 269
+4 Gnoll Hunter (AFR) 185
+4 Baleful Beholder (AFR) 311
+4 Bulette (AFR) 173
+4 Kick in the Door (AFR) 153
+4 Dwarfhold Champion (AFR) 14
+4 Island (AFR) 267
+4 Improvised Weaponry (AFR) 150
+4 Compelled Duel (AFR) 178
+4 Paladin's Shield (AFR) 30
+4 You See a Guard Approach (AFR) 85
+4 Owlbear (AFR) 198
+4 Secret Door (AFR) 71
+4 Feign Death (AFR) 103
+4 Ranger's Longbow (AFR) 203
+4 Devoted Paladin (AFR) 11
+4 Brazen Dwarf (AFR) 134
+4 Gloom Stalker (AFR) 16
+4 Manticore (AFR) 113
+4 Eyes of the Beholder (AFR) 101
+4 Armory Veteran (AFR) 130
+4 Charmed Sleep (AFR) 50
+4 A-Armory Veteran (AFR) A-130
+4 Price of Loyalty (AFR) 159
+4 Bulette (AFR) 324
+4 Dire Wolf Prowler (AFR) 179
+4 Plummet (AFR) 199
+4 A-Find the Path (AFR) A-183
+4 Delver's Torch (AFR) 10
 4 Farideh's Fireball (AFR) 142
+4 Spiked Pit Trap (AFR) 251
+4 Find the Path (AFR) 183
+4 Sepulcher Ghoul (AFR) 118
+4 Pixie Guide (AFR) 309
+4 Swarming Goblins (AFR) 162
+4 Manticore (AFR) 314
+4 Djinni Windseer (AFR) 55
+4 A-Sepulcher Ghoul (AFR) A-118
+4 Arborea Pegasus (AFR) 299
+4 Scaled Herbalist (AFR) 204
+4 Forest (AFR) 280
+4 Circle of the Moon Druid (AFR) 177
+4 Evolving Wilds (AFR) 256
 4 You're Ambushed on the Road (AFR) 43
-4 You Come to a River (AFR) 83
 ================================================================================
 Deck
-4 Arborea Pegasus (AFR) 2
-4 Planar Ally (AFR) 31
-4 Clattering Skeletons (AFR) 93
-4 Gnoll Hunter (AFR) 185
-4 Spiked Pit Trap (AFR) 251
-4 Delver's Torch (AFR) 10
-4 Secret Door (AFR) 71
-4 Bull's Strength (AFR) 174
-4 Neverwinter Dryad (AFR) 195
-4 Scion of Stygia (AFR) 70
-4 You Find a Cursed Idol (AFR) 213
-4 Devour Intellect (AFR) 97
-4 Sylvan Shepherd (AFR) 206
-4 Pixie Guide (AFR) 66
-4 Mimic (AFR) 249
-4 Celestial Unicorn (AFR) 5
-4 Spoils of the Hunt (AFR) 205
-4 Charmed Sleep (AFR) 50
-4 Kick in the Door (AFR) 153
-4 Dire Wolf Prowler (AFR) 179
 4 Precipitous Drop (AFR) 115
-4 Spare Dagger (AFR) 250
-4 Plundering Barbarian (AFR) 158
-4 Paladin's Shield (AFR) 30
-4 You Come to the Gnoll Camp (AFR) 168
-4 Goblin Javelineer (AFR) 144
-4 Shambling Ghast (AFR) 119
-4 Baleful Beholder (AFR) 89
+4 Deadly Dispute (AFR) 94
+4 Dire Wolf Prowler (AFR) 325
 4 Rimeshield Frost Giant (AFR) 69
-4 Djinni Windseer (AFR) 55
-4 Price of Loyalty (AFR) 159
+4 You Hear Something on Watch (AFR) 42
+4 Swamp (AFR) 272
+4 A-Precipitous Drop (AFR) A-115
+4 Plains (AFR) 265
+4 Plains (AFR) 262
+4 Mountain (AFR) 276
+4 Valor Singer (AFR) 165
+4 Island (AFR) 268
+4 Scion of Stygia (AFR) 70
+4 Underdark Basilisk (AFR) 334
+4 Dragon's Fire (AFR) 139
+4 Ranger's Hawk (AFR) 37
+4 Mimic (AFR) 249
+4 Island (AFR) 266
+4 Steadfast Paladin (AFR) 38
+4 Silver Raven (AFR) 74
+4 Contact Other Plane (AFR) 52
+4 Yuan-Ti Fang-Blade (AFR) 128
+4 Planar Ally (AFR) 31
+4 Forest (AFR) 279
+4 Spare Dagger (AFR) 250
+4 Djinni Windseer (AFR) 306
+4 Swamp (AFR) 270
+4 Shocking Grasp (AFR) 72
+4 Mimic (AFR) 349
+4 Priest of Ancient Lore (AFR) 35
+4 Mordenkainen's Polymorph (AFR) 65
+4 Hill Giant Herdgorger (AFR) 187
+4 Forest (AFR) 278
+4 Hoard Robber (AFR) 110
+4 Vampire Spawn (AFR) 123
+4 Clever Conjurer (AFR) 51
+4 Grim Bounty (AFR) 106
+4 Bar the Gate (AFR) 47
+4 Herald of Hadar (AFR) 108
+4 Unexpected Windfall (AFR) 164
+4 Evolving Wilds (AFR) 353
+4 Dawnbringer Cleric (AFR) 9
 4 Hired Hexblade (AFR) 109
+4 Celestial Unicorn (AFR) 301
+4 Dueling Rapier (AFR) 140
+4 Pixie Guide (AFR) 66
+4 You Find the Villains' Lair (AFR) 84
+4 Sylvan Shepherd (AFR) 206
+4 A-Fates' Reversal (AFR) A-102
+4 Mountain (AFR) 277
+4 Goblin Javelineer (AFR) 144
+4 Zombie Ogre (AFR) 129
+4 Potion of Healing (AFR) 34
+4 Plundering Barbarian (AFR) 158
+4 Veteran Dungeoneer (AFR) 40
+4 Shambling Ghast (AFR) 119
+4 Boots of Speed (AFR) 133
+4 Arcane Investigator (AFR) 46
+4 Hoarding Ogre (AFR) 146
+4 Plains (AFR) 264
+4 Mountain (AFR) 275
+4 Baleful Beholder (AFR) 89
+================================================================================
+Deck
+4 Leather Armor (AFR) 248
+4 Neverwinter Dryad (AFR) 195
+4 Greataxe (AFR) 245
+4 +2 Mace (AFR) 1
+4 Swamp (AFR) 271
+4 You Come to a River (AFR) 83
+4 Underdark Basilisk (AFR) 208
+4 Rimeshield Frost Giant (AFR) 310
+4 Mountain (AFR) 274
+4 Forest (AFR) 281
+4 You Find a Cursed Idol (AFR) 213
+4 Half-Elf Monk (AFR) 19
+4 Celestial Unicorn (AFR) 5
+4 Thieves' Tools (AFR) 122
+4 Elturgard Ranger (AFR) 182
+4 Hobgoblin Captain (AFR) 148
+4 Earth-Cult Elemental (AFR) 141
+4 Plains (AFR) 263
+4 Air-Cult Elemental (AFR) 45
+4 Arborea Pegasus (AFR) 2
 4 Jaded Sell-Sword (AFR) 152
-4 Feign Death (AFR) 103
-4 Improvised Weaponry (AFR) 150
-4 Manticore (AFR) 113

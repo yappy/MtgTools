@@ -1,68 +1,146 @@
 Deck
-4 Ragefire Hellkite (DMU) 285
-4 Archangel of Wrath (DMU) 3
-4 Stenn, Paranoid Partisan (DMU) 221
-4 Llanowar Loamspeaker (DMU) 170
-4 Defiler of Vigor (DMU) 160
-4 Urza Assembles the Titans (DMU) 37
-4 Radha's Firebrand (DMU) 141
-4 Keldon Flamesage (DMU) 135
-4 Shivan Reef (DMU) 255
-4 Evolved Sleeper (DMU) 93
-4 Squee, Dubious Monarch (DMU) 146
-4 Astor, Bearer of Blades (DMU) 194
-4 The Raven Man (DMU) 103
-4 Rundvelt Hordemaster (DMU) 142
-4 Llanowar Greenwidow (DMU) 169
-4 Threats Undetected (DMU) 185
-4 Meria, Scholar of Antiquity (DMU) 206
-4 Silver Scrutiny (DMU) 65
-4 The Cruelty of Gix (DMU) 87
-4 Guardian of New Benalia (DMU) 19
-4 Caves of Koilos (DMU) 244
-4 Vodalian Mindsinger (DMU) 76
-4 Serra Redeemer (DMU) 282
-4 Defiler of Flesh (DMU) 90
-4 Ertai Resurrected (DMU) 199
-4 Yavimaya Coast (DMU) 261
-4 Vodalian Hexcatcher (DMU) 75
-4 Danitha, Benalia's Hope (DMU) 15
-4 Haughty Djinn (DMU) 52
-4 The Elder Dragon War (DMU) 121
-4 Ivy, Gleeful Spellthief (DMU) 201
-4 Defiler of Instinct (DMU) 119
-4 The Phasing of Zhalfir (DMU) 59
 4 Tyrannical Pitlord (DMU) 284
-4 Academy Loremaster (DMU) 40
-4 Stronghold Arena (DMU) 110
-4 Jhoira, Ageless Innovator (DMU) 202
-4 Defiler of Faith (DMU) 16
-4 Thran Portal (DMU) 259
-4 Plaza of Heroes (DMU) 252
-4 Defiler of Dreams (DMU) 46
-4 Temporal Firestorm (DMU) 147
-4 Anointed Peacekeeper (DMU) 2
-4 Chaotic Transformation (DMU) 117
-4 Temporary Lockdown (DMU) 36
-4 Ratadrabik of Urborg (DMU) 213
-4 Leyline Binding (DMU) 24
-4 Golden Argosy (DMU) 230
-4 Valiant Veteran (DMU) 38
-4 Karplusan Forest (DMU) 250
-4 Drag to the Bottom (DMU) 91
-4 Briar Hydra (DMU) 286
-4 Shadow-Rite Priest (DMU) 106
+4 Rundvelt Hordemaster (DMU) 409
+4 Stenn, Paranoid Partisan (DMU) 221
+4 The Phasing of Zhalfir (DMU) 59
+4 Defiler of Vigor (DMU) 160
 4 Adarkar Wastes (DMU) 243
-4 Quirion Beastcaller (DMU) 175
-4 Herd Migration (DMU) 165
-4 Braids, Arisen Nightmare (DMU) 84
+4 Rivaz of the Claw (DMU) 355
+4 Sulfurous Springs (DMU) 381
+4 The Elder Dragon War (DMU) 121
+4 Defiler of Instinct (DMU) 119
+4 Yavimaya Coast (DMU) 261
+4 Squee, Dubious Monarch (DMU) 291
+4 Urza Assembles the Titans (DMU) 37
 4 King Darien XLVIII (DMU) 204
-4 Rivaz of the Claw (DMU) 215
-4 Leaf-Crowned Visionary (DMU) 167
-4 Sulfurous Springs (DMU) 256
-4 Nemata, Primeval Warden (DMU) 209
+4 Vodalian Hexcatcher (DMU) 398
+4 Astor, Bearer of Blades (DMU) 334
+4 Valiant Veteran (DMU) 38
+4 Anointed Peacekeeper (DMU) 383
+4 Stenn, Paranoid Partisan (DMU) 361
+4 Radha's Firebrand (DMU) 408
+4 Danitha, Benalia's Hope (DMU) 287
+4 Braids, Arisen Nightmare (DMU) 329
+4 Aether Channeler (DMU) 392
+4 Vodalian Mindsinger (DMU) 76
+4 Ragefire Hellkite (DMU) 285
+4 Danitha, Benalia's Hope (DMU) 328
+4 Quirion Beastcaller (DMU) 175
+4 Karplusan Forest (DMU) 379
+4 Defiler of Flesh (DMU) 400
+4 Ertai Resurrected (DMU) 339
+4 Defiler of Faith (DMU) 16
+4 Archangel of Wrath (DMU) 3
+4 Vodalian Mindsinger (DMU) 399
+4 Leyline Binding (DMU) 387
+4 Haughty Djinn (DMU) 52
+4 Meria, Scholar of Antiquity (DMU) 305
+4 Briar Hydra (DMU) 286
+4 Temporal Firestorm (DMU) 411
+4 Leyline Binding (DMU) 24
+4 Urborg Lhurgoyf (DMU) 420
+4 Squee, Dubious Monarch (DMU) 146
+4 The Cruelty of Gix (DMU) 87
+4 Meria, Scholar of Antiquity (DMU) 206
+4 Astor, Bearer of Blades (DMU) 194
+4 Guardian of New Benalia (DMU) 19
+4 Ivy, Gleeful Spellthief (DMU) 300
+4 Vodalian Hexcatcher (DMU) 75
+4 Stenn, Paranoid Partisan (DMU) 320
+4 Braids, Arisen Nightmare (DMU) 84
+4 Ratadrabik of Urborg (DMU) 312
+4 Jhoira, Ageless Innovator (DMU) 301
+4 Evolved Sleeper (DMU) 402
+4 Tyrannical Pitlord (DMU) 425
+4 Anointed Peacekeeper (DMU) 2
+4 Llanowar Loamspeaker (DMU) 428
+4 Ragefire Hellkite (DMU) 426
+4 Llanowar Loamspeaker (DMU) 416
+4 Aether Channeler (DMU) 42
+4 Defiler of Flesh (DMU) 90
+4 Jhoira, Ageless Innovator (DMU) 342
+4 Threats Undetected (DMU) 419
+4 The Raven Man (DMU) 103
 ================================================================================
 Deck
-4 Urborg Lhurgoyf (DMU) 186
+4 Drag to the Bottom (DMU) 401
+4 Nemata, Primeval Warden (DMU) 308
+4 Keldon Flamesage (DMU) 135
+4 Shivan Reef (DMU) 380
+4 Caves of Koilos (DMU) 378
+4 Nemata, Primeval Warden (DMU) 349
 4 Cosmic Epiphany (DMU) 283
-4 Aether Channeler (DMU) 42
+4 Yavimaya Coast (DMU) 382
+4 Ertai Resurrected (DMU) 199
+4 Llanowar Greenwidow (DMU) 169
+4 Llanowar Greenwidow (DMU) 415
+4 Temporary Lockdown (DMU) 36
+4 Danitha, Benalia's Hope (DMU) 15
+4 Defiler of Dreams (DMU) 393
+4 Astor, Bearer of Blades (DMU) 293
+4 Defiler of Dreams (DMU) 46
+4 Squee, Dubious Monarch (DMU) 332
+4 Silver Scrutiny (DMU) 65
+4 Valiant Veteran (DMU) 390
+4 Silver Scrutiny (DMU) 395
+4 Ivy, Gleeful Spellthief (DMU) 341
+4 Ratadrabik of Urborg (DMU) 213
+4 Meria, Scholar of Antiquity (DMU) 346
+4 Caves of Koilos (DMU) 244
+4 Threats Undetected (DMU) 185
+4 Academy Loremaster (DMU) 391
+4 Rivaz of the Claw (DMU) 215
+4 Drag to the Bottom (DMU) 91
+4 Temporal Firestorm (DMU) 147
+4 Keldon Flamesage (DMU) 407
+4 Academy Loremaster (DMU) 40
+4 Plaza of Heroes (DMU) 252
+4 Shivan Reef (DMU) 255
+4 Urborg Lhurgoyf (DMU) 186
+4 Serra Redeemer (DMU) 282
+4 Leaf-Crowned Visionary (DMU) 167
+4 Ratadrabik of Urborg (DMU) 353
+4 Nemata, Primeval Warden (DMU) 209
+4 Radha's Firebrand (DMU) 141
+4 Herd Migration (DMU) 165
+4 Ertai Resurrected (DMU) 298
+4 Stronghold Arena (DMU) 404
+4 King Darien XLVIII (DMU) 303
+4 Karplusan Forest (DMU) 250
+4 Temporary Lockdown (DMU) 389
+4 Quirion Beastcaller (DMU) 417
+4 Llanowar Loamspeaker (DMU) 170
+4 The Raven Man (DMU) 289
+4 Chaotic Transformation (DMU) 117
+4 Defiler of Instinct (DMU) 406
+4 Chaotic Transformation (DMU) 405
+4 Shadow-Rite Priest (DMU) 106
+4 Shadow-Rite Priest (DMU) 403
+4 Archangel of Wrath (DMU) 384
+4 Defiler of Vigor (DMU) 412
+4 Guardian of New Benalia (DMU) 386
+4 Haughty Djinn (DMU) 394
+4 Ivy, Gleeful Spellthief (DMU) 201
+4 Jhoira, Ageless Innovator (DMU) 202
+4 Briar Hydra (DMU) 427
+4 Sulfurous Springs (DMU) 256
+4 Herd Migration (DMU) 429
+================================================================================
+Deck
+4 Leaf-Crowned Visionary (DMU) 414
+4 Plaza of Heroes (DMU) 421
+4 Thran Portal (DMU) 422
+4 Evolved Sleeper (DMU) 93
+4 Adarkar Wastes (DMU) 377
+4 The Raven Man (DMU) 330
+4 Thran Portal (DMU) 259
+4 King Darien XLVIII (DMU) 344
+4 Defiler of Faith (DMU) 385
+4 Braids, Arisen Nightmare (DMU) 288
+4 Herd Migration (DMU) 413
+4 Serra Redeemer (DMU) 423
+4 Golden Argosy (DMU) 230
+4 Stronghold Arena (DMU) 110
+4 Rivaz of the Claw (DMU) 314
+4 Cosmic Epiphany (DMU) 424
+4 Rundvelt Hordemaster (DMU) 142

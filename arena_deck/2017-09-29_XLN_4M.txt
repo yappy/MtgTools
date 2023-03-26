@@ -1,16 +1,18 @@
 Deck
-4 Huatli, Dinosaur Knight (XLN) 285
-4 Axis of Mortality (XLN) 3
-4 Vraska, Relic Seeker (XLN) 232
-4 Wakening Sun's Avatar (XLN) 44
-4 Rowdy Crew (XLN) 159
-4 Huatli, Warrior Poet (XLN) 224
-4 Admiral Beckett Brass (XLN) 217
-4 Tishana, Voice of Thunder (XLN) 230
 4 Star of Extinction (XLN) 161
+4 Tishana, Voice of Thunder (XLN) 230
+4 Boneyard Parley (XLN) 94
+4 Axis of Mortality (XLN) 3
 4 Carnage Tyrant (XLN) 179
+4 Dire Fleet Ravager (XLN) 104
+4 Huatli, Dinosaur Knight (XLN) 285
 4 Gishath, Sun's Avatar (XLN) 222
-4 Vona, Butcher of Magan (XLN) 231
+4 Wakening Sun's Avatar (XLN) 44
+4 Vraska, Relic Seeker (XLN) 232
+4 Admiral Beckett Brass (XLN) 217
+4 Huatli, Warrior Poet (XLN) 224
 4 Jace, Cunning Castaway (XLN) 60
+4 Rowdy Crew (XLN) 159
+4 Vona, Butcher of Magan (XLN) 231
 4 Jace, Ingenious Mind-Mage (XLN) 280
 4 Overflowing Insight (XLN) 66

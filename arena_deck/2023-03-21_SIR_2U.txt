@@ -1,0 +1,96 @@
+Deck
+4 Rise from the Grave (SIR) 131
+4 Lightning Axe (SIR) 166
+4 Advanced Stitchwing (SIR) 54
+4 Subjugator Angel (SIR) 48
+4 Nebelgast Herald (SIR) 83
+4 Stone Quarry (SIR) 274
+4 Ulrich's Kindred (SIR) 182
+4 Duskwatch Recruiter // Krallenhorde Howler (SIR) 194
+4 Brain in a Jar (SIR) 247
+4 Ride Down (SIR) 241
+4 Fleeting Memories (SIR) 69
+4 Forsaken Sanctuary (SIR) 266
+4 Foreboding Ruins (SIR) 265
+4 Abundant Maw (SIR) 1
+4 Murderer's Axe (SIR) 255
+4 Scourge Wolf (SIR) 175
+4 Accursed Witch // Infectious Curse (SIR) 97
+4 Kindly Stranger // Demon-Possessed Witch (SIR) 107
+4 Olivia's Bloodsworn (SIR) 127
+4 Ruthless Disposal (SIR) 132
+4 Reaper of Flight Moonsilver (SIR) 41
+4 Pieces of the Puzzle (SIR) 85
+4 Stensia Masquerade (SIR) 178
+4 Furyblade Vampire (SIR) 156
+4 Veteran Cathar (SIR) 225
+4 Howlpack Resurgence (SIR) 202
+4 Pick the Brain (SIR) 129
+4 Game Trail (SIR) 269
+4 Mercurial Geists (SIR) 236
+4 Hope Against Hope (SIR) 33
+4 Dusk Feaster (SIR) 109
+4 Fortified Village (SIR) 267
+4 Groundskeeper (SIR) 199
+4 Clear Shot (SIR) 189
+4 Highland Lake (SIR) 272
+4 Call the Bloodline (SIR) 101
+4 Blood Mist (SIR) 144
+4 Geier Reach Bandit // Vildin-Pack Alpha (SIR) 159
+4 Courageous Outrider (SIR) 20
+4 Anguished Unmaking (SIR) 229
+4 Humble the Brute (SIR) 34
+4 Deathcap Cultivator (SIR) 193
+4 Haunted Dead (SIR) 117
+4 Mournwillow (SIR) 237
+4 Biting Rain (SIR) 99
+4 Graf Mole (SIR) 197
+4 Cryptolith Fragment // Aurora of Emrakul (SIR) 248
+4 Drownyard Behemoth (SIR) 4
+4 Fiery Temper (SIR) 154
+4 Crawling Sensation (SIR) 191
+4 Rise from the Tides (SIR) 88
+4 Indulgent Aristocrat (SIR) 118
+4 Lupine Prototype (SIR) 253
+4 Pack Guardian (SIR) 208
+4 Uncaged Fury (SIR) 183
+4 Ironclad Slayer (SIR) 35
+4 Village Messenger // Moonrise Intruder (SIR) 184
+4 Topplegeist (SIR) 52
+4 Woodland Stream (SIR) 276
+4 Lone Rider // It That Rides as One (SIR) 36
+4 Compelling Deterrence (SIR) 55
+4 Hamlet Captain (SIR) 200
+================================================================================
+Deck
+4 Harvest Hand // Scrounged Scythe (SIR) 252
+4 Nearheath Chaplain (SIR) 38
+4 Port Town (SIR) 273
+4 Daring Sleuth // Bearer of Overwhelming Truths (SIR) 59
+4 Spectral Shepherd (SIR) 45
+4 Pore Over the Pages (SIR) 86
+4 Drunau Corpse Trawler (SIR) 64
+4 Midnight Scavengers (SIR) 123
+4 Shrill Howler // Howling Chorus (SIR) 214
+4 Erdwal Illuminator (SIR) 66
+4 Shreds of Sanity (SIR) 176
+4 Foul Orchard (SIR) 268
+4 Choked Estuary (SIR) 264
+4 Ongoing Investigation (SIR) 84
+4 Ulvenwald Mysteries (SIR) 223
+4 Town Gossipmonger // Incited Rabble (SIR) 53
+4 Thermo-Alchemist (SIR) 180
+4 Soul Separator (SIR) 258
+4 Manic Scribe (SIR) 80
+4 Faith Unbroken (SIR) 27
+4 Invasive Surgery (SIR) 76
+4 Curious Homunculus // Voracious Reader (SIR) 58
+4 Gryff's Boon (SIR) 31
+4 Stromkirk Occultist (SIR) 179
+4 Noose Constrictor (SIR) 206
+4 Mad Prophet (SIR) 167
+4 Mockery of Nature (SIR) 8
+4 Graf Harvest (SIR) 114
+4 Blessed Alliance (SIR) 14
+4 Vessel of Nascency (SIR) 224
+4 Neglected Heirloom // Ashmouth Blade (SIR) 256
