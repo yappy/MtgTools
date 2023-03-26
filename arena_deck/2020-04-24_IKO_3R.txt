@@ -1,53 +1,53 @@
 Deck
-4 Savai Triome (IKO)
-4 Titans' Nest (IKO)
-4 Colossification (IKO)
-4 Genesis Ultimatum (IKO)
-4 Extinction Event (IKO)
-4 Sea-Dasher Octopus (IKO)
-4 Mythos of Vadrok (IKO)
-4 Emergent Ultimatum (IKO)
-4 Mythos of Brokkos (IKO)
-4 Lutri, the Spellchaser (IKO)
-4 Mythos of Nethroi (IKO)
-4 Quartzwood Crasher (IKO)
-4 The Ozolith (IKO)
-4 Gyruda, Doom of Depths (IKO)
-4 Kaheera, the Orphanguard (IKO)
-4 Lurrus of the Dream-Den (IKO)
-4 Gemrazer (IKO)
-4 Mythos of Illuna (IKO)
-4 Dirge Bat (IKO)
-4 Mythos of Snapdax (IKO)
-4 Eerie Ultimatum (IKO)
-4 Everquill Phoenix (IKO)
-4 Unpredictable Cyclone (IKO)
-4 Voracious Greatshark (IKO)
-4 Whirlwind of Thought (IKO)
-4 Obosh, the Preypiercer (IKO)
-4 Ketria Triome (IKO)
-4 Yidaro, Wandering Monster (IKO)
-4 Song of Creation (IKO)
-4 Inspired Ultimatum (IKO)
-4 Zirda, the Dawnwaker (IKO)
-4 Skycat Sovereign (IKO)
-4 Kogla, the Titan Ape (IKO)
-4 Shark Typhoon (IKO)
-4 Cubwarden (IKO)
-4 Umori, the Collector (IKO)
-4 Labyrinth Raptor (IKO)
-4 Ruinous Ultimatum (IKO)
-4 Drannith Magistrate (IKO)
-4 Death's Oasis (IKO)
-4 Hunted Nightmare (IKO)
-4 Frondland Felidar (IKO)
-4 Raugrin Triome (IKO)
-4 Keruga, the Macrosage (IKO)
-4 Slitherwisp (IKO)
-4 Yorion, Sky Nomad (IKO)
-4 Offspring's Revenge (IKO)
-4 Lavabrink Venturer (IKO)
-4 Indatha Triome (IKO)
-4 Jegantha, the Wellspring (IKO)
-4 Bonders' Enclave (IKO)
-4 Zagoth Triome (IKO)
+4 Savai Triome (IKO) 253
+4 Titans' Nest (IKO) 212
+4 Colossification (IKO) 148
+4 Genesis Ultimatum (IKO) 189
+4 Extinction Event (IKO) 88
+4 Sea-Dasher Octopus (IKO) 66
+4 Mythos of Vadrok (IKO) 127
+4 Emergent Ultimatum (IKO) 185
+4 Mythos of Brokkos (IKO) 168
+4 Lutri, the Spellchaser (IKO) 227
+4 Mythos of Nethroi (IKO) 97
+4 Quartzwood Crasher (IKO) 201
+4 The Ozolith (IKO) 237
+4 Gyruda, Doom of Depths (IKO) 221
+4 Kaheera, the Orphanguard (IKO) 224
+4 Lurrus of the Dream-Den (IKO) 226
+4 Gemrazer (IKO) 155
+4 Mythos of Illuna (IKO) 58
+4 Dirge Bat (IKO) 84
+4 Mythos of Snapdax (IKO) 24
+4 Eerie Ultimatum (IKO) 184
+4 Everquill Phoenix (IKO) 114
+4 Unpredictable Cyclone (IKO) 139
+4 Voracious Greatshark (IKO) 70
+4 Whirlwind of Thought (IKO) 215
+4 Obosh, the Preypiercer (IKO) 228
+4 Ketria Triome (IKO) 250
+4 Yidaro, Wandering Monster (IKO) 141
+4 Song of Creation (IKO) 210
+4 Inspired Ultimatum (IKO) 191
+4 Zirda, the Dawnwaker (IKO) 233
+4 Skycat Sovereign (IKO) 207
+4 Kogla, the Titan Ape (IKO) 162
+4 Shark Typhoon (IKO) 67
+4 Cubwarden (IKO) 7
+4 Umori, the Collector (IKO) 231
+4 Labyrinth Raptor (IKO) 193
+4 Ruinous Ultimatum (IKO) 204
+4 Drannith Magistrate (IKO) 11
+4 Death's Oasis (IKO) 182
+4 Hunted Nightmare (IKO) 92
+4 Frondland Felidar (IKO) 186
+4 Raugrin Triome (IKO) 251
+4 Keruga, the Macrosage (IKO) 225
+4 Slitherwisp (IKO) 208
+4 Yorion, Sky Nomad (IKO) 232
+4 Offspring's Revenge (IKO) 198
+4 Lavabrink Venturer (IKO) 19
+4 Indatha Triome (IKO) 248
+4 Jegantha, the Wellspring (IKO) 222
+4 Bonders' Enclave (IKO) 245
+4 Zagoth Triome (IKO) 259

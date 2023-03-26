@@ -1,90 +1,90 @@
 Deck
-4 Zephyr Boots (STX)
-4 Karok Wrangler (STX)
-4 Containment Breach (STX)
-4 Snow Day (STX)
-4 Prismari Apprentice (STX)
-4 Lorehold Excavation (STX)
-4 Team Pennant (STX)
-4 Symmetry Sage (STX)
-4 A-Spell Satchel (STX)
-4 Professor of Symbology (STX)
-4 A-Mentor's Guidance (STX)
-4 Dina, Soul Steeper (STX)
-4 Quintorius, Field Historian (STX)
-4 Daemogoth Woe-Eater (STX)
-4 Decisive Denial (STX)
-4 Igneous Inspiration (STX)
-4 Maelstrom Muse (STX)
-4 Secret Rendezvous (STX)
-4 Ardent Dustspeaker (STX)
-4 Rootha, Mercurial Artist (STX)
-4 Lorehold Apprentice (STX)
-4 Reflective Golem (STX)
-4 A-Maelstrom Muse (STX)
-4 Detention Vortex (STX)
-4 Shadewing Laureate (STX)
-4 Mortality Spear (STX)
-4 Returned Pastcaller (STX)
-4 Silverquill Apprentice (STX)
-4 Flunk (STX)
-4 Go Blank (STX)
-4 Reduce to Memory (STX)
-4 Witherbloom Apprentice (STX)
-4 Eyetwitch (STX)
-4 Wormhole Serpent (STX)
-4 Show of Confidence (STX)
-4 Golden Ratio (STX)
-4 Quandrix Cultivator (STX)
-4 Thunderous Orator (STX)
-4 Tenured Inkcaster (STX)
-4 Necrotic Fumes (STX)
-4 Closing Statement (STX)
-4 Divide by Zero (STX)
-4 Overgrown Arch (STX)
-4 Stonebinder's Familiar (STX)
-4 Kelpie Guide (STX)
-4 Clever Lumimancer (STX)
-4 Practical Research (STX)
-4 Spell Satchel (STX)
-4 Quandrix Apprentice (STX)
-4 Hall Monitor (STX)
-4 Reconstruct History (STX)
-4 Honor Troll (STX)
-4 Aether Helix (STX)
-4 Tend the Pests (STX)
-4 Storm-Kiln Artist (STX)
-4 Fortifying Draught (STX)
-4 Dueling Coach (STX)
-4 Explosive Welcome (STX)
-4 Mascot Interception (STX)
-4 Plumb the Forbidden (STX)
-4 Academic Dispute (STX)
-4 Deadly Brew (STX)
+4 Zephyr Boots (STX) 261
+4 Karok Wrangler (STX) 135
+4 Containment Breach (STX) 125
+4 Snow Day (STX) 53
+4 Prismari Apprentice (STX) 213
+4 Lorehold Excavation (STX) 200
+4 Team Pennant (STX) 260
+4 Symmetry Sage (STX) 56
+4 A-Spell Satchel (STX) A-258
+4 Professor of Symbology (STX) 24
+4 A-Mentor's Guidance (STX) A-46
+4 Dina, Soul Steeper (STX) 178
+4 Quintorius, Field Historian (STX) 220
+4 Daemogoth Woe-Eater (STX) 175
+4 Decisive Denial (STX) 177
+4 Igneous Inspiration (STX) 107
+4 Maelstrom Muse (STX) 202
+4 Secret Rendezvous (STX) 26
+4 Ardent Dustspeaker (STX) 92
+4 Rootha, Mercurial Artist (STX) 227
+4 Lorehold Apprentice (STX) 198
+4 Reflective Golem (STX) 257
+4 A-Maelstrom Muse (STX) A-202
+4 Detention Vortex (STX) 13
+4 Shadewing Laureate (STX) 229
+4 Mortality Spear (STX) 207
+4 Returned Pastcaller (STX) 224
+4 Silverquill Apprentice (STX) 231
+4 Flunk (STX) 71
+4 Go Blank (STX) 72
+4 Reduce to Memory (STX) 25
+4 Witherbloom Apprentice (STX) 247
+4 Eyetwitch (STX) 70
+4 Wormhole Serpent (STX) 62
+4 Show of Confidence (STX) 28
+4 Golden Ratio (STX) 190
+4 Quandrix Cultivator (STX) 218
+4 Thunderous Orator (STX) 35
+4 Tenured Inkcaster (STX) 88
+4 Necrotic Fumes (STX) 78
+4 Closing Statement (STX) 169
+4 Divide by Zero (STX) 41
+4 Overgrown Arch (STX) 139
+4 Stonebinder's Familiar (STX) 31
+4 Kelpie Guide (STX) 45
+4 Clever Lumimancer (STX) 10
+4 Practical Research (STX) 212
+4 Spell Satchel (STX) 258
+4 Quandrix Apprentice (STX) 216
+4 Hall Monitor (STX) 105
+4 Reconstruct History (STX) 222
+4 Honor Troll (STX) 134
+4 Aether Helix (STX) 162
+4 Tend the Pests (STX) 242
+4 Storm-Kiln Artist (STX) 115
+4 Fortifying Draught (STX) 132
+4 Dueling Coach (STX) 15
+4 Explosive Welcome (STX) 100
+4 Mascot Interception (STX) 110
+4 Plumb the Forbidden (STX) 81
+4 Academic Dispute (STX) 91
+4 Deadly Brew (STX) 176
 ================================================================================
 Deck
-4 Mentor's Guidance (STX)
-4 Devouring Tendrils (STX)
-4 Brackish Trudge (STX)
-4 Expressive Iteration (STX)
-4 Mercurial Transformation (STX)
-4 A-Tenured Inkcaster (STX)
-4 Rip Apart (STX)
-4 Bookwurm (STX)
-4 A-Dueling Coach (STX)
-4 Humiliate (STX)
-4 Umbral Juke (STX)
-4 Test of Talents (STX)
-4 Start from Scratch (STX)
-4 A-Ardent Dustspeaker (STX)
-4 Emergent Sequence (STX)
-4 Killian, Ink Duelist (STX)
-4 Mage Hunter (STX)
-4 Grinning Ignus (STX)
-4 Access Tunnel (STX)
-4 Zimone, Quandrix Prodigy (STX)
-4 Solve the Equation (STX)
-4 Fracture (STX)
-4 A-Symmetry Sage (STX)
-4 Creative Outburst (STX)
-4 Master Symmetrist (STX)
+4 Mentor's Guidance (STX) 46
+4 Devouring Tendrils (STX) 126
+4 Brackish Trudge (STX) 65
+4 Expressive Iteration (STX) 186
+4 Mercurial Transformation (STX) 47
+4 A-Tenured Inkcaster (STX) A-88
+4 Rip Apart (STX) 225
+4 Bookwurm (STX) 123
+4 A-Dueling Coach (STX) A-15
+4 Humiliate (STX) 193
+4 Umbral Juke (STX) 89
+4 Test of Talents (STX) 59
+4 Start from Scratch (STX) 114
+4 A-Ardent Dustspeaker (STX) A-92
+4 Emergent Sequence (STX) 129
+4 Killian, Ink Duelist (STX) 197
+4 Mage Hunter (STX) 76
+4 Grinning Ignus (STX) 104
+4 Access Tunnel (STX) 262
+4 Zimone, Quandrix Prodigy (STX) 250
+4 Solve the Equation (STX) 54
+4 Fracture (STX) 188
+4 A-Symmetry Sage (STX) A-56
+4 Creative Outburst (STX) 171
+4 Master Symmetrist (STX) 138

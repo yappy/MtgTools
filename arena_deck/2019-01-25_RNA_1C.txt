@@ -1,87 +1,87 @@
 Deck
-4 Goblin Gathering (RNA)
-4 Sphinx's Insight (RNA)
-4 Justiciar's Portal (RNA)
-4 Coral Commando (RNA)
-4 Persistent Petitioners (RNA)
-4 Clear the Mind (RNA)
-4 Wrecking Beast (RNA)
-4 Spear Spewer (RNA)
-4 Rakdos Trumpeter (RNA)
-4 Rafter Demon (RNA)
-4 Blade Juggler (RNA)
-4 Deface (RNA)
-4 Humongulus (RNA)
-4 Rubblebelt Runner (RNA)
-4 Dead Revels (RNA)
-4 Senate Courier (RNA)
-4 Rubble Slinger (RNA)
-4 Knight of Sorrows (RNA)
-4 Undercity Scavenger (RNA)
-4 Sauroform Hybrid (RNA)
-4 Get the Point (RNA)
-4 Undercity's Embrace (RNA)
-4 Burning-Tree Vandal (RNA)
-4 Twilight Panther (RNA)
-4 Saruli Caretaker (RNA)
-4 Chillbringer (RNA)
-4 Savage Smash (RNA)
-4 Arrester's Zeal (RNA)
-4 Gruul Locket (RNA)
-4 Gravel-Hide Goblin (RNA)
-4 Debtors' Transport (RNA)
-4 Skitter Eel (RNA)
-4 Frenzied Arynx (RNA)
-4 Footlight Fiend (RNA)
-4 Senate Griffin (RNA)
-4 Civic Stalwart (RNA)
-4 Watchful Giant (RNA)
-4 Territorial Boar (RNA)
-4 Ill-Gotten Inheritance (RNA)
-4 Shimmer of Possibility (RNA)
-4 Slimebind (RNA)
-4 Rubble Reading (RNA)
-4 Orzhov Locket (RNA)
-4 Scorchmark (RNA)
-4 Axebane Beast (RNA)
-4 Ragefire (RNA)
-4 Applied Biomancy (RNA)
-4 Bring to Trial (RNA)
-4 Azorius Knight-Arbiter (RNA)
-4 Scuttlegator (RNA)
-4 Aeromunculus (RNA)
-4 Summary Judgment (RNA)
-4 Noxious Groodion (RNA)
-4 Imperious Oligarch (RNA)
-4 Consign to the Pit (RNA)
-4 Ghor-Clan Wrecker (RNA)
-4 Plague Wight (RNA)
-4 Rampaging Rendhorn (RNA)
-4 Carrion Imp (RNA)
-4 Tenth District Veteran (RNA)
-4 Skewer the Critics (RNA)
-4 Simic Locket (RNA)
+4 Goblin Gathering (RNA) 104
+4 Sphinx's Insight (RNA) 209
+4 Justiciar's Portal (RNA) 13
+4 Coral Commando (RNA) 36
+4 Persistent Petitioners (RNA) 44
+4 Clear the Mind (RNA) 34
+4 Wrecking Beast (RNA) 150
+4 Spear Spewer (RNA) 117
+4 Rakdos Trumpeter (RNA) 84
+4 Rafter Demon (RNA) 196
+4 Blade Juggler (RNA) 63
+4 Deface (RNA) 98
+4 Humongulus (RNA) 41
+4 Rubblebelt Runner (RNA) 202
+4 Dead Revels (RNA) 71
+4 Senate Courier (RNA) 50
+4 Rubble Slinger (RNA) 217
+4 Knight of Sorrows (RNA) 14
+4 Undercity Scavenger (RNA) 88
+4 Sauroform Hybrid (RNA) 140
+4 Get the Point (RNA) 176
+4 Undercity's Embrace (RNA) 89
+4 Burning-Tree Vandal (RNA) 94
+4 Twilight Panther (RNA) 28
+4 Saruli Caretaker (RNA) 139
+4 Chillbringer (RNA) 33
+4 Savage Smash (RNA) 203
+4 Arrester's Zeal (RNA) 4
+4 Gruul Locket (RNA) 234
+4 Gravel-Hide Goblin (RNA) 105
+4 Debtors' Transport (RNA) 72
+4 Skitter Eel (RNA) 53
+4 Frenzied Arynx (RNA) 173
+4 Footlight Fiend (RNA) 216
+4 Senate Griffin (RNA) 219
+4 Civic Stalwart (RNA) 6
+4 Watchful Giant (RNA) 30
+4 Territorial Boar (RNA) 145
+4 Ill-Gotten Inheritance (RNA) 77
+4 Shimmer of Possibility (RNA) 51
+4 Slimebind (RNA) 54
+4 Rubble Reading (RNA) 110
+4 Orzhov Locket (RNA) 236
+4 Scorchmark (RNA) 113
+4 Axebane Beast (RNA) 121
+4 Ragefire (RNA) 270
+4 Applied Biomancy (RNA) 153
+4 Bring to Trial (RNA) 5
+4 Azorius Knight-Arbiter (RNA) 154
+4 Scuttlegator (RNA) 218
+4 Aeromunculus (RNA) 152
+4 Summary Judgment (RNA) 24
+4 Noxious Groodion (RNA) 78
+4 Imperious Oligarch (RNA) 184
+4 Consign to the Pit (RNA) 69
+4 Ghor-Clan Wrecker (RNA) 103
+4 Plague Wight (RNA) 82
+4 Rampaging Rendhorn (RNA) 135
+4 Carrion Imp (RNA) 66
+4 Tenth District Veteran (RNA) 26
+4 Skewer the Critics (RNA) 115
+4 Simic Locket (RNA) 240
 ================================================================================
 Deck
-4 Rakdos Roustabout (RNA)
-4 Expose to Daylight (RNA)
-4 Thirsting Shade (RNA)
-4 Root Snare (RNA)
-4 Faerie Duelist (RNA)
-4 Arrester's Admonition (RNA)
-4 Feral Maaka (RNA)
-4 Sagittars' Volley (RNA)
-4 Stony Strength (RNA)
-4 Final Payment (RNA)
-4 Titanic Brawl (RNA)
-4 Spikewheel Acrobat (RNA)
-4 Grasping Thrull (RNA)
-4 Catacomb Crocodile (RNA)
-4 Grotesque Demise (RNA)
-4 Storm Strike (RNA)
-4 Elite Arrester (RNA)
-4 Open the Gates (RNA)
-4 Steeple Creeper (RNA)
-4 Syndicate Messenger (RNA)
-4 Quench (RNA)
-4 Vizkopa Vampire (RNA)
+4 Rakdos Roustabout (RNA) 198
+4 Expose to Daylight (RNA) 8
+4 Thirsting Shade (RNA) 87
+4 Root Snare (RNA) 137
+4 Faerie Duelist (RNA) 39
+4 Arrester's Admonition (RNA) 31
+4 Feral Maaka (RNA) 100
+4 Sagittars' Volley (RNA) 138
+4 Stony Strength (RNA) 143
+4 Final Payment (RNA) 171
+4 Titanic Brawl (RNA) 146
+4 Spikewheel Acrobat (RNA) 118
+4 Grasping Thrull (RNA) 177
+4 Catacomb Crocodile (RNA) 67
+4 Grotesque Demise (RNA) 75
+4 Storm Strike (RNA) 119
+4 Elite Arrester (RNA) 266
+4 Open the Gates (RNA) 133
+4 Steeple Creeper (RNA) 142
+4 Syndicate Messenger (RNA) 25
+4 Quench (RNA) 48
+4 Vizkopa Vampire (RNA) 220

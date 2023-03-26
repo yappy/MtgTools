@@ -1,18 +1,18 @@
 Deck
-4 Niv-Mizzet Reborn (WAR)
-4 God-Eternal Bontu (WAR)
-4 Gideon, the Oathsworn (WAR)
-4 Finale of Eternity (WAR)
-4 God-Eternal Oketra (WAR)
-4 Jace, Arcane Strategist (WAR)
-4 God-Eternal Kefnet (WAR)
-4 Nicol Bolas, Dragon-God (WAR)
-4 Liliana, Dreadhorde General (WAR)
-4 Finale of Glory (WAR)
-4 Finale of Devastation (WAR)
-4 Finale of Revelation (WAR)
-4 Gideon Blackblade (WAR)
-4 Ilharg, the Raze-Boar (WAR)
-4 Tezzeret, Master of the Bridge (WAR)
-4 Finale of Promise (WAR)
-4 God-Eternal Rhonas (WAR)
+4 Niv-Mizzet Reborn (WAR) 208
+4 God-Eternal Bontu (WAR) 92
+4 Gideon, the Oathsworn (WAR) 265
+4 Finale of Eternity (WAR) 91
+4 God-Eternal Oketra (WAR) 16
+4 Jace, Arcane Strategist (WAR) 270
+4 God-Eternal Kefnet (WAR) 53
+4 Nicol Bolas, Dragon-God (WAR) 207
+4 Liliana, Dreadhorde General (WAR) 97
+4 Finale of Glory (WAR) 12
+4 Finale of Devastation (WAR) 160
+4 Finale of Revelation (WAR) 51
+4 Gideon Blackblade (WAR) 13
+4 Ilharg, the Raze-Boar (WAR) 133
+4 Tezzeret, Master of the Bridge (WAR) 275
+4 Finale of Promise (WAR) 127
+4 God-Eternal Rhonas (WAR) 163

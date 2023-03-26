@@ -1,105 +1,105 @@
 Deck
-4 Dreadlight Monstrosity (VOW)
-4 End the Festivities (VOW)
-4 Vampire's Kiss (VOW)
-4 Doomed Dissenter (VOW)
-4 Mulch (VOW)
-4 Pyre Spawn (VOW)
-4 Traveling Minister (VOW)
-4 Lacerate Flesh (VOW)
-4 Blood Petal Celebrant (VOW)
-4 Bramble Armor (VOW)
-4 Piercing Light (VOW)
-4 Snarling Wolf (VOW)
-4 Gluttonous Guest (VOW)
-4 Chill of the Grave (VOW)
-4 Syncopate (VOW)
-4 Wolf Strike (VOW)
-4 Drogskol Infantry // Drogskol Armaments (VOW)
-4 Selhoff Entomber (VOW)
-4 Falkenrath Celebrants (VOW)
-4 Steelclad Spirit (VOW)
-4 Nurturing Presence (VOW)
-4 Apprentice Sharpshooter (VOW)
-4 Belligerent Guest (VOW)
-4 Unholy Officiant (VOW)
-4 Adamant Will (VOW)
-4 Moldgraf Millipede (VOW)
-4 Honored Heirloom (VOW)
-4 Massive Might (VOW)
-4 Fear of Death (VOW)
-4 Hookhand Mariner // Riphook Raider (VOW)
-4 Diregraf Scavenger (VOW)
-4 Grisly Ritual (VOW)
-4 Sigarda's Imprisonment (VOW)
-4 Reckless Impulse (VOW)
-4 Blood Servitor (VOW)
-4 Hungry Ridgewolf (VOW)
-4 Binding Geist // Spectral Binding (VOW)
-4 Persistent Specimen (VOW)
-4 Fearful Villager // Fearsome Werewolf (VOW)
-4 Desperate Farmer // Depraved Harvester (VOW)
-4 Toxic Scorpion (VOW)
-4 Crushing Canopy (VOW)
-4 Lantern Bearer // Lanterns' Lift (VOW)
-4 Rot-Tide Gargantua (VOW)
-4 Flame-Blessed Bolt (VOW)
-4 Bleed Dry (VOW)
-4 Witch's Web (VOW)
-4 Sporeback Wolf (VOW)
-4 Scattered Thoughts (VOW)
-4 Repository Skaab (VOW)
-4 Wanderlight Spirit (VOW)
-4 Bloodcrazed Socialite (VOW)
-4 Wretched Throng (VOW)
-4 Serpentine Ambush (VOW)
-4 Fierce Retribution (VOW)
-4 Alchemist's Retrieval (VOW)
-4 Undying Malice (VOW)
-4 Gift of Fangs (VOW)
-4 Unhallowed Phalanx (VOW)
-4 Nature's Embrace (VOW)
-4 Ragged Recluse // Odious Witch (VOW)
-4 Heron-Blessed Geist (VOW)
+4 Dreadlight Monstrosity (VOW) 57
+4 End the Festivities (VOW) 155
+4 Vampire's Kiss (VOW) 136
+4 Doomed Dissenter (VOW) 106
+4 Mulch (VOW) 210
+4 Pyre Spawn (VOW) 173
+4 Traveling Minister (VOW) 39
+4 Lacerate Flesh (VOW) 166
+4 Blood Petal Celebrant (VOW) 146
+4 Bramble Armor (VOW) 188
+4 Piercing Light (VOW) 30
+4 Snarling Wolf (VOW) 219
+4 Gluttonous Guest (VOW) 114
+4 Chill of the Grave (VOW) 51
+4 Syncopate (VOW) 83
+4 Wolf Strike (VOW) 228
+4 Drogskol Infantry // Drogskol Armaments (VOW) 10
+4 Selhoff Entomber (VOW) 76
+4 Falkenrath Celebrants (VOW) 156
+4 Steelclad Spirit (VOW) 80
+4 Nurturing Presence (VOW) 26
+4 Apprentice Sharpshooter (VOW) 185
+4 Belligerent Guest (VOW) 144
+4 Unholy Officiant (VOW) 41
+4 Adamant Will (VOW) 1
+4 Moldgraf Millipede (VOW) 209
+4 Honored Heirloom (VOW) 257
+4 Massive Might (VOW) 208
+4 Fear of Death (VOW) 59
+4 Hookhand Mariner // Riphook Raider (VOW) 203
+4 Diregraf Scavenger (VOW) 105
+4 Grisly Ritual (VOW) 116
+4 Sigarda's Imprisonment (VOW) 35
+4 Reckless Impulse (VOW) 174
+4 Blood Servitor (VOW) 252
+4 Hungry Ridgewolf (VOW) 161
+4 Binding Geist // Spectral Binding (VOW) 48
+4 Persistent Specimen (VOW) 125
+4 Fearful Villager // Fearsome Werewolf (VOW) 157
+4 Desperate Farmer // Depraved Harvester (VOW) 104
+4 Toxic Scorpion (VOW) 224
+4 Crushing Canopy (VOW) 194
+4 Lantern Bearer // Lanterns' Lift (VOW) 66
+4 Rot-Tide Gargantua (VOW) 129
+4 Flame-Blessed Bolt (VOW) 158
+4 Bleed Dry (VOW) 94
+4 Witch's Web (VOW) 227
+4 Sporeback Wolf (VOW) 223
+4 Scattered Thoughts (VOW) 74
+4 Repository Skaab (VOW) 73
+4 Wanderlight Spirit (VOW) 86
+4 Bloodcrazed Socialite (VOW) 96
+4 Wretched Throng (VOW) 91
+4 Serpentine Ambush (VOW) 77
+4 Fierce Retribution (VOW) 13
+4 Alchemist's Retrieval (VOW) 47
+4 Undying Malice (VOW) 134
+4 Gift of Fangs (VOW) 113
+4 Unhallowed Phalanx (VOW) 135
+4 Nature's Embrace (VOW) 211
+4 Ragged Recluse // Odious Witch (VOW) 127
+4 Heron-Blessed Geist (VOW) 19
 ================================================================================
 Deck
-4 Bloody Betrayal (VOW)
-4 Weaver of Blossoms // Blossom-Clad Werewolf (VOW)
-4 Supernatural Rescue (VOW)
-4 Estwald Shieldbasher (VOW)
-4 Blood Fountain (VOW)
-4 Pointed Discussion (VOW)
-4 Aim for the Head (VOW)
-4 Nebelgast Beguiler (VOW)
-4 Sheltering Boughs (VOW)
-4 A-Lantern Bearer // A-Lanterns' Lift (VOW)
-4 Vampire Slayer (VOW)
-4 A-Stitched Assistant (VOW)
-4 Weary Prisoner // Wrathful Jailbreaker (VOW)
-4 Cruel Witness (VOW)
-4 Sanctify (VOW)
-4 Voldaren Epicure (VOW)
-4 Lightning Wolf (VOW)
-4 Militia Rallier (VOW)
-4 Flourishing Hunter (VOW)
-4 Courier Bat (VOW)
-4 Wedding Invitation (VOW)
-4 Ceremonial Knife (VOW)
-4 Cradle of Safety (VOW)
-4 Ancestral Anger (VOW)
-4 Mindleech Ghoul (VOW)
-4 Skywarp Skaab (VOW)
-4 Parish-Blade Trainee (VOW)
-4 Gryff Rider (VOW)
-4 Syphon Essence (VOW)
-4 Dawnhart Disciple (VOW)
-4 Kessig Flamebreather (VOW)
-4 Kindly Ancestor // Ancestor's Embrace (VOW)
-4 A-Binding Geist // A-Spectral Binding (VOW)
-4 Stitched Assistant (VOW)
-4 Heron of Hope (VOW)
-4 Abrade (VOW)
-4 Spore Crawler (VOW)
-4 Sure Strike (VOW)
-4 Daybreak Combatants (VOW)
-4 Rural Recruit (VOW)
+4 Bloody Betrayal (VOW) 147
+4 Weaver of Blossoms // Blossom-Clad Werewolf (VOW) 226
+4 Supernatural Rescue (VOW) 37
+4 Estwald Shieldbasher (VOW) 11
+4 Blood Fountain (VOW) 95
+4 Pointed Discussion (VOW) 126
+4 Aim for the Head (VOW) 92
+4 Nebelgast Beguiler (VOW) 25
+4 Sheltering Boughs (VOW) 218
+4 A-Lantern Bearer // A-Lanterns' Lift (VOW) A-66
+4 Vampire Slayer (VOW) 43
+4 A-Stitched Assistant (VOW) A-81
+4 Weary Prisoner // Wrathful Jailbreaker (VOW) 184
+4 Cruel Witness (VOW) 55
+4 Sanctify (VOW) 33
+4 Voldaren Epicure (VOW) 182
+4 Lightning Wolf (VOW) 168
+4 Militia Rallier (VOW) 24
+4 Flourishing Hunter (VOW) 199
+4 Courier Bat (VOW) 102
+4 Wedding Invitation (VOW) 260
+4 Ceremonial Knife (VOW) 254
+4 Cradle of Safety (VOW) 54
+4 Ancestral Anger (VOW) 142
+4 Mindleech Ghoul (VOW) 122
+4 Skywarp Skaab (VOW) 78
+4 Parish-Blade Trainee (VOW) 29
+4 Gryff Rider (VOW) 15
+4 Syphon Essence (VOW) 84
+4 Dawnhart Disciple (VOW) 196
+4 Kessig Flamebreather (VOW) 164
+4 Kindly Ancestor // Ancestor's Embrace (VOW) 22
+4 A-Binding Geist // A-Spectral Binding (VOW) A-48
+4 Stitched Assistant (VOW) 81
+4 Heron of Hope (VOW) 18
+4 Abrade (VOW) 139
+4 Spore Crawler (VOW) 222
+4 Sure Strike (VOW) 179
+4 Daybreak Combatants (VOW) 153
+4 Rural Recruit (VOW) 216

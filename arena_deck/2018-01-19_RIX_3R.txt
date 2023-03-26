@@ -1,40 +1,40 @@
 Deck
-4 Vraska's Scorn (RIX)
-4 Radiant Destiny (RIX)
-4 Jadelight Ranger (RIX)
-4 Blood Sun (RIX)
-4 Temple Altisaur (RIX)
-4 Captain's Hook (RIX)
-4 Wayward Swordtooth (RIX)
-4 Arch of Orazca (RIX)
-4 Release to the Wind (RIX)
-4 Path of Discovery (RIX)
-4 Golden Guardian // Gold-Forge Garrison (RIX)
-4 Angrath's Fury (RIX)
-4 Form of the Dinosaur (RIX)
-4 Mastermind's Acquisition (RIX)
-4 Induced Amnesia (RIX)
-4 Storm the Vault // Vault of Catlacan (RIX)
-4 Tetzimoc, Primal Death (RIX)
-4 Deeproot Elite (RIX)
-4 Sphinx's Decree (RIX)
-4 Journey to Eternity // Atzal, Cave of Eternity (RIX)
-4 Silent Gravestone (RIX)
-4 Dire Fleet Poisoner (RIX)
-4 Tilonalli's Summoner (RIX)
-4 Warkite Marauder (RIX)
-4 Awakened Amalgam (RIX)
-4 Hadana's Climb // Winged Temple of Orazca (RIX)
-4 Tendershoot Dryad (RIX)
-4 Profane Procession // Tomb of the Dusk Rose (RIX)
-4 Admiral's Order (RIX)
-4 Protean Raider (RIX)
-4 Silverclad Ferocidons (RIX)
-4 Bishop of Binding (RIX)
-4 Tomb Robber (RIX)
-4 Vona's Hunger (RIX)
-4 Path of Mettle // Metzali, Tower of Triumph (RIX)
-4 Paladin of Atonement (RIX)
-4 Siegehorn Ceratops (RIX)
-4 Kumena's Awakening (RIX)
-4 Seafloor Oracle (RIX)
+4 Vraska's Scorn (RIX) 200
+4 Radiant Destiny (RIX) 18
+4 Jadelight Ranger (RIX) 136
+4 Blood Sun (RIX) 92
+4 Temple Altisaur (RIX) 28
+4 Captain's Hook (RIX) 177
+4 Wayward Swordtooth (RIX) 150
+4 Arch of Orazca (RIX) 185
+4 Release to the Wind (RIX) 46
+4 Path of Discovery (RIX) 142
+4 Golden Guardian // Gold-Forge Garrison (RIX) 179
+4 Angrath's Fury (RIX) 204
+4 Form of the Dinosaur (RIX) 103
+4 Mastermind's Acquisition (RIX) 77
+4 Induced Amnesia (RIX) 40
+4 Storm the Vault // Vault of Catlacan (RIX) 173
+4 Tetzimoc, Primal Death (RIX) 86
+4 Deeproot Elite (RIX) 127
+4 Sphinx's Decree (RIX) 24
+4 Journey to Eternity // Atzal, Cave of Eternity (RIX) 160
+4 Silent Gravestone (RIX) 182
+4 Dire Fleet Poisoner (RIX) 68
+4 Tilonalli's Summoner (RIX) 121
+4 Warkite Marauder (RIX) 60
+4 Awakened Amalgam (RIX) 175
+4 Hadana's Climb // Winged Temple of Orazca (RIX) 158
+4 Tendershoot Dryad (RIX) 147
+4 Profane Procession // Tomb of the Dusk Rose (RIX) 166
+4 Admiral's Order (RIX) 31
+4 Protean Raider (RIX) 167
+4 Silverclad Ferocidons (RIX) 115
+4 Bishop of Binding (RIX) 2
+4 Tomb Robber (RIX) 87
+4 Vona's Hunger (RIX) 90
+4 Path of Mettle // Metzali, Tower of Triumph (RIX) 165
+4 Paladin of Atonement (RIX) 16
+4 Siegehorn Ceratops (RIX) 171
+4 Kumena's Awakening (RIX) 42
+4 Seafloor Oracle (RIX) 51

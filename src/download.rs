@@ -62,7 +62,7 @@ pub fn entry() -> Result<()> {
         serde_json::to_writer(outfile, &sets)?;
     }
 
-    let bulk = bulk_get(BULK_TYPE_ORACLE)?;
+    let bulk = bulk_get(BULK_TYPE_DEFAULT)?;
     println!("bulk info fetched");
     {
         let outfile = File::create(common::PATH_CARDS_INFO)?;

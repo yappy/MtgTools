@@ -65,16 +65,16 @@ fn create_all(sets: &Sets, cards: &Cards) -> Result<()> {
     // XLN 2017-09-29 or later
     const RELEASE_FILTER: &str = "2017-09-29";
 
-    // type = expansion only
-    let sets = sets.iter().filter(|set| set.set_type == "expansion");
-    // Ixalan or later only
     let sets = sets
+        .iter()
+        // type = expansion or digital masters only
+        .filter(|set| (set.set_type == "expansion") || (set.set_type == "masters" && set.digital))
+        // Ixalan or later only
         .filter(|set| {
             set.released_at
                 .as_ref()
                 .map_or(false, |rel| rel.as_str() >= RELEASE_FILTER)
-        })
-        .filter(|set| set.set_type == "expansion");
+        });
 
     let rarity_list = [
         ("common", "1C"),

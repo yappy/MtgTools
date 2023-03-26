@@ -1,107 +1,107 @@
 Deck
-4 Square Up (STX)
-4 Specter of the Fens (STX)
-4 Heated Debate (STX)
-4 Arrogant Poet (STX)
-4 Eureka Moment (STX)
-4 Blood Age General (STX)
-4 Frost Trickster (STX)
-4 Excavated Wall (STX)
-4 Quandrix Campus (STX)
-4 Leech Fanatic (STX)
-4 Reject (STX)
-4 Combat Professor (STX)
-4 Reckless Amplimancer (STX)
-4 Make Your Mark (STX)
-4 Mage Hunters' Onslaught (STX)
-4 Defend the Campus (STX)
-4 Field Trip (STX)
-4 Soothsayer Adept (STX)
-4 Silverquill Campus (STX)
-4 Lorehold Pledgemage (STX)
-4 Environmental Sciences (STX)
-4 Vortex Runner (STX)
-4 Fuming Effigy (STX)
-4 Star Pupil (STX)
-4 Biblioplex Assistant (STX)
-4 Unwilling Ingredient (STX)
-4 Spiteful Squad (STX)
-4 Enthusiastic Study (STX)
-4 Promising Duskmage (STX)
-4 Lorehold Campus (STX)
-4 Ageless Guardian (STX)
-4 Dragon's Approach (STX)
-4 Prismari Pledgemage (STX)
-4 Arcane Subtraction (STX)
-4 Springmane Cervin (STX)
-4 Owlin Shieldmage (STX)
-4 Hunt for Specimens (STX)
-4 Expel (STX)
-4 Exhilarating Elocution (STX)
-4 Illustrious Historian (STX)
-4 Campus Guide (STX)
-4 Guiding Voice (STX)
-4 Pillardrop Rescuer (STX)
-4 Moldering Karok (STX)
-4 Cogwork Archivist (STX)
-4 Big Play (STX)
-4 Introduction to Annihilation (STX)
-4 Essence Infusion (STX)
-4 Oggyar Battle-Seer (STX)
-4 Infuse with Vitality (STX)
-4 Archway Commons (STX)
-4 Expanded Anatomy (STX)
-4 Witherbloom Campus (STX)
-4 Cram Session (STX)
-4 Needlethorn Drake (STX)
-4 Pillardrop Warden (STX)
-4 Biomathematician (STX)
-4 Spectacle Mage (STX)
-4 Spined Karok (STX)
-4 Waterfall Aerialist (STX)
-4 Burrog Befuddler (STX)
-4 Eager First-Year (STX)
+4 Square Up (STX) 238
+4 Specter of the Fens (STX) 87
+4 Heated Debate (STX) 106
+4 Arrogant Poet (STX) 63
+4 Eureka Moment (STX) 184
+4 Blood Age General (STX) 93
+4 Frost Trickster (STX) 43
+4 Excavated Wall (STX) 255
+4 Quandrix Campus (STX) 271
+4 Leech Fanatic (STX) 75
+4 Reject (STX) 50
+4 Combat Professor (STX) 11
+4 Reckless Amplimancer (STX) 141
+4 Make Your Mark (STX) 204
+4 Mage Hunters' Onslaught (STX) 77
+4 Defend the Campus (STX) 12
+4 Field Trip (STX) 131
+4 Soothsayer Adept (STX) 55
+4 Silverquill Campus (STX) 273
+4 Lorehold Pledgemage (STX) 201
+4 Environmental Sciences (STX) 1
+4 Vortex Runner (STX) 60
+4 Fuming Effigy (STX) 103
+4 Star Pupil (STX) 30
+4 Biblioplex Assistant (STX) 251
+4 Unwilling Ingredient (STX) 90
+4 Spiteful Squad (STX) 237
+4 Enthusiastic Study (STX) 99
+4 Promising Duskmage (STX) 85
+4 Lorehold Campus (STX) 268
+4 Ageless Guardian (STX) 8
+4 Dragon's Approach (STX) 97
+4 Prismari Pledgemage (STX) 215
+4 Arcane Subtraction (STX) 36
+4 Springmane Cervin (STX) 144
+4 Owlin Shieldmage (STX) 210
+4 Hunt for Specimens (STX) 73
+4 Expel (STX) 18
+4 Exhilarating Elocution (STX) 185
+4 Illustrious Historian (STX) 109
+4 Campus Guide (STX) 252
+4 Guiding Voice (STX) 19
+4 Pillardrop Rescuer (STX) 23
+4 Moldering Karok (STX) 206
+4 Cogwork Archivist (STX) 254
+4 Big Play (STX) 122
+4 Introduction to Annihilation (STX) 3
+4 Essence Infusion (STX) 69
+4 Oggyar Battle-Seer (STX) 209
+4 Infuse with Vitality (STX) 194
+4 Archway Commons (STX) 263
+4 Expanded Anatomy (STX) 2
+4 Witherbloom Campus (STX) 275
+4 Cram Session (STX) 170
+4 Needlethorn Drake (STX) 208
+4 Pillardrop Warden (STX) 112
+4 Biomathematician (STX) 164
+4 Spectacle Mage (STX) 235
+4 Spined Karok (STX) 143
+4 Waterfall Aerialist (STX) 61
+4 Burrog Befuddler (STX) 38
+4 Eager First-Year (STX) 16
 ================================================================================
 Deck
-4 Tangletrap (STX)
-4 Mage Duel (STX)
-4 Crushing Disappointment (STX)
-4 Study Break (STX)
-4 Stonebound Mentor (STX)
-4 Scurrid Colony (STX)
-4 Charge Through (STX)
-4 Rise of Extus (STX)
-4 Resculpt (STX)
-4 Pigment Storm (STX)
-4 Quandrix Pledgemage (STX)
-4 Inkling Summoning (STX)
-4 Introduction to Prophecy (STX)
-4 Leyline Invocation (STX)
-4 Stonerise Spirit (STX)
-4 Professor of Zoomancy (STX)
-4 Twinscroll Shaman (STX)
-4 Blood Researcher (STX)
-4 Spirit Summoning (STX)
-4 Tome Shredder (STX)
-4 A-Tome Shredder (STX)
-4 Thrilling Discovery (STX)
-4 Fractal Summoning (STX)
-4 Novice Dissector (STX)
-4 Bury in Books (STX)
-4 Teach by Example (STX)
-4 Pop Quiz (STX)
-4 Serpentine Curve (STX)
-4 First Day of Class (STX)
-4 Letter of Acceptance (STX)
-4 Professor's Warning (STX)
-4 Bayou Groff (STX)
-4 Elemental Masterpiece (STX)
-4 Relic Sloth (STX)
-4 Witherbloom Pledgemage (STX)
-4 Sudden Breakthrough (STX)
-4 Pilgrim of the Ages (STX)
-4 Pest Summoning (STX)
-4 Beaming Defiance (STX)
-4 Elemental Summoning (STX)
-4 Lash of Malice (STX)
-4 Silverquill Pledgemage (STX)
+4 Tangletrap (STX) 145
+4 Mage Duel (STX) 137
+4 Crushing Disappointment (STX) 68
+4 Study Break (STX) 34
+4 Stonebound Mentor (STX) 239
+4 Scurrid Colony (STX) 142
+4 Charge Through (STX) 124
+4 Rise of Extus (STX) 226
+4 Resculpt (STX) 51
+4 Pigment Storm (STX) 111
+4 Quandrix Pledgemage (STX) 219
+4 Inkling Summoning (STX) 195
+4 Introduction to Prophecy (STX) 4
+4 Leyline Invocation (STX) 136
+4 Stonerise Spirit (STX) 32
+4 Professor of Zoomancy (STX) 140
+4 Twinscroll Shaman (STX) 118
+4 Blood Researcher (STX) 166
+4 Spirit Summoning (STX) 236
+4 Tome Shredder (STX) 117
+4 A-Tome Shredder (STX) A-117
+4 Thrilling Discovery (STX) 243
+4 Fractal Summoning (STX) 187
+4 Novice Dissector (STX) 79
+4 Bury in Books (STX) 39
+4 Teach by Example (STX) 241
+4 Pop Quiz (STX) 49
+4 Serpentine Curve (STX) 52
+4 First Day of Class (STX) 102
+4 Letter of Acceptance (STX) 256
+4 Professor's Warning (STX) 84
+4 Bayou Groff (STX) 121
+4 Elemental Masterpiece (STX) 182
+4 Relic Sloth (STX) 223
+4 Witherbloom Pledgemage (STX) 249
+4 Sudden Breakthrough (STX) 116
+4 Pilgrim of the Ages (STX) 22
+4 Pest Summoning (STX) 211
+4 Beaming Defiance (STX) 9
+4 Elemental Summoning (STX) 183
+4 Lash of Malice (STX) 74
+4 Silverquill Pledgemage (STX) 233

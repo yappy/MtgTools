@@ -1,109 +1,109 @@
 Deck
-4 Copper Longlegs (ONE)
-4 Tyrranax Atrocity (ONE)
-4 Dross Skullbomb (ONE)
-4 Prophetic Prism (ONE)
-4 Mesmerizing Dose (ONE)
-4 Pestilent Syphoner (ONE)
-4 Contagious Vorrac (ONE)
-4 Terramorphic Expanse (ONE)
-4 Thrill of Possibility (ONE)
-4 Leonin Lightbringer (ONE)
-4 Mirran Bardiche (ONE)
-4 Oil-Gorger Troll (ONE)
-4 Whisper of the Dross (ONE)
-4 Meldweb Curator (ONE)
-4 Experimental Augury (ONE)
-4 Duelist of Deep Faith (ONE)
-4 Duress (ONE)
-4 Vraska's Fall (ONE)
-4 Dune Mover (ONE)
-4 Maze Skullbomb (ONE)
-4 Prologue to Phyresis (ONE)
-4 Anoint with Affliction (ONE)
-4 Basilica Skullbomb (ONE)
-4 Myr Custodian (ONE)
-4 Ruthless Predation (ONE)
-4 Cruel Grimnarch (ONE)
-4 Goldwarden's Helm (ONE)
-4 Swamp (ONE)
-4 Cutthroat Centurion (ONE)
-4 Hexgold Slash (ONE)
-4 Bring the Ending (ONE)
-4 Ichorspit Basilisk (ONE)
-4 Flensing Raptor (ONE)
-4 Predation Steward (ONE)
-4 Gitaxian Raptor (ONE)
-4 Planar Disruption (ONE)
-4 Titanic Growth (ONE)
-4 Vulshok Splitter (ONE)
-4 Blazing Crescendo (ONE)
-4 Bladegraft Aspirant (ONE)
-4 Infectious Inquiry (ONE)
-4 Lattice-Blade Mantis (ONE)
-4 Stinging Hivemaster (ONE)
-4 Chrome Prowler (ONE)
-4 Surgical Skullbomb (ONE)
-4 Eye of Malcator (ONE)
-4 Furnace Skullbomb (ONE)
-4 Zealot's Conviction (ONE)
-4 Rustvine Cultivator (ONE)
-4 The Dross Pits (ONE)
-4 Furnace Strider (ONE)
-4 The Fair Basilica (ONE)
-4 Sawblade Scamp (ONE)
-4 Fleshless Gladiator (ONE)
-4 Orthodoxy Enforcer (ONE)
-4 Basilica Shepherd (ONE)
-4 Barbed Batterfist (ONE)
-4 Indoctrination Attendant (ONE)
-4 Myr Kinsmith (ONE)
-4 Crawling Chorus (ONE)
-4 Mountain (ONE)
-4 Sinew Dancer (ONE)
+4 Copper Longlegs (ONE) 165
+4 Tyrranax Atrocity (ONE) 188
+4 Dross Skullbomb (ONE) 225
+4 Prophetic Prism (ONE) 238
+4 Mesmerizing Dose (ONE) 62
+4 Pestilent Syphoner (ONE) 103
+4 Contagious Vorrac (ONE) 164
+4 Terramorphic Expanse (ONE) 261
+4 Thrill of Possibility (ONE) 151
+4 Leonin Lightbringer (ONE) 20
+4 Mirran Bardiche (ONE) 22
+4 Oil-Gorger Troll (ONE) 177
+4 Whisper of the Dross (ONE) 117
+4 Meldweb Curator (ONE) 59
+4 Experimental Augury (ONE) 49
+4 Duelist of Deep Faith (ONE) 9
+4 Duress (ONE) 92
+4 Vraska's Fall (ONE) 116
+4 Dune Mover (ONE) 226
+4 Maze Skullbomb (ONE) 231
+4 Prologue to Phyresis (ONE) 65
+4 Anoint with Affliction (ONE) 81
+4 Basilica Skullbomb (ONE) 224
+4 Myr Custodian (ONE) 235
+4 Ruthless Predation (ONE) 182
+4 Cruel Grimnarch (ONE) 88
+4 Goldwarden's Helm (ONE) 13
+4 Swamp (ONE) 274
+4 Cutthroat Centurion (ONE) 89
+4 Hexgold Slash (ONE) 137
+4 Bring the Ending (ONE) 44
+4 Ichorspit Basilisk (ONE) 170
+4 Flensing Raptor (ONE) 12
+4 Predation Steward (ONE) 180
+4 Gitaxian Raptor (ONE) 53
+4 Planar Disruption (ONE) 28
+4 Titanic Growth (ONE) 187
+4 Vulshok Splitter (ONE) 156
+4 Blazing Crescendo (ONE) 123
+4 Bladegraft Aspirant (ONE) 122
+4 Infectious Inquiry (ONE) 97
+4 Lattice-Blade Mantis (ONE) 173
+4 Stinging Hivemaster (ONE) 110
+4 Chrome Prowler (ONE) 45
+4 Surgical Skullbomb (ONE) 243
+4 Eye of Malcator (ONE) 50
+4 Furnace Skullbomb (ONE) 228
+4 Zealot's Conviction (ONE) 39
+4 Rustvine Cultivator (ONE) 181
+4 The Dross Pits (ONE) 251
+4 Furnace Strider (ONE) 133
+4 The Fair Basilica (ONE) 252
+4 Sawblade Scamp (ONE) 147
+4 Fleshless Gladiator (ONE) 94
+4 Orthodoxy Enforcer (ONE) 25
+4 Basilica Shepherd (ONE) 4
+4 Barbed Batterfist (ONE) 121
+4 Indoctrination Attendant (ONE) 16
+4 Myr Kinsmith (ONE) 236
+4 Crawling Chorus (ONE) 8
+4 Mountain (ONE) 275
+4 Sinew Dancer (ONE) 32
 ================================================================================
 Deck
-4 Annihilating Glare (ONE)
-4 Sheoldred's Headcleaver (ONE)
-4 Axiom Engraver (ONE)
-4 Gitaxian Anatomist (ONE)
-4 Branchblight Stalker (ONE)
-4 Molten Rebuke (ONE)
-4 Plague Nurse (ONE)
-4 Blightbelly Rat (ONE)
-4 Malcator's Watcher (ONE)
-4 The Hunter Maze (ONE)
-4 Island (ONE)
-4 Carnivorous Canopy (ONE)
-4 Forest (ONE)
-4 Quicksilver Fisher (ONE)
-4 Shrapnel Slinger (ONE)
-4 Maze's Mantle (ONE)
-4 Meldweb Strider (ONE)
-4 Skyscythe Engulfer (ONE)
-4 Phyrexian Atlas (ONE)
-4 Plains (ONE)
-4 Glistener Seer (ONE)
-4 Offer Immortality (ONE)
-4 Thirsting Roots (ONE)
-4 Vanish into Eternity (ONE)
-4 Compleat Devotion (ONE)
-4 Bonepicker Skirge (ONE)
-4 Volt Charge (ONE)
-4 Testament Bearer (ONE)
-4 Vivisurgeon's Insight (ONE)
-4 Escaped Experiment (ONE)
-4 Gulping Scraptrap (ONE)
-4 The Surgical Bay (ONE)
-4 Kuldotha Cackler (ONE)
-4 The Autonomous Furnace (ONE)
-4 Free from Flesh (ONE)
-4 Incisor Glider (ONE)
-4 Ichor Synthesizer (ONE)
-4 Aspirant's Ascent (ONE)
-4 Mandible Justiciar (ONE)
-4 Adaptive Sporesinger (ONE)
-4 Chimney Rabble (ONE)
-4 Charge of the Mites (ONE)
-4 Forgehammer Centurion (ONE)
-4 Hazardous Blast (ONE)
+4 Annihilating Glare (ONE) 80
+4 Sheoldred's Headcleaver (ONE) 109
+4 Axiom Engraver (ONE) 120
+4 Gitaxian Anatomist (ONE) 52
+4 Branchblight Stalker (ONE) 160
+4 Molten Rebuke (ONE) 141
+4 Plague Nurse (ONE) 179
+4 Blightbelly Rat (ONE) 85
+4 Malcator's Watcher (ONE) 58
+4 The Hunter Maze (ONE) 253
+4 Island (ONE) 273
+4 Carnivorous Canopy (ONE) 162
+4 Forest (ONE) 276
+4 Quicksilver Fisher (ONE) 66
+4 Shrapnel Slinger (ONE) 148
+4 Maze's Mantle (ONE) 174
+4 Meldweb Strider (ONE) 60
+4 Skyscythe Engulfer (ONE) 183
+4 Phyrexian Atlas (ONE) 237
+4 Plains (ONE) 272
+4 Glistener Seer (ONE) 54
+4 Offer Immortality (ONE) 102
+4 Thirsting Roots (ONE) 185
+4 Vanish into Eternity (ONE) 36
+4 Compleat Devotion (ONE) 7
+4 Bonepicker Skirge (ONE) 86
+4 Volt Charge (ONE) 155
+4 Testament Bearer (ONE) 111
+4 Vivisurgeon's Insight (ONE) 77
+4 Escaped Experiment (ONE) 48
+4 Gulping Scraptrap (ONE) 96
+4 The Surgical Bay (ONE) 260
+4 Kuldotha Cackler (ONE) 139
+4 The Autonomous Furnace (ONE) 247
+4 Free from Flesh (ONE) 131
+4 Incisor Glider (ONE) 15
+4 Ichor Synthesizer (ONE) 55
+4 Aspirant's Ascent (ONE) 40
+4 Mandible Justiciar (ONE) 21
+4 Adaptive Sporesinger (ONE) 157
+4 Chimney Rabble (ONE) 126
+4 Charge of the Mites (ONE) 6
+4 Forgehammer Centurion (ONE) 130
+4 Hazardous Blast (ONE) 135
