@@ -1,44 +1,44 @@
 Deck
-4 Minsc, Beloved Ranger (AFR) 344
-4 Ellywick Tumblestrum (AFR) 286
-4 The Book of Vile Darkness (AFR) 91
-4 Demilich (AFR) 53
-4 Old Gnawbone (AFR) 296
-4 Icingdeath, Frost Tyrant (AFR) 20
-4 Mordenkainen (AFR) 64
-4 Flameskull (AFR) 143
-4 Acererak the Archlich (AFR) 372
-4 Lolth, Spider Queen (AFR) 112
-4 The Deck of Many Things (AFR) 392
+4 A-Acererak the Archlich (AFR) A-87
+4 A-Demilich (AFR) A-53
 4 A-Ellywick Tumblestrum (AFR) A-181
-4 Tiamat (AFR) 298
-4 Xanathar, Guild Kingpin (AFR) 239
-4 Zariel, Archduke of Avernus (AFR) 285
-4 Tiamat (AFR) 235
-4 Minsc, Beloved Ranger (AFR) 227
-4 Old Gnawbone (AFR) 197
+4 Acererak the Archlich (AFR) 87
+4 Acererak the Archlich (AFR) 372
+4 Demilich (AFR) 53
 4 Demilich (AFR) 366
-4 Zariel, Archduke of Avernus (AFR) 172
-4 Xanathar, Guild Kingpin (AFR) 391
+4 Ebondeath, Dracolich (AFR) 100
+4 Ebondeath, Dracolich (AFR) 292
+4 Ellywick Tumblestrum (AFR) 181
+4 Ellywick Tumblestrum (AFR) 286
+4 Flameskull (AFR) 143
 4 Flameskull (AFR) 378
-4 The Tarrasque (AFR) 207
 4 Grand Master of Flowers (AFR) 17
 4 Grand Master of Flowers (AFR) 282
-4 The Book of Exalted Deeds (AFR) 4
-4 The Tarrasque (AFR) 333
-4 Mordenkainen (AFR) 283
-4 The Book of Vile Darkness (AFR) 374
+4 Icingdeath, Frost Tyrant (AFR) 20
 4 Icingdeath, Frost Tyrant (AFR) 287
-4 Ellywick Tumblestrum (AFR) 181
-4 Iymrith, Desert Doom (AFR) 62
 4 Inferno of the Star Mounts (AFR) 151
-4 The Book of Exalted Deeds (AFR) 359
-4 Lolth, Spider Queen (AFR) 284
 4 Inferno of the Star Mounts (AFR) 293
-4 Acererak the Archlich (AFR) 87
-4 A-Demilich (AFR) A-53
-4 Ebondeath, Dracolich (AFR) 100
-4 A-Acererak the Archlich (AFR) A-87
-4 Ebondeath, Dracolich (AFR) 292
+4 Iymrith, Desert Doom (AFR) 62
 4 Iymrith, Desert Doom (AFR) 290
+4 Lolth, Spider Queen (AFR) 112
+4 Lolth, Spider Queen (AFR) 284
+4 Minsc, Beloved Ranger (AFR) 227
+4 Minsc, Beloved Ranger (AFR) 344
+4 Mordenkainen (AFR) 64
+4 Mordenkainen (AFR) 283
+4 Old Gnawbone (AFR) 197
+4 Old Gnawbone (AFR) 296
+4 The Book of Exalted Deeds (AFR) 4
+4 The Book of Exalted Deeds (AFR) 359
+4 The Book of Vile Darkness (AFR) 91
+4 The Book of Vile Darkness (AFR) 374
 4 The Deck of Many Things (AFR) 241
+4 The Deck of Many Things (AFR) 392
+4 The Tarrasque (AFR) 207
+4 The Tarrasque (AFR) 333
+4 Tiamat (AFR) 235
+4 Tiamat (AFR) 298
+4 Xanathar, Guild Kingpin (AFR) 239
+4 Xanathar, Guild Kingpin (AFR) 391
+4 Zariel, Archduke of Avernus (AFR) 172
+4 Zariel, Archduke of Avernus (AFR) 285

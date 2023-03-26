@@ -1,57 +1,57 @@
 Deck
+4 All-Seeing Arbiter (SNC) 34
 4 All-Seeing Arbiter (SNC) 286
-4 Halo Fountain (SNC) 15
-4 Urabrask, Heretic Praetor (SNC) 346
-4 Urabrask, Heretic Praetor (SNC) 446
-4 Falco Spara, Pactweaver (SNC) 307
-4 Luxior, Giada's Gift (SNC) 240
+4 Angel of Suffering (SNC) 67
+4 Angel of Suffering (SNC) 416
+4 Arcane Bombardment (SNC) 101
+4 Arcane Bombardment (SNC) 422
+4 Body Launderer (SNC) 68
+4 Body Launderer (SNC) 417
+4 Bootleggers' Stash (SNC) 134
+4 Bootleggers' Stash (SNC) 288
+4 Elspeth Resplendent (SNC) 11
+4 Elspeth Resplendent (SNC) 282
 4 Elspeth Resplendent (SNC) 341
 4 Elspeth Resplendent (SNC) 441
-4 Body Launderer (SNC) 68
-4 Arcane Bombardment (SNC) 101
-4 Body Launderer (SNC) 417
-4 Vivien on the Hunt (SNC) 283
-4 Lord Xander, the Collector (SNC) 380
-4 Luxior, Giada's Gift (SNC) 439
-4 Sanctuary Warden (SNC) 30
-4 Halo Fountain (SNC) 285
-4 Ob Nixilis, the Adversary (SNC) 448
-4 Raffine, Scheming Seer (SNC) 392
-4 Meeting of the Five (SNC) 436
-4 Even the Score (SNC) 411
-4 Titan of Industry (SNC) 159
-4 Ob Nixilis, the Adversary (SNC) 284
-4 Vivien on the Hunt (SNC) 162
-4 Falco Spara, Pactweaver (SNC) 372
-4 Elspeth Resplendent (SNC) 282
-4 Arcane Bombardment (SNC) 422
-4 Titan of Industry (SNC) 289
-4 Raffine, Scheming Seer (SNC) 213
-4 Elspeth Resplendent (SNC) 11
-4 Ob Nixilis, the Adversary (SNC) 206
-4 Bootleggers' Stash (SNC) 134
-4 Vivien on the Hunt (SNC) 347
-4 Ob Nixilis, the Adversary (SNC) 348
-4 Sanctuary Warden (SNC) 343
-4 Urabrask, Heretic Praetor (SNC) 360
-4 Angel of Suffering (SNC) 416
-4 Vivien on the Hunt (SNC) 447
-4 Urabrask, Heretic Praetor (SNC) 469
-4 Falco Spara, Pactweaver (SNC) 186
-4 Ziatora, the Incinerator (SNC) 231
-4 Raffine, Scheming Seer (SNC) 327
-4 Ziatora, the Incinerator (SNC) 339
-4 Sanctuary Warden (SNC) 443
-4 Urabrask, Heretic Praetor (SNC) 468
 4 Even the Score (SNC) 42
-4 Lord Xander, the Collector (SNC) 315
-4 All-Seeing Arbiter (SNC) 34
-4 Angel of Suffering (SNC) 67
-4 Meeting of the Five (SNC) 202
-4 Urabrask, Heretic Praetor (SNC) 129
-4 Ziatora, the Incinerator (SNC) 404
-4 Bootleggers' Stash (SNC) 288
-4 Lord Xander, the Collector (SNC) 197
+4 Even the Score (SNC) 411
+4 Falco Spara, Pactweaver (SNC) 186
+4 Falco Spara, Pactweaver (SNC) 307
+4 Falco Spara, Pactweaver (SNC) 372
+4 Halo Fountain (SNC) 15
+4 Halo Fountain (SNC) 285
 4 Jetmir, Nexus of Revels (SNC) 193
 4 Jetmir, Nexus of Revels (SNC) 312
 4 Jetmir, Nexus of Revels (SNC) 377
+4 Lord Xander, the Collector (SNC) 197
+4 Lord Xander, the Collector (SNC) 315
+4 Lord Xander, the Collector (SNC) 380
+4 Luxior, Giada's Gift (SNC) 240
+4 Luxior, Giada's Gift (SNC) 439
+4 Meeting of the Five (SNC) 202
+4 Meeting of the Five (SNC) 436
+4 Ob Nixilis, the Adversary (SNC) 206
+4 Ob Nixilis, the Adversary (SNC) 284
+4 Ob Nixilis, the Adversary (SNC) 348
+4 Ob Nixilis, the Adversary (SNC) 448
+4 Raffine, Scheming Seer (SNC) 213
+4 Raffine, Scheming Seer (SNC) 327
+4 Raffine, Scheming Seer (SNC) 392
+4 Sanctuary Warden (SNC) 30
+4 Sanctuary Warden (SNC) 343
+4 Sanctuary Warden (SNC) 443
+4 Titan of Industry (SNC) 159
+4 Titan of Industry (SNC) 289
+4 Urabrask, Heretic Praetor (SNC) 129
+4 Urabrask, Heretic Praetor (SNC) 346
+4 Urabrask, Heretic Praetor (SNC) 360
+4 Urabrask, Heretic Praetor (SNC) 446
+4 Urabrask, Heretic Praetor (SNC) 468
+4 Urabrask, Heretic Praetor (SNC) 469
+4 Vivien on the Hunt (SNC) 162
+4 Vivien on the Hunt (SNC) 283
+4 Vivien on the Hunt (SNC) 347
+4 Vivien on the Hunt (SNC) 447
+4 Ziatora, the Incinerator (SNC) 231
+4 Ziatora, the Incinerator (SNC) 339
+4 Ziatora, the Incinerator (SNC) 404

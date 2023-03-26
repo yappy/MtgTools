@@ -1,146 +1,146 @@
 Deck
-4 Venerable Warsinger (STX) 246
-4 Silverquill Silencer (STX) 353
-4 Quandrix Command (STX) 217
 4 Academic Probation (STX) 7
-4 Sedgemoor Witch (STX) 306
-4 Strixhaven Stadium (STX) 358
-4 Rushed Rebirth (STX) 228
-4 Strict Proctor (STX) 33★
-4 Multiple Choice (STX) 48
+4 Academic Probation (STX) 287
 4 Accomplished Alchemist (STX) 119
-4 Flamescroll Celebrant // Revel in Silence (STX) 150
-4 Witherbloom Command (STX) 356
-4 Semester's End (STX) 292
-4 Manifestation Sage (STX) 347
-4 Wandering Archaic // Explore the Vastlands (STX) 6
-4 Ingenious Mastery (STX) 297
-4 Verdant Mastery (STX) 146
-4 Culling Ritual (STX) 337
-4 Teachings of the Archaics (STX) 299
-4 Illuminate History (STX) 312
-4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX) 326
-4 Culmination of Studies (STX) 338
-4 Fervent Mastery (STX) 101
-4 Double Major (STX) 340
-4 Ingenious Mastery (STX) 44
-4 Culmination of Studies (STX) 173
-4 Oriq Loremage (STX) 80
-4 Elite Spellbinder (STX) 289
-4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX) 333
-4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX) 332
-4 Leonin Lightscribe (STX) 20
-4 Dramatic Finale (STX) 341
-4 Dream Strix (STX) 296
-4 Dream Strix (STX) 42
-4 Elemental Expressionist (STX) 342
-4 Devastating Mastery (STX) 288
+4 Accomplished Alchemist (STX) 314
+4 Archmage Emeritus (STX) 37
+4 Archmage Emeritus (STX) 295
+4 Archmage Emeritus (STX) 377
+4 Augmenter Pugilist // Echoing Equation (STX) 147
+4 Augmenter Pugilist // Echoing Equation (STX) 321
 4 Baleful Mastery (STX) 64
-4 Devastating Mastery (STX) 14
-4 Strixhaven Stadium (STX) 259
-4 Poet's Quill (STX) 305
-4 Retriever Phoenix (STX) 113
+4 Baleful Mastery (STX) 301
+4 Basic Conjuration (STX) 120
 4 Basic Conjuration (STX) 315
+4 Blade Historian (STX) 165
+4 Blade Historian (STX) 334
+4 Callous Bloodmage (STX) 66
+4 Callous Bloodmage (STX) 302
+4 Codie, Vociferous Codex (STX) 253
+4 Codie, Vociferous Codex (STX) 357
+4 Confront the Past (STX) 67
+4 Confront the Past (STX) 303
+4 Conspiracy Theorist (STX) 94
 4 Conspiracy Theorist (STX) 307
+4 Culling Ritual (STX) 172
+4 Culling Ritual (STX) 337
+4 Culmination of Studies (STX) 173
+4 Culmination of Studies (STX) 338
+4 Daemogoth Titan (STX) 174
+4 Daemogoth Titan (STX) 339
+4 Devastating Mastery (STX) 14
+4 Devastating Mastery (STX) 288
+4 Double Major (STX) 179
+4 Double Major (STX) 340
+4 Draconic Intervention (STX) 96
+4 Draconic Intervention (STX) 309
+4 Dragonsguard Elite (STX) 127
+4 Dragonsguard Elite (STX) 316
+4 Dragonsguard Elite (STX) 376
+4 Dramatic Finale (STX) 180
+4 Dramatic Finale (STX) 341
+4 Dream Strix (STX) 42
+4 Dream Strix (STX) 296
+4 Efreet Flamepainter (STX) 98
+4 Efreet Flamepainter (STX) 310
+4 Elemental Expressionist (STX) 181
+4 Elemental Expressionist (STX) 342
+4 Elite Spellbinder (STX) 17
+4 Elite Spellbinder (STX) 289
+4 Exponential Growth (STX) 130
+4 Exponential Growth (STX) 318
+4 Fervent Mastery (STX) 101
+4 Fervent Mastery (STX) 311
+4 Flamescroll Celebrant // Revel in Silence (STX) 150
+4 Flamescroll Celebrant // Revel in Silence (STX) 324
+4 Frostboil Snarl (STX) 265
+4 Frostboil Snarl (STX) 360
 4 Furycalm Snarl (STX) 266
 4 Furycalm Snarl (STX) 361
-4 Sparring Regimen (STX) 293
-4 Selfless Glyphweaver // Deadly Vanity (STX) 329
-4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 155
-4 Efreet Flamepainter (STX) 310
-4 Silverquill Command (STX) 232
-4 Wandering Archaic // Explore the Vastlands (STX) 286
-4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX) 161
-4 Draconic Intervention (STX) 96
-4 Dragonsguard Elite (STX) 127
-4 Conspiracy Theorist (STX) 94
-4 Elemental Expressionist (STX) 181
-4 Archmage Emeritus (STX) 37
-4 Hall of Oracles (STX) 267
-4 Manifestation Sage (STX) 205
-4 Exponential Growth (STX) 318
-4 Torrent Sculptor // Flamethrower Sonata (STX) 331
-4 Shineshadow Snarl (STX) 364
-================================================================================
-Deck
-4 Exponential Growth (STX) 130
-4 Callous Bloodmage (STX) 66
-4 Gnarled Professor (STX) 319
-4 Strict Proctor (STX) 294
-4 Shineshadow Snarl (STX) 272
-4 Draconic Intervention (STX) 309
-4 Prismari Command (STX) 214
-4 Torrent Sculptor // Flamethrower Sonata (STX) 159
-4 Witherbloom Command (STX) 248
-4 Selfless Glyphweaver // Deadly Vanity (STX) 157
-4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX) 152
-4 Silverquill Silencer (STX) 234
-4 Basic Conjuration (STX) 120
-4 Flamescroll Celebrant // Revel in Silence (STX) 324
-4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX) 160
-4 Necroblossom Snarl (STX) 363
-4 The Biblioplex (STX) 264
-4 Culling Ritual (STX) 172
-4 Prismari Command (STX) 348
-4 Academic Probation (STX) 287
-4 Venerable Warsinger (STX) 355
-4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX) 158
-4 Strict Proctor (STX) 33
-4 Teachings of the Archaics (STX) 57
-4 Callous Bloodmage (STX) 302
-4 Illuminate History (STX) 108
-4 Confront the Past (STX) 303
-4 Elite Spellbinder (STX) 17
-4 Multiple Choice (STX) 298
-4 Accomplished Alchemist (STX) 314
 4 Gnarled Professor (STX) 133
-4 Blade Historian (STX) 165
-4 Retriever Phoenix (STX) 313
-4 Dragonsguard Elite (STX) 316
-4 Dramatic Finale (STX) 180
-4 Vineglimmer Snarl (STX) 365
-4 Pestilent Cauldron // Restorative Burst (STX) 154
-4 Sparring Regimen (STX) 29
-4 Frostboil Snarl (STX) 360
-4 Necroblossom Snarl (STX) 269
-4 Augmenter Pugilist // Echoing Equation (STX) 321
-4 Quandrix Command (STX) 349
-4 Daemogoth Titan (STX) 339
-4 Silverquill Command (STX) 352
-4 Tempted by the Oriq (STX) 300
-4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX) 330
-4 Frostboil Snarl (STX) 265
-4 Tempted by the Oriq (STX) 58
-4 Daemogoth Titan (STX) 174
-4 Double Major (STX) 179
-4 Radiant Scrollwielder (STX) 221
-4 Fervent Mastery (STX) 311
-4 Leonin Lightscribe (STX) 290
-4 Lorehold Command (STX) 345
-4 Augmenter Pugilist // Echoing Equation (STX) 147
-4 Efreet Flamepainter (STX) 98
-4 Archmage Emeritus (STX) 295
-4 Rushed Rebirth (STX) 351
-4 The Biblioplex (STX) 359
-4 Vanishing Verse (STX) 244
-4 Confront the Past (STX) 67
-4 Lorehold Command (STX) 199
+4 Gnarled Professor (STX) 319
+4 Hall of Oracles (STX) 267
+4 Hall of Oracles (STX) 362
 ================================================================================
 Deck
-4 Poet's Quill (STX) 82
-4 Codie, Vociferous Codex (STX) 357
-4 Sedgemoor Witch (STX) 86
-4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 328
-4 Verdant Mastery (STX) 320
-4 Codie, Vociferous Codex (STX) 253
-4 Blade Historian (STX) 334
-4 Vanishing Verse (STX) 354
-4 Semester's End (STX) 27
-4 Pestilent Cauldron // Restorative Burst (STX) 327
-4 Dragonsguard Elite (STX) 376
-4 Archmage Emeritus (STX) 377
-4 Hall of Oracles (STX) 362
-4 Radiant Scrollwielder (STX) 350
-4 Vineglimmer Snarl (STX) 274
-4 Baleful Mastery (STX) 301
+4 Illuminate History (STX) 108
+4 Illuminate History (STX) 312
+4 Ingenious Mastery (STX) 44
+4 Ingenious Mastery (STX) 297
+4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX) 152
+4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX) 326
+4 Leonin Lightscribe (STX) 20
+4 Leonin Lightscribe (STX) 290
+4 Lorehold Command (STX) 199
+4 Lorehold Command (STX) 345
+4 Manifestation Sage (STX) 205
+4 Manifestation Sage (STX) 347
+4 Multiple Choice (STX) 48
+4 Multiple Choice (STX) 298
+4 Necroblossom Snarl (STX) 269
+4 Necroblossom Snarl (STX) 363
+4 Oriq Loremage (STX) 80
 4 Oriq Loremage (STX) 304
+4 Pestilent Cauldron // Restorative Burst (STX) 154
+4 Pestilent Cauldron // Restorative Burst (STX) 327
+4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 155
+4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 328
+4 Poet's Quill (STX) 82
+4 Poet's Quill (STX) 305
+4 Prismari Command (STX) 214
+4 Prismari Command (STX) 348
+4 Quandrix Command (STX) 217
+4 Quandrix Command (STX) 349
+4 Radiant Scrollwielder (STX) 221
+4 Radiant Scrollwielder (STX) 350
+4 Retriever Phoenix (STX) 113
+4 Retriever Phoenix (STX) 313
+4 Rushed Rebirth (STX) 228
+4 Rushed Rebirth (STX) 351
+4 Sedgemoor Witch (STX) 86
+4 Sedgemoor Witch (STX) 306
+4 Selfless Glyphweaver // Deadly Vanity (STX) 157
+4 Selfless Glyphweaver // Deadly Vanity (STX) 329
+4 Semester's End (STX) 27
+4 Semester's End (STX) 292
+4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX) 158
+4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX) 330
+4 Shineshadow Snarl (STX) 272
+4 Shineshadow Snarl (STX) 364
+4 Silverquill Command (STX) 232
+4 Silverquill Command (STX) 352
+4 Silverquill Silencer (STX) 234
+4 Silverquill Silencer (STX) 353
+4 Sparring Regimen (STX) 29
+4 Sparring Regimen (STX) 293
+4 Strict Proctor (STX) 33
+4 Strict Proctor (STX) 294
+4 Strict Proctor (STX) 33★
+4 Strixhaven Stadium (STX) 259
+4 Strixhaven Stadium (STX) 358
+4 Teachings of the Archaics (STX) 57
+4 Teachings of the Archaics (STX) 299
+4 Tempted by the Oriq (STX) 58
+4 Tempted by the Oriq (STX) 300
+4 The Biblioplex (STX) 264
+4 The Biblioplex (STX) 359
+4 Torrent Sculptor // Flamethrower Sonata (STX) 159
+================================================================================
+Deck
+4 Torrent Sculptor // Flamethrower Sonata (STX) 331
+4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX) 160
+4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX) 332
+4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX) 161
+4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX) 333
+4 Vanishing Verse (STX) 244
+4 Vanishing Verse (STX) 354
+4 Venerable Warsinger (STX) 246
+4 Venerable Warsinger (STX) 355
+4 Verdant Mastery (STX) 146
+4 Verdant Mastery (STX) 320
+4 Vineglimmer Snarl (STX) 274
+4 Vineglimmer Snarl (STX) 365
+4 Wandering Archaic // Explore the Vastlands (STX) 6
+4 Wandering Archaic // Explore the Vastlands (STX) 286
+4 Witherbloom Command (STX) 248
+4 Witherbloom Command (STX) 356

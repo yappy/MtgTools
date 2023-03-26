@@ -1,164 +1,164 @@
 Deck
-4 Vraan, Executioner Thane (ONE) 309
-4 Jor Kadeen, First Goldwarden (ONE) 332
-4 Archfiend of the Dross (ONE) 434
-4 Karumonix, the Rat King (ONE) 439
-4 Kaito, Dancing Shadow (ONE) 340
-4 Ria Ivor, Bane of Bladehold (ONE) 475
-4 Goliath Hatchery (ONE) 413
-4 Kaito, Dancing Shadow (ONE) 204
-4 Goliath Hatchery (ONE) 408
-4 Zenith Chronicler (ONE) 246
-4 Blackcleave Cliffs (ONE) 248
-4 The Monumental Facade (ONE) 401
-4 Argentum Masticore (ONE) 393
-4 Slobad, Iron Goblin (ONE) 448
-4 Unctus, Grand Metatect (ONE) 75
-4 Green Sun's Twilight (ONE) 169
-4 Kemba, Kha Enduring (ONE) 330
-4 Norn's Wellspring (ONE) 375
-4 Venser, Corpse Puppet (ONE) 219
-4 Skrelv's Hive (ONE) 376
-4 The Filigree Sylex (ONE) 394
-4 Blade of Shared Souls (ONE) 42
-4 Kinzu of the Bleak Coven (ONE) 406
-4 The Seedcore (ONE) 259
-4 Venerated Rotpriest (ONE) 392
-4 Koth, Fire of Resistance (ONE) 338
-4 Mirrex (ONE) 400
-4 Slobad, Iron Goblin (ONE) 149
-4 Darkslick Shores (ONE) 372
-4 Kethek, Crucible Goliath (ONE) 465
-4 Ezuri, Stalker of Spheres (ONE) 460
-4 Skrelv, Defector Mite (ONE) 427
-4 Green Sun's Twilight (ONE) 284
-4 Blackcleave Cliffs (ONE) 370
-4 Malcator, Purity Overseer (ONE) 208
-4 Thrun, Breaker of Silence (ONE) 331
-4 Blue Sun's Twilight (ONE) 43
-4 Phyrexian Arena (ONE) 283
-4 Mercurial Spelldancer (ONE) 381
-4 Skrelv, Defector Mite (ONE) 301
-4 Bloated Contaminator (ONE) 159
-4 Kethek, Crucible Goliath (ONE) 206
-4 Soulless Jailer (ONE) 397
-4 Serum Sovereign (ONE) 410
-4 The Mycosynth Gardens (ONE) 402
-4 Vraan, Executioner Thane (ONE) 114
-4 Ovika, Enigma Goliath (ONE) 322
-4 Melira, the Living Cure (ONE) 469
-4 Melira, the Living Cure (ONE) 333
-4 Dragonwing Glider (ONE) 128
-4 Mirrex (ONE) 254
-4 Phyrexian Arena (ONE) 104
-4 Mirran Safehouse (ONE) 395
-4 Migloz, Maze Crusher (ONE) 321
-4 Archfiend of the Dross (ONE) 304
-4 The Mycosynth Gardens (ONE) 256
-4 Glissa Sunslayer (ONE) 461
-4 Kethek, Crucible Goliath (ONE) 319
-4 Skrelv, Defector Mite (ONE) 33
-4 Conduit of Worlds (ONE) 163
-4 Karumonix, the Rat King (ONE) 307
-4 Black Sun's Twilight (ONE) 383
-================================================================================
-Deck
-4 Koth, Fire of Resistance (ONE) 138
-4 Encroaching Mycosynth (ONE) 47
-4 Razorverge Thicket (ONE) 257
-4 Tyvar, Jubilant Brawler (ONE) 218
-4 Glissa Sunslayer (ONE) 318
-4 Kaya, Intangible Slayer (ONE) 205
-4 Urabrask's Forge (ONE) 153
-4 Vindictive Flamestoker (ONE) 388
-4 Thrun, Breaker of Silence (ONE) 186
-4 The Filigree Sylex (ONE) 227
-4 Dragonwing Glider (ONE) 385
-4 Slobad, Iron Goblin (ONE) 311
-4 Venser, Corpse Puppet (ONE) 324
-4 Malcator, Purity Overseer (ONE) 468
-4 Serum Sovereign (ONE) 405
-4 The Eternal Wanderer (ONE) 422
-4 Encroaching Mycosynth (ONE) 380
-4 Ovika, Enigma Goliath (ONE) 474
-4 Copperline Gorge (ONE) 249
-4 Red Sun's Twilight (ONE) 145
-4 Copperline Gorge (ONE) 371
-4 Urabrask's Forge (ONE) 387
-4 Graaz, Unstoppable Juggernaut (ONE) 334
-4 The Seedcore (ONE) 403
-4 Mindsplice Apparatus (ONE) 63
-4 Jor Kadeen, First Goldwarden (ONE) 462
 4 Archfiend of the Dross (ONE) 82
+4 Archfiend of the Dross (ONE) 304
+4 Archfiend of the Dross (ONE) 434
+4 Argentum Masticore (ONE) 222
+4 Argentum Masticore (ONE) 393
+4 Black Sun's Twilight (ONE) 84
+4 Black Sun's Twilight (ONE) 383
+4 Blackcleave Cliffs (ONE) 248
+4 Blackcleave Cliffs (ONE) 370
+4 Blade of Shared Souls (ONE) 42
+4 Blade of Shared Souls (ONE) 378
+4 Bloated Contaminator (ONE) 159
+4 Bloated Contaminator (ONE) 389
+4 Blue Sun's Twilight (ONE) 43
+4 Blue Sun's Twilight (ONE) 379
+4 Conduit of Worlds (ONE) 163
+4 Conduit of Worlds (ONE) 390
+4 Copperline Gorge (ONE) 249
+4 Copperline Gorge (ONE) 371
+4 Darkslick Shores (ONE) 250
+4 Darkslick Shores (ONE) 372
+4 Dragonwing Glider (ONE) 128
+4 Dragonwing Glider (ONE) 385
+4 Encroaching Mycosynth (ONE) 47
+4 Encroaching Mycosynth (ONE) 380
+4 Evolved Spinoderm (ONE) 166
+4 Evolved Spinoderm (ONE) 313
+4 Evolved Spinoderm (ONE) 452
+4 Ezuri, Stalker of Spheres (ONE) 201
+4 Ezuri, Stalker of Spheres (ONE) 317
+4 Ezuri, Stalker of Spheres (ONE) 460
+4 Geth, Thane of Contracts (ONE) 95
+4 Geth, Thane of Contracts (ONE) 306
+4 Geth, Thane of Contracts (ONE) 438
+4 Glissa Sunslayer (ONE) 202
+4 Glissa Sunslayer (ONE) 318
+4 Glissa Sunslayer (ONE) 461
+4 Goliath Hatchery (ONE) 408
+4 Goliath Hatchery (ONE) 413
+4 Graaz, Unstoppable Juggernaut (ONE) 229
+4 Graaz, Unstoppable Juggernaut (ONE) 334
 4 Graaz, Unstoppable Juggernaut (ONE) 478
-4 The Eternal Wanderer (ONE) 11
-4 Monument to Perfection (ONE) 396
-4 White Sun's Twilight (ONE) 377
+4 Green Sun's Twilight (ONE) 169
+4 Green Sun's Twilight (ONE) 284
+4 Green Sun's Twilight (ONE) 391
+4 Jor Kadeen, First Goldwarden (ONE) 203
+4 Jor Kadeen, First Goldwarden (ONE) 332
+4 Jor Kadeen, First Goldwarden (ONE) 462
+4 Kaito, Dancing Shadow (ONE) 204
+4 Kaito, Dancing Shadow (ONE) 340
+4 Kaito, Dancing Shadow (ONE) 463
+4 Karumonix, the Rat King (ONE) 98
+4 Karumonix, the Rat King (ONE) 282
+4 Karumonix, the Rat King (ONE) 307
+4 Karumonix, the Rat King (ONE) 439
+4 Kaya, Intangible Slayer (ONE) 205
+4 Kaya, Intangible Slayer (ONE) 341
 4 Kaya, Intangible Slayer (ONE) 464
 4 Kemba, Kha Enduring (ONE) 19
-4 Rhuk, Hexgold Nabber (ONE) 412
-4 Venser, Corpse Puppet (ONE) 477
-4 Argentum Masticore (ONE) 222
-4 Tablet of Compleation (ONE) 245
-4 Evolved Spinoderm (ONE) 452
-4 Tyvar, Jubilant Brawler (ONE) 344
-4 Seachrome Coast (ONE) 374
-4 Mindsplice Apparatus (ONE) 382
-4 Seachrome Coast (ONE) 258
-4 Kinzu of the Bleak Coven (ONE) 411
-4 Bloated Contaminator (ONE) 389
-4 Mite Overseer (ONE) 404
-4 Ria Ivor, Bane of Bladehold (ONE) 323
-4 Mite Overseer (ONE) 409
-4 Karumonix, the Rat King (ONE) 282
-4 Tablet of Compleation (ONE) 398
-4 Monument to Perfection (ONE) 233
-4 Blue Sun's Twilight (ONE) 379
-4 Razorverge Thicket (ONE) 373
-4 Evolved Spinoderm (ONE) 313
-4 Ovika, Enigma Goliath (ONE) 213
-4 The Eternal Wanderer (ONE) 335
-4 Glissa Sunslayer (ONE) 202
-4 Ezuri, Stalker of Spheres (ONE) 317
-4 Darkslick Shores (ONE) 250
-4 Red Sun's Twilight (ONE) 386
-4 Soulless Jailer (ONE) 241
-4 Geth, Thane of Contracts (ONE) 306
-4 Migloz, Maze Crusher (ONE) 210
+4 Kemba, Kha Enduring (ONE) 330
+4 Kemba, Kha Enduring (ONE) 423
+4 Kethek, Crucible Goliath (ONE) 206
 ================================================================================
 Deck
-4 Geth, Thane of Contracts (ONE) 95
-4 Green Sun's Twilight (ONE) 391
-4 Unctus, Grand Metatect (ONE) 433
-4 Kaito, Dancing Shadow (ONE) 463
-4 Tyvar, Jubilant Brawler (ONE) 476
-4 Malcator, Purity Overseer (ONE) 320
-4 Mercurial Spelldancer (ONE) 61
-4 Venerated Rotpriest (ONE) 192
-4 Ezuri, Stalker of Spheres (ONE) 201
-4 Unctus, Grand Metatect (ONE) 303
-4 Geth, Thane of Contracts (ONE) 438
-4 The Monumental Facade (ONE) 255
-4 Mirran Safehouse (ONE) 232
-4 Vraan, Executioner Thane (ONE) 441
-4 Rhuk, Hexgold Nabber (ONE) 407
-4 Zenith Chronicler (ONE) 399
-4 Thrun, Breaker of Silence (ONE) 456
-4 Kemba, Kha Enduring (ONE) 423
-4 Evolved Spinoderm (ONE) 166
-4 Graaz, Unstoppable Juggernaut (ONE) 229
-4 Melira, the Living Cure (ONE) 209
-4 Blade of Shared Souls (ONE) 378
-4 Kaya, Intangible Slayer (ONE) 341
-4 Black Sun's Twilight (ONE) 84
-4 Jor Kadeen, First Goldwarden (ONE) 203
+4 Kethek, Crucible Goliath (ONE) 319
+4 Kethek, Crucible Goliath (ONE) 465
+4 Kinzu of the Bleak Coven (ONE) 406
+4 Kinzu of the Bleak Coven (ONE) 411
+4 Koth, Fire of Resistance (ONE) 138
+4 Koth, Fire of Resistance (ONE) 338
 4 Koth, Fire of Resistance (ONE) 446
-4 Norn's Wellspring (ONE) 24
-4 Karumonix, the Rat King (ONE) 98
-4 Vindictive Flamestoker (ONE) 154
+4 Malcator, Purity Overseer (ONE) 208
+4 Malcator, Purity Overseer (ONE) 320
+4 Malcator, Purity Overseer (ONE) 468
+4 Melira, the Living Cure (ONE) 209
+4 Melira, the Living Cure (ONE) 333
+4 Melira, the Living Cure (ONE) 469
+4 Mercurial Spelldancer (ONE) 61
+4 Mercurial Spelldancer (ONE) 381
+4 Migloz, Maze Crusher (ONE) 210
+4 Migloz, Maze Crusher (ONE) 321
 4 Migloz, Maze Crusher (ONE) 470
-4 Ria Ivor, Bane of Bladehold (ONE) 214
+4 Mindsplice Apparatus (ONE) 63
+4 Mindsplice Apparatus (ONE) 382
+4 Mirran Safehouse (ONE) 232
+4 Mirran Safehouse (ONE) 395
+4 Mirrex (ONE) 254
+4 Mirrex (ONE) 400
+4 Mite Overseer (ONE) 404
+4 Mite Overseer (ONE) 409
+4 Monument to Perfection (ONE) 233
+4 Monument to Perfection (ONE) 396
+4 Norn's Wellspring (ONE) 24
+4 Norn's Wellspring (ONE) 375
+4 Ovika, Enigma Goliath (ONE) 213
+4 Ovika, Enigma Goliath (ONE) 322
+4 Ovika, Enigma Goliath (ONE) 474
+4 Phyrexian Arena (ONE) 104
+4 Phyrexian Arena (ONE) 283
 4 Phyrexian Arena (ONE) 384
-4 Conduit of Worlds (ONE) 390
+4 Razorverge Thicket (ONE) 257
+4 Razorverge Thicket (ONE) 373
+4 Red Sun's Twilight (ONE) 145
+4 Red Sun's Twilight (ONE) 386
+4 Rhuk, Hexgold Nabber (ONE) 407
+4 Rhuk, Hexgold Nabber (ONE) 412
+4 Ria Ivor, Bane of Bladehold (ONE) 214
+4 Ria Ivor, Bane of Bladehold (ONE) 323
+4 Ria Ivor, Bane of Bladehold (ONE) 475
+4 Seachrome Coast (ONE) 258
+4 Seachrome Coast (ONE) 374
+4 Serum Sovereign (ONE) 405
+4 Serum Sovereign (ONE) 410
 4 Skrelv's Hive (ONE) 34
+4 Skrelv's Hive (ONE) 376
+4 Skrelv, Defector Mite (ONE) 33
+4 Skrelv, Defector Mite (ONE) 301
+4 Skrelv, Defector Mite (ONE) 427
+4 Slobad, Iron Goblin (ONE) 149
+4 Slobad, Iron Goblin (ONE) 311
+4 Slobad, Iron Goblin (ONE) 448
+4 Soulless Jailer (ONE) 241
+4 Soulless Jailer (ONE) 397
+4 Tablet of Compleation (ONE) 245
+4 Tablet of Compleation (ONE) 398
+4 The Eternal Wanderer (ONE) 11
+================================================================================
+Deck
+4 The Eternal Wanderer (ONE) 335
+4 The Eternal Wanderer (ONE) 422
+4 The Filigree Sylex (ONE) 227
+4 The Filigree Sylex (ONE) 394
+4 The Monumental Facade (ONE) 255
+4 The Monumental Facade (ONE) 401
+4 The Mycosynth Gardens (ONE) 256
+4 The Mycosynth Gardens (ONE) 402
+4 The Seedcore (ONE) 259
+4 The Seedcore (ONE) 403
+4 Thrun, Breaker of Silence (ONE) 186
+4 Thrun, Breaker of Silence (ONE) 331
+4 Thrun, Breaker of Silence (ONE) 456
+4 Tyvar, Jubilant Brawler (ONE) 218
+4 Tyvar, Jubilant Brawler (ONE) 344
+4 Tyvar, Jubilant Brawler (ONE) 476
+4 Unctus, Grand Metatect (ONE) 75
+4 Unctus, Grand Metatect (ONE) 303
+4 Unctus, Grand Metatect (ONE) 433
+4 Urabrask's Forge (ONE) 153
+4 Urabrask's Forge (ONE) 387
+4 Venerated Rotpriest (ONE) 192
+4 Venerated Rotpriest (ONE) 392
+4 Venser, Corpse Puppet (ONE) 219
+4 Venser, Corpse Puppet (ONE) 324
+4 Venser, Corpse Puppet (ONE) 477
+4 Vindictive Flamestoker (ONE) 154
+4 Vindictive Flamestoker (ONE) 388
+4 Vraan, Executioner Thane (ONE) 114
+4 Vraan, Executioner Thane (ONE) 309
+4 Vraan, Executioner Thane (ONE) 441
 4 White Sun's Twilight (ONE) 38
+4 White Sun's Twilight (ONE) 377
+4 Zenith Chronicler (ONE) 246
+4 Zenith Chronicler (ONE) 399

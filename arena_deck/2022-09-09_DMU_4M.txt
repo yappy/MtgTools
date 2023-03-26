@@ -1,50 +1,50 @@
 Deck
-4 Sol'Kanar the Tainted (DMU) 359
-4 Zur, Eternal Schemer (DMU) 327
-4 Shivan Devastator (DMU) 143
-4 Sphinx of Clear Skies (DMU) 396
-4 Jaya, Fiery Negotiator (DMU) 374
-4 Sol'Kanar the Tainted (DMU) 219
-4 Sol'Kanar the Tainted (DMU) 318
-4 Jaya, Fiery Negotiator (DMU) 133
-4 Jodah, the Unifier (DMU) 302
-4 Vesuvan Duplimancy (DMU) 397
-4 Karn, Living Legacy (DMU) 372
-4 Soul of Windgrace (DMU) 360
-4 Zur, Eternal Schemer (DMU) 228
-4 Ajani, Sleeper Agent (DMU) 375
-4 Sheoldred, the Apocalypse (DMU) 436
-4 Karn's Sylex (DMU) 234
-4 Ajani, Sleeper Agent (DMU) 376
-4 Serra Paragon (DMU) 388
-4 Timeless Lotus (DMU) 239
-4 Shanna, Purifying Blade (DMU) 218
 4 Ajani, Sleeper Agent (DMU) 192
 4 Ajani, Sleeper Agent (DMU) 370
-4 Shanna, Purifying Blade (DMU) 358
-4 Sheoldred, the Apocalypse (DMU) 435
-4 Zur, Eternal Schemer (DMU) 368
-4 Sheoldred, the Apocalypse (DMU) 369
-4 Sphinx of Clear Skies (DMU) 67
-4 Weatherlight Compleated (DMU) 242
-4 Vesuvan Duplimancy (DMU) 73
-4 Shanna, Purifying Blade (DMU) 317
-4 Jodah, the Unifier (DMU) 343
-4 Liliana of the Veil (DMU) 373
-4 Rith, Liberated Primeval (DMU) 354
-4 Sheoldred, the Apocalypse (DMU) 331
-4 Rith, Liberated Primeval (DMU) 214
-4 Silverback Elder (DMU) 177
-4 Shivan Devastator (DMU) 410
-4 Rith, Liberated Primeval (DMU) 313
-4 Serra Paragon (DMU) 32
-4 Liliana of the Veil (DMU) 97
-4 Sheoldred, the Apocalypse (DMU) 107
-4 Jodah, the Unifier (DMU) 203
-4 Soul of Windgrace (DMU) 220
-4 Karn, Living Legacy (DMU) 1
 4 Ajani, Sleeper Agent (DMU) 371
-4 The World Spell (DMU) 189
-4 Soul of Windgrace (DMU) 319
+4 Ajani, Sleeper Agent (DMU) 375
+4 Ajani, Sleeper Agent (DMU) 376
+4 Jaya, Fiery Negotiator (DMU) 133
+4 Jaya, Fiery Negotiator (DMU) 374
+4 Jodah, the Unifier (DMU) 203
+4 Jodah, the Unifier (DMU) 302
+4 Jodah, the Unifier (DMU) 343
+4 Karn's Sylex (DMU) 234
+4 Karn, Living Legacy (DMU) 1
+4 Karn, Living Legacy (DMU) 372
+4 Liliana of the Veil (DMU) 97
+4 Liliana of the Veil (DMU) 373
+4 Rith, Liberated Primeval (DMU) 214
+4 Rith, Liberated Primeval (DMU) 313
+4 Rith, Liberated Primeval (DMU) 354
+4 Serra Paragon (DMU) 32
+4 Serra Paragon (DMU) 388
+4 Shanna, Purifying Blade (DMU) 218
+4 Shanna, Purifying Blade (DMU) 317
+4 Shanna, Purifying Blade (DMU) 358
+4 Sheoldred, the Apocalypse (DMU) 107
 4 Sheoldred, the Apocalypse (DMU) 290
+4 Sheoldred, the Apocalypse (DMU) 331
+4 Sheoldred, the Apocalypse (DMU) 369
+4 Sheoldred, the Apocalypse (DMU) 435
+4 Sheoldred, the Apocalypse (DMU) 436
+4 Shivan Devastator (DMU) 143
+4 Shivan Devastator (DMU) 410
+4 Silverback Elder (DMU) 177
 4 Silverback Elder (DMU) 418
+4 Sol'Kanar the Tainted (DMU) 219
+4 Sol'Kanar the Tainted (DMU) 318
+4 Sol'Kanar the Tainted (DMU) 359
+4 Soul of Windgrace (DMU) 220
+4 Soul of Windgrace (DMU) 319
+4 Soul of Windgrace (DMU) 360
+4 Sphinx of Clear Skies (DMU) 67
+4 Sphinx of Clear Skies (DMU) 396
+4 The World Spell (DMU) 189
+4 Timeless Lotus (DMU) 239
+4 Vesuvan Duplimancy (DMU) 73
+4 Vesuvan Duplimancy (DMU) 397
+4 Weatherlight Compleated (DMU) 242
+4 Zur, Eternal Schemer (DMU) 228
+4 Zur, Eternal Schemer (DMU) 327
+4 Zur, Eternal Schemer (DMU) 368

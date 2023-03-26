@@ -1,47 +1,47 @@
 Deck
-4 Olivia, Crimson Bride (VOW) 343
-4 Sorin the Mirthless (VOW) 278
-4 Savior of Ollenbock (VOW) 330
-4 Sorin the Mirthless (VOW) 337
-4 Faithbound Judge // Sinner's Judgment (VOW) 348
-4 Olivia, Crimson Bride (VOW) 245
-4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 320
-4 Necroduality (VOW) 362
-4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 293
-4 Cemetery Gatekeeper (VOW) 148
-4 Cemetery Desecrator (VOW) 100
-4 Sorin the Mirthless (VOW) 297
-4 Volatile Arsonist // Dire-Strain Anarchist (VOW) 382
-4 Manaform Hellkite (VOW) 170
-4 Cemetery Illuminator (VOW) 50
-4 Cultivator Colossus (VOW) 195
-4 Cemetery Gatekeeper (VOW) 304
-4 Hallowed Haunting (VOW) 17
-4 Chandra, Dressed to Kill (VOW) 149
-4 Manaform Hellkite (VOW) 380
-4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 65
-4 Avabruck Caretaker // Hollowhenge Huntmaster (VOW) 384
-4 Chandra, Dressed to Kill (VOW) 279
-4 Cemetery Prowler (VOW) 385
-4 Toxrill, the Corrosive (VOW) 321
-4 Olivia, Crimson Bride (VOW) 315
-4 Toxrill, the Corrosive (VOW) 132
-4 Volatile Arsonist // Dire-Strain Anarchist (VOW) 181
-4 Cemetery Protector (VOW) 347
-4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 119
-4 Necroduality (VOW) 70
-4 Cultivator Colossus (VOW) 386
-4 Kaya, Geist Hunter (VOW) 240
-4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 335
-4 Cemetery Prowler (VOW) 191
-4 Savior of Ollenbock (VOW) 34
-4 Cemetery Protector (VOW) 6
 4 Avabruck Caretaker // Hollowhenge Huntmaster (VOW) 187
-4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 332
-4 Cemetery Illuminator (VOW) 356
-4 Sorin the Mirthless (VOW) 131
-4 Savior of Ollenbock (VOW) 352
-4 Hallowed Haunting (VOW) 349
-4 Faithbound Judge // Sinner's Judgment (VOW) 12
+4 Avabruck Caretaker // Hollowhenge Huntmaster (VOW) 384
+4 Cemetery Desecrator (VOW) 100
 4 Cemetery Desecrator (VOW) 366
+4 Cemetery Gatekeeper (VOW) 148
+4 Cemetery Gatekeeper (VOW) 304
+4 Cemetery Illuminator (VOW) 50
+4 Cemetery Illuminator (VOW) 356
+4 Cemetery Protector (VOW) 6
+4 Cemetery Protector (VOW) 347
+4 Cemetery Prowler (VOW) 191
+4 Cemetery Prowler (VOW) 385
+4 Chandra, Dressed to Kill (VOW) 149
+4 Chandra, Dressed to Kill (VOW) 279
+4 Cultivator Colossus (VOW) 195
+4 Cultivator Colossus (VOW) 386
+4 Faithbound Judge // Sinner's Judgment (VOW) 12
+4 Faithbound Judge // Sinner's Judgment (VOW) 348
+4 Hallowed Haunting (VOW) 17
+4 Hallowed Haunting (VOW) 349
+4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 119
+4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 293
+4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 335
+4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 65
+4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 320
+4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 332
+4 Kaya, Geist Hunter (VOW) 240
 4 Kaya, Geist Hunter (VOW) 280
+4 Manaform Hellkite (VOW) 170
+4 Manaform Hellkite (VOW) 380
+4 Necroduality (VOW) 70
+4 Necroduality (VOW) 362
+4 Olivia, Crimson Bride (VOW) 245
+4 Olivia, Crimson Bride (VOW) 315
+4 Olivia, Crimson Bride (VOW) 343
+4 Savior of Ollenbock (VOW) 34
+4 Savior of Ollenbock (VOW) 330
+4 Savior of Ollenbock (VOW) 352
+4 Sorin the Mirthless (VOW) 131
+4 Sorin the Mirthless (VOW) 278
+4 Sorin the Mirthless (VOW) 297
+4 Sorin the Mirthless (VOW) 337
+4 Toxrill, the Corrosive (VOW) 132
+4 Toxrill, the Corrosive (VOW) 321
+4 Volatile Arsonist // Dire-Strain Anarchist (VOW) 181
+4 Volatile Arsonist // Dire-Strain Anarchist (VOW) 382
