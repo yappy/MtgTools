@@ -1,4 +1,5 @@
 use std::{
+    cmp::Ordering,
     fs::File,
     io::{BufReader, BufWriter, Write},
 };
@@ -19,8 +20,26 @@ fn load_sets() -> Result<Sets> {
 fn load_all_cards() -> Result<Cards> {
     let file = File::open(common::PATH_CARDS)?;
     let file = BufReader::new(file);
+    let mut cards: Vec<api::Card> = serde_json::from_reader(file)?;
 
-    Ok(serde_json::from_reader(file)?)
+    cards.sort_by(|a, b| {
+        let o1 = a.name.cmp(&b.name);
+        if o1 == Ordering::Equal {
+            let mut cna = a.collector_number.clone();
+            let mut cnb = b.collector_number.clone();
+            while cna.len() < 5 {
+                cna.insert_str(0, " ");
+            }
+            while cnb.len() < 5 {
+                cnb.insert_str(0, " ");
+            }
+            cna.cmp(&cnb)
+        } else {
+            o1
+        }
+    });
+
+    Ok(cards)
 }
 
 fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Result<()> {
