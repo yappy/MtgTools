@@ -122,6 +122,16 @@
 <a href="#122" id="122">122</a>
 <a href="#123" id="123">123</a>
 <a href="#124" id="124">124</a>
+<a href="#125" id="125">125</a>
+<a href="#126" id="126">126</a>
+<a href="#127" id="127">127</a>
+<a href="#128" id="128">128</a>
+<a href="#129" id="129">129</a>
+<a href="#130" id="130">130</a>
+<a href="#131" id="131">131</a>
+<a href="#132" id="132">132</a>
+<a href="#133" id="133">133</a>
+<a href="#134" id="134">134</a>
 </pre><pre class="rust"><code><span class="kw">use </span>std::{
     cmp::Ordering,
     fs::File,
@@ -166,6 +176,16 @@
     <span class="prelude-val">Ok</span>(cards)
 }
 
+<span class="doccomment">/// Return 1st-face name if multiple faced card
+</span><span class="kw">fn </span>convert_name(orig: <span class="kw-2">&amp;</span>str) -&gt; <span class="kw-2">&amp;</span>str {
+    <span class="kw">let </span>idx = orig.find(<span class="string">&quot; // &quot;</span>);
+    <span class="kw">if let </span><span class="prelude-val">Some</span>(idx) = idx {
+        <span class="kw-2">&amp;</span>orig[<span class="number">0</span>..idx]
+    }<span class="kw">else </span>{
+        orig
+    }
+}
+
 <span class="kw">fn </span>create_one(cards: <span class="kw-2">&amp;</span>Cards, set: <span class="kw-2">&amp;</span>api::Set, rarity: <span class="kw-2">&amp;</span>str, rname: <span class="kw-2">&amp;</span>str) -&gt; <span class="prelude-ty">Result</span>&lt;()&gt; {
     <span class="kw">let </span>cards = cards
         .iter()
@@ -194,7 +214,7 @@
             <span class="macro">writeln!</span>(
                 <span class="kw-2">&amp;mut </span>outfile,
                 <span class="string">&quot;4 {} ({}) {}&quot;</span>,
-                card.name,
+                convert_name(<span class="kw-2">&amp;</span>card.name),
                 set.code.to_ascii_uppercase(),
                 card.collector_number
             )<span class="question-mark">?</span>;

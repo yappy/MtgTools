@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":[["create_all",""],["create_one",""],["entry",""],["load_all_cards",""],["load_sets",""]],"type":[["Cards",""],["Sets",""]]};
+window.SIDEBAR_ITEMS = {"fn":[["convert_name","Return 1st-face name if multiple faced card"],["create_all",""],["create_one",""],["entry",""],["load_all_cards",""],["load_sets",""]],"type":[["Cards",""],["Sets",""]]};
