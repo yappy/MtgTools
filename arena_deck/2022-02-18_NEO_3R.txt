@@ -1,61 +1,194 @@
 Deck
-4 Mindlink Mech (NEO) 62
-4 Greasefang, Okiba Boss (NEO) 220
-4 Mukotai Soulripper (NEO) 113
-4 Light-Paws, Emperor's Voice (NEO) 25
-4 Spring-Leaf Avenger (NEO) 208
-4 Soul Transfer (NEO) 122
-4 March of Reckless Joy (NEO) 154
-4 Mirror Box (NEO) 250
-4 Thundering Raiju (NEO) 166
-4 Invoke Justice (NEO) 21
-4 Risona, Asari Commander (NEO) 233
-4 A-Raiyuu, Storm's Edge (NEO) A-232
-4 Weaver of Harmony (NEO) 213
-4 Farewell (NEO) 13
-4 Scrap Welder (NEO) 159
-4 Lion Sash (NEO) 26
-4 Invoke Calamity (NEO) 147
-4 Biting-Palm Ninja (NEO) 88
-4 Isshin, Two Heavens as One (NEO) 224
+4 Farewell (NEO) 436
+4 Boseiju, Who Endures (NEO) 412
+4 Thousand-Faced Shadow (NEO) 451
+4 Satsuki, the Living Lore (NEO) 235
+4 Greasefang, Okiba Boss (NEO) 485
 4 March of Wretched Sorrow (NEO) 111
-4 Invoke the Winds (NEO) 58
-4 The Reality Chip (NEO) 74
-4 Kami of Transience (NEO) 197
-4 Eiganjo, Seat of the Empire (NEO) 268
-4 Tribute to Horobi // Echo of Death's Wail (NEO) 124
-4 Invoke the Ancients (NEO) 193
-4 Raiyuu, Storm's Edge (NEO) 232
-4 Brilliant Restoration (NEO) 7
-4 Thousand-Faced Shadow (NEO) 86
-4 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
-4 Cloudsteel Kirin (NEO) 8
+4 Invoke Justice (NEO) 437
+4 A-Raiyuu, Storm's Edge (NEO) A-232
+4 The Restoration of Eiganjo // Architect of Restoration (NEO) 442
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 357
 4 March of Burgeoning Life (NEO) 201
-4 Takenuma, Abandoned Mire (NEO) 278
-4 Hinata, Dawn-Crowned (NEO) 222
-4 Tameshi, Reality Architect (NEO) 82
-4 Reckoner Bankbuster (NEO) 255
-4 Eater of Virtue (NEO) 245
-4 Ogre-Head Helm (NEO) 155
+4 March of Swirling Mist (NEO) 61
+4 Raiyuu, Storm's Edge (NEO) 329
+4 Invoke Calamity (NEO) 384
+4 Takenuma, Abandoned Mire (NEO) 505
+4 Scrap Welder (NEO) 159
+4 Mukotai Soulripper (NEO) 113
+4 Isshin, Two Heavens as One (NEO) 328
+4 Kami of Transience (NEO) 476
 4 Goro-Goro, Disciple of Ryusei (NEO) 145
+4 Soul Transfer (NEO) 122
+4 Spring-Leaf Avenger (NEO) 481
 4 Boseiju, Who Endures (NEO) 266
-4 Surgehacker Mech (NEO) 260
-4 Kotose, the Silent Spider (NEO) 228
+4 Boseiju, Who Endures (NEO) 501
 4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
 4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 181
-4 Sokenzan, Crucible of Defiance (NEO) 276
-4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 212
-4 Shigeki, Jukai Visionary (NEO) 206
-4 Hidetsugu, Devouring Chaos (NEO) 99
-4 Kyodai, Soul of Kamigawa (NEO) 23
-4 March of Swirling Mist (NEO) 61
-4 Satsuki, the Living Lore (NEO) 235
-4 Inventive Iteration // Living Breakthrough (NEO) 57
-4 Tatsunari, Toad Rider (NEO) 123
-4 Otawara, Soaring City (NEO) 271
-4 March of Otherworldly Light (NEO) 28
-4 Satoru Umezawa (NEO) 234
-4 Mechtitan Core (NEO) 249
-4 Lizard Blades (NEO) 153
-4 Invoke Despair (NEO) 101
+4 Tameshi, Reality Architect (NEO) 82
+4 Surgehacker Mech (NEO) 500
+4 Reckoner Bankbuster (NEO) 255
+4 Mindlink Mech (NEO) 62
+4 March of Otherworldly Light (NEO) 441
+4 Satoru Umezawa (NEO) 426
+4 Inventive Iteration // Living Breakthrough (NEO) 443
+4 Risona, Asari Commander (NEO) 330
+4 Mindlink Mech (NEO) 448
+4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 358
+4 Ogre-Head Helm (NEO) 470
+4 Weaver of Harmony (NEO) 483
+4 Biting-Palm Ninja (NEO) 88
+4 Invoke the Winds (NEO) 370
+4 Lion Sash (NEO) 368
+4 Reckoner Bankbuster (NEO) 404
+4 Kotose, the Silent Spider (NEO) 228
+4 Sokenzan, Crucible of Defiance (NEO) 415
+4 Eater of Virtue (NEO) 245
 4 Eiganjo Uprising (NEO) 217
+4 Invoke Despair (NEO) 455
+4 Invoke Despair (NEO) 101
+4 March of Burgeoning Life (NEO) 479
+4 Mindlink Mech (NEO) 373
+4 Raiyuu, Storm's Edge (NEO) 232
+4 Light-Paws, Emperor's Voice (NEO) 25
+4 Farewell (NEO) 417
+4 Hidetsugu, Devouring Chaos (NEO) 378
+4 Ogre-Head Helm (NEO) 155
+4 Invoke Justice (NEO) 21
+4 March of Swirling Mist (NEO) 447
+4 Surgehacker Mech (NEO) 260
+4 Tribute to Horobi // Echo of Death's Wail (NEO) 356
+4 Lion Sash (NEO) 26
+4 Hinata, Dawn-Crowned (NEO) 487
+4 March of Wretched Sorrow (NEO) 380
+================================================================================
+Deck
+4 Hinata, Dawn-Crowned (NEO) 398
+4 Hidetsugu, Devouring Chaos (NEO) 429
+4 Otawara, Soaring City (NEO) 271
+4 Takenuma, Abandoned Mire (NEO) 278
+4 Mirror Box (NEO) 403
+4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 212
+4 Mechtitan Core (NEO) 402
+4 Ogre-Head Helm (NEO) 387
+4 Risona, Asari Commander (NEO) 233
+4 Shigeki, Jukai Visionary (NEO) 206
+4 Tatsunari, Toad Rider (NEO) 461
+4 Mukotai Soulripper (NEO) 381
+4 Tribute to Horobi // Echo of Death's Wail (NEO) 124
+4 March of Otherworldly Light (NEO) 28
+4 Invoke the Ancients (NEO) 474
+4 Greasefang, Okiba Boss (NEO) 220
+4 The Restoration of Eiganjo // Architect of Restoration (NEO) 354
+4 Cloudsteel Kirin (NEO) 435
+4 Shigeki, Jukai Visionary (NEO) 394
+4 Invoke Despair (NEO) 379
+4 March of Swirling Mist (NEO) 372
+4 Satoru Umezawa (NEO) 493
+4 Risona, Asari Commander (NEO) 425
+4 Brilliant Restoration (NEO) 7
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 465
+4 Hidetsugu, Devouring Chaos (NEO) 99
+4 March of Wretched Sorrow (NEO) 457
+4 Kami of Transience (NEO) 391
+4 Spring-Leaf Avenger (NEO) 208
+4 Light-Paws, Emperor's Voice (NEO) 367
+4 Scrap Welder (NEO) 471
+4 Spring-Leaf Avenger (NEO) 349
+4 March of Reckless Joy (NEO) 154
+4 Hidetsugu, Devouring Chaos (NEO) 432
+4 Scrap Welder (NEO) 388
+4 Eiganjo Uprising (NEO) 396
+4 Takenuma, Abandoned Mire (NEO) 416
+4 Eiganjo, Seat of the Empire (NEO) 413
+4 Kami of Transience (NEO) 197
+4 Invoke the Winds (NEO) 444
+4 Weaver of Harmony (NEO) 395
+4 Satsuki, the Living Lore (NEO) 494
+4 Brilliant Restoration (NEO) 363
+4 Lion Sash (NEO) 440
+4 Goro-Goro, Disciple of Ryusei (NEO) 320
+4 Eater of Virtue (NEO) 496
+4 March of Reckless Joy (NEO) 469
+4 Satoru Umezawa (NEO) 234
+4 Thousand-Faced Shadow (NEO) 86
+4 Reckoner Bankbuster (NEO) 499
+4 Tameshi, Reality Architect (NEO) 375
+4 Hidetsugu, Devouring Chaos (NEO) 431
+4 Biting-Palm Ninja (NEO) 338
+4 Invoke the Ancients (NEO) 390
+4 Mechtitan Core (NEO) 497
+4 Greasefang, Okiba Boss (NEO) 397
+4 Kyodai, Soul of Kamigawa (NEO) 438
+4 The Reality Chip (NEO) 449
+4 Biting-Palm Ninja (NEO) 452
+4 Farewell (NEO) 365
+4 Invoke Calamity (NEO) 467
+4 Cloudsteel Kirin (NEO) 364
+================================================================================
+Deck
+4 Lizard Blades (NEO) 468
+4 Otawara, Soaring City (NEO) 414
+4 Isshin, Two Heavens as One (NEO) 224
+4 Satsuki, the Living Lore (NEO) 399
+4 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
+4 Cloudsteel Kirin (NEO) 8
+4 March of Otherworldly Light (NEO) 369
+4 Thousand-Faced Shadow (NEO) 337
+4 Lizard Blades (NEO) 153
+4 Tatsunari, Toad Rider (NEO) 345
+4 Sokenzan, Crucible of Defiance (NEO) 276
+4 Tatsunari, Toad Rider (NEO) 123
+4 Invoke the Winds (NEO) 58
+4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 482
+4 Eiganjo Uprising (NEO) 484
+4 Soul Transfer (NEO) 460
+4 Invoke the Ancients (NEO) 193
+4 Mirror Box (NEO) 498
+4 The Reality Chip (NEO) 374
+4 Shigeki, Jukai Visionary (NEO) 480
+4 Kotose, the Silent Spider (NEO) 351
+4 Hidetsugu, Devouring Chaos (NEO) 430
+4 Inventive Iteration // Living Breakthrough (NEO) 355
+4 Eiganjo, Seat of the Empire (NEO) 268
+4 Satoru Umezawa (NEO) 352
+4 Invoke Justice (NEO) 366
+4 Raiyuu, Storm's Edge (NEO) 491
+4 Mechtitan Core (NEO) 249
+4 Kyodai, Soul of Kamigawa (NEO) 23
+4 Thundering Raiju (NEO) 389
+4 Soul Transfer (NEO) 382
+4 Weaver of Harmony (NEO) 213
+4 Goro-Goro, Disciple of Ryusei (NEO) 466
+4 Thundering Raiju (NEO) 472
+4 Mirror Box (NEO) 250
+4 Brilliant Restoration (NEO) 434
+4 The Reality Chip (NEO) 74
+4 Tribute to Horobi // Echo of Death's Wail (NEO) 462
+4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 360
+4 Kotose, the Silent Spider (NEO) 490
+4 Otawara, Soaring City (NEO) 503
+4 Invoke Despair (NEO) 506
+4 Light-Paws, Emperor's Voice (NEO) 439
+4 Farewell (NEO) 13
+4 Kyodai, Soul of Kamigawa (NEO) 407
+4 Mukotai Soulripper (NEO) 458
+4 Hidetsugu, Devouring Chaos (NEO) 454
+4 Tameshi, Reality Architect (NEO) 450
+4 Inventive Iteration // Living Breakthrough (NEO) 57
+4 Thundering Raiju (NEO) 166
+4 Sokenzan, Crucible of Defiance (NEO) 504
+4 Eiganjo, Seat of the Empire (NEO) 502
+4 March of Reckless Joy (NEO) 386
+4 March of Burgeoning Life (NEO) 393
+4 Risona, Asari Commander (NEO) 492
+4 Surgehacker Mech (NEO) 405
+4 Lizard Blades (NEO) 385
+4 Eater of Virtue (NEO) 401
+4 Hinata, Dawn-Crowned (NEO) 222
+4 Isshin, Two Heavens as One (NEO) 488
+4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 473
+4 Satoru Umezawa (NEO) 507
+================================================================================
+Deck
+4 Invoke Calamity (NEO) 147

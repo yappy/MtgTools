@@ -1,19 +1,38 @@
 Deck
-4 Robber of the Rich (ELD) 138
-4 The Royal Scions (ELD) 199
-4 Oko, Thief of Crowns (ELD) 197
-4 The Great Henge (ELD) 161
-4 Outlaws' Merriment (ELD) 198
-4 The Magic Mirror (ELD) 51
-4 Korvold, Fae-Cursed King (ELD) 329
-4 The Cauldron of Eternity (ELD) 82
-4 Questing Beast (ELD) 171
-4 Rankle, Master of Pranks (ELD) 101
-4 Brazen Borrower // Petty Theft (ELD) 39
-4 Syr Gwyn, Hero of Ashvale (ELD) 330
 4 Rowan, Fearless Sparkmage (ELD) 304
+4 The Magic Mirror (ELD) 51
+4 Robber of the Rich (ELD) 138
+4 Oko, Thief of Crowns (ELD) 197
+4 The Circle of Loyalty (ELD) 336
+4 Outlaws' Merriment (ELD) 382
+4 Questing Beast (ELD) 372
 4 Kenrith, the Returned King (ELD) 303
-4 Garruk, Cursed Huntsman (ELD) 191
-4 Chulane, Teller of Tales (ELD) 326
-4 Harmonious Archon (ELD) 17
+4 Outlaws' Merriment (ELD) 198
+4 Harmonious Archon (ELD) 338
+4 Robber of the Rich (ELD) 365
+4 The Royal Scions (ELD) 199
+4 Alela, Artful Provocateur (ELD) 324
+4 The Circle of Loyalty (ELD) 9
+4 Realm-Cloaked Giant // Cast Off (ELD) 277
 4 Oko, the Trickster (ELD) 309
+4 Chulane, Teller of Tales (ELD) 326
+4 Korvold, Fae-Cursed King (ELD) 329
+4 Embercleave (ELD) 359
+4 Rankle, Master of Pranks (ELD) 101
+4 Oko, Thief of Crowns (ELD) 271
+4 Realm-Cloaked Giant // Cast Off (ELD) 26
+4 Syr Gwyn, Hero of Ashvale (ELD) 330
+4 Embercleave (ELD) 120
+4 The Cauldron of Eternity (ELD) 352
+4 Garruk, Cursed Huntsman (ELD) 191
+4 The Great Henge (ELD) 161
+4 The Royal Scions (ELD) 272
+4 Brazen Borrower // Petty Theft (ELD) 39
+4 Harmonious Archon (ELD) 17
+4 Brazen Borrower // Petty Theft (ELD) 281
+4 Questing Beast (ELD) 171
+4 Garruk, Cursed Huntsman (ELD) 270
+4 The Cauldron of Eternity (ELD) 82
+4 The Magic Mirror (ELD) 345
+4 Rankle, Master of Pranks (ELD) 356
+4 The Great Henge (ELD) 370

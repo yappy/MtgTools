@@ -1,66 +1,137 @@
 Deck
-4 Bloodline Culling (MID) 89
-4 Graveyard Trespasser // Graveyard Glutton (MID) 104
-4 Burn Down the House (MID) 131
-4 Croaking Counterpart (MID) 215
-4 Geistflame Reservoir (MID) 142
-4 Tovolar's Huntmaster // Tovolar's Packleader (MID) 204
-4 Rockfall Vale (MID) 266
-4 Old Stickfingers (MID) 234
-4 Brutal Cathar // Moonrage Brute (MID) 7
-4 Patrician Geist (MID) 69
-4 Rem Karolus, Stalwart Slayer (MID) 235
-4 Curse of Shaken Faith (MID) 134
-4 Angelfire Ignition (MID) 209
-4 Hallowed Respite (MID) 227
-4 Fateful Absence (MID) 18
-4 Curse of Silence (MID) 15
-4 Adeline, Resplendent Cathar (MID) 1
-4 Sungold Sentinel (MID) 37
+4 Bloodline Culling (MID) 343
+4 Vanquish the Horde (MID) 333
+4 Shipwreck Marsh (MID) 285
 4 Curse of Leeches // Leeching Lurker (MID) 94
-4 Dennick, Pious Apprentice // Dennick, Pious Apparition (MID) 217
-4 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (MID) 246
-4 Light Up the Night (MID) 146
-4 Falkenrath Pit Fighter (MID) 137
-4 Saryth, the Viper's Fang (MID) 197
-4 Curse of Surveillance (MID) 46
-4 Malevolent Hermit // Benevolent Geist (MID) 61
+4 Grafted Identity (MID) 57†
+4 Brutal Cathar // Moonrage Brute (MID) 7
+4 Hallowed Respite (MID) 373
 4 Dire-Strain Rampage (MID) 219
-4 Storm the Festival (MID) 200
-4 Shipwreck Marsh (MID) 267
-4 Can't Stay Away (MID) 213
-4 Katilda, Dawnhart Prime (MID) 230
-4 Overgrown Farmland (MID) 265
-4 Sigarda's Splendor (MID) 33
-4 Unnatural Growth (MID) 206
-4 Smoldering Egg // Ashmouth Dragon (MID) 159
-4 Wake to Slaughter (MID) 250
+4 Light Up the Night (MID) 356
+4 Mask of Griselbrand (MID) 347
+4 Adeline, Resplendent Cathar (MID) 1
+4 Dire-Strain Rampage (MID) 370
+4 Champion of the Perished (MID) 344
 4 Willow Geist (MID) 207
-4 Briarbridge Tracker (MID) 172
-4 Augur of Autumn (MID) 168
-4 Vanquish the Horde (MID) 41
-4 Vadrik, Astral Archmage (MID) 248
-4 Slaughter Specialist (MID) 122
-4 Siphon Insight (MID) 241
-4 Rite of Harmony (MID) 236
-4 Mask of Griselbrand (MID) 111
-4 Ghoulcaller's Harvest (MID) 225
-4 The Celestus (MID) 252
-4 Galvanic Iteration (MID) 224
-4 Slogurk, the Overslime (MID) 242
-4 Florian, Voldaren Scion (MID) 223
-4 A-Patrician Geist (MID) A-69
-4 Suspicious Stowaway // Seafaring Werewolf (MID) 80
-4 Haunted Ridge (MID) 263
+4 Triskaidekaphile (MID) 342
+4 Burn Down the House (MID) 131
+4 Pithing Needle (MID) 378
 4 Grafted Identity (MID) 57
-4 Memory Deluge (MID) 62
-4 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
-4 Triskaidekaphile (MID) 81
-4 Liesa, Forgotten Archangel (MID) 232
+4 Fateful Absence (MID) 328
+4 Storm the Festival (MID) 364
+4 Patrician Geist (MID) 338
+4 Sungold Sentinel (MID) 332
+4 Adeline, Resplendent Cathar (MID) 312
+4 Dennick, Pious Apprentice // Dennick, Pious Apparition (MID) 217
+4 Curse of Shaken Faith (MID) 134
 4 Deserted Beach (MID) 260
+4 Ludevic, Necrogenius // Olag, Ludevic's Hubris (MID) 320
+4 The Celestus (MID) 252
+4 Tovolar's Huntmaster // Tovolar's Packleader (MID) 204
+4 Saryth, the Viper's Fang (MID) 304
+4 Rockfall Vale (MID) 284
+4 Can't Stay Away (MID) 213
+4 Katilda, Dawnhart Prime (MID) 309
+4 Briarbridge Tracker (MID) 361
+4 Graveyard Trespasser // Graveyard Glutton (MID) 290
+4 Smoldering Egg // Ashmouth Dragon (MID) 159
+4 Vadrik, Astral Archmage (MID) 248
+4 Geistflame Reservoir (MID) 142
+4 The Celestus (MID) 377
+4 Florian, Voldaren Scion (MID) 223
+4 Liesa, Forgotten Archangel (MID) 232
+4 Pithing Needle (MID) 257
+4 Sigarda's Splendor (MID) 330
+4 Croaking Counterpart (MID) 369
+4 Sludge Monster (MID) 76
+4 Geistflame Reservoir (MID) 355
+4 Unnatural Growth (MID) 365
 4 Gisa, Glorious Resurrector (MID) 103
-4 Champion of the Perished (MID) 91
+4 Katilda, Dawnhart Prime (MID) 230
+4 Unnatural Growth (MID) 206
+4 Triskaidekaphile (MID) 81
+4 Sludge Monster (MID) 340
+4 Ghoulcaller's Harvest (MID) 225
+4 Augur of Autumn (MID) 168
+4 Grafted Identity (MID) 335
+4 Curse of Silence (MID) 326
+4 Angelfire Ignition (MID) 367
+4 Gisa, Glorious Resurrector (MID) 314
+4 Florian, Voldaren Scion (MID) 318
+4 Shipwreck Marsh (MID) 267
+4 Suspicious Stowaway // Seafaring Werewolf (MID) 288
 4 Ludevic, Necrogenius // Olag, Ludevic's Hubris (MID) 233
 ================================================================================
 Deck
+4 Malevolent Hermit // Benevolent Geist (MID) 336
+4 Light Up the Night (MID) 146
+4 Wake to Slaughter (MID) 250
+4 Champion of the Perished (MID) 385
+4 Mask of Griselbrand (MID) 111
+4 Overgrown Farmland (MID) 265
+4 Augur of Autumn (MID) 360
+4 Tovolar's Huntmaster // Tovolar's Packleader (MID) 306
+4 Curse of Surveillance (MID) 334
+4 Angelfire Ignition (MID) 209
+4 Champion of the Perished (MID) 91
+4 Slaughter Specialist (MID) 349
+4 Haunted Ridge (MID) 282
+4 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (MID) 311
+4 Liesa, Forgotten Archangel (MID) 319
+4 Croaking Counterpart (MID) 215
+4 Curse of Silence (MID) 15
+4 A-Patrician Geist (MID) A-69
+4 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
+4 Brutal Cathar // Moonrage Brute (MID) 286
+4 Overgrown Farmland (MID) 283
+4 Galvanic Iteration (MID) 224
+4 Falkenrath Pit Fighter (MID) 137
+4 Suspicious Stowaway // Seafaring Werewolf (MID) 80
+4 Haunted Ridge (MID) 263
+4 Old Stickfingers (MID) 234
+4 Slogurk, the Overslime (MID) 324
+4 Rem Karolus, Stalwart Slayer (MID) 235
+4 Smoldering Egg // Ashmouth Dragon (MID) 358
+4 Storm the Festival (MID) 200
+4 Triskaidekaphile (MID) 386
+4 Sigarda's Splendor (MID) 33
+4 Saryth, the Viper's Fang (MID) 197
+4 Galvanic Iteration (MID) 371
+4 Ghoulcaller's Harvest (MID) 372
+4 Deserted Beach (MID) 281
+4 Curse of Leeches // Leeching Lurker (MID) 345
+4 Rite of Harmony (MID) 374
+4 Reckless Stormseeker // Storm-Charged Slasher (MID) 294
+4 Siphon Insight (MID) 375
+4 Memory Deluge (MID) 337
+4 Slaughter Specialist (MID) 122
+4 Siphon Insight (MID) 241
+4 Old Stickfingers (MID) 321
+4 Curse of Shaken Faith (MID) 353
+4 Curse of Surveillance (MID) 46
+4 Willow Geist (MID) 366
+4 Burn Down the House (MID) 352
+4 Graveyard Trespasser // Graveyard Glutton (MID) 104
+4 Memory Deluge (MID) 62
+4 Falkenrath Pit Fighter (MID) 354
+4 Patrician Geist (MID) 69
+4 Briarbridge Tracker (MID) 172
+4 Vanquish the Horde (MID) 41
+4 Rem Karolus, Stalwart Slayer (MID) 322
+4 Wake to Slaughter (MID) 376
+4 Malevolent Hermit // Benevolent Geist (MID) 61
+4 Sungold Sentinel (MID) 37
+4 Rockfall Vale (MID) 266
+4 Rite of Harmony (MID) 236
+4 Fateful Absence (MID) 18
+4 Dennick, Pious Apprentice // Dennick, Pious Apparition (MID) 317
+================================================================================
+Deck
+4 Can't Stay Away (MID) 368
+4 Hallowed Respite (MID) 227
+4 Jadar, Ghoulcaller of Nephalia (MID) 315
+4 Vadrik, Astral Archmage (MID) 325
+4 Slogurk, the Overslime (MID) 242
+4 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (MID) 246
+4 Bloodline Culling (MID) 89
 4 Jadar, Ghoulcaller of Nephalia (MID) 108

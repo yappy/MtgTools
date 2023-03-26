@@ -1,54 +1,68 @@
 Deck
-4 Kopala, Warden of Waves (XLN) 61
-4 Glacial Fortress (XLN) 255
-4 Bishop of Rebirth (XLN) 5
-4 Regisaur Alpha (XLN) 227
-4 Treasure Map // Treasure Cove (XLN) 250
-4 Sun-Blessed Mount (XLN) 288
-4 Shapers' Sanctuary (XLN) 206
-4 Deathgorge Scavenger (XLN) 184
-4 Mavren Fein, Dusk Apostle (XLN) 24
-4 Arcane Adaptation (XLN) 46
-4 Tilonalli's Skinshifter (XLN) 170
-4 Burning Sun's Avatar (XLN) 135
-4 Deadeye Tracker (XLN) 99
-4 Settle the Wreckage (XLN) 34
-4 Angrath's Marauders (XLN) 132
-4 Goring Ceratops (XLN) 13
-4 Herald of Secret Streams (XLN) 59
-4 Vraska's Contempt (XLN) 129
-4 Rampaging Ferocidon (XLN) 154
-4 Sunpetal Grove (XLN) 257
-4 Emperor's Vanguard (XLN) 189
-4 Deeproot Champion (XLN) 185
-4 Fleet Swallower (XLN) 57
-4 Vance's Blasting Cannons // Spitfire Bastion (XLN) 173
-4 Shadowed Caravel (XLN) 246
-4 Fathom Fleet Captain (XLN) 106
-4 Bloodcrazed Paladin (XLN) 93
-4 Drowned Catacomb (XLN) 253
-4 Spell Swindle (XLN) 82
-4 Sanguine Sacrament (XLN) 33
 4 Conqueror's Galleon // Conqueror's Foothold (XLN) 234
-4 Vanquisher's Banner (XLN) 251
-4 Primal Amulet // Primal Wellspring (XLN) 243
+4 Priest of the Wakening Sun (XLN) 27
+4 Legion's Landing // Adanto, the First Fort (XLN) 22
+4 Old-Growth Dryads (XLN) 199
+4 Sunpetal Grove (XLN) 257
+4 Burning Sun's Avatar (XLN) 135
+4 Entrancing Melody (XLN) 55
+4 Herald of Secret Streams (XLN) 59
+4 Search for Azcanta // Azcanta, the Sunken Ruin (XLN) 74
+4 Sunbird's Invocation (XLN) 165
+4 Sword-Point Diplomacy (XLN) 126
+4 Fell Flagship (XLN) 238
+4 Kinjalli's Sunwing (XLN) 19
+4 Kopala, Warden of Waves (XLN) 61
+4 Fathom Fleet Captain (XLN) 106
+4 Thaumatic Compass // Spires of Orazca (XLN) 249
+4 Rampaging Ferocidon (XLN) 154
+4 Bishop of Rebirth (XLN) 5
+4 Bloodcrazed Paladin (XLN) 93
+4 Ruin Raider (XLN) 118
+4 Ashes of the Abhorrent (XLN) 2
+4 Dowsing Dagger // Lost Vale (XLN) 235
 4 Dreamcaller Siren (XLN) 54
+4 Daring Saboteur (XLN) 49
+4 Captain Lannery Storm (XLN) 136
+4 Vanquisher's Banner (XLN) 251
+4 Spell Swindle (XLN) 82
+4 Sun-Blessed Mount (XLN) 288
+4 Sanctum Seeker (XLN) 120
+4 Revel in Riches (XLN) 117
+4 Ripjaw Raptor (XLN) 203
+4 Waker of the Wilds (XLN) 215
+4 Fleet Swallower (XLN) 57
+4 Goring Ceratops (XLN) 13
+4 Deadeye Tracker (XLN) 99
+4 Sorcerous Spyglass (XLN) 248
+4 Drowned Catacomb (XLN) 253
+4 Dragonskull Summit (XLN) 252
+4 Shapers' Sanctuary (XLN) 206
+4 Settle the Wreckage (XLN) 34
+4 Verdant Sun's Avatar (XLN) 213
+4 Vance's Blasting Cannons // Spitfire Bastion (XLN) 173
+4 Deathgorge Scavenger (XLN) 184
+4 Tocatli Honor Guard (XLN) 42
+4 Tilonalli's Skinshifter (XLN) 170
+4 Shadowed Caravel (XLN) 246
+4 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191
 4 Rootbound Crag (XLN) 256
 4 Repeating Barrage (XLN) 156
-4 Grasping Current (XLN) 282
-4 Ashes of the Abhorrent (XLN) 2
-4 Old-Growth Dryads (XLN) 199
-4 Sword-Point Diplomacy (XLN) 126
-4 Tocatli Honor Guard (XLN) 42
-4 Kinjalli's Sunwing (XLN) 19
+4 Vraska's Contempt (XLN) 129
+4 Arcane Adaptation (XLN) 46
+4 Treasure Map // Treasure Cove (XLN) 250
 4 Arguel's Blood Fast // Temple of Aclazotz (XLN) 90
-4 Priest of the Wakening Sun (XLN) 27
-4 Revel in Riches (XLN) 117
-4 Ruin Raider (XLN) 118
-4 Dowsing Dagger // Lost Vale (XLN) 235
-4 Fell Flagship (XLN) 238
-4 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191
-4 Search for Azcanta // Azcanta, the Sunken Ruin (XLN) 74
-4 Legion's Landing // Adanto, the First Fort (XLN) 22
-4 Thaumatic Compass // Spires of Orazca (XLN) 249
-4 Entrancing Melody (XLN) 55
+4 Captivating Crew (XLN) 137
+4 Glacial Fortress (XLN) 255
+4 Primal Amulet // Primal Wellspring (XLN) 243
+4 Regisaur Alpha (XLN) 227
+4 Grasping Current (XLN) 282
+4 Hostage Taker (XLN) 223
+4 Deeproot Champion (XLN) 185
+4 Angrath's Marauders (XLN) 132
+4 Emperor's Vanguard (XLN) 189
+================================================================================
+Deck
+4 Mavren Fein, Dusk Apostle (XLN) 24
+4 Sanguine Sacrament (XLN) 33
+4 River's Rebuke (XLN) 71

@@ -1,14 +1,16 @@
 Deck
-4 Trapjaw Tyrant (RIX) 29
-4 Angrath, the Flame-Chained (RIX) 152
-4 Zacama, Primal Calamity (RIX) 174
-4 Angrath, Minotaur Pirate (RIX) 201
-4 The Immortal Sun (RIX) 180
-4 Huatli, Radiant Champion (RIX) 159
-4 Vraska, Scheming Gorgon (RIX) 197
-4 Azor, the Lawbringer (RIX) 154
-4 Twilight Prophet (RIX) 88
-4 Azor's Gateway // Sanctum of the Sun (RIX) 176
 4 Timestream Navigator (RIX) 59
-4 Polyraptor (RIX) 144
+4 Azor's Gateway // Sanctum of the Sun (RIX) 176
+4 Azor, the Lawbringer (RIX) 154
+4 Huatli, Radiant Champion (RIX) 159
+4 Zacama, Primal Calamity (RIX) 174
+4 Vraska, Scheming Gorgon (RIX) 197
+4 Twilight Prophet (RIX) 88
 4 Kumena, Tyrant of Orazca (RIX) 162
+4 Angrath, the Flame-Chained (RIX) 152
+4 Elenda, the Dusk Rose (RIX) 157
+4 The Immortal Sun (RIX) 180
+4 Trapjaw Tyrant (RIX) 29
+4 Rekindling Phoenix (RIX) 111
+4 Angrath, Minotaur Pirate (RIX) 201
+4 Polyraptor (RIX) 144

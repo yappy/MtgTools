@@ -1,94 +1,138 @@
 Deck
-4 Flycatcher Giraffid (IKO) 153
-4 Bushmeat Poacher (IKO) 77
-4 Checkpoint Officer (IKO) 5
-4 Nightsquad Commando (IKO) 98
-4 Spontaneous Flight (IKO) 33
-4 Rumbling Rockslide (IKO) 134
-4 Go for Blood (IKO) 122
-4 Vulpikeet (IKO) 37
-4 Drannith Healer (IKO) 10
-4 Glimmerbell (IKO) 53
-4 Dreamtail Heron (IKO) 47
-4 Sleeper Dart (IKO) 240
-4 Savai Sabertooth (IKO) 29
-4 Patagia Tiger (IKO) 26
-4 Memory Leak (IKO) 95
-4 Mosscoat Goriak (IKO) 167
-4 Dark Bargain (IKO) 82
-4 Blazing Volley (IKO) 107
-4 Springjaw Trap (IKO) 241
-4 Honey Mammoth (IKO) 158
-4 Daysquad Marshal (IKO) 8
-4 Ferocious Tigorilla (IKO) 115
-4 Ram Through (IKO) 170
-4 Migratory Greathorn (IKO) 165
 4 Lava Serpent (IKO) 124
-4 Hampering Snare (IKO) 55
-4 Heightened Reflexes (IKO) 123
-4 Keep Safe (IKO) 56
-4 Thwart the Enemy (IKO) 173
-4 Of One Mind (IKO) 60
-4 Light of Hope (IKO) 20
-4 Sudden Spinnerets (IKO) 171
-4 Adventurous Impulse (IKO) 142
-4 Frostveil Ambush (IKO) 52
+4 Jungle Hollow (IKO) 249
+4 Vulpikeet (IKO) 282
+4 Vulpikeet (IKO) 37
 4 Thieving Otter (IKO) 69
-4 Frenzied Raptor (IKO) 120
+4 Solid Footing (IKO) 31
+4 Whisper Squad (IKO) 105
+4 Fully Grown (IKO) 154
+4 Island (IKO) 264
+4 Bloodfell Caves (IKO) 243
+4 Wingfold Pteron (IKO) 71
 4 Coordinated Charge (IKO) 6
-4 Excavation Mole (IKO) 150
+4 Plains (IKO) 260
+4 Daysquad Marshal (IKO) 8
+4 Flycatcher Giraffid (IKO) 153
+4 Migratory Greathorn (IKO) 297
+4 Scoured Barrens (IKO) 254
 4 Perimeter Sergeant (IKO) 27
-4 Blitz Leech (IKO) 74
-4 Wilt (IKO) 176
-4 Unlikely Aid (IKO) 103
-4 Facet Reader (IKO) 50
-4 Gust of Wind (IKO) 54
-4 Farfinder (IKO) 2
-4 Adaptive Shimmerer (IKO) 1
-4 Suffocating Fumes (IKO) 100
-4 Startling Development (IKO) 68
+4 Dreamtail Heron (IKO) 284
+4 Adventurous Impulse (IKO) 142
+4 Sleeper Dart (IKO) 240
+4 Crystacean (IKO) 46
+4 Blade Banish (IKO) 4
+4 Tranquil Cove (IKO) 257
+4 Sudden Spinnerets (IKO) 171
+4 Springjaw Trap (IKO) 241
+4 Excavation Mole (IKO) 150
+4 Blazing Volley (IKO) 107
+4 Memory Leak (IKO) 95
+4 Capture Sphere (IKO) 44
+4 Cloudpiercer (IKO) 291
+4 Spontaneous Flight (IKO) 33
+4 Cloudpiercer (IKO) 112
+4 Gloom Pangolin (IKO) 89
+4 Convolute (IKO) 45
 4 Blood Curdle (IKO) 75
-4 Helica Glider (IKO) 15
-4 Frost Lynx (IKO) 51
-4 Essence Symbiote (IKO) 149
-4 Imposing Vantasaur (IKO) 17
-4 Prickly Marmoset (IKO) 129
-4 Spelleater Wolverine (IKO) 137
-4 Durable Coilbug (IKO) 85
+4 Lurking Deadeye (IKO) 94
+4 Cathartic Reunion (IKO) 110
+4 Swamp (IKO) 268
 4 Anticipate (IKO) 40
-4 Serrated Scorpion (IKO) 99
+4 Pacifism (IKO) 25
+4 Checkpoint Officer (IKO) 5
+4 Island (IKO) 263
+4 Fire Prophecy (IKO) 116
+4 Blisterspit Gremlin (IKO) 108
+4 Heightened Reflexes (IKO) 123
+4 Survivors' Bond (IKO) 172
+4 Farfinder (IKO) 2
+4 Glimmerbell (IKO) 53
+4 Wilt (IKO) 176
+4 Ferocious Tigorilla (IKO) 115
 4 Maned Serval (IKO) 23
-4 Mutual Destruction (IKO) 96
-4 Dead Weight (IKO) 83
+4 Divine Arrow (IKO) 9
+4 Tentative Connection (IKO) 138
+4 Snare Tactician (IKO) 30
+4 Essence Scatter (IKO) 49
+4 Hampering Snare (IKO) 55
+4 Frenzied Raptor (IKO) 120
+4 Drannith Stinger (IKO) 113
 4 Cavern Whisperer (IKO) 79
+4 Suffocating Fumes (IKO) 100
+4 Go for Blood (IKO) 122
 ================================================================================
 Deck
-4 Pyroceratops (IKO) 130
-4 Fire Prophecy (IKO) 116
-4 Phase Dolphin (IKO) 62
-4 Crystacean (IKO) 46
-4 Gloom Pangolin (IKO) 89
+4 Migratory Greathorn (IKO) 165
+4 Swamp (IKO) 266
 4 Raking Claws (IKO) 131
-4 Fully Grown (IKO) 154
-4 Convolute (IKO) 45
-4 Blisterspit Gremlin (IKO) 108
-4 Lurking Deadeye (IKO) 94
-4 Greater Sandwurm (IKO) 157
-4 Mysterious Egg (IKO) 3
-4 Forbidden Friendship (IKO) 119
-4 Tentative Connection (IKO) 138
-4 Blade Banish (IKO) 4
+4 Dark Bargain (IKO) 82
+4 Swiftwater Cliffs (IKO) 255
 4 Almighty Brushwagg (IKO) 143
-4 Unexpected Fangs (IKO) 102
-4 Boot Nipper (IKO) 76
-4 Whisper Squad (IKO) 105
-4 Garrison Cat (IKO) 14
+4 Blitz Leech (IKO) 74
+4 Nightsquad Commando (IKO) 98
+4 Blossoming Sands (IKO) 244
+4 Honey Mammoth (IKO) 158
+4 Mutual Destruction (IKO) 96
+4 Wind-Scarred Crag (IKO) 258
+4 Phase Dolphin (IKO) 62
+4 Plains (IKO) 262
 4 Shredded Sails (IKO) 136
-4 Cloudpiercer (IKO) 112
-4 Solid Footing (IKO) 31
-4 Drannith Stinger (IKO) 113
-4 Snare Tactician (IKO) 30
-4 Bristling Boar (IKO) 146
-4 Wingfold Pteron (IKO) 71
+4 Thornwood Falls (IKO) 256
+4 Essence Symbiote (IKO) 149
+4 Evolving Wilds (IKO) 247
 4 Humble Naturalist (IKO) 160
-4 Survivors' Bond (IKO) 172
+4 Helica Glider (IKO) 15
+4 Rumbling Rockslide (IKO) 134
+4 Rugged Highlands (IKO) 252
+4 Forest (IKO) 272
+4 Fertilid (IKO) 152
+4 Dismal Backwater (IKO) 246
+4 Durable Coilbug (IKO) 85
+4 Startling Development (IKO) 68
+4 Corpse Churn (IKO) 81
+4 Spelleater Wolverine (IKO) 137
+4 Thwart the Enemy (IKO) 173
+4 Unexpected Fangs (IKO) 102
+4 Ram Through (IKO) 170
+4 Forbidden Friendship (IKO) 367
+4 Mountain (IKO) 269
+4 Facet Reader (IKO) 50
+4 Imposing Vantasaur (IKO) 17
+4 Unlikely Aid (IKO) 103
+4 Prickly Marmoset (IKO) 129
+4 Serrated Scorpion (IKO) 99
+4 Light of Hope (IKO) 20
+4 Island (IKO) 265
+4 Patagia Tiger (IKO) 26
+4 Mosscoat Goriak (IKO) 167
+4 Bristling Boar (IKO) 146
+4 Of One Mind (IKO) 60
+4 Dreamtail Heron (IKO) 47
+4 Bushmeat Poacher (IKO) 77
+4 Mysterious Egg (IKO) 3
+4 Boot Nipper (IKO) 76
+4 Savai Sabertooth (IKO) 29
+4 Plummet (IKO) 169
+4 Adaptive Shimmerer (IKO) 1
+4 Greater Sandwurm (IKO) 157
+4 Frostveil Ambush (IKO) 52
+4 Frost Lynx (IKO) 51
+4 Swamp (IKO) 267
+4 Aegis Turtle (IKO) 39
+4 Mountain (IKO) 271
+4 Forbidden Friendship (IKO) 119
+4 Garrison Cat (IKO) 14
+4 Plains (IKO) 261
+4 Mountain (IKO) 270
+================================================================================
+Deck
+4 Forest (IKO) 273
+4 Dead Weight (IKO) 83
+4 Mysterious Egg (IKO) 385
+4 Pyroceratops (IKO) 130
+4 Forest (IKO) 274
+4 Gust of Wind (IKO) 54
+4 Keep Safe (IKO) 56
+4 Cavern Whisperer (IKO) 287
+4 Drannith Healer (IKO) 10

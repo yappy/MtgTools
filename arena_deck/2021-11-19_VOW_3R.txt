@@ -1,68 +1,147 @@
 Deck
-4 Voice of the Blessed (VOW) 44
-4 Lantern Flare (VOW) 23
-4 Geralf, Visionary Stitcher (VOW) 61
-4 Curse of Hospitality (VOW) 152
-4 Splendid Reclamation (VOW) 221
-4 Dominating Vampire (VOW) 154
-4 Anje, Maid of Dishonor (VOW) 231
-4 Investigator's Journal (VOW) 258
-4 Consuming Tide (VOW) 53
-4 Wedding Announcement // Wedding Festivity (VOW) 45
-4 A-Hullbreaker Horror (VOW) A-63
-4 Alchemist's Gambit (VOW) 140
-4 Dying to Serve (VOW) 109
-4 Torens, Fist of the Angels (VOW) 249
-4 Dorothea, Vengeful Victim // Dorothea's Retribution (VOW) 235
-4 Hopeful Initiate (VOW) 20
-4 Winged Portent (VOW) 89
-4 Stormcarved Coast (VOW) 265
-4 Katilda, Dawnhart Martyr // Katilda's Rising Dawn (VOW) 21
-4 Grolnok, the Omnivore (VOW) 238
-4 Mirrorhall Mimic // Ghastly Mimicry (VOW) 68
-4 Sundown Pass (VOW) 266
-4 A-Dreamshackle Geist (VOW) A-58
-4 Inspired Idea (VOW) 64
-4 Welcoming Vampire (VOW) 46
-4 Odric, Blood-Cursed (VOW) 243
-4 Olivia's Attendants (VOW) 172
-4 Ill-Tempered Loner // Howlpack Avenger (VOW) 162
-4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 246
-4 Bloodvial Purveyor (VOW) 98
-4 Dollhouse of Horrors (VOW) 255
-4 Patchwork Crawler (VOW) 72
-4 Creepy Puppeteer (VOW) 151
-4 Ascendant Packleader (VOW) 186
-4 Sigarda's Summons (VOW) 36
-4 Glorious Sunrise (VOW) 200
+4 Path of Peril (VOW) 373
+4 Sigarda's Summons (VOW) 404
+4 Dig Up (VOW) 387
+4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 338
+4 Grolnok, the Omnivore (VOW) 324
 4 Graf Reaver (VOW) 115
-4 Old Rutstein (VOW) 244
-4 Ulvenwald Oddity // Ulvenwald Behemoth (VOW) 225
-4 Change of Fortune (VOW) 150
-4 Falkenrath Forebear (VOW) 111
-4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 236
-4 Thalia, Guardian of Thraben (VOW) 38
-4 A-Dorothea, Vengeful Victim // A-Dorothea's Retribution (VOW) A-235
-4 Eruth, Tormented Prophet (VOW) 237
-4 Concealing Curtains // Revealing Eye (VOW) 101
-4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 137
-4 Howling Moon (VOW) 204
-4 Stensia Uprising (VOW) 178
-4 Dreadfeast Demon (VOW) 108
-4 Dreamshackle Geist (VOW) 58
-4 Demonic Bargain (VOW) 103
-4 Dig Up (VOW) 197
-4 Halana and Alena, Partners (VOW) 239
-4 Hiveheart Shaman (VOW) 202
-4 Shattered Sanctum (VOW) 264
-4 Howlpack Piper // Wildsong Howler (VOW) 205
-4 Path of Peril (VOW) 124
-4 Headless Rider (VOW) 118
-4 By Invitation Only (VOW) 5
+4 Splendid Reclamation (VOW) 393
+4 Creepy Puppeteer (VOW) 151
+4 Katilda, Dawnhart Martyr // Katilda's Rising Dawn (VOW) 21
+4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 341
+4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 316
+4 Ascendant Packleader (VOW) 186
+4 Torens, Fist of the Angels (VOW) 344
+4 Hopeful Initiate (VOW) 350
+4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 327
 4 Kessig Wolfrider (VOW) 165
-4 Dreamroot Cascade (VOW) 262
+4 Thalia, Guardian of Thraben (VOW) 331
+4 Ascendant Packleader (VOW) 383
+4 Dreamshackle Geist (VOW) 58
+4 Anje, Maid of Dishonor (VOW) 231
+4 Investigator's Journal (VOW) 396
+4 Dominating Vampire (VOW) 305
+4 Voldaren Estate (VOW) 267
+4 Olivia's Attendants (VOW) 307
+4 Concealing Curtains // Revealing Eye (VOW) 367
+4 Dreadfeast Demon (VOW) 108
+4 Dreamroot Cascade (VOW) 282
+4 Stormcarved Coast (VOW) 265
+4 Hiveheart Shaman (VOW) 390
+4 Wedding Announcement // Wedding Festivity (VOW) 45
+4 Hullbreaker Horror (VOW) 359
+4 Inspired Idea (VOW) 64
+4 Change of Fortune (VOW) 375
+4 Hiveheart Shaman (VOW) 202
+4 Winged Portent (VOW) 89
+4 Dollhouse of Horrors (VOW) 255
+4 Stormcarved Coast (VOW) 284
+4 Voldaren Estate (VOW) 403
+4 Falkenrath Forebear (VOW) 111
+4 Curse of Hospitality (VOW) 152
+4 Dreadfeast Demon (VOW) 369
+4 By Invitation Only (VOW) 5
+4 Bloodvial Purveyor (VOW) 98
+4 Falkenrath Forebear (VOW) 334
+4 Ill-Tempered Loner // Howlpack Avenger (VOW) 378
+4 Patchwork Crawler (VOW) 364
+4 Falkenrath Forebear (VOW) 291
+4 Dominating Vampire (VOW) 407
+4 Dominating Vampire (VOW) 154
+4 Hullbreaker Horror (VOW) 63
+4 Geralf, Visionary Stitcher (VOW) 319
+4 Dollhouse of Horrors (VOW) 395
+4 Headless Rider (VOW) 372
+4 Curse of Hospitality (VOW) 377
+4 Consuming Tide (VOW) 53
+4 Eruth, Tormented Prophet (VOW) 342
+4 Sundown Pass (VOW) 285
+4 Overcharged Amalgam (VOW) 363
+4 Ulvenwald Oddity // Ulvenwald Behemoth (VOW) 225
+4 Halana and Alena, Partners (VOW) 239
+4 Concealing Curtains // Revealing Eye (VOW) 101
+4 Deathcap Glade (VOW) 281
 ================================================================================
 Deck
+4 Old Rutstein (VOW) 244
+4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 236
+4 Change of Fortune (VOW) 150
+4 A-Dreamshackle Geist (VOW) A-58
+4 Geralf, Visionary Stitcher (VOW) 61
+4 Patchwork Crawler (VOW) 72
+4 Inspired Idea (VOW) 360
+4 Grolnok, the Omnivore (VOW) 238
+4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 311
+4 Odric, Blood-Cursed (VOW) 314
+4 Demonic Bargain (VOW) 103
+4 Odric, Blood-Cursed (VOW) 243
+4 Mirrorhall Mimic // Ghastly Mimicry (VOW) 68
+4 Stensia Uprising (VOW) 381
+4 Katilda, Dawnhart Martyr // Katilda's Rising Dawn (VOW) 317
+4 Halana and Alena, Partners (VOW) 325
+4 Dorothea, Vengeful Victim // Dorothea's Retribution (VOW) 235
+4 Ulvenwald Oddity // Ulvenwald Behemoth (VOW) 394
+4 Dig Up (VOW) 197
+4 Sundown Pass (VOW) 266
+4 Old Rutstein (VOW) 326
+4 Glorious Sunrise (VOW) 388
+4 Lantern Flare (VOW) 351
+4 Shattered Sanctum (VOW) 283
+4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 298
+4 Hamlet Vanguard (VOW) 389
+4 A-Dorothea, Vengeful Victim // A-Dorothea's Retribution (VOW) A-235
+4 Kessig Wolfrider (VOW) 379
+4 Alchemist's Gambit (VOW) 374
+4 Eruth, Tormented Prophet (VOW) 237
+4 Torens, Fist of the Angels (VOW) 328
+4 Voice of the Blessed (VOW) 44
+4 Voldaren Estate (VOW) 397
+4 Sigarda's Summons (VOW) 36
+4 Glorious Sunrise (VOW) 200
+4 Investigator's Journal (VOW) 345
+4 Alchemist's Gambit (VOW) 140
+4 By Invitation Only (VOW) 346
+4 Graf Reaver (VOW) 371
+4 Shattered Sanctum (VOW) 264
+4 Creepy Puppeteer (VOW) 376
+4 Eruth, Tormented Prophet (VOW) 323
+4 Winged Portent (VOW) 365
+4 Torens, Fist of the Angels (VOW) 249
+4 Bloodvial Purveyor (VOW) 290
+4 Headless Rider (VOW) 118
+4 Dying to Serve (VOW) 109
+4 Howling Moon (VOW) 391
+4 Howlpack Piper // Wildsong Howler (VOW) 392
+4 Howlpack Piper // Wildsong Howler (VOW) 205
+4 Thalia, Guardian of Thraben (VOW) 38
+4 Howling Moon (VOW) 204
+4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 137
+4 Voice of the Blessed (VOW) 354
+4 Anje, Maid of Dishonor (VOW) 309
 4 Deathcap Glade (VOW) 261
+4 Welcoming Vampire (VOW) 46
+4 Olivia's Attendants (VOW) 172
+4 Sigarda's Summons (VOW) 353
+4 Overcharged Amalgam (VOW) 71
+4 Demonic Bargain (VOW) 368
+4 Stensia Uprising (VOW) 178
+================================================================================
+Deck
+4 Lantern Flare (VOW) 23
+4 Thalia, Guardian of Thraben (VOW) 318
+4 Dreamshackle Geist (VOW) 358
+4 Dreamroot Cascade (VOW) 262
+4 Hopeful Initiate (VOW) 20
+4 A-Hullbreaker Horror (VOW) A-63
+4 Path of Peril (VOW) 124
 4 Hamlet Vanguard (VOW) 201
-4 Voldaren Estate (VOW) 267
+4 Ill-Tempered Loner // Howlpack Avenger (VOW) 162
+4 Wedding Announcement // Wedding Festivity (VOW) 355
+4 Mirrorhall Mimic // Ghastly Mimicry (VOW) 361
+4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 246
+4 Dying to Serve (VOW) 370
+4 Investigator's Journal (VOW) 258
+4 Splendid Reclamation (VOW) 221
+4 Consuming Tide (VOW) 357
+4 Welcoming Vampire (VOW) 287
+4 Dorothea, Vengeful Victim // Dorothea's Retribution (VOW) 322

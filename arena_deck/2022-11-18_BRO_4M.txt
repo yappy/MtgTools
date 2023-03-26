@@ -1,27 +1,48 @@
 Deck
-4 One with the Multiverse (BRO) 59
-4 In the Trenches (BRO) 8
-4 Mishra, Claimed by Gix (BRO) 216
-4 Portal to Phyrexia (BRO) 240
-4 Platoon Dispenser (BRO) 36
 4 Mishra, Lost to Phyrexia (BRO) 163b
-4 Awaken the Woods (BRO) 170
-4 Titania, Voice of Gaea (BRO) 193
-4 Titania, Gaea Incarnate (BRO) 256b
-4 Myrel, Shield of Argive (BRO) 18
-4 Sarinth Greatwurm (BRO) 220
-4 Teferi, Temporal Pilgrim (BRO) 66
-4 Saheeli, Filigree Master (BRO) 219
-4 Urza, Planeswalker (BRO) 238b
-4 Rootwire Amalgam (BRO) 203
-4 Arcane Proxy (BRO) 75
-4 Clay Champion (BRO) 230
+4 Bladecoil Serpent (BRO) 229
 4 Surge Engine (BRO) 81
+4 Platoon Dispenser (BRO) 310
+4 Awaken the Woods (BRO) 170
+4 Teferi, Temporal Pilgrim (BRO) 66
+4 Rootwire Amalgam (BRO) 203
+4 In the Trenches (BRO) 301
 4 Gix, Yawgmoth Praetor (BRO) 95
+4 Urza's Sylex (BRO) 40
+4 Cityscape Leveler (BRO) 363
+4 Phyrexian Fleshgorger (BRO) 332
+4 Skitterbeam Battalion (BRO) 165
+4 Urza, Planeswalker (BRO) 238b
+4 Titania, Gaea Incarnate (BRO) 256b
+4 Saheeli, Filigree Master (BRO) 294
+4 Portal to Phyrexia (BRO) 240
+4 Clay Champion (BRO) 230
 4 Phyrexian Fleshgorger (BRO) 121
 4 Cityscape Leveler (BRO) 233
+4 Platoon Dispenser (BRO) 36
+4 In the Trenches (BRO) 8
+4 One with the Multiverse (BRO) 59
+4 Clay Champion (BRO) 362
+4 Sarinth Greatwurm (BRO) 358
 4 Urza, Lord Protector (BRO) 225
-4 Bladecoil Serpent (BRO) 229
+4 Hurkyl, Master Wizard (BRO) 314
+4 Myrel, Shield of Argive (BRO) 305
+4 Surge Engine (BRO) 320
+4 One with the Multiverse (BRO) 316
+4 Rootwire Amalgam (BRO) 351
+4 Saheeli, Filigree Master (BRO) 219
+4 Mishra, Claimed by Gix (BRO) 216
+4 Portal to Phyrexia (BRO) 365
+4 Bladecoil Serpent (BRO) 361
+4 Urza's Sylex (BRO) 312
+4 Awaken the Woods (BRO) 344
+4 Arcane Proxy (BRO) 75
+4 Skitterbeam Battalion (BRO) 343
+4 Titania, Voice of Gaea (BRO) 193
+4 Arcane Proxy (BRO) 319
+4 Myrel, Shield of Argive (BRO) 18
+4 Sarinth Greatwurm (BRO) 220
 4 Draconic Destiny (BRO) 130
-4 Urza's Sylex (BRO) 40
-4 Skitterbeam Battalion (BRO) 165
+4 Draconic Destiny (BRO) 336
+4 Gix, Yawgmoth Praetor (BRO) 326
+4 Teferi, Temporal Pilgrim (BRO) 293

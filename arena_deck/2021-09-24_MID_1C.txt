@@ -1,102 +1,131 @@
 Deck
-4 Locked in the Cemetery (MID) 60
-4 Blessed Defiance (MID) 5
-4 Unruly Mob (MID) 40
-4 Lunarch Veteran // Luminous Phantom (MID) 27
-4 Candletrap (MID) 9
-4 Shady Traveler // Stalking Predator (MID) 120
-4 Flare of Faith (MID) 19
-4 Stuffed Bear (MID) 259
-4 Geistwave (MID) 56
-4 Crawl from the Cellar (MID) 93
-4 Jack-o'-Lantern (MID) 254
-4 Clarion Cathars (MID) 14
-4 Crossroads Candleguide (MID) 253
-4 Rotten Reunion (MID) 119
-4 Ardent Elementalist (MID) 128
-4 Homestead Courage (MID) 24
-4 Falcon Abomination (MID) 52
-4 Howl of the Hunt (MID) 188
-4 Drownyard Amalgam (MID) 50
-4 Bounding Wolf (MID) 170
-4 Might of the Old Ways (MID) 189
-4 Ecstatic Awakener // Awoken Demon (MID) 100
-4 Sungold Barrage (MID) 36
-4 Stormrider Spirit (MID) 79
-4 Pestilent Wolf (MID) 192
 4 A-Falcon Abomination (MID) A-52
-4 Moonrager's Slash (MID) 148
-4 Consider (MID) 44
-4 Duel for Dominance (MID) 184
-4 Abandon the Post (MID) 127
-4 Secrets of the Key (MID) 73
-4 Bird Admirer // Wing Shredder (MID) 169
-4 Pack's Betrayal (MID) 153
-4 Voldaren Stinger (MID) 167
-4 Mourning Patrol // Morning Apparition (MID) 28
-4 Larder Zombie (MID) 58
-4 Celestus Sanctifier (MID) 12
-4 Component Collector (MID) 43
-4 Harvesttide Sentry (MID) 186
-4 Falkenrath Perforator (MID) 136
-4 Neonate's Rush (MID) 151
-4 Tavern Ruffian // Tavern Smasher (MID) 163
-4 Morkrut Behemoth (MID) 114
-4 Cathar Commando (MID) 10
-4 Return to Nature (MID) 195
-4 Startle (MID) 78
+4 Consider (MID) 388
 4 Brimstone Vandal (MID) 130
-4 A-Shipwreck Sifters (MID) A-74
-4 Lambholt Harrier (MID) 145
-4 Plummet (MID) 193
-4 Harvesttide Infiltrator // Harvesttide Assailant (MID) 143
-4 Unblinking Observer (MID) 82
-4 Search Party Captain (MID) 32
-4 A-Hobbling Zombie (MID) A-106
-4 No Way Out (MID) 116
-4 Raze the Effigy (MID) 156
-4 Candlegrove Witch (MID) 8
-4 Hobbling Zombie (MID) 106
-4 Immolation (MID) 144
-4 Ritual Guardian (MID) 30
+4 Forest (MID) 277
+4 Diregraf Horde (MID) 96
+4 Path to the Festival (MID) 191
+4 Blessed Defiance (MID) 5
+4 Dawnhart Rejuvenator (MID) 301
+4 Shadowbeast Sighting (MID) 198
+4 Flare of Faith (MID) 19
+4 Tavern Ruffian // Tavern Smasher (MID) 163
+4 Electric Revelation (MID) 135
+4 Jack-o'-Lantern (MID) 254
+4 Harvesttide Infiltrator // Harvesttide Assailant (MID) 293
 4 Gavony Silversmith (MID) 21
+4 Mourning Patrol // Morning Apparition (MID) 28
+4 Swamp (MID) 382
+4 A-Hobbling Zombie (MID) A-106
+4 Morkrut Behemoth (MID) 114
+4 Candletrap (MID) 9
+4 Startle (MID) 78
+4 Harvesttide Infiltrator // Harvesttide Assailant (MID) 143
+4 Baithook Angler // Hook-Haunt Drifter (MID) 42
+4 Swamp (MID) 273
+4 Mountain (MID) 274
+4 Tireless Hauler // Dire-Strain Brawler (MID) 203
+4 Bat Whisperer (MID) 86
+4 Plains (MID) 380
+4 Candlegrove Witch (MID) 287
+4 Arrogant Outlaw (MID) 84
+4 Snarling Wolf (MID) 199
+4 Stuffed Bear (MID) 259
+4 Plummet (MID) 193
+4 Tireless Hauler // Dire-Strain Brawler (MID) 305
+4 Shady Traveler // Stalking Predator (MID) 120
+4 A-Shipwreck Sifters (MID) A-74
+4 Gavony Trapper (MID) 22
+4 Plains (MID) 269
+4 Crossroads Candleguide (MID) 253
 4 Flip the Switch (MID) 54
+4 Unruly Mob (MID) 40
+4 Immolation (MID) 144
+4 Blood Pact (MID) 88
+4 Island (MID) 381
+4 Bramble Armor (MID) 171
+4 Festival Crasher (MID) 140
+4 Devious Cover-Up (MID) 48
+4 Bladebrand (MID) 87
+4 Celestus Sanctifier (MID) 12
+4 Hobbling Zombie (MID) 106
+4 Locked in the Cemetery (MID) 60
+4 Might of the Old Ways (MID) 189
+4 Timberland Guide (MID) 202
+4 Return to Nature (MID) 195
+4 Plains (MID) 268
+4 Drownyard Amalgam (MID) 50
+4 Bird Admirer // Wing Shredder (MID) 169
+4 Bird Admirer // Wing Shredder (MID) 298
+4 Homestead Courage (MID) 24
+4 Bounding Wolf (MID) 170
+4 Swamp (MID) 272
+4 Howl of the Hunt (MID) 188
 ================================================================================
 Deck
-4 Olivia's Midnight Ambush (MID) 118
-4 Organ Hoarder (MID) 66
-4 Siege Zombie (MID) 121
-4 Silver Bolt (MID) 258
-4 Thraben Exorcism (MID) 39
-4 Eccentric Farmer (MID) 185
-4 Burn the Accursed (MID) 132
-4 Mounted Dreadknight (MID) 150
-4 Vampire Interloper (MID) 125
-4 Bladebrand (MID) 87
-4 Galedrifter // Waildrifter (MID) 55
-4 Stolen Vitality (MID) 161
-4 Timberland Guide (MID) 202
-4 Otherworldly Gaze (MID) 67
-4 Tireless Hauler // Dire-Strain Brawler (MID) 203
-4 Baithook Angler // Hook-Haunt Drifter (MID) 42
-4 Dawnhart Rejuvenator (MID) 180
-4 Hedgewitch's Mask (MID) 23
-4 Electric Revelation (MID) 135
-4 Defenestrate (MID) 95
-4 Blood Pact (MID) 88
-4 Eaten Alive (MID) 99
-4 Gavony Trapper (MID) 22
-4 Tapping at the Window (MID) 201
-4 Revenge of the Drowned (MID) 72
+4 Mountain (MID) 275
+4 Pack's Betrayal (MID) 153
+4 Unblinking Observer (MID) 82
+4 Stormrider Spirit (MID) 79
+4 Clarion Cathars (MID) 14
+4 Tavern Ruffian // Tavern Smasher (MID) 296
+4 Island (MID) 270
 4 Shipwreck Sifters (MID) 74
-4 Diregraf Horde (MID) 96
-4 Soul-Guide Gryff (MID) 35
-4 Novice Occultist (MID) 117
-4 Path to the Festival (MID) 191
-4 Festival Crasher (MID) 140
-4 Famished Foragers (MID) 138
+4 Revenge of the Drowned (MID) 72
+4 Harvesttide Sentry (MID) 186
+4 Component Collector (MID) 43
+4 Organ Hoarder (MID) 66
+4 Hedgewitch's Mask (MID) 23
+4 Rotten Reunion (MID) 119
+4 Abandon the Post (MID) 127
+4 Cathar Commando (MID) 10
+4 Secrets of the Key (MID) 73
+4 Duel for Dominance (MID) 184
+4 Olivia's Midnight Ambush (MID) 118
+4 Otherworldly Gaze (MID) 67
+4 Thraben Exorcism (MID) 39
+4 Consider (MID) 44
 4 Candlelit Cavalry (MID) 175
-4 Shadowbeast Sighting (MID) 198
-4 Arrogant Outlaw (MID) 84
-4 Bat Whisperer (MID) 86
-4 Devious Cover-Up (MID) 48
+4 Novice Occultist (MID) 117
+4 Larder Zombie (MID) 58
+4 Forest (MID) 276
+4 Shady Traveler // Stalking Predator (MID) 291
+4 Eccentric Farmer (MID) 185
+4 Tapping at the Window (MID) 201
+4 Ecstatic Awakener // Awoken Demon (MID) 100
+4 Soul-Guide Gryff (MID) 35
+4 Duress (MID) 98
+4 Vampire Interloper (MID) 125
+4 Falkenrath Perforator (MID) 136
+4 Evolving Wilds (MID) 261
+4 Search Party Captain (MID) 32
+4 Dawnhart Rejuvenator (MID) 180
+4 Mounted Dreadknight (MID) 150
+4 Lunarch Veteran // Luminous Phantom (MID) 27
+4 Stolen Vitality (MID) 161
+4 Siege Zombie (MID) 121
+4 No Way Out (MID) 116
+4 Candlegrove Witch (MID) 8
+4 Neonate's Rush (MID) 151
+4 Defenestrate (MID) 95
+4 Raze the Effigy (MID) 156
+4 Pestilent Wolf (MID) 192
+4 Lambholt Harrier (MID) 145
+4 Eaten Alive (MID) 99
+4 Silver Bolt (MID) 258
+4 Galedrifter // Waildrifter (MID) 55
+4 Moonrager's Slash (MID) 148
+4 Forest (MID) 384
+4 Island (MID) 271
+4 Crawl from the Cellar (MID) 93
+4 Sungold Barrage (MID) 36
+4 Falcon Abomination (MID) 52
+4 Ritual Guardian (MID) 30
+4 Geistwave (MID) 56
+4 Voldaren Stinger (MID) 167
+4 Ardent Elementalist (MID) 128
+4 Mountain (MID) 383
+================================================================================
+Deck
+4 Famished Foragers (MID) 138
+4 Burn the Accursed (MID) 132
