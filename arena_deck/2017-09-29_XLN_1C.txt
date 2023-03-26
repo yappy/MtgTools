@@ -31,10 +31,6 @@ Deck
 4 Fathom Fleet Firebrand (XLN) 142
 4 Fire Shrine Keeper (XLN) 144
 4 Firecannon Blast (XLN) 145
-4 Forest (XLN) 276
-4 Forest (XLN) 277
-4 Forest (XLN) 278
-4 Forest (XLN) 279
 4 Frenzied Raptor (XLN) 146
 4 Gilded Sentinel (XLN) 239
 4 Grazing Whiptail (XLN) 190
@@ -43,10 +39,6 @@ Deck
 4 Hierophant's Chalice (XLN) 240
 4 Hijack (XLN) 148
 4 Huatli's Snubhorn (XLN) 286
-4 Island (XLN) 264
-4 Island (XLN) 265
-4 Island (XLN) 266
-4 Island (XLN) 267
 4 Ixalli's Diviner (XLN) 192
 4 Ixalli's Keeper (XLN) 193
 4 Jade Guardian (XLN) 194
@@ -57,12 +49,6 @@ Deck
 4 Looming Altisaur (XLN) 23
 4 March of the Drowned (XLN) 112
 4 Mark of the Vampire (XLN) 113
-4 Mountain (XLN) 272
-4 Mountain (XLN) 273
-4 Mountain (XLN) 274
-4 Mountain (XLN) 275
-================================================================================
-Deck
 4 Nest Robber (XLN) 152
 4 New Horizons (XLN) 198
 4 One With the Wind (XLN) 64
@@ -71,14 +57,12 @@ Deck
 4 Pious Interdiction (XLN) 26
 4 Pirate's Cutlass (XLN) 242
 4 Pirate's Prize (XLN) 68
-4 Plains (XLN) 260
-4 Plains (XLN) 261
-4 Plains (XLN) 262
-4 Plains (XLN) 263
 4 Pounce (XLN) 200
 4 Prosperous Pirates (XLN) 69
 4 Prying Blade (XLN) 244
 4 Pterodon Knight (XLN) 28
+================================================================================
+Deck
 4 Queen's Agent (XLN) 114
 4 Queen's Bay Soldier (XLN) 115
 4 Queen's Commission (XLN) 29
@@ -110,10 +94,6 @@ Deck
 4 Sun-Crowned Hunters (XLN) 164
 4 Sunrise Seeker (XLN) 40
 4 Sure Strike (XLN) 166
-4 Swamp (XLN) 268
-4 Swamp (XLN) 269
-4 Swamp (XLN) 270
-4 Swamp (XLN) 271
 4 Swashbuckling (XLN) 167
 4 Territorial Hammerskull (XLN) 41
 4 Thrash of Raptors (XLN) 168
@@ -125,6 +105,4 @@ Deck
 4 Vanquish the Weak (XLN) 127
 4 Watertrap Weaver (XLN) 87
 4 Wind Strider (XLN) 88
-================================================================================
-Deck
 4 Woodland Stream (XLN) 284

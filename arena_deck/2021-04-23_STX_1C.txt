@@ -35,8 +35,6 @@ Deck
 4 Expel (STX) 18
 4 Field Trip (STX) 131
 4 First Day of Class (STX) 102
-4 Forest (STX) 374
-4 Forest (STX) 375
 4 Fractal Summoning (STX) 187
 4 Frost Trickster (STX) 43
 4 Fuming Effigy (STX) 103
@@ -48,8 +46,6 @@ Deck
 4 Inkling Summoning (STX) 195
 4 Introduction to Annihilation (STX) 3
 4 Introduction to Prophecy (STX) 4
-4 Island (STX) 368
-4 Island (STX) 369
 4 Lash of Malice (STX) 74
 4 Leech Fanatic (STX) 75
 4 Letter of Acceptance (STX) 256
@@ -60,21 +56,17 @@ Deck
 4 Mage Hunters' Onslaught (STX) 77
 4 Make Your Mark (STX) 204
 4 Moldering Karok (STX) 206
-4 Mountain (STX) 372
-================================================================================
-Deck
-4 Mountain (STX) 373
 4 Needlethorn Drake (STX) 208
 4 Novice Dissector (STX) 79
 4 Oggyar Battle-Seer (STX) 209
 4 Owlin Shieldmage (STX) 210
 4 Pest Summoning (STX) 211
+================================================================================
+Deck
 4 Pigment Storm (STX) 111
 4 Pilgrim of the Ages (STX) 22
 4 Pillardrop Rescuer (STX) 23
 4 Pillardrop Warden (STX) 112
-4 Plains (STX) 366
-4 Plains (STX) 367
 4 Pop Quiz (STX) 49
 4 Prismari Campus (STX) 270
 4 Prismari Pledgemage (STX) 215
@@ -105,8 +97,6 @@ Deck
 4 Stonerise Spirit (STX) 32
 4 Study Break (STX) 34
 4 Sudden Breakthrough (STX) 116
-4 Swamp (STX) 370
-4 Swamp (STX) 371
 4 Tangletrap (STX) 145
 4 Teach by Example (STX) 241
 4 Thrilling Discovery (STX) 243

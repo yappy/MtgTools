@@ -42,10 +42,6 @@ Deck
 4 Fang of Shigeki (NEO) 183
 4 Fang of Shigeki (NEO) 347
 4 Favor of Jukai (NEO) 184
-4 Forest (NEO) 291
-4 Forest (NEO) 292
-4 Forest (NEO) 301
-4 Forest (NEO) 302
 4 Futurist Sentinel (NEO) 54
 4 Geothermal Kami (NEO) 186
 4 Gift of Wrath (NEO) 143
@@ -61,16 +57,12 @@ Deck
 4 Imperial Subduer (NEO) 19
 4 Imperial Subduer (NEO) 310
 4 Inkrise Infiltrator (NEO) 100
-================================================================================
-Deck
 4 Inkrise Infiltrator (NEO) 341
 4 Intercessor's Arrest (NEO) 20
 4 Iron Apprentice (NEO) 248
 4 Ironhoof Boar (NEO) 148
-4 Island (NEO) 285
-4 Island (NEO) 286
-4 Island (NEO) 295
-4 Island (NEO) 296
+================================================================================
+Deck
 4 Jukai Preserver (NEO) 195
 4 Jukai Trainee (NEO) 196
 4 Jukai Trainee (NEO) 326
@@ -95,10 +87,6 @@ Deck
 4 Moonsnare Specialist (NEO) 70
 4 Moonsnare Specialist (NEO) 335
 4 Mothrider Patrol (NEO) 30
-4 Mountain (NEO) 289
-4 Mountain (NEO) 290
-4 Mountain (NEO) 299
-4 Mountain (NEO) 300
 4 Mukotai Ambusher (NEO) 112
 4 Mukotai Ambusher (NEO) 342
 4 Network Disruptor (NEO) 71
@@ -110,10 +98,6 @@ Deck
 4 Papercraft Decoy (NEO) 253
 4 Peerless Samurai (NEO) 156
 4 Peerless Samurai (NEO) 322
-4 Plains (NEO) 283
-4 Plains (NEO) 284
-4 Plains (NEO) 293
-4 Plains (NEO) 294
 4 Planar Incision (NEO) 72
 4 Reckoner Shakedown (NEO) 119
 4 Reckoner's Bargain (NEO) 120
@@ -125,8 +109,6 @@ Deck
 4 Scoured Barrens (NEO) 274
 4 Scrapyard Steelbreaker (NEO) 160
 4 Searchlight Companion (NEO) 258
-================================================================================
-Deck
 4 Season of Renewal (NEO) 205
 4 Seven-Tail Mentor (NEO) 36
 4 Seven-Tail Mentor (NEO) 313
@@ -140,13 +122,11 @@ Deck
 4 Suit Up (NEO) 81
 4 Sunblade Samurai (NEO) 39
 4 Sunblade Samurai (NEO) 315
-4 Swamp (NEO) 287
-4 Swamp (NEO) 288
-4 Swamp (NEO) 297
-4 Swamp (NEO) 298
 4 Swiftwater Cliffs (NEO) 277
 4 Tales of Master Seshiro // Seshiro's Living Legacy (NEO) 210
 4 Tamiyo's Compleation (NEO) 83
+================================================================================
+Deck
 4 Tamiyo's Safekeeping (NEO) 211
 4 The Modern Age // Vector Glider (NEO) 66
 4 The Shattered States Era // Nameless Conqueror (NEO) 162

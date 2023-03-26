@@ -34,9 +34,6 @@ Deck
 4 Eddytrail Hawk (KLR) 16
 4 Fen Hauler (KLR) 85
 4 Fireforger's Puzzleknot (KLR) 240
-4 Forest (KLR) 299
-4 Forest (KLR) 300
-4 Forest (KLR) 301
 4 Fortuitous Find (KLR) 86
 4 Foundry Screecher (KLR) 88
 4 Fourth Bridge Prowler (KLR) 89
@@ -57,24 +54,18 @@ Deck
 4 Inspired Charge (KLR) 24
 4 Inventor's Goggles (KLR) 246
 4 Irontread Crusher (KLR) 247
-4 Island (KLR) 290
-4 Island (KLR) 291
-4 Island (KLR) 292
 4 Kujar Seedsculptor (KLR) 165
-================================================================================
-Deck
 4 Lathnu Sailback (KLR) 135
 4 Leave in the Dust (KLR) 54
 4 Lifecraft Cavalry (KLR) 166
 4 Live Fast (KLR) 95
 4 Malfunction (KLR) 55
 4 Maulfist Squad (KLR) 99
+================================================================================
+Deck
 4 Metallic Rebuke (KLR) 56
 4 Mind Rot (KLR) 101
 4 Mobile Garrison (KLR) 253
-4 Mountain (KLR) 296
-4 Mountain (KLR) 297
-4 Mountain (KLR) 298
 4 Narnam Cobra (KLR) 254
 4 Night Market Aeronaut (KLR) 102
 4 Night Market Lookout (KLR) 103
@@ -82,9 +73,6 @@ Deck
 4 Ornamental Courage (KLR) 173
 4 Peema Outrider (KLR) 176
 4 Pendulum of Patterns (KLR) 261
-4 Plains (KLR) 287
-4 Plains (KLR) 288
-4 Plains (KLR) 289
 4 Prakhata Pillar-Bug (KLR) 263
 4 Precise Strike (KLR) 137
 4 Propeller Pioneer (KLR) 26
@@ -105,9 +93,6 @@ Deck
 4 Sky Skiff (KLR) 271
 4 Spireside Infiltrator (KLR) 148
 4 Subtle Strike (KLR) 107
-4 Swamp (KLR) 293
-4 Swamp (KLR) 294
-4 Swamp (KLR) 295
 4 Sweatworks Brawler (KLR) 149
 4 Tezzeret's Ambition (KLR) 68
 4 Thriving Rhino (KLR) 183

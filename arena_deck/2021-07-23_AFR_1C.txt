@@ -49,10 +49,6 @@ Deck
 4 Fates' Reversal (AFR) 102
 4 Feign Death (AFR) 103
 4 Find the Path (AFR) 183
-4 Forest (AFR) 278
-4 Forest (AFR) 279
-4 Forest (AFR) 280
-4 Forest (AFR) 281
 4 Gloom Stalker (AFR) 16
 4 Gnoll Hunter (AFR) 185
 4 Gnoll Hunter (AFR) 326
@@ -61,20 +57,16 @@ Deck
 4 Greataxe (AFR) 245
 4 Grim Bounty (AFR) 106
 4 Half-Elf Monk (AFR) 19
-================================================================================
-Deck
 4 Herald of Hadar (AFR) 108
 4 Hill Giant Herdgorger (AFR) 187
 4 Hired Hexblade (AFR) 109
 4 Hoard Robber (AFR) 110
+================================================================================
+Deck
 4 Hoarding Ogre (AFR) 146
 4 Hobgoblin Captain (AFR) 148
 4 Improvised Weaponry (AFR) 150
 4 Inspiring Bard (AFR) 189
-4 Island (AFR) 266
-4 Island (AFR) 267
-4 Island (AFR) 268
-4 Island (AFR) 269
 4 Jaded Sell-Sword (AFR) 152
 4 Kick in the Door (AFR) 153
 4 Leather Armor (AFR) 248
@@ -84,10 +76,6 @@ Deck
 4 Mimic (AFR) 349
 4 Minimus Containment (AFR) 24
 4 Mordenkainen's Polymorph (AFR) 65
-4 Mountain (AFR) 274
-4 Mountain (AFR) 275
-4 Mountain (AFR) 276
-4 Mountain (AFR) 277
 4 Neverwinter Dryad (AFR) 195
 4 Neverwinter Dryad (AFR) 329
 4 Owlbear (AFR) 198
@@ -95,10 +83,6 @@ Deck
 4 Paladin's Shield (AFR) 30
 4 Pixie Guide (AFR) 66
 4 Pixie Guide (AFR) 309
-4 Plains (AFR) 262
-4 Plains (AFR) 263
-4 Plains (AFR) 264
-4 Plains (AFR) 265
 4 Planar Ally (AFR) 31
 4 Plummet (AFR) 199
 4 Plundering Barbarian (AFR) 158
@@ -123,12 +107,6 @@ Deck
 4 Spiked Pit Trap (AFR) 251
 4 Spoils of the Hunt (AFR) 205
 4 Steadfast Paladin (AFR) 38
-4 Swamp (AFR) 270
-4 Swamp (AFR) 271
-================================================================================
-Deck
-4 Swamp (AFR) 272
-4 Swamp (AFR) 273
 4 Swarming Goblins (AFR) 162
 4 Sylvan Shepherd (AFR) 206
 4 Thieves' Tools (AFR) 122
@@ -147,4 +125,6 @@ Deck
 4 You See a Guard Approach (AFR) 85
 4 You're Ambushed on the Road (AFR) 43
 4 Yuan-Ti Fang-Blade (AFR) 128
+================================================================================
+Deck
 4 Zombie Ogre (AFR) 129

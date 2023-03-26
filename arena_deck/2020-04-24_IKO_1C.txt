@@ -47,9 +47,6 @@ Deck
 4 Flycatcher Giraffid (IKO) 153
 4 Forbidden Friendship (IKO) 119
 4 Forbidden Friendship (IKO) 367
-4 Forest (IKO) 272
-4 Forest (IKO) 273
-4 Forest (IKO) 274
 4 Frenzied Raptor (IKO) 120
 4 Frost Lynx (IKO) 51
 4 Frostveil Ambush (IKO) 52
@@ -61,16 +58,13 @@ Deck
 4 Greater Sandwurm (IKO) 157
 4 Gust of Wind (IKO) 54
 4 Hampering Snare (IKO) 55
-================================================================================
-Deck
 4 Heightened Reflexes (IKO) 123
 4 Helica Glider (IKO) 15
 4 Honey Mammoth (IKO) 158
+================================================================================
+Deck
 4 Humble Naturalist (IKO) 160
 4 Imposing Vantasaur (IKO) 17
-4 Island (IKO) 263
-4 Island (IKO) 264
-4 Island (IKO) 265
 4 Jungle Hollow (IKO) 249
 4 Keep Safe (IKO) 56
 4 Lava Serpent (IKO) 124
@@ -81,9 +75,6 @@ Deck
 4 Migratory Greathorn (IKO) 165
 4 Migratory Greathorn (IKO) 297
 4 Mosscoat Goriak (IKO) 167
-4 Mountain (IKO) 269
-4 Mountain (IKO) 270
-4 Mountain (IKO) 271
 4 Mutual Destruction (IKO) 96
 4 Mysterious Egg (IKO) 3
 4 Mysterious Egg (IKO) 385
@@ -93,9 +84,6 @@ Deck
 4 Patagia Tiger (IKO) 26
 4 Perimeter Sergeant (IKO) 27
 4 Phase Dolphin (IKO) 62
-4 Plains (IKO) 260
-4 Plains (IKO) 261
-4 Plains (IKO) 262
 4 Plummet (IKO) 169
 4 Prickly Marmoset (IKO) 129
 4 Pyroceratops (IKO) 130
@@ -117,16 +105,11 @@ Deck
 4 Sudden Spinnerets (IKO) 171
 4 Suffocating Fumes (IKO) 100
 4 Survivors' Bond (IKO) 172
-4 Swamp (IKO) 266
-4 Swamp (IKO) 267
-4 Swamp (IKO) 268
 4 Swiftwater Cliffs (IKO) 255
 4 Tentative Connection (IKO) 138
 4 Thieving Otter (IKO) 69
 4 Thornwood Falls (IKO) 256
 4 Thwart the Enemy (IKO) 173
-================================================================================
-Deck
 4 Tranquil Cove (IKO) 257
 4 Unexpected Fangs (IKO) 102
 4 Unlikely Aid (IKO) 103

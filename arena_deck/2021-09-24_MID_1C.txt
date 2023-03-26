@@ -47,9 +47,6 @@ Deck
 4 Festival Crasher (MID) 140
 4 Flare of Faith (MID) 19
 4 Flip the Switch (MID) 54
-4 Forest (MID) 276
-4 Forest (MID) 277
-4 Forest (MID) 384
 4 Galedrifter // Waildrifter (MID) 55
 4 Gavony Silversmith (MID) 21
 4 Gavony Trapper (MID) 22
@@ -61,23 +58,17 @@ Deck
 4 Hobbling Zombie (MID) 106
 4 Homestead Courage (MID) 24
 4 Howl of the Hunt (MID) 188
-================================================================================
-Deck
 4 Immolation (MID) 144
-4 Island (MID) 270
-4 Island (MID) 271
-4 Island (MID) 381
 4 Jack-o'-Lantern (MID) 254
 4 Lambholt Harrier (MID) 145
+================================================================================
+Deck
 4 Larder Zombie (MID) 58
 4 Locked in the Cemetery (MID) 60
 4 Lunarch Veteran // Luminous Phantom (MID) 27
 4 Might of the Old Ways (MID) 189
 4 Moonrager's Slash (MID) 148
 4 Morkrut Behemoth (MID) 114
-4 Mountain (MID) 274
-4 Mountain (MID) 275
-4 Mountain (MID) 383
 4 Mounted Dreadknight (MID) 150
 4 Mourning Patrol // Morning Apparition (MID) 28
 4 Neonate's Rush (MID) 151
@@ -89,9 +80,6 @@ Deck
 4 Pack's Betrayal (MID) 153
 4 Path to the Festival (MID) 191
 4 Pestilent Wolf (MID) 192
-4 Plains (MID) 268
-4 Plains (MID) 269
-4 Plains (MID) 380
 4 Plummet (MID) 193
 4 Raze the Effigy (MID) 156
 4 Return to Nature (MID) 195
@@ -113,9 +101,6 @@ Deck
 4 Stormrider Spirit (MID) 79
 4 Stuffed Bear (MID) 259
 4 Sungold Barrage (MID) 36
-4 Swamp (MID) 272
-4 Swamp (MID) 273
-4 Swamp (MID) 382
 4 Tapping at the Window (MID) 201
 4 Tavern Ruffian // Tavern Smasher (MID) 163
 4 Tavern Ruffian // Tavern Smasher (MID) 296
@@ -125,7 +110,5 @@ Deck
 4 Tireless Hauler // Dire-Strain Brawler (MID) 305
 4 Unblinking Observer (MID) 82
 4 Unruly Mob (MID) 40
-================================================================================
-Deck
 4 Vampire Interloper (MID) 125
 4 Voldaren Stinger (MID) 167

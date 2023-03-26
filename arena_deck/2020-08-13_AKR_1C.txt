@@ -40,13 +40,6 @@ Deck
 4 Final Reward (AKR) 106
 4 Firebrand Archer (AKR) 154
 4 Floodwaters (AKR) 62
-4 Forest (AKR) 294
-4 Forest (AKR) 295
-4 Forest (AKR) 296
-4 Forest (AKR) 297
-4 Forest (AKR) 298
-4 Forest (AKR) 299
-4 Forest (AKR) 300
 4 Forsake the Worldly (AKR) 18
 4 Gilded Cerodon (AKR) 155
 4 Greater Sandwurm (AKR) 192
@@ -59,15 +52,6 @@ Deck
 4 Impeccable Timing (AKR) 24
 4 In Oketra's Name (AKR) 25
 4 Initiate's Companion (AKR) 198
-4 Island (AKR) 305
-4 Island (AKR) 306
-================================================================================
-Deck
-4 Island (AKR) 307
-4 Island (AKR) 308
-4 Island (AKR) 309
-4 Island (AKR) 310
-4 Island (AKR) 311
 4 Khenra Eternal (AKR) 109
 4 Khenra Scrapper (AKR) 163
 4 Lethal Sting (AKR) 110
@@ -76,14 +60,9 @@ Deck
 4 Marauding Boneslasher (AKR) 115
 4 Miasmic Mummy (AKR) 116
 4 Mighty Leap (AKR) 26
-4 Mountain (AKR) 312
-4 Mountain (AKR) 313
-4 Mountain (AKR) 314
-4 Mountain (AKR) 315
-4 Mountain (AKR) 316
-4 Mountain (AKR) 317
-4 Mountain (AKR) 318
 4 Naga Oracle (AKR) 69
+================================================================================
+Deck
 4 Naga Vitalist (AKR) 203
 4 Nef-Crop Entangler (AKR) 166
 4 Nimble-Blade Khenra (AKR) 168
@@ -94,13 +73,6 @@ Deck
 4 Ornery Kudu (AKR) 206
 4 Pathmaker Initiate (AKR) 170
 4 Pitiless Vizier (AKR) 119
-4 Plains (AKR) 319
-4 Plains (AKR) 320
-4 Plains (AKR) 321
-4 Plains (AKR) 322
-4 Plains (AKR) 323
-4 Plains (AKR) 324
-4 Plains (AKR) 325
 4 Pouncing Cheetah (AKR) 207
 4 Puncturing Blow (AKR) 171
 4 Pursue Glory (AKR) 172
@@ -124,15 +96,6 @@ Deck
 4 Sunscorched Desert (AKR) 331
 4 Supernatural Stamina (AKR) 126
 4 Supply Caravan (AKR) 39
-4 Swamp (AKR) 332
-================================================================================
-Deck
-4 Swamp (AKR) 333
-4 Swamp (AKR) 334
-4 Swamp (AKR) 335
-4 Swamp (AKR) 336
-4 Swamp (AKR) 337
-4 Swamp (AKR) 338
 4 Tah-Crop Elite (AKR) 40
 4 Thorned Moloch (AKR) 177
 4 Those Who Serve (AKR) 41

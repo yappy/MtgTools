@@ -43,10 +43,6 @@ Deck
 4 Fierce Retribution (VOW) 13
 4 Flame-Blessed Bolt (VOW) 158
 4 Flourishing Hunter (VOW) 199
-4 Forest (VOW) 276
-4 Forest (VOW) 277
-4 Forest (VOW) 402
-4 Forest (VOW) 412
 4 Gift of Fangs (VOW) 113
 4 Gluttonous Guest (VOW) 114
 4 Gluttonous Guest (VOW) 292
@@ -57,12 +53,6 @@ Deck
 4 Honored Heirloom (VOW) 257
 4 Hookhand Mariner // Riphook Raider (VOW) 203
 4 Hungry Ridgewolf (VOW) 161
-4 Island (VOW) 270
-4 Island (VOW) 271
-4 Island (VOW) 399
-4 Island (VOW) 409
-================================================================================
-Deck
 4 Kessig Flamebreather (VOW) 164
 4 Kindly Ancestor // Ancestor's Embrace (VOW) 22
 4 Lacerate Flesh (VOW) 166
@@ -71,11 +61,9 @@ Deck
 4 Massive Might (VOW) 208
 4 Militia Rallier (VOW) 24
 4 Mindleech Ghoul (VOW) 122
+================================================================================
+Deck
 4 Moldgraf Millipede (VOW) 209
-4 Mountain (VOW) 274
-4 Mountain (VOW) 275
-4 Mountain (VOW) 401
-4 Mountain (VOW) 411
 4 Mulch (VOW) 210
 4 Nature's Embrace (VOW) 211
 4 Nebelgast Beguiler (VOW) 25
@@ -83,10 +71,6 @@ Deck
 4 Parish-Blade Trainee (VOW) 29
 4 Persistent Specimen (VOW) 125
 4 Piercing Light (VOW) 30
-4 Plains (VOW) 268
-4 Plains (VOW) 269
-4 Plains (VOW) 398
-4 Plains (VOW) 408
 4 Pointed Discussion (VOW) 126
 4 Pyre Spawn (VOW) 173
 4 Ragged Recluse // Odious Witch (VOW) 127
@@ -108,10 +92,6 @@ Deck
 4 Stitched Assistant (VOW) 81
 4 Supernatural Rescue (VOW) 37
 4 Sure Strike (VOW) 179
-4 Swamp (VOW) 272
-4 Swamp (VOW) 273
-4 Swamp (VOW) 400
-4 Swamp (VOW) 410
 4 Syncopate (VOW) 83
 4 Syphon Essence (VOW) 84
 4 Toxic Scorpion (VOW) 224
@@ -125,8 +105,6 @@ Deck
 4 Voldaren Epicure (VOW) 182
 4 Voldaren Epicure (VOW) 308
 4 Wanderlight Spirit (VOW) 86
-================================================================================
-Deck
 4 Weary Prisoner // Wrathful Jailbreaker (VOW) 184
 4 Weaver of Blossoms // Blossom-Clad Werewolf (VOW) 226
 4 Wedding Invitation (VOW) 260

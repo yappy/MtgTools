@@ -36,10 +36,6 @@ Deck
 4 Feed the Swarm (ZNR) 102
 4 Field Research (ZNR) 58
 4 Fissure Wizard (ZNR) 140
-4 Forest (ZNR) 278
-4 Forest (ZNR) 279
-4 Forest (ZNR) 280
-4 Forest (ZNR) 384
 4 Ghastly Gloomhunter (ZNR) 103
 4 Glacial Grasp (ZNR) 59
 4 Gnarlid Colony (ZNR) 185
@@ -50,10 +46,6 @@ Deck
 4 Inordinate Rage (ZNR) 144
 4 Into the Roil (ZNR) 62
 4 Into the Roil (ZNR) 387
-4 Island (ZNR) 269
-4 Island (ZNR) 270
-4 Island (ZNR) 271
-4 Island (ZNR) 381
 4 Joraga Visionary (ZNR) 188
 4 Kabira Outrider (ZNR) 18
 4 Kazandu Nectarpot (ZNR) 190
@@ -61,8 +53,6 @@ Deck
 4 Kazandu Stomper (ZNR) 191
 4 Kor Celebrant (ZNR) 22
 4 Living Tempest (ZNR) 65
-================================================================================
-Deck
 4 Makindi Ox (ZNR) 25
 4 Makindi Ox (ZNR) 293
 4 Malakir Blood-Priest (ZNR) 110
@@ -71,10 +61,8 @@ Deck
 4 Might of Murasa (ZNR) 194
 4 Mind Drain (ZNR) 114
 4 Molten Blast (ZNR) 149
-4 Mountain (ZNR) 275
-4 Mountain (ZNR) 276
-4 Mountain (ZNR) 277
-4 Mountain (ZNR) 383
+================================================================================
+Deck
 4 Murasa Brute (ZNR) 195
 4 Nahiri's Binding (ZNR) 29
 4 Negate (ZNR) 71
@@ -82,10 +70,6 @@ Deck
 4 Nimana Skydancer (ZNR) 117
 4 Nissa's Zendikon (ZNR) 197
 4 Oblivion's Hunger (ZNR) 119
-4 Plains (ZNR) 266
-4 Plains (ZNR) 267
-4 Plains (ZNR) 268
-4 Plains (ZNR) 380
 4 Practiced Tactics (ZNR) 32
 4 Pressure Point (ZNR) 33
 4 Prowling Felidar (ZNR) 34
@@ -117,16 +101,10 @@ Deck
 4 Stonework Packbeast (ZNR) 255
 4 Strength of Solidarity (ZNR) 206
 4 Subtle Strike (ZNR) 128
-4 Swamp (ZNR) 272
-4 Swamp (ZNR) 273
-4 Swamp (ZNR) 274
-4 Swamp (ZNR) 382
 4 Synchronized Spellcraft (ZNR) 168
 4 Tajuru Blightblade (ZNR) 208
 4 Tajuru Snarecaster (ZNR) 210
 4 Tazeem Raptor (ZNR) 43
-================================================================================
-Deck
 4 Tazeem Roilmage (ZNR) 84
 4 Teeterpeak Ambusher (ZNR) 169
 4 Territorial Scythecat (ZNR) 213

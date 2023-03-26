@@ -35,7 +35,6 @@ Deck
 4 Elderleaf Mentor (KHM) 165
 4 Fearless Pup (KHM) 136
 4 Feed the Serpent (KHM) 95
-4 Forest (KHM) 398
 4 Frost Bite (KHM) 138
 4 Frost Bite (KHM) 404
 4 Frostpeak Yeti (KHM) 57
@@ -59,12 +58,11 @@ Deck
 4 Infernal Pet (KHM) 99
 4 Invoke the Divine (KHM) 16
 4 Iron Verdict (KHM) 17
-4 Island (KHM) 395
 4 Jarl of the Forsaken (KHM) 100
-================================================================================
-Deck
 4 Jaspera Sentinel (KHM) 178
 4 Karfell Harbinger (KHM) 65
+================================================================================
+Deck
 4 Karfell Kennel-Master (KHM) 101
 4 King Harald's Revenge (KHM) 180
 4 Koma's Faithful (KHM) 102
@@ -75,10 +73,8 @@ Deck
 4 Master Skald (KHM) 19
 4 Mists of Littjara (KHM) 67
 4 Mistwalker (KHM) 68
-4 Mountain (KHM) 397
 4 Open the Omenpaths (KHM) 143
 4 Pilfering Hawk (KHM) 71
-4 Plains (KHM) 394
 4 Priest of the Haunted Edge (KHM) 104
 4 Raiders' Karve (KHM) 242
 4 Raise the Draugr (KHM) 105
@@ -118,18 +114,17 @@ Deck
 4 Strategic Planning (KHM) 402
 4 Struggle for Skemfar (KHM) 196
 4 Sulfurous Mire (KHM) 270
-4 Swamp (KHM) 396
 4 Tormentor's Helm (KHM) 155
 4 Tuskeri Firewalker (KHM) 157
 4 Undersea Invader (KHM) 78
 4 Valor of the Worthy (KHM) 37
 4 Vault Robber (KHM) 158
 4 Village Rites (KHM) 117
-================================================================================
-Deck
 4 Volatile Fjord (KHM) 273
 4 Warhorn Blast (KHM) 38
 4 Weigh Down (KHM) 118
 4 Wings of the Cosmos (KHM) 39
 4 Withercrown (KHM) 119
+================================================================================
+Deck
 4 Woodland Chasm (KHM) 274

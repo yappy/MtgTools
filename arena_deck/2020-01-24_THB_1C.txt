@@ -18,9 +18,6 @@ Deck
 4 Final Flare (THB) 134
 4 Flicker of Fate (THB) 16
 4 Flummoxed Cyclops (THB) 135
-4 Forest (THB) 254
-4 Forest (THB) 286
-4 Forest (THB) 287
 4 Fruit of Tizerus (THB) 96
 4 Funeral Rites (THB) 97
 4 Gift of Strength (THB) 171
@@ -38,9 +35,6 @@ Deck
 4 Inspire Awe (THB) 175
 4 Iroas's Blessing (THB) 142
 4 Irreverent Revelers (THB) 143
-4 Island (THB) 251
-4 Island (THB) 280
-4 Island (THB) 281
 4 Karametra's Blessing (THB) 26
 4 Lampad of Death's Vigil (THB) 103
 4 Leonin of the Lost Pride (THB) 28
@@ -50,9 +44,6 @@ Deck
 4 Mire's Grasp (THB) 106
 4 Mogis's Favor (THB) 107
 4 Moss Viper (THB) 179
-4 Mountain (THB) 253
-4 Mountain (THB) 284
-4 Mountain (THB) 285
 4 Naiad of Hidden Coves (THB) 56
 4 Nexus Wardens (THB) 184
 4 Nylea's Forerunner (THB) 186
@@ -61,8 +52,6 @@ Deck
 4 Nyxborn Colossus (THB) 191
 4 Nyxborn Courser (THB) 29
 4 Nyxborn Marauder (THB) 109
-================================================================================
-Deck
 4 Nyxborn Seaguard (THB) 57
 4 Omen of the Dead (THB) 110
 4 Omen of the Forge (THB) 145
@@ -72,9 +61,8 @@ Deck
 4 Oread of Mountain's Blaze (THB) 146
 4 Pharika's Libation (THB) 111
 4 Pious Wayfarer (THB) 32
-4 Plains (THB) 250
-4 Plains (THB) 278
-4 Plains (THB) 279
+================================================================================
+Deck
 4 Plummet (THB) 194
 4 Portent of Betrayal (THB) 149
 4 Rage-Scarred Berserker (THB) 113
@@ -97,9 +85,6 @@ Deck
 4 Stern Dismissal (THB) 68
 4 Sunlit Hoplite (THB) 273
 4 Sunmane Pegasus (THB) 38
-4 Swamp (THB) 252
-4 Swamp (THB) 282
-4 Swamp (THB) 283
 4 Temple Thief (THB) 116
 4 Thaumaturge's Familiar (THB) 238
 4 Thirst for Meaning (THB) 74

@@ -36,10 +36,6 @@ Deck
 4 Eye of Malcator (ONE) 50
 4 Flensing Raptor (ONE) 12
 4 Fleshless Gladiator (ONE) 94
-4 Forest (ONE) 266
-4 Forest (ONE) 271
-4 Forest (ONE) 276
-4 Forest (ONE) 369
 4 Forgehammer Centurion (ONE) 130
 4 Free from Flesh (ONE) 131
 4 Furnace Skullbomb (ONE) 228
@@ -56,13 +52,7 @@ Deck
 4 Incisor Glider (ONE) 15
 4 Indoctrination Attendant (ONE) 16
 4 Infectious Inquiry (ONE) 97
-4 Island (ONE) 263
-4 Island (ONE) 268
-4 Island (ONE) 273
-4 Island (ONE) 366
 4 Kuldotha Cackler (ONE) 139
-================================================================================
-Deck
 4 Lattice-Blade Mantis (ONE) 173
 4 Leonin Lightbringer (ONE) 20
 4 Malcator's Watcher (ONE) 58
@@ -71,13 +61,11 @@ Deck
 4 Maze's Mantle (ONE) 174
 4 Meldweb Curator (ONE) 59
 4 Meldweb Strider (ONE) 60
+================================================================================
+Deck
 4 Mesmerizing Dose (ONE) 62
 4 Mirran Bardiche (ONE) 22
 4 Molten Rebuke (ONE) 141
-4 Mountain (ONE) 265
-4 Mountain (ONE) 270
-4 Mountain (ONE) 275
-4 Mountain (ONE) 368
 4 Myr Custodian (ONE) 235
 4 Myr Kinsmith (ONE) 236
 4 Offer Immortality (ONE) 102
@@ -86,10 +74,6 @@ Deck
 4 Pestilent Syphoner (ONE) 103
 4 Phyrexian Atlas (ONE) 237
 4 Plague Nurse (ONE) 179
-4 Plains (ONE) 262
-4 Plains (ONE) 267
-4 Plains (ONE) 272
-4 Plains (ONE) 365
 4 Planar Disruption (ONE) 28
 4 Predation Steward (ONE) 180
 4 Prologue to Phyresis (ONE) 65
@@ -112,10 +96,6 @@ Deck
 4 Skyscythe Engulfer (ONE) 183
 4 Stinging Hivemaster (ONE) 110
 4 Surgical Skullbomb (ONE) 243
-4 Swamp (ONE) 264
-4 Swamp (ONE) 269
-4 Swamp (ONE) 274
-4 Swamp (ONE) 367
 4 Terramorphic Expanse (ONE) 261
 4 Testament Bearer (ONE) 111
 4 The Autonomous Furnace (ONE) 247
@@ -125,8 +105,6 @@ Deck
 4 The Surgical Bay (ONE) 260
 4 Thirsting Roots (ONE) 185
 4 Thrill of Possibility (ONE) 151
-================================================================================
-Deck
 4 Titanic Growth (ONE) 187
 4 Tyrranax Atrocity (ONE) 188
 4 Vanish into Eternity (ONE) 36
