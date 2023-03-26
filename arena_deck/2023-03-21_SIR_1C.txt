@@ -35,9 +35,6 @@ Deck
 4 Field Creeper (SIR) 251
 4 Fiend Binder (SIR) 29
 4 Fogwalker (SIR) 70
-4 Forest (SIR) 289
-4 Forest (SIR) 290
-4 Forest (SIR) 291
 4 Galvanic Bombardment (SIR) 157
 4 Gatstaf Arsonists // Gatstaf Ravagers (SIR) 158
 4 Gavony Unhallowed (SIR) 111
@@ -57,30 +54,21 @@ Deck
 4 Insatiable Gorgers (SIR) 164
 4 Insolent Neonate (SIR) 165
 4 Intrepid Provisioner (SIR) 203
-4 Island (SIR) 280
-4 Island (SIR) 281
-4 Island (SIR) 282
 4 Jace's Scrutiny (SIR) 78
-================================================================================
-Deck
 4 Laboratory Brute (SIR) 79
 4 Liliana's Elite (SIR) 120
 4 Lunarch Mantle (SIR) 37
 4 Macabre Waltz (SIR) 121
 4 Magmatic Chasm (SIR) 168
 4 Magnifying Glass (SIR) 254
+================================================================================
+Deck
 4 Make Mischief (SIR) 169
 4 Merciless Resolve (SIR) 122
 4 Moonlight Hunt (SIR) 205
 4 Morkrut Necropod (SIR) 125
-4 Mountain (SIR) 286
-4 Mountain (SIR) 287
-4 Mountain (SIR) 288
 4 Obsessive Skinner (SIR) 207
 4 Olivia's Dragoon (SIR) 128
-4 Plains (SIR) 277
-4 Plains (SIR) 278
-4 Plains (SIR) 279
 4 Puncturing Light (SIR) 40
 4 Pyre Hound (SIR) 172
 4 Rabid Bite (SIR) 210
@@ -92,9 +80,6 @@ Deck
 4 Steadfast Cathar (SIR) 46
 4 Stormrider Spirit (SIR) 91
 4 Strength of Arms (SIR) 47
-4 Swamp (SIR) 283
-4 Swamp (SIR) 284
-4 Swamp (SIR) 285
 4 Swift Spinner (SIR) 217
 4 Take Inventory (SIR) 93
 4 Tattered Haunter (SIR) 94

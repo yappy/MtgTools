@@ -41,10 +41,6 @@ Deck
 4 Fervent Strike (DOM) 117
 4 Fiery Intervention (DOM) 118
 4 Fire Elemental (DOM) 120
-4 Forest (DOM) 266
-4 Forest (DOM) 267
-4 Forest (DOM) 268
-4 Forest (DOM) 269
 4 Frenzied Rage (DOM) 124
 4 Fungal Infection (DOM) 94
 4 Gaea's Protector (DOM) 162
@@ -58,12 +54,6 @@ Deck
 4 Healing Grace (DOM) 20
 4 Homarid Explorer (DOM) 53
 4 Invoke the Divine (DOM) 22
-4 Island (DOM) 254
-4 Island (DOM) 255
-4 Island (DOM) 256
-================================================================================
-Deck
-4 Island (DOM) 257
 4 Jousting Lance (DOM) 221
 4 Keldon Overseer (DOM) 134
 4 Keldon Raider (DOM) 135
@@ -71,24 +61,18 @@ Deck
 4 Knight of New Benalia (DOM) 24
 4 Krosan Druid (DOM) 167
 4 Llanowar Elves (DOM) 168
+================================================================================
+Deck
 4 Llanowar Envoy (DOM) 169
 4 Llanowar Scout (DOM) 170
 4 Mammoth Spider (DOM) 171
 4 Meandering River (DOM) 274
 4 Mesa Unicorn (DOM) 27
-4 Mountain (DOM) 262
-4 Mountain (DOM) 263
-4 Mountain (DOM) 264
-4 Mountain (DOM) 265
 4 Navigator's Compass (DOM) 225
 4 Opt (DOM) 60
 4 Pardic Wanderer (DOM) 226
 4 Pegasus Courser (DOM) 29
 4 Pierce the Sky (DOM) 176
-4 Plains (DOM) 250
-4 Plains (DOM) 251
-4 Plains (DOM) 252
-4 Plains (DOM) 253
 4 Powerstone Shard (DOM) 227
 4 Primordial Wurm (DOM) 177
 4 Pyromantic Pilgrim (DOM) 278
@@ -109,10 +93,6 @@ Deck
 4 Soul Salvage (DOM) 104
 4 Sparring Construct (DOM) 232
 4 Stronghold Confessor (DOM) 105
-4 Swamp (DOM) 258
-4 Swamp (DOM) 259
-4 Swamp (DOM) 260
-4 Swamp (DOM) 261
 4 Syncopate (DOM) 67
 4 Temporal Machinations (DOM) 271
 4 Thallid Omnivore (DOM) 106
@@ -125,6 +105,4 @@ Deck
 4 Voltaic Servant (DOM) 236
 4 Warlord's Fury (DOM) 151
 4 Windgrace Acolyte (DOM) 112
-================================================================================
-Deck
 4 Yavimaya Sapherd (DOM) 189

@@ -32,7 +32,6 @@ Deck
 4 Erstwhile Trooper (GRN) 169
 4 Fearless Halberdier (GRN) 100
 4 Fire Urchin (GRN) 101
-4 Forest (GRN) 264
 4 Fresh-Faced Recruit (GRN) 216
 4 Garrison Sergeant (GRN) 172
 4 Gateway Plaza (GRN) 247
@@ -51,7 +50,6 @@ Deck
 4 Hypothesizzle (GRN) 178
 4 Intrusive Packbeast (GRN) 17
 4 Ironshell Beetle (GRN) 134
-4 Island (GRN) 261
 4 Izzet Guildgate (GRN) 251
 4 Izzet Guildgate (GRN) 252
 4 Izzet Locket (GRN) 238
@@ -61,14 +59,13 @@ Deck
 4 Ledev Guardian (GRN) 18
 4 Loxodon Restorer (GRN) 20
 4 Luminous Bonds (GRN) 21
-================================================================================
-Deck
 4 Maniacal Rage (GRN) 110
 4 Maximize Altitude (GRN) 43
+================================================================================
+Deck
 4 Maximize Velocity (GRN) 111
 4 Mephitic Vapors (GRN) 76
 4 Moodmark Painter (GRN) 78
-4 Mountain (GRN) 263
 4 Muse Drake (GRN) 46
 4 Never Happened (GRN) 80
 4 Notion Rain (GRN) 193
@@ -79,7 +76,6 @@ Deck
 4 Pause for Reflection (GRN) 140
 4 Piston-Fist Cyclops (GRN) 217
 4 Pitiless Gorgon (GRN) 218
-4 Plains (GRN) 260
 4 Portcullis Vine (GRN) 142
 4 Precision Bolt (GRN) 267
 4 Prey Upon (GRN) 143
@@ -99,7 +95,6 @@ Deck
 4 Spinal Centipede (GRN) 86
 4 Sumala Woodshaper (GRN) 200
 4 Sure Strike (GRN) 118
-4 Swamp (GRN) 262
 4 Sworn Companions (GRN) 27
 4 Take Heart (GRN) 28
 4 Tenth District Guard (GRN) 29

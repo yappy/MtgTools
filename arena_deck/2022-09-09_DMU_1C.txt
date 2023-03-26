@@ -31,10 +31,6 @@ Deck
 4 Floriferous Vinewall (DMU) 163
 4 Flowstone Infusion (DMU) 124
 4 Flowstone Kavu (DMU) 125
-4 Forest (DMU) 274
-4 Forest (DMU) 275
-4 Forest (DMU) 276
-4 Forest (DMU) 281
 4 Furious Bellow (DMU) 126
 4 Gaea's Might (DMU) 164
 4 Geothermal Bog (DMU) 247
@@ -51,38 +47,26 @@ Deck
 4 Impede Momentum (DMU) 54
 4 Impulse (DMU) 55
 4 In Thrall to the Pit (DMU) 132
-4 Island (DMU) 265
-4 Island (DMU) 266
-4 Island (DMU) 267
-4 Island (DMU) 278
 4 Jaya's Firenado (DMU) 134
 4 Juniper Order Rootweaver (DMU) 22
 4 Keldon Strike Team (DMU) 136
 4 Lightning Strike (DMU) 137
 4 Lightning Strike (DMU) 433
 4 Llanowar Stalker (DMU) 171
-================================================================================
-Deck
 4 Magnigoth Sentry (DMU) 172
 4 Meria's Outrider (DMU) 138
 4 Mesa Cavalier (DMU) 26
 4 Meteorite (DMU) 235
 4 Molten Monstrosity (DMU) 139
 4 Molten Tributary (DMU) 251
-4 Mountain (DMU) 271
-4 Mountain (DMU) 272
-4 Mountain (DMU) 273
-4 Mountain (DMU) 280
 4 Negate (DMU) 58
 4 Phyrexian Espionage (DMU) 60
+================================================================================
+Deck
 4 Phyrexian Rager (DMU) 99
 4 Phyrexian Vivisector (DMU) 100
 4 Phyrexian Warhorse (DMU) 101
 4 Pixie Illusionist (DMU) 61
-4 Plains (DMU) 262
-4 Plains (DMU) 263
-4 Plains (DMU) 264
-4 Plains (DMU) 277
 4 Radiant Grove (DMU) 253
 4 Sacred Peaks (DMU) 254
 4 Salvaged Manaworker (DMU) 237
@@ -98,10 +82,6 @@ Deck
 4 Stall for Time (DMU) 34
 4 Sunbathing Rootwalla (DMU) 181
 4 Sunlit Marsh (DMU) 257
-4 Swamp (DMU) 268
-4 Swamp (DMU) 269
-4 Swamp (DMU) 270
-4 Swamp (DMU) 279
 4 Take Up the Shield (DMU) 35
 4 Talas Lookout (DMU) 68
 4 Tangled Islet (DMU) 258

@@ -31,7 +31,6 @@ Deck
 4 Feral Maaka (RNA) 100
 4 Final Payment (RNA) 171
 4 Footlight Fiend (RNA) 216
-4 Forest (RNA) 264
 4 Frenzied Arynx (RNA) 173
 4 Gateway Plaza (RNA) 247
 4 Get the Point (RNA) 176
@@ -50,23 +49,20 @@ Deck
 4 Ill-Gotten Inheritance (RNA) 77
 4 Impassioned Orator (RNA) 12
 4 Imperious Oligarch (RNA) 184
-4 Island (RNA) 261
 4 Justiciar's Portal (RNA) 13
 4 Knight of Sorrows (RNA) 14
 4 Lawmage's Binding (RNA) 190
 4 Mammoth Spider (RNA) 132
-4 Mountain (RNA) 263
 4 Noxious Groodion (RNA) 78
 4 Open the Gates (RNA) 133
 4 Orzhov Guildgate (RNA) 252
 4 Orzhov Guildgate (RNA) 253
 4 Orzhov Locket (RNA) 236
-================================================================================
-Deck
 4 Persistent Petitioners (RNA) 44
 4 Plague Wight (RNA) 82
-4 Plains (RNA) 260
 4 Prowling Caracal (RNA) 17
+================================================================================
+Deck
 4 Prying Eyes (RNA) 46
 4 Quench (RNA) 48
 4 Rafter Demon (RNA) 196
@@ -105,7 +101,6 @@ Deck
 4 Stony Strength (RNA) 143
 4 Storm Strike (RNA) 119
 4 Summary Judgment (RNA) 24
-4 Swamp (RNA) 262
 4 Sylvan Brushstrider (RNA) 144
 4 Syndicate Messenger (RNA) 25
 4 Tenth District Veteran (RNA) 26

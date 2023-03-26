@@ -30,9 +30,6 @@ Deck
 4 Enforcer Griffin (WAR) 11
 4 Erratic Visionary (WAR) 48
 4 Forced Landing (WAR) 161
-4 Forest (WAR) 262
-4 Forest (WAR) 263
-4 Forest (WAR) 264
 4 Gateway Plaza (WAR) 246
 4 Giant Growth (WAR) 162
 4 Gideon's Sacrifice (WAR) 14
@@ -47,9 +44,6 @@ Deck
 4 Invading Manticore (WAR) 134
 4 Iron Bully (WAR) 240
 4 Ironclad Krovod (WAR) 19
-4 Island (WAR) 253
-4 Island (WAR) 254
-4 Island (WAR) 255
 4 Jaya's Greeting (WAR) 136
 4 Kasmina's Transmutation (WAR) 57
 4 Kaya's Ghostform (WAR) 94
@@ -61,22 +55,16 @@ Deck
 4 Lazotep Reaver (WAR) 96
 4 Loxodon Sergeant (WAR) 21
 4 Makeshift Battalion (WAR) 22
-================================================================================
-Deck
 4 Mana Geode (WAR) 241
 4 Martyr for the Cause (WAR) 23
-4 Mountain (WAR) 259
-4 Mountain (WAR) 260
-4 Mountain (WAR) 261
 4 Naga Eternal (WAR) 60
 4 Nahiri's Stoneblades (WAR) 139
 4 New Horizons (WAR) 168
 4 No Escape (WAR) 63
+================================================================================
+Deck
 4 Ob Nixilis's Cruelty (WAR) 101
 4 Orzhov Guildgate (WAR) 269
-4 Plains (WAR) 250
-4 Plains (WAR) 251
-4 Plains (WAR) 252
 4 Pollenbright Druid (WAR) 173
 4 Pouncing Lynx (WAR) 25
 4 Primordial Wurm (WAR) 174
@@ -99,9 +87,6 @@ Deck
 4 Spellkeeper Weird (WAR) 69
 4 Steady Aim (WAR) 177
 4 Stealth Mission (WAR) 70
-4 Swamp (WAR) 256
-4 Swamp (WAR) 257
-4 Swamp (WAR) 258
 4 Tamiyo's Epiphany (WAR) 71
 4 Teferi's Time Twist (WAR) 72
 4 Teyo's Lightshield (WAR) 33
