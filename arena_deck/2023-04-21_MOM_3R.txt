@@ -1,16 +1,55 @@
 Deck
+4 Archpriest of Shadows (MOM) 89
+4 Baral and Kari Zev (MOM) 218
+4 Boon Bringer Valkyrie (MOM) 9
+4 Boon Bringer Valkyrie (MOM) 343
 4 Breach the Multiverse (MOM) 94
 4 Breach the Multiverse (MOM) 358
+4 Chrome Host Seedshark (MOM) 51
 4 Drana and Linvala (MOM) 222
+4 Drana and Linvala (MOM) 305
+4 Essence of Orthodoxy (MOM) 323
+4 Essence of Orthodoxy (MOM) 376
+4 Etali, Primal Conqueror (MOM) 137
+4 Etali, Primal Conqueror (MOM) 298
 4 Faerie Mastermind (MOM) 58
 4 Faerie Mastermind (MOM) 352
 4 Ghalta and Mavren (MOM) 225
 4 Ghalta and Mavren (MOM) 307
 4 Ghalta and Mavren (MOM) 386
+4 Glissa, Herald of Predation (MOM) 226
+4 Glissa, Herald of Predation (MOM) 308
+4 Grafted Butcher (MOM) 109
+4 Guardian of Ghirapur (MOM) 16
+4 Guardian of Ghirapur (MOM) 345
 4 Heliod, the Radiant Dawn (MOM) 17
 4 Heliod, the Radiant Dawn (MOM) 293
+4 Hoarding Broodlord (MOM) 999-HBL
+4 Interdisciplinary Mascot (MOM) 326
+4 Interdisciplinary Mascot (MOM) 377
+4 Into the Fire (MOM) 144
+4 Invasion of Fiora (MOM) 114
+4 Invasion of Ikoria (MOM) 190
+4 Invasion of Ixalan (MOM) 191
+4 Invasion of Tolvada (MOM) 241
 4 Omnath, Locus of All (MOM) 249
 4 Omnath, Locus of All (MOM) 313
 4 Omnath, Locus of All (MOM) 387
+4 Orthion, Hero of Lavabrink (MOM) 334
+4 Orthion, Hero of Lavabrink (MOM) 379
+4 Polukranos Reborn (MOM) 200
+4 Polukranos Reborn (MOM) 300
+4 Quintorius, Loremaster (MOM) 250
+4 Quintorius, Loremaster (MOM) 314
+4 Rankle and Torbran (MOM) 252
+4 Realmbreaker, the Invasion Tree (MOM) 263
+4 Realmbreaker, the Invasion Tree (MOM) 374
+4 Surrak and Goreclaw (MOM) 337
+4 Surrak and Goreclaw (MOM) 380
+4 Terror of Towashi (MOM) 331
+4 Terror of Towashi (MOM) 378
+4 Transcendent Message (MOM) 83
+4 Transcendent Message (MOM) 354
+4 Voldaren Thrillseeker (MOM) 171
 4 Yargle and Multani (MOM) 256
 4 Yargle and Multani (MOM) 317

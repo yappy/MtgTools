@@ -1,12 +1,21 @@
 Deck
+4 Alabaster Host Sanctifier (MOM) 4
 4 Bloodfell Caves (MOM) 267
 4 Blossoming Sands (MOM) 268
+4 Cragsmasher Yeti (MOM) 333
 4 Dismal Backwater (MOM) 269
+4 Fairgrounds Trumpeter (MOM) 335
+4 Injector Crocodile (MOM) 329
 4 Jungle Hollow (MOM) 270
+4 Mirrodin Avenged (MOM) 118
 4 Moment of Truth (MOM) 67
+4 Negate (MOM) 68
+4 Phyrexian Pegasus (MOM) 324
 4 Rugged Highlands (MOM) 271
 4 Scoured Barrens (MOM) 272
 4 Swiftwater Cliffs (MOM) 273
 4 Thornwood Falls (MOM) 274
 4 Tranquil Cove (MOM) 275
+4 Traumatic Revelation (MOM) 127
 4 Wind-Scarred Crag (MOM) 276
+4 Zephyr Winder (MOM) 328
