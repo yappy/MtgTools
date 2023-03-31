@@ -1,4 +1,5 @@
 Deck
+4 "Close the Circuit" (MOM) 52
 4 Archangel Elspeth (MOM) 6
 4 Archangel Elspeth (MOM) 320
 4 Borborygmos and Fblthp (MOM) 219
@@ -9,6 +10,7 @@ Deck
 4 Elesh Norn (MOM) 292
 4 Invasion of New Phyrexia (MOM) 239
 4 Invasion of Ravnica (MOM) 1
+4 Invasion of Shandalar (MOM) 193
 4 Invasion of Tarkir (MOM) 149
 4 Jin-Gitaxias (MOM) 65
 4 Jin-Gitaxias (MOM) 294
