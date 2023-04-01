@@ -1,5 +1,4 @@
 Deck
-4 "Close the Circuit" (MOM) 52
 4 Archangel Elspeth (MOM) 6
 4 Archangel Elspeth (MOM) 320
 4 Borborygmos and Fblthp (MOM) 219
@@ -8,6 +7,7 @@ Deck
 4 Chandra, Hope's Beacon (MOM) 321
 4 Elesh Norn (MOM) 12
 4 Elesh Norn (MOM) 292
+4 Invasion of Innistrad (MOM) 115
 4 Invasion of New Phyrexia (MOM) 239
 4 Invasion of Ravnica (MOM) 1
 4 Invasion of Shandalar (MOM) 193
@@ -21,6 +21,7 @@ Deck
 4 Sword of Once and Future (MOM) 375
 4 Thalia and The Gitrog Monster (MOM) 255
 4 Thalia and The Gitrog Monster (MOM) 316
+4 Vorinclex (MOM) 213
 4 Wrenn and Realmbreaker (MOM) 217
 4 Wrenn and Realmbreaker (MOM) 322
 4 Zurgo and Ojutai (MOM) 258

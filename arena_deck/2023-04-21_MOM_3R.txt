@@ -1,4 +1,6 @@
 Deck
+4 "Close the Circuit" (MOM) 52
+4 Ancient Imperiosaur (MOM) 174
 4 Archpriest of Shadows (MOM) 89
 4 Ayara, Widow of the Realm (MOM) 90
 4 Ayara, Widow of the Realm (MOM) 296
@@ -13,8 +15,11 @@ Deck
 4 Chrome Host Seedshark (MOM) 350
 4 City on Fire (MOM) 135
 4 City on Fire (MOM) 363
+4 Deeproot Wayfinder (MOM) 184
 4 Drana and Linvala (MOM) 222
 4 Drana and Linvala (MOM) 305
+4 Dusk Legion Duelist (MOM) 11
+4 Errant and Giada (MOM) 224
 4 Essence of Orthodoxy (MOM) 323
 4 Essence of Orthodoxy (MOM) 376
 4 Etali, Primal Conqueror (MOM) 137
@@ -47,6 +52,8 @@ Deck
 4 Invasion of Fiora (MOM) 114
 4 Invasion of Ikoria (MOM) 190
 4 Invasion of Ixalan (MOM) 191
+4 Invasion of Kaldheim (MOM) 145
+4 Invasion of Karsus (MOM) 146
 4 Invasion of Segovia (MOM) 63
 4 Invasion of Tolvada (MOM) 241
 4 Knight-Errant of Eos (MOM) 26
@@ -54,20 +61,23 @@ Deck
 4 Kogla and Yidaro (MOM) 244
 4 Kogla and Yidaro (MOM) 311
 4 Omnath, Locus of All (MOM) 249
+================================================================================
+Deck
 4 Omnath, Locus of All (MOM) 313
 4 Omnath, Locus of All (MOM) 387
 4 Orthion, Hero of Lavabrink (MOM) 334
 4 Orthion, Hero of Lavabrink (MOM) 379
+4 Pile On (MOM) 122
 4 Polukranos Reborn (MOM) 200
 4 Polukranos Reborn (MOM) 300
 4 Quintorius, Loremaster (MOM) 250
-================================================================================
-Deck
 4 Quintorius, Loremaster (MOM) 314
 4 Rankle and Torbran (MOM) 252
 4 Rankle and Torbran (MOM) 315
 4 Realmbreaker, the Invasion Tree (MOM) 263
 4 Realmbreaker, the Invasion Tree (MOM) 374
+4 See Double (MOM) 77
+4 Sunfall (MOM) 40
 4 Surrak and Goreclaw (MOM) 337
 4 Surrak and Goreclaw (MOM) 380
 4 Terror of Towashi (MOM) 331
@@ -79,3 +89,4 @@ Deck
 4 Voldaren Thrillseeker (MOM) 367
 4 Yargle and Multani (MOM) 256
 4 Yargle and Multani (MOM) 317
+4 Zimone and Dina (MOM) 257

@@ -1,13 +1,11 @@
 Deck
-4 "Shivan Treeblazer" (MOM) 165
 4 Alabaster Host Sanctifier (MOM) 4
 4 Beamtown Beatstick (MOM) 131
 4 Bloodfell Caves (MOM) 267
 4 Blossoming Sands (MOM) 268
 4 Cragsmasher Yeti (MOM) 333
-4 Deadly Derision (MOM) 999=
+4 Deadly Derision (MOM) 99
 4 Dismal Backwater (MOM) 269
-4 Errant and Giada (MOM) 224
 4 Fairgrounds Trumpeter (MOM) 335
 4 Injector Crocodile (MOM) 329
 4 Jungle Hollow (MOM) 270
