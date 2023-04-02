@@ -18,6 +18,7 @@ Deck
 4 Halo Forager (MOM) 227
 4 Halo Forager (MOM) 385
 4 Harried Artisan (MOM) 143
+4 Invasion of Belenon (MOM) 20
 4 Invasion of Dominaria (MOM) 21
 4 Invasion of Kaladesh (MOM) 234
 4 Invasion of Kamigawa (MOM) 62
