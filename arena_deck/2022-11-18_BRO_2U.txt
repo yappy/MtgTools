@@ -1,4 +1,5 @@
 Deck
+4 A-Haywire Mite (BRO) A-199
 4 Alloy Animist (BRO) 166
 4 Arbalest Engineers (BRO) 206
 4 Argivian Avenger (BRO) 232
@@ -60,9 +61,9 @@ Deck
 4 Recruitment Officer (BRO) 23
 4 Repair and Recharge (BRO) 24
 4 Sardian Cliffstomper (BRO) 151
-4 Sardian Cliffstomper (BRO) 383
 ================================================================================
 Deck
+4 Sardian Cliffstomper (BRO) 383
 4 Sarinth Steelseeker (BRO) 189
 4 Skyfisher Spider (BRO) 221
 4 Slagstone Refinery (BRO) 243

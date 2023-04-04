@@ -3,6 +3,7 @@ Deck
 4 A-Cabaretti Charm (SNC) A-173
 4 A-Forge Boss (SNC) A-189
 4 A-Graveyard Shift (SNC) A-81
+4 A-Knockout Blow (SNC) A-20
 4 A-Metropolis Angel (SNC) A-203
 4 A-Mr. Orfeo, the Boulder (SNC) A-204
 4 A-Public Enemy (SNC) A-55
@@ -60,9 +61,9 @@ Deck
 4 Graveyard Shift (SNC) 81
 4 Grisly Sigil (SNC) 82
 4 Hypnotic Grifter (SNC) 45
-4 Illicit Shipment (SNC) 83
 ================================================================================
 Deck
+4 Illicit Shipment (SNC) 83
 4 Illuminator Virtuoso (SNC) 17
 4 Involuntary Employment (SNC) 110
 4 Knockout Blow (SNC) 20
@@ -124,8 +125,8 @@ Deck
 4 Unlucky Witness (SNC) 128
 4 Vampire Scrivener (SNC) 98
 4 Venom Connoisseur (SNC) 161
-4 Voice of the Vermin (SNC) 163
 ================================================================================
 Deck
+4 Voice of the Vermin (SNC) 163
 4 Whack (SNC) 99
 4 Wingshield Agent (SNC) 64

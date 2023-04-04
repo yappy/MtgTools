@@ -3,6 +3,7 @@ Deck
 4 A-Ancestral Katana (NEO) A-1
 4 A-Eiganjo Exemplar (NEO) A-10
 4 A-Imperial Subduer (NEO) A-19
+4 A-Moon-Circuit Hacker (NEO) A-67
 4 A-Peerless Samurai (NEO) A-156
 4 Akki Ember-Keeper (NEO) 130
 4 Akki Ronin (NEO) 131
@@ -60,9 +61,9 @@ Deck
 4 Inkrise Infiltrator (NEO) 341
 4 Intercessor's Arrest (NEO) 20
 4 Iron Apprentice (NEO) 248
-4 Ironhoof Boar (NEO) 148
 ================================================================================
 Deck
+4 Ironhoof Boar (NEO) 148
 4 Jukai Preserver (NEO) 195
 4 Jukai Trainee (NEO) 196
 4 Jukai Trainee (NEO) 326
@@ -124,9 +125,9 @@ Deck
 4 Sunblade Samurai (NEO) 315
 4 Swiftwater Cliffs (NEO) 277
 4 Tales of Master Seshiro (NEO) 210
-4 Tamiyo's Compleation (NEO) 83
 ================================================================================
 Deck
+4 Tamiyo's Compleation (NEO) 83
 4 Tamiyo's Safekeeping (NEO) 211
 4 The Modern Age (NEO) 66
 4 The Shattered States Era (NEO) 162

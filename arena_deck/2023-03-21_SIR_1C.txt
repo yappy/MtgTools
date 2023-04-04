@@ -13,6 +13,7 @@ Deck
 4 Briarbridge Patrol (SIR) 187
 4 Byway Courier (SIR) 188
 4 Certain Death (SIR) 102
+4 Chittering Host (SIR) 115b
 4 Conduit of Storms (SIR) 149
 4 Confront the Unknown (SIR) 190
 4 Convolute (SIR) 57
@@ -42,7 +43,7 @@ Deck
 4 Ghoulcaller's Accomplice (SIR) 112
 4 Gisa's Bidding (SIR) 113
 4 Gnarlwood Dryad (SIR) 196
-4 Graf Rats (SIR) 115
+4 Graf Rats (SIR) 115a
 4 Grapple with the Past (SIR) 198
 4 Grotesque Mutation (SIR) 116
 4 Guardian of Pilgrims (SIR) 32
@@ -60,9 +61,9 @@ Deck
 4 Lunarch Mantle (SIR) 37
 4 Macabre Waltz (SIR) 121
 4 Magmatic Chasm (SIR) 168
-4 Magnifying Glass (SIR) 254
 ================================================================================
 Deck
+4 Magnifying Glass (SIR) 254
 4 Make Mischief (SIR) 169
 4 Merciless Resolve (SIR) 122
 4 Moonlight Hunt (SIR) 205

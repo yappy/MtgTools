@@ -1,5 +1,11 @@
 Deck
 4 A-Asari Captain (NEO) A-215
+4 A-Circuit Mender (NEO) A-242
+4 A-Dokuchi Silencer (NEO) A-95
+4 A-Futurist Operative (NEO) A-53
+4 A-Nezumi Prowler (NEO) A-116
+4 A-Prosperous Thief (NEO) A-73
+4 A-Silver-Fur Master (NEO) A-236
 4 Acquisition Octopus (NEO) 44
 4 Anchor to Reality (NEO) 45
 4 Asari Captain (NEO) 215
@@ -55,14 +61,14 @@ Deck
 4 Kappa Tech-Wrecker (NEO) 348
 4 Kumano Faces Kakkazan (NEO) 152
 4 Leech Gauntlet (NEO) 106
+================================================================================
+Deck
 4 Life of Toshiro Umezawa (NEO) 108
 4 Malicious Malfunction (NEO) 110
 4 Mech Hangar (NEO) 270
 4 Michiko's Reign of Truth (NEO) 29
 4 Mobilizer Mech (NEO) 65
 4 Naomi, Pillar of Order (NEO) 229
-================================================================================
-Deck
 4 Nezumi Prowler (NEO) 116
 4 Nezumi Prowler (NEO) 344
 4 Norika Yamazaki, the Poet (NEO) 31

@@ -15,14 +15,21 @@ Deck
 4 Jin-Gitaxias (MOM) 65
 4 Jin-Gitaxias (MOM) 294
 4 Jin-Gitaxias (MOM) 339
+4 Kroxa and Kunoros (MOM) 245
+4 Kroxa and Kunoros (MOM) 312
 4 Monastery Mentor (MOM) 28
 4 Monastery Mentor (MOM) 347
+4 Sheoldred (MOM) 125
 4 Sword of Once and Future (MOM) 265
 4 Sword of Once and Future (MOM) 375
 4 Thalia and The Gitrog Monster (MOM) 255
 4 Thalia and The Gitrog Monster (MOM) 316
+4 Urabrask (MOM) 169
 4 Vorinclex (MOM) 213
+4 Vorinclex (MOM) 301
 4 Wrenn and Realmbreaker (MOM) 217
 4 Wrenn and Realmbreaker (MOM) 322
+4 Zimone and Dina (MOM) 257
+4 Zimone and Dina (MOM) 318
 4 Zurgo and Ojutai (MOM) 258
 4 Zurgo and Ojutai (MOM) 319
