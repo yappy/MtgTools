@@ -25,6 +25,7 @@ Deck
 4 Thalia and The Gitrog Monster (MOM) 255
 4 Thalia and The Gitrog Monster (MOM) 316
 4 Urabrask (MOM) 169
+4 Urabrask (MOM) 299
 4 Vorinclex (MOM) 213
 4 Vorinclex (MOM) 301
 4 Wrenn and Realmbreaker (MOM) 217

@@ -1,5 +1,4 @@
 Deck
-4 "Nahiri's Warcraft" (MOM) 155
 4 Ancient Imperiosaur (MOM) 174
 4 Ancient Imperiosaur (MOM) 368
 4 Archpriest of Shadows (MOM) 89
@@ -61,9 +60,9 @@ Deck
 4 Interdisciplinary Mascot (MOM) 326
 4 Interdisciplinary Mascot (MOM) 377
 4 Into the Fire (MOM) 144
+4 Into the Fire (MOM) 364
 ================================================================================
 Deck
-4 Into the Fire (MOM) 364
 4 Invasion of Alara (MOM) 230
 4 Invasion of Arcavios (MOM) 61
 4 Invasion of Fiora (MOM) 114
@@ -79,6 +78,8 @@ Deck
 4 Knight-Errant of Eos (MOM) 346
 4 Kogla and Yidaro (MOM) 244
 4 Kogla and Yidaro (MOM) 311
+4 Nahiri's Warcrafting (MOM) 155
+4 Nahiri's Warcrafting (MOM) 365
 4 Omnath, Locus of All (MOM) 249
 4 Omnath, Locus of All (MOM) 313
 4 Omnath, Locus of All (MOM) 387
@@ -90,6 +91,8 @@ Deck
 4 Pile On (MOM) 361
 4 Polukranos Reborn (MOM) 200
 4 Polukranos Reborn (MOM) 300
+4 Progenitor Exarch (MOM) 32
+4 Progenitor Exarch (MOM) 348
 4 Quintorius, Loremaster (MOM) 250
 4 Quintorius, Loremaster (MOM) 314
 4 Rampaging Raptor (MOM) 160
@@ -99,6 +102,7 @@ Deck
 4 Realmbreaker, the Invasion Tree (MOM) 263
 4 Realmbreaker, the Invasion Tree (MOM) 374
 4 Rona, Herald of Invasion (MOM) 75
+4 Rona, Herald of Invasion (MOM) 295
 4 See Double (MOM) 77
 4 See Double (MOM) 353
 4 Sunfall (MOM) 40

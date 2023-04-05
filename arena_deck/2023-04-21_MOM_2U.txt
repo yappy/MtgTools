@@ -9,6 +9,7 @@ Deck
 4 Captive Weird (MOM) 49
 4 Change the Equation (MOM) 50
 4 Collective Nightmare (MOM) 95
+4 Compleated Huntmaster (MOM) 96
 4 Copper Host Crusher (MOM) 181
 4 Corruption of Towashi (MOM) 53
 4 Elspeth's Smite (MOM) 13
@@ -58,11 +59,12 @@ Deck
 4 Phyrexian Censor (MOM) 31
 4 Phyrexian Gargantua (MOM) 121
 4 Ramosian Greatsword (MOM) 159
+4 Rampaging Geoderm (MOM) 251
 4 Ravenous Sailback (MOM) 202
-4 Referee Squad (MOM) 327
-4 Render Inert (MOM) 123
 ================================================================================
 Deck
+4 Referee Squad (MOM) 327
+4 Render Inert (MOM) 123
 4 Ruins Recluse (MOM) 336
 4 Sandstalker Moloch (MOM) 203
 4 Scrappy Bruiser (MOM) 162
@@ -76,6 +78,7 @@ Deck
 4 Skyclave Aerialist (MOM) 78
 4 Stoke the Flames (MOM) 166
 4 Storm the Seedcore (MOM) 206
+4 Stormclaw Rager (MOM) 254
 4 Streetwise Negotiator (MOM) 207
 4 Sun-Blessed Guardian (MOM) 38
 4 Surge of Salvation (MOM) 41
