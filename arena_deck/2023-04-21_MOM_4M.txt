@@ -20,6 +20,7 @@ Deck
 4 Monastery Mentor (MOM) 28
 4 Monastery Mentor (MOM) 347
 4 Sheoldred (MOM) 125
+4 Sheoldred (MOM) 297
 4 Sword of Once and Future (MOM) 265
 4 Sword of Once and Future (MOM) 375
 4 Thalia and The Gitrog Monster (MOM) 255

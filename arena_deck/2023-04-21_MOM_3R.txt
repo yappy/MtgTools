@@ -10,6 +10,7 @@ Deck
 4 Bloated Processor (MOM) 93
 4 Bloated Processor (MOM) 357
 4 Bloodfeather Phoenix (MOM) 132
+4 Bloodfeather Phoenix (MOM) 362
 4 Boon-Bringer Valkyrie (MOM) 9
 4 Boon-Bringer Valkyrie (MOM) 343
 4 Breach the Multiverse (MOM) 94
@@ -60,9 +61,9 @@ Deck
 4 Interdisciplinary Mascot (MOM) 326
 4 Interdisciplinary Mascot (MOM) 377
 4 Into the Fire (MOM) 144
-4 Into the Fire (MOM) 364
 ================================================================================
 Deck
+4 Into the Fire (MOM) 364
 4 Invasion of Alara (MOM) 230
 4 Invasion of Arcavios (MOM) 61
 4 Invasion of Fiora (MOM) 114
