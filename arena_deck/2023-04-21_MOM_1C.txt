@@ -40,7 +40,7 @@ Deck
 4 Fairgrounds Trumpeter (MOM) 335
 4 Fertilid's Favor (MOM) 186
 4 Final Flourish (MOM) 104
-4 Flitting Guerilla (MOM) 105
+4 Flitting Guerrilla (MOM) 105
 4 Flywheel Racer (MOM) 259
 4 Furnace Host Charger (MOM) 140
 4 Furtive Analyst (MOM) 59
