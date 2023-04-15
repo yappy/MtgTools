@@ -7,6 +7,7 @@ Deck
 4 Chandra, Hope's Beacon (MOM) 321
 4 Elesh Norn (MOM) 12
 4 Elesh Norn (MOM) 292
+4 Elesh Norn (MOM) 338
 4 Invasion of Innistrad (MOM) 115
 4 Invasion of New Phyrexia (MOM) 239
 4 Invasion of Ravnica (MOM) 1
@@ -21,14 +22,17 @@ Deck
 4 Monastery Mentor (MOM) 347
 4 Sheoldred (MOM) 125
 4 Sheoldred (MOM) 297
+4 Sheoldred (MOM) 340
 4 Sword of Once and Future (MOM) 265
 4 Sword of Once and Future (MOM) 375
 4 Thalia and The Gitrog Monster (MOM) 255
 4 Thalia and The Gitrog Monster (MOM) 316
 4 Urabrask (MOM) 169
 4 Urabrask (MOM) 299
+4 Urabrask (MOM) 341
 4 Vorinclex (MOM) 213
 4 Vorinclex (MOM) 301
+4 Vorinclex (MOM) 342
 4 Wrenn and Realmbreaker (MOM) 217
 4 Wrenn and Realmbreaker (MOM) 322
 4 Zimone and Dina (MOM) 257
