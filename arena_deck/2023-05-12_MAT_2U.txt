@@ -1,1 +1,60 @@
 Deck
+4 Animist's Might (MAT) 20
+4 Animist's Might (MAT) 70
+4 Animist's Might (MAT) 120
+4 Blot Out (MAT) 12
+4 Blot Out (MAT) 62
+4 Blot Out (MAT) 112
+4 Blot Out (MAT) 196
+4 Campus Renovation (MAT) 27
+4 Campus Renovation (MAT) 77
+4 Campus Renovation (MAT) 127
+4 Campus Renovation (MAT) 207
+4 Coppercoat Vanguard (MAT) 1
+4 Coppercoat Vanguard (MAT) 51
+4 Coppercoat Vanguard (MAT) 101
+4 Coppercoat Vanguard (MAT) 186
+4 Cosmic Rebirth (MAT) 28
+4 Cosmic Rebirth (MAT) 78
+4 Cosmic Rebirth (MAT) 128
+4 Cosmic Rebirth (MAT) 208
+4 Death-Rattle Oni (MAT) 13
+4 Death-Rattle Oni (MAT) 63
+4 Death-Rattle Oni (MAT) 113
+4 Death-Rattle Oni (MAT) 197
+4 Feast of the Victorious Dead (MAT) 30
+4 Feast of the Victorious Dead (MAT) 80
+4 Feast of the Victorious Dead (MAT) 130
+4 Feast of the Victorious Dead (MAT) 210
+4 Filter Out (MAT) 57
+4 Filter Out (MAT) 107
+4 Filter Out (MAT) 191
+4 Filter Out (MAT) 0007
+4 Gold-Forged Thopteryx (MAT) 31
+4 Gold-Forged Thopteryx (MAT) 81
+4 Gold-Forged Thopteryx (MAT) 131
+4 Gold-Forged Thopteryx (MAT) 211
+4 Harnessed Snubhorn (MAT) 3
+4 Harnessed Snubhorn (MAT) 53
+4 Harnessed Snubhorn (MAT) 103
+4 Harnessed Snubhorn (MAT) 188
+4 Kolaghan Warmonger (MAT) 17
+4 Kolaghan Warmonger (MAT) 67
+4 Kolaghan Warmonger (MAT) 117
+4 Kolaghan Warmonger (MAT) 201
+4 Markov Baron (MAT) 14
+4 Markov Baron (MAT) 64
+4 Markov Baron (MAT) 114
+4 Markov Baron (MAT) 198
+4 Reckless Handling (MAT) 19
+4 Reckless Handling (MAT) 69
+4 Reckless Handling (MAT) 119
+4 Reckless Handling (MAT) 203
+4 Tolarian Contempt (MAT) 8
+4 Tolarian Contempt (MAT) 58
+4 Tolarian Contempt (MAT) 108
+4 Tolarian Contempt (MAT) 192
+4 Undercity Upheaval (MAT) 25
+4 Undercity Upheaval (MAT) 75
+4 Undercity Upheaval (MAT) 125
+4 Undercity Upheaval (MAT) 205

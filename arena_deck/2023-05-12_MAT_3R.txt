@@ -1,7 +1,126 @@
 Deck
+4 Arni Metalbrow (MAT) 16
+4 Arni Metalbrow (MAT) 66
+4 Arni Metalbrow (MAT) 116
+4 Arni Metalbrow (MAT) 159
+4 Arni Metalbrow (MAT) 200
+4 Ayara's Oathsworn (MAT) 11
+4 Ayara's Oathsworn (MAT) 61
+4 Ayara's Oathsworn (MAT) 111
+4 Ayara's Oathsworn (MAT) 157
+4 Ayara's Oathsworn (MAT) 195
+4 Danitha, New Benalia's Light (MAT) 29
+4 Danitha, New Benalia's Light (MAT) 79
+4 Danitha, New Benalia's Light (MAT) 129
+4 Danitha, New Benalia's Light (MAT) 166
+4 Danitha, New Benalia's Light (MAT) 209
+4 Deification (MAT) 2
+4 Deification (MAT) 52
+4 Deification (MAT) 102
+4 Deification (MAT) 151
+4 Deification (MAT) 187
+4 Drannith Ruins (MAT) 50
+4 Drannith Ruins (MAT) 100
+4 Drannith Ruins (MAT) 150
+4 Drannith Ruins (MAT) 185
+4 Drannith Ruins (MAT) 228
+4 Jirina, Dauntless General (MAT) 32
+4 Jirina, Dauntless General (MAT) 82
+4 Jirina, Dauntless General (MAT) 132
+4 Jirina, Dauntless General (MAT) 167
+4 Jirina, Dauntless General (MAT) 212
 4 Jolrael, Voice of Zhalfir (MAT) 33
 4 Jolrael, Voice of Zhalfir (MAT) 83
 4 Jolrael, Voice of Zhalfir (MAT) 133
 4 Jolrael, Voice of Zhalfir (MAT) 168
 4 Jolrael, Voice of Zhalfir (MAT) 230
+4 Leyline Immersion (MAT) 21
+4 Leyline Immersion (MAT) 71
+4 Leyline Immersion (MAT) 121
+4 Leyline Immersion (MAT) 161
+4 Metropolis Reformer (MAT) 4
+4 Metropolis Reformer (MAT) 54
+4 Metropolis Reformer (MAT) 104
+4 Metropolis Reformer (MAT) 152
+4 Metropolis Reformer (MAT) 189
+4 Nahiri's Resolve (MAT) 37
+4 Nahiri's Resolve (MAT) 87
+4 Nahiri's Resolve (MAT) 137
+4 Nahiri's Resolve (MAT) 172
+4 Nahiri's Resolve (MAT) 216
+4 Nashi, Moon's Legacy (MAT) 89
+4 Nashi, Moon's Legacy (MAT) 139
+4 Nashi, Moon's Legacy (MAT) 174
+4 Nashi, Moon's Legacy (MAT) 218
+4 Nashi, Moon's Legacy (MAT) 0039
+4 Niv-Mizzet, Supreme (MAT) 40
+4 Niv-Mizzet, Supreme (MAT) 90
+4 Niv-Mizzet, Supreme (MAT) 140
+4 Niv-Mizzet, Supreme (MAT) 175
+4 Niv-Mizzet, Supreme (MAT) 219
+4 Open the Way (MAT) 23
+4 Open the Way (MAT) 73
+4 Open the Way (MAT) 123
+================================================================================
+Deck
+4 Open the Way (MAT) 163
+4 Pia Nalaar, Consul of Revival (MAT) 42
+4 Pia Nalaar, Consul of Revival (MAT) 92
+4 Pia Nalaar, Consul of Revival (MAT) 142
+4 Pia Nalaar, Consul of Revival (MAT) 177
+4 Pia Nalaar, Consul of Revival (MAT) 221
+4 Plargg and Nassari (MAT) 18
+4 Plargg and Nassari (MAT) 68
+4 Plargg and Nassari (MAT) 118
+4 Plargg and Nassari (MAT) 160
+4 Plargg and Nassari (MAT) 202
+4 Rebuild the City (MAT) 43
+4 Rebuild the City (MAT) 93
+4 Rebuild the City (MAT) 143
+4 Rebuild the City (MAT) 178
+4 Rebuild the City (MAT) 222
+4 Rocco, Street Chef (MAT) 44
+4 Rocco, Street Chef (MAT) 94
+4 Rocco, Street Chef (MAT) 144
+4 Rocco, Street Chef (MAT) 179
+4 Rocco, Street Chef (MAT) 223
+4 Sigarda, Font of Blessings (MAT) 47
+4 Sigarda, Font of Blessings (MAT) 97
+4 Sigarda, Font of Blessings (MAT) 147
+4 Sigarda, Font of Blessings (MAT) 182
+4 Sigarda, Font of Blessings (MAT) 226
+4 Spark Rupture (MAT) 5
+4 Spark Rupture (MAT) 55
+4 Spark Rupture (MAT) 105
+4 Spark Rupture (MAT) 153
+4 Spark Rupture (MAT) 229
+4 Tazri, Stalwart Survivor (MAT) 6
+4 Tazri, Stalwart Survivor (MAT) 56
+4 Tazri, Stalwart Survivor (MAT) 106
+4 Tazri, Stalwart Survivor (MAT) 154
+4 Tazri, Stalwart Survivor (MAT) 190
 4 The Kenriths' Royal Funeral (MAT) 34
+4 The Kenriths' Royal Funeral (MAT) 84
+4 The Kenriths' Royal Funeral (MAT) 134
+4 The Kenriths' Royal Funeral (MAT) 169
+4 The Kenriths' Royal Funeral (MAT) 213
+4 Training Grounds (MAT) 9
+4 Training Grounds (MAT) 59
+4 Training Grounds (MAT) 109
+4 Training Grounds (MAT) 155
+4 Training Grounds (MAT) 193
+4 Tranquil Frillback (MAT) 24
+4 Tranquil Frillback (MAT) 74
+4 Tranquil Frillback (MAT) 124
+4 Tranquil Frillback (MAT) 164
+4 Tranquil Frillback (MAT) 204
+4 Urborg Scavengers (MAT) 15
+4 Urborg Scavengers (MAT) 65
+4 Urborg Scavengers (MAT) 115
+4 Urborg Scavengers (MAT) 158
+4 Urborg Scavengers (MAT) 199
+4 Vesuvan Drifter (MAT) 10
+4 Vesuvan Drifter (MAT) 60
+4 Vesuvan Drifter (MAT) 110
+4 Vesuvan Drifter (MAT) 156
+4 Vesuvan Drifter (MAT) 194
