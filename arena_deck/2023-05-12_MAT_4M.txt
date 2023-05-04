@@ -22,7 +22,7 @@ Deck
 4 Narset, Enlightened Exile (MAT) 88
 4 Narset, Enlightened Exile (MAT) 138
 4 Narset, Enlightened Exile (MAT) 173
-4 Narset, Enlightened Exile 10* (MAT) 217
+4 Narset, Enlightened Exile (MAT) 217
 4 Nissa, Resurgent Animist (MAT) 22
 4 Nissa, Resurgent Animist (MAT) 72
 4 Nissa, Resurgent Animist (MAT) 122

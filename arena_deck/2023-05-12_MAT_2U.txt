@@ -26,10 +26,10 @@ Deck
 4 Feast of the Victorious Dead (MAT) 80
 4 Feast of the Victorious Dead (MAT) 130
 4 Feast of the Victorious Dead (MAT) 210
+4 Filter Out (MAT) 7
 4 Filter Out (MAT) 57
 4 Filter Out (MAT) 107
 4 Filter Out (MAT) 191
-4 Filter Out (MAT) 0007
 4 Gold-Forged Thopteryx (MAT) 31
 4 Gold-Forged Thopteryx (MAT) 81
 4 Gold-Forged Thopteryx (MAT) 131

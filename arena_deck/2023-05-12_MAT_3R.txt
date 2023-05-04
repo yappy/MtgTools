@@ -48,11 +48,11 @@ Deck
 4 Nahiri's Resolve (MAT) 137
 4 Nahiri's Resolve (MAT) 172
 4 Nahiri's Resolve (MAT) 216
+4 Nashi, Moon's Legacy (MAT) 39
 4 Nashi, Moon's Legacy (MAT) 89
 4 Nashi, Moon's Legacy (MAT) 139
 4 Nashi, Moon's Legacy (MAT) 174
 4 Nashi, Moon's Legacy (MAT) 218
-4 Nashi, Moon's Legacy (MAT) 0039
 4 Niv-Mizzet, Supreme (MAT) 40
 4 Niv-Mizzet, Supreme (MAT) 90
 4 Niv-Mizzet, Supreme (MAT) 140
