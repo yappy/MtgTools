@@ -67,7 +67,6 @@ Deck
 4 Sky Terror (XLN) 229
 4 Sleek Schooner (XLN) 247
 4 Slice in Twain (XLN) 207
-4 Slice in Twain (XLN) 207
 4 Snapping Sailback (XLN) 208
 4 Steadfast Armasaur (XLN) 39
 4 Storm Fleet Aerialist (XLN) 83
