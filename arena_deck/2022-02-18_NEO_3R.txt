@@ -152,6 +152,7 @@ Deck
 4 Sokenzan, Crucible of Defiance (NEO) 504
 4 Soul Transfer (NEO) 122
 4 Soul Transfer (NEO) 382
+4 Soul Transfer (NEO) 382
 4 Soul Transfer (NEO) 460
 4 Spring-Leaf Avenger (NEO) 208
 4 Spring-Leaf Avenger (NEO) 349
@@ -188,9 +189,9 @@ Deck
 4 Thundering Raiju (NEO) 472
 4 Tribute to Horobi (NEO) 124
 4 Tribute to Horobi (NEO) 356
-4 Tribute to Horobi (NEO) 462
 ================================================================================
 Deck
+4 Tribute to Horobi (NEO) 462
 4 Weaver of Harmony (NEO) 213
 4 Weaver of Harmony (NEO) 395
 4 Weaver of Harmony (NEO) 483
