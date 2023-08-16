@@ -1,2 +1,27 @@
 Deck
+4 "Monstrous Fury" (WOE) 142
+4 Ash, Party Crasher (WOE) 201
+4 Cursed Courtier (WOE) 9
+4 Edgewall Inn (WOE) 255
+4 Embereth Veteran (WOE) 127
+4 Faerie Dreamthief (WOE) 89
+4 Faerie Dreamthief (WOE) 377
+4 Frolicking Familiar (WOE) 226
+4 Gallant Pie-Wielder (WOE) 15
+4 Glass Casket (WOE) 16
+4 Greta, Sweettooth Scourge (WOE) 205
+4 Johann, Apprentice Sorcerer (WOE) 207
+4 Knight of Doves (WOE) 19
+4 Neva, Stalked by Nightmares (WOE) 209
+4 Obyra, Dreaming Duelist (WOE) 210
+4 Ruby, Daring Tracker (WOE) 212
+4 Sharae of Numbing Depths (WOE) 213
+4 Stroke of Midnight (WOE) 33
+4 Stroke of Midnight (WOE) 375
+4 Syr Armont, the Redeemer (WOE) 214
+4 Tanglespan Lookout (WOE) 188
+4 Tanglespan Lookout (WOE) 379
+4 Totentanz, Swarm Piper (WOE) 216
 4 Tough Cookie (WOE) 193
+4 Troyan, Gutsy Explorer (WOE) 217
+4 Twisted Fealty (WOE) 154

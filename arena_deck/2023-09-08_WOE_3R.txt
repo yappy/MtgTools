@@ -1,5 +1,31 @@
 Deck
 4 Cruel Somnophage (WOE) 222
 4 Cruel Somnophage (WOE) 286
+4 Decadent Dragon (WOE) 223
+4 Decadent Dragon (WOE) 287
+4 Elvish Archivist (WOE) 168
+4 Expel the Interlopers (WOE) 13
+4 Expel the Interlopers (WOE) 324
+4 Expel the Interlopers (WOE) 381
+4 Farsight Ritual (WOE) 49
+4 Farsight Ritual (WOE) 332
+4 Faunsbane Troll (WOE) 203
+4 Faunsbane Troll (WOE) 361
+4 Lich-Knights' Conquest (WOE) 96
+4 Lich-Knights' Conquest (WOE) 338
+4 Lich-Knights' Conquest (WOE) 380
+4 Lord Skitter's Blessing (WOE) 98
+4 Restless Cottage (WOE) 258
+4 Restless Cottage (WOE) 304
 4 Restless Fortress (WOE) 259
 4 Restless Fortress (WOE) 305
+4 Syr Ginger, the Meal Ender (WOE) 252
+4 Syr Ginger, the Meal Ender (WOE) 369
+4 The End (WOE) 87
+4 The End (WOE) 337
+4 The Goose Mother (WOE) 204
+4 The Goose Mother (WOE) 362
+4 The Huntsman's Redemption (WOE) 176
+4 Three Blind Mice (WOE) 35
+4 Thunderous Debut (WOE) 190
+4 Thunderous Debut (WOE) 359

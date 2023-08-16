@@ -1,3 +1,20 @@
 Deck
+4 Beanstalk Wurm (WOE) 161
+4 Besotted Knight (WOE) 4
+4 Break the Spell (WOE) 5
+4 Conceited Witch (WOE) 84
+4 Evolving Wilds (WOE) 256
+4 Living Lectern (WOE) 59
+4 Rat Out (WOE) 103
+4 Ratcatcher Trainee (WOE) 144
+4 Return from the Wilds (WOE) 181
+4 Rootrider Faun (WOE) 182
+4 Rowan's Grim Search (WOE) 104
+4 Skybeast Tracker (WOE) 185
 4 Sleight of Hand (WOE) 67
 4 Sleight of Hand (WOE) 376
+4 Sweettooth Witch (WOE) 111
+4 Torch the Tower (WOE) 153
+4 Torch the Tower (WOE) 378
+4 Troublemaker Ouphe (WOE) 194
+4 Warehouse Tabby (WOE) 117
