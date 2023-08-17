@@ -4,6 +4,8 @@ Deck
 4 Break the Spell (WOE) 5
 4 Conceited Witch (WOE) 84
 4 Evolving Wilds (WOE) 256
+4 Ice Out (WOE) 54
+4 Johann's Stopgap (WOE) 58
 4 Living Lectern (WOE) 59
 4 Rat Out (WOE) 103
 4 Ratcatcher Trainee (WOE) 144

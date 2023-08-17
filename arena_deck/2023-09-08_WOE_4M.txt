@@ -1,6 +1,8 @@
 Deck
+4 "The Elden Rings" (WOE) 38
 4 Agatha of the Vile Cauldron (WOE) 199
 4 Agatha of the Vile Cauldron (WOE) 360
+4 Agatha's Soul Cauldron (WOE) 242
 4 Ashiok, Wicked Manipulator (WOE) 78
 4 Ashiok, Wicked Manipulator (WOE) 297
 4 Beluna Grandsquall (WOE) 220
@@ -19,6 +21,7 @@ Deck
 4 Moonshaker Cavalry (WOE) 21
 4 Moonshaker Cavalry (WOE) 325
 4 Realm-Scorcher Hellkite (WOE) 145
+4 Realm-Scorcher Hellkite (WOE) 350
 4 Rowan, Scion of War (WOE) 211
 4 Rowan, Scion of War (WOE) 300
 4 Talion, the Kindly Lord (WOE) 215
