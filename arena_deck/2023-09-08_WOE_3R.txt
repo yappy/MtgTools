@@ -1,4 +1,6 @@
 Deck
+4 "Potent Pipsqueak" (WOE) 56
+4 "Prickly Little Guy" (WOE) 164
 4 "Werefox Girlfriend" (WOE) 39
 4 Cruel Somnophage (WOE) 222
 4 Cruel Somnophage (WOE) 286
@@ -9,6 +11,8 @@ Deck
 4 Expel the Interlopers (WOE) 13
 4 Expel the Interlopers (WOE) 324
 4 Expel the Interlopers (WOE) 381
+4 Extraordinary Journey (WOE) 48
+4 Extraordinary Journey (WOE) 331
 4 Farsight Ritual (WOE) 49
 4 Farsight Ritual (WOE) 332
 4 Faunsbane Troll (WOE) 203
@@ -16,19 +20,31 @@ Deck
 4 Lich-Knights' Conquest (WOE) 96
 4 Lich-Knights' Conquest (WOE) 338
 4 Lich-Knights' Conquest (WOE) 380
+4 Likeness Looter (WOE) 208
+4 Likeness Looter (WOE) 364
 4 Lord Skitter's Blessing (WOE) 98
 4 Lord Skitter's Blessing (WOE) 340
+4 Lord Skitter, Sewer King (WOE) 97
+4 Redcap Gutter-Dweller (WOE) 146
+4 Redcap Gutter-Dweller (WOE) 351
 4 Restless Cottage (WOE) 258
 4 Restless Cottage (WOE) 304
 4 Restless Fortress (WOE) 259
 4 Restless Fortress (WOE) 305
+4 Restless Spire (WOE) 306
 4 Scalding Viper (WOE) 235
 4 Scalding Viper (WOE) 295
 4 Specter of Mortality (WOE) 107
+4 Specter of Mortality (WOE) 342
 4 Spellbook Vendor (WOE) 31
 4 Spellbook Vendor (WOE) 327
+4 Spiteful Hexmage (WOE) 108
+4 Spiteful Hexmage (WOE) 343
 4 Syr Ginger, the Meal Ender (WOE) 252
 4 Syr Ginger, the Meal Ender (WOE) 369
+4 Talion's Messenger (WOE) 73
+4 Talion's Messenger (WOE) 335
+4 The Apprentice's Folly (WOE) 200
 4 The End (WOE) 87
 4 The End (WOE) 337
 4 The Goose Mother (WOE) 204

@@ -1,8 +1,8 @@
 Deck
-4 "The Elden Rings" (WOE) 38
 4 Agatha of the Vile Cauldron (WOE) 199
 4 Agatha of the Vile Cauldron (WOE) 360
 4 Agatha's Soul Cauldron (WOE) 242
+4 Agatha's Soul Cauldron (WOE) 366
 4 Ashiok, Wicked Manipulator (WOE) 78
 4 Ashiok, Wicked Manipulator (WOE) 297
 4 Beluna Grandsquall (WOE) 220
@@ -28,5 +28,9 @@ Deck
 4 Talion, the Kindly Lord (WOE) 301
 4 Virtue of Knowledge (WOE) 76
 4 Virtue of Knowledge (WOE) 279
+4 Virtue of Loyalty (WOE) 38
+4 Virtue of Loyalty (WOE) 277
+4 Virtue of Persistence (WOE) 115
+4 Virtue of Persistence (WOE) 281
 4 Will, Scion of Peace (WOE) 218
 4 Will, Scion of Peace (WOE) 302
