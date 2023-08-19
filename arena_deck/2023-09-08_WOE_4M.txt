@@ -5,6 +5,8 @@ Deck
 4 Agatha's Soul Cauldron (WOE) 366
 4 Ashiok, Wicked Manipulator (WOE) 78
 4 Ashiok, Wicked Manipulator (WOE) 297
+4 Asinine Antics (WOE) 42
+4 Asinine Antics (WOE) 330
 4 Beluna Grandsquall (WOE) 220
 4 Beluna Grandsquall (WOE) 285
 4 Beseech the Mirror (WOE) 82

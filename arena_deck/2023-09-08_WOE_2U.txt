@@ -1,13 +1,10 @@
 Deck
-4 "Ghostly Grandpa (Real)" (WOE) 236
-4 "Mr. Unicorn's Wild Ride" (WOE) 23
-4 "Rat Master Ray" (WOE) 152
-4 "Thoughtseize at Home" (WOE) 86
+4 "Hey You Remember That Oko Fella" (WOE) 238
 4 "Wetzards" (WOE) 70
-4 "Yarnball Clique" (WOE) 239
 4 Agatha's Champion (WOE) 160
 4 Ash, Party Crasher (WOE) 201
 4 Ashiok's Reaper (WOE) 79
+4 Back for Seconds (WOE) 80
 4 Bitter Chill (WOE) 44
 4 Callous Sell-Sword (WOE) 221
 4 Chancellor of Tales (WOE) 45
@@ -15,9 +12,11 @@ Deck
 4 Discerning Financier (WOE) 10
 4 Dutiful Griffin (WOE) 11
 4 Edgewall Inn (WOE) 255
+4 Ego Drain (WOE) 86
 4 Embereth Veteran (WOE) 127
 4 Faerie Dreamthief (WOE) 89
 4 Faerie Dreamthief (WOE) 377
+4 Faerie Fencing (WOE) 90
 4 Frolicking Familiar (WOE) 226
 4 Gadwick's First Duel (WOE) 51
 4 Gallant Pie-Wielder (WOE) 15
@@ -27,12 +26,17 @@ Deck
 4 Icewrought Sentry (WOE) 55
 4 Johann, Apprentice Sorcerer (WOE) 207
 4 Knight of Doves (WOE) 19
+4 Korvold and the Noble Thief (WOE) 139
 4 Lord Skitter's Butcher (WOE) 99
 4 Monstrous Rage (WOE) 142
 4 Neva, Stalked by Nightmares (WOE) 209
+4 Night of the Sweets' Revenge (WOE) 178
 4 Obyra, Dreaming Duelist (WOE) 210
+4 Picnic Ruiner (WOE) 232
+4 Royal Treatment (WOE) 183
 4 Ruby, Daring Tracker (WOE) 212
 4 Sharae of Numbing Depths (WOE) 213
+4 Shrouded Shepherd (WOE) 236
 4 Soul-Guide Lantern (WOE) 251
 4 Stonesplitter Bolt (WOE) 151
 4 Stormkeld Vanguard (WOE) 187
@@ -42,8 +46,12 @@ Deck
 4 Taken by Nightmares (WOE) 112
 4 Tanglespan Lookout (WOE) 188
 4 Tanglespan Lookout (WOE) 379
+4 Tattered Ratter (WOE) 152
+4 The Princess Takes Flight (WOE) 23
+4 Threadbind Clique (WOE) 239
 4 Three Bowls of Porridge (WOE) 253
 4 Totentanz, Swarm Piper (WOE) 216
 4 Tough Cookie (WOE) 193
 4 Troyan, Gutsy Explorer (WOE) 217
 4 Twisted Fealty (WOE) 154
+4 Two-Headed Hunter (WOE) 155

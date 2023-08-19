@@ -1,7 +1,11 @@
 Deck
-4 "Potent Pipsqueak" (WOE) 56
-4 "Prickly Little Guy" (WOE) 164
-4 "Werefox Girlfriend" (WOE) 39
+4 "Archon of the Briar" (WOE) 1
+4 "Charming Scoundrel" (WOE) 124
+4 "Hylda's Winter Crown" (WOE) 247
+4 "Rotisserie Elemental" (WOE) 148
+4 "Theater Intermission" (WOE) 12
+4 Bramble Familiar (WOE) 164
+4 Bramble Familiar (WOE) 283
 4 Cruel Somnophage (WOE) 222
 4 Cruel Somnophage (WOE) 286
 4 Decadent Dragon (WOE) 223
@@ -17,6 +21,10 @@ Deck
 4 Farsight Ritual (WOE) 332
 4 Faunsbane Troll (WOE) 203
 4 Faunsbane Troll (WOE) 361
+4 Imodane, the Pyrohammer (WOE) 137
+4 Imodane, the Pyrohammer (WOE) 348
+4 Ingenious Prodigy (WOE) 56
+4 Ingenious Prodigy (WOE) 333
 4 Lich-Knights' Conquest (WOE) 96
 4 Lich-Knights' Conquest (WOE) 338
 4 Lich-Knights' Conquest (WOE) 380
@@ -25,6 +33,8 @@ Deck
 4 Lord Skitter's Blessing (WOE) 98
 4 Lord Skitter's Blessing (WOE) 340
 4 Lord Skitter, Sewer King (WOE) 97
+4 Lord Skitter, Sewer King (WOE) 339
+4 Raging Battle-Mouse (WOE) 143
 4 Redcap Gutter-Dweller (WOE) 146
 4 Redcap Gutter-Dweller (WOE) 351
 4 Restless Cottage (WOE) 258
@@ -51,5 +61,9 @@ Deck
 4 The Goose Mother (WOE) 362
 4 The Huntsman's Redemption (WOE) 176
 4 Three Blind Mice (WOE) 35
+================================================================================
+Deck
 4 Thunderous Debut (WOE) 190
 4 Thunderous Debut (WOE) 359
+4 Werefox Bodyguard (WOE) 39
+4 Werefox Bodyguard (WOE) 329
