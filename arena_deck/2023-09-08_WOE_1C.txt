@@ -4,10 +4,13 @@ Deck
 4 Besotted Knight (WOE) 4
 4 Brave the Wilds (WOE) 165
 4 Break the Spell (WOE) 5
+4 Charmed Clothier (WOE) 6
 4 Conceited Witch (WOE) 84
 4 Cut In (WOE) 125
 4 Evolving Wilds (WOE) 256
 4 Flick a Coin (WOE) 128
+4 Grand Ball Guest (WOE) 134
+4 Harried Spearguard (WOE) 135
 4 Hopeless Nightmare (WOE) 95
 4 Ice Out (WOE) 54
 4 Into the Fae Court (WOE) 57
@@ -27,4 +30,5 @@ Deck
 4 Torch the Tower (WOE) 153
 4 Torch the Tower (WOE) 378
 4 Troublemaker Ouphe (WOE) 194
+4 Voracious Vermin (WOE) 116
 4 Warehouse Tabby (WOE) 117
