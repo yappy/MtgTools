@@ -5,6 +5,7 @@ Deck
 4 Ash, Party Crasher (WOE) 201
 4 Ashiok's Reaper (WOE) 79
 4 Back for Seconds (WOE) 80
+4 Belligerent of the Ball (WOE) 120
 4 Bitter Chill (WOE) 44
 4 Callous Sell-Sword (WOE) 221
 4 Chancellor of Tales (WOE) 45
@@ -38,6 +39,7 @@ Deck
 4 Ruby, Daring Tracker (WOE) 212
 4 Sharae of Numbing Depths (WOE) 213
 4 Shrouded Shepherd (WOE) 236
+4 Solitary Sanctuary (WOE) 30
 4 Soul-Guide Lantern (WOE) 251
 4 Stonesplitter Bolt (WOE) 151
 4 Stormkeld Vanguard (WOE) 187

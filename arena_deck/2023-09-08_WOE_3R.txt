@@ -4,6 +4,8 @@ Deck
 4 "Hylda's Winter Crown" (WOE) 247
 4 "Rotisserie Elemental" (WOE) 148
 4 "Theater Intermission" (WOE) 12
+4 A Tale for the Ages (WOE) 34
+4 A Tale for the Ages (WOE) 328
 4 Bramble Familiar (WOE) 164
 4 Bramble Familiar (WOE) 283
 4 Cruel Somnophage (WOE) 222
@@ -59,10 +61,10 @@ Deck
 4 Tangled Colony (WOE) 113
 4 Tangled Colony (WOE) 344
 4 The Apprentice's Folly (WOE) 200
-4 The End (WOE) 87
-4 The End (WOE) 337
 ================================================================================
 Deck
+4 The End (WOE) 87
+4 The End (WOE) 337
 4 The Goose Mother (WOE) 204
 4 The Goose Mother (WOE) 362
 4 The Huntsman's Redemption (WOE) 176
