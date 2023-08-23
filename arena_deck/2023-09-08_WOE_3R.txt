@@ -1,6 +1,4 @@
 Deck
-4 "Knight of the Helix" (WOE) 228
-4 "Knight of the Helix" (WOE) 290
 4 A Tale for the Ages (WOE) 34
 4 A Tale for the Ages (WOE) 328
 4 Archon of the Wild Rose (WOE) 1
@@ -16,6 +14,8 @@ Deck
 4 Devouring Sugarmaw (WOE) 224
 4 Devouring Sugarmaw (WOE) 288
 4 Eerie Interference (WOE) 12
+4 Elusive Otter (WOE) 225
+4 Elusive Otter (WOE) 289
 4 Elvish Archivist (WOE) 168
 4 Elvish Archivist (WOE) 355
 4 Expel the Interlopers (WOE) 13
@@ -23,20 +23,29 @@ Deck
 4 Expel the Interlopers (WOE) 381
 4 Extraordinary Journey (WOE) 48
 4 Extraordinary Journey (WOE) 331
+4 Faerie Slumber Party (WOE) 311
 4 Faerie Slumber Party (WOE) 371
 4 Farsight Ritual (WOE) 49
 4 Farsight Ritual (WOE) 332
 4 Faunsbane Troll (WOE) 203
 4 Faunsbane Troll (WOE) 361
+4 Feral Encounter (WOE) 169
+4 Feral Encounter (WOE) 356
+4 Food Fight (WOE) 346
 4 Goddric, Cloaked Reveler (WOE) 132
 4 Goddric, Cloaked Reveler (WOE) 347
 4 Gruff Triplets (WOE) 172
-4 Hyldra's Crown of Winter (WOE) 247
-4 Hyldra's Crown of Winter (WOE) 367
+4 Gruff Triplets (WOE) 357
+4 Heartflame Duelist (WOE) 228
+4 Heartflame Duelist (WOE) 290
+4 Hylda's Crown of Winter (WOE) 247
+4 Hylda's Crown of Winter (WOE) 367
 4 Imodane, the Pyrohammer (WOE) 137
 4 Imodane, the Pyrohammer (WOE) 348
 4 Ingenious Prodigy (WOE) 56
 4 Ingenious Prodigy (WOE) 333
+4 Lady of Laughter (WOE) 309
+4 Lady of Laughter (WOE) 370
 4 Lich-Knights' Conquest (WOE) 96
 4 Lich-Knights' Conquest (WOE) 338
 4 Lich-Knights' Conquest (WOE) 380
@@ -46,12 +55,24 @@ Deck
 4 Lord Skitter's Blessing (WOE) 340
 4 Lord Skitter, Sewer King (WOE) 97
 4 Lord Skitter, Sewer King (WOE) 339
+4 Malevolent Witchkite (WOE) 315
+4 Malevolent Witchkite (WOE) 372
+4 Mosswood Dreadknight (WOE) 231
+4 Mosswood Dreadknight (WOE) 292
+4 Ogre Chitterlord (WOE) 319
+4 Ogre Chitterlord (WOE) 373
+================================================================================
+Deck
 4 Pollen-Shield Hare (WOE) 233
 4 Pollen-Shield Hare (WOE) 293
+4 Questing Druid (WOE) 234
+4 Questing Druid (WOE) 294
 4 Raging Battle Mouse (WOE) 143
 4 Raging Battle Mouse (WOE) 349
+4 Rankle's Prank (WOE) 102
 4 Redcap Gutter-Dweller (WOE) 146
 4 Redcap Gutter-Dweller (WOE) 351
+4 Regal Bunnicorn (WOE) 25
 4 Restless Bivouac (WOE) 257
 4 Restless Bivouac (WOE) 303
 4 Restless Cottage (WOE) 258
@@ -60,14 +81,16 @@ Deck
 4 Restless Fortress (WOE) 305
 4 Restless Spire (WOE) 260
 4 Restless Spire (WOE) 306
+4 Restless Vinestalk (WOE) 261
+4 Restless Vinestalk (WOE) 307
 4 Rotisserie Elemental (WOE) 148
-================================================================================
-Deck
 4 Rotisserie Elemental (WOE) 352
 4 Scalding Viper (WOE) 235
 4 Scalding Viper (WOE) 295
 4 Sentinel of Lost Lore (WOE) 184
 4 Sentinel of Lost Lore (WOE) 358
+4 Sleep-Cursed Faerie (WOE) 66
+4 Sleep-Cursed Faerie (WOE) 334
 4 Specter of Mortality (WOE) 107
 4 Specter of Mortality (WOE) 342
 4 Spellbook Vendor (WOE) 31
@@ -86,10 +109,14 @@ Deck
 4 The Goose Mother (WOE) 204
 4 The Goose Mother (WOE) 362
 4 The Huntsman's Redemption (WOE) 176
+4 The Irencrag (WOE) 248
+4 The Irencrag (WOE) 368
 4 Three Blind Mice (WOE) 35
 4 Thunderous Debut (WOE) 190
 4 Thunderous Debut (WOE) 359
 4 Werefox Bodyguard (WOE) 39
 4 Werefox Bodyguard (WOE) 329
+4 Wildwood Mentor (WOE) 322
+4 Wildwood Mentor (WOE) 374
 4 Yenna, Redtooth Regent (WOE) 219
 4 Yenna, Redtooth Regent (WOE) 365
