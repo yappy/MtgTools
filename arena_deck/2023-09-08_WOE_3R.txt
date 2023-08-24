@@ -13,7 +13,6 @@ Deck
 4 Decadent Dragon (WOE) 287
 4 Devouring Sugarmaw (WOE) 224
 4 Devouring Sugarmaw (WOE) 288
-4 Eerie Interference (WOE) 12
 4 Elusive Otter (WOE) 225
 4 Elusive Otter (WOE) 289
 4 Elvish Archivist (WOE) 168
@@ -31,13 +30,18 @@ Deck
 4 Faunsbane Troll (WOE) 361
 4 Feral Encounter (WOE) 169
 4 Feral Encounter (WOE) 356
+4 Food Fight (WOE) 129
 4 Food Fight (WOE) 346
 4 Goddric, Cloaked Reveler (WOE) 132
 4 Goddric, Cloaked Reveler (WOE) 347
 4 Gruff Triplets (WOE) 172
 4 Gruff Triplets (WOE) 357
+4 Gumdrop Poisoner (WOE) 93
+4 Gumdrop Poisoner (WOE) 280
 4 Heartflame Duelist (WOE) 228
 4 Heartflame Duelist (WOE) 290
+4 Horned Loch-Whale (WOE) 53
+4 Horned Loch-Whale (WOE) 278
 4 Hylda's Crown of Winter (WOE) 247
 4 Hylda's Crown of Winter (WOE) 367
 4 Imodane, the Pyrohammer (WOE) 137
@@ -57,12 +61,12 @@ Deck
 4 Lord Skitter, Sewer King (WOE) 339
 4 Malevolent Witchkite (WOE) 315
 4 Malevolent Witchkite (WOE) 372
+================================================================================
+Deck
 4 Mosswood Dreadknight (WOE) 231
 4 Mosswood Dreadknight (WOE) 292
 4 Ogre Chitterlord (WOE) 319
 4 Ogre Chitterlord (WOE) 373
-================================================================================
-Deck
 4 Pollen-Shield Hare (WOE) 233
 4 Pollen-Shield Hare (WOE) 293
 4 Questing Druid (WOE) 234
@@ -70,9 +74,11 @@ Deck
 4 Raging Battle Mouse (WOE) 143
 4 Raging Battle Mouse (WOE) 349
 4 Rankle's Prank (WOE) 102
+4 Rankle's Prank (WOE) 341
 4 Redcap Gutter-Dweller (WOE) 146
 4 Redcap Gutter-Dweller (WOE) 351
 4 Regal Bunnicorn (WOE) 25
+4 Regal Bunnicorn (WOE) 326
 4 Restless Bivouac (WOE) 257
 4 Restless Bivouac (WOE) 303
 4 Restless Cottage (WOE) 258
@@ -91,6 +97,8 @@ Deck
 4 Sentinel of Lost Lore (WOE) 358
 4 Sleep-Cursed Faerie (WOE) 66
 4 Sleep-Cursed Faerie (WOE) 334
+4 Song of Totentanz (WOE) 150
+4 Song of Totentanz (WOE) 353
 4 Specter of Mortality (WOE) 107
 4 Specter of Mortality (WOE) 342
 4 Spellbook Vendor (WOE) 31
@@ -114,7 +122,11 @@ Deck
 4 Three Blind Mice (WOE) 35
 4 Thunderous Debut (WOE) 190
 4 Thunderous Debut (WOE) 359
+4 Twining Twins (WOE) 240
+4 Twining Twins (WOE) 296
 4 Werefox Bodyguard (WOE) 39
+================================================================================
+Deck
 4 Werefox Bodyguard (WOE) 329
 4 Wildwood Mentor (WOE) 322
 4 Wildwood Mentor (WOE) 374

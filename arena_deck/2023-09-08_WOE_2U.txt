@@ -1,5 +1,4 @@
 Deck
-4 "Gingerbread Hunter" (WOE) 227
 4 Agatha's Champion (WOE) 160
 4 Ash, Party Crasher (WOE) 201
 4 Ashiok's Reaper (WOE) 79
@@ -19,6 +18,7 @@ Deck
 4 Dream Spoilers (WOE) 85
 4 Dutiful Griffin (WOE) 11
 4 Edgewall Inn (WOE) 255
+4 Eerie Interference (WOE) 12
 4 Ego Drain (WOE) 86
 4 Embereth Veteran (WOE) 127
 4 Eriette's Tempting Apple (WOE) 245
@@ -31,12 +31,14 @@ Deck
 4 Gadwick's First Duel (WOE) 51
 4 Gallant Pie-Wielder (WOE) 15
 4 Galvanic Giant (WOE) 52
+4 Gingerbread Hunter (WOE) 227
 4 Glass Casket (WOE) 16
 4 Graceful Takedown (WOE) 171
 4 Greta, Sweettooth Scourge (WOE) 205
 4 Hearth Elemental (WOE) 136
 4 Howling Galefang (WOE) 175
 4 Icewrought Sentry (WOE) 55
+4 Imodane's Recruiter (WOE) 229
 4 Intrepid Trufflesnout (WOE) 320
 4 Johann, Apprentice Sorcerer (WOE) 207
 4 Knight of Doves (WOE) 19
@@ -59,10 +61,10 @@ Deck
 4 Shrouded Shepherd (WOE) 236
 4 Solitary Sanctuary (WOE) 30
 4 Soul-Guide Lantern (WOE) 251
-4 Spellscorn Coven (WOE) 237
-4 Splashy Spellcaster (WOE) 70
 ================================================================================
 Deck
+4 Spellscorn Coven (WOE) 237
+4 Splashy Spellcaster (WOE) 70
 4 Stonesplitter Bolt (WOE) 151
 4 Stormkeld Vanguard (WOE) 187
 4 Storyteller Pixie (WOE) 313

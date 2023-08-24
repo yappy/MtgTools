@@ -26,6 +26,7 @@ Deck
 4 Mocking Sprite (WOE) 62
 4 Not Dead After All (WOE) 101
 4 Prophetic Prism (WOE) 249
+4 Quick Study (WOE) 65
 4 Rat Out (WOE) 103
 4 Ratcatcher Trainee (WOE) 144
 4 Return Triumphant (WOE) 26
