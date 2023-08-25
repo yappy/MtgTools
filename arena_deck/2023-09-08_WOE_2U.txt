@@ -1,5 +1,6 @@
 Deck
 4 Agatha's Champion (WOE) 160
+4 Archive Dragon (WOE) 41
 4 Ash, Party Crasher (WOE) 201
 4 Ashiok's Reaper (WOE) 79
 4 Back for Seconds (WOE) 80
@@ -36,6 +37,7 @@ Deck
 4 Graceful Takedown (WOE) 171
 4 Greta, Sweettooth Scourge (WOE) 205
 4 Hearth Elemental (WOE) 136
+4 High Fae Negotiator (WOE) 94
 4 Howling Galefang (WOE) 175
 4 Icewrought Sentry (WOE) 55
 4 Imodane's Recruiter (WOE) 229
@@ -59,10 +61,10 @@ Deck
 4 Ruby, Daring Tracker (WOE) 212
 4 Sharae of Numbing Depths (WOE) 213
 4 Shrouded Shepherd (WOE) 236
-4 Solitary Sanctuary (WOE) 30
-4 Soul-Guide Lantern (WOE) 251
 ================================================================================
 Deck
+4 Solitary Sanctuary (WOE) 30
+4 Soul-Guide Lantern (WOE) 251
 4 Spellscorn Coven (WOE) 237
 4 Splashy Spellcaster (WOE) 70
 4 Stonesplitter Bolt (WOE) 151
@@ -77,6 +79,7 @@ Deck
 4 Tanglespan Lookout (WOE) 379
 4 Tattered Ratter (WOE) 152
 4 Tempest Hart (WOE) 238
+4 Tenacious Tomeseeker (WOE) 74
 4 The Princess Takes Flight (WOE) 23
 4 The Witch's Vanity (WOE) 119
 4 Threadbind Clique (WOE) 239
