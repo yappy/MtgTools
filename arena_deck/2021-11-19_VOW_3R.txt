@@ -1,7 +1,6 @@
 Deck
 4 A-Dorothea, Vengeful Victim (VOW) A-235
 4 A-Dreamshackle Geist (VOW) A-58
-4 A-Hullbreaker Horror (VOW) A-63
 4 Alchemist's Gambit (VOW) 140
 4 Alchemist's Gambit (VOW) 374
 4 Anje, Maid of Dishonor (VOW) 231
@@ -61,9 +60,9 @@ Deck
 4 Grolnok, the Omnivore (VOW) 238
 4 Grolnok, the Omnivore (VOW) 324
 4 Halana and Alena, Partners (VOW) 239
+4 Halana and Alena, Partners (VOW) 325
 ================================================================================
 Deck
-4 Halana and Alena, Partners (VOW) 325
 4 Hamlet Vanguard (VOW) 201
 4 Hamlet Vanguard (VOW) 389
 4 Headless Rider (VOW) 118
@@ -125,9 +124,9 @@ Deck
 4 Thalia, Guardian of Thraben (VOW) 318
 4 Thalia, Guardian of Thraben (VOW) 331
 4 Torens, Fist of the Angels (VOW) 249
+4 Torens, Fist of the Angels (VOW) 328
 ================================================================================
 Deck
-4 Torens, Fist of the Angels (VOW) 328
 4 Torens, Fist of the Angels (VOW) 344
 4 Ulvenwald Oddity (VOW) 225
 4 Ulvenwald Oddity (VOW) 394

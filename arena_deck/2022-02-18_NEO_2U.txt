@@ -3,7 +3,6 @@ Deck
 4 A-Circuit Mender (NEO) A-242
 4 A-Dokuchi Silencer (NEO) A-95
 4 A-Futurist Operative (NEO) A-53
-4 A-Kumano Faces Kakkazan (NEO) A-152
 4 A-Nezumi Prowler (NEO) A-116
 4 A-Prosperous Thief (NEO) A-73
 4 A-Silver-Fur Master (NEO) A-236
@@ -61,9 +60,9 @@ Deck
 4 Kappa Tech-Wrecker (NEO) 198
 4 Kappa Tech-Wrecker (NEO) 348
 4 Kumano Faces Kakkazan (NEO) 152
+4 Leech Gauntlet (NEO) 106
 ================================================================================
 Deck
-4 Leech Gauntlet (NEO) 106
 4 Life of Toshiro Umezawa (NEO) 108
 4 Malicious Malfunction (NEO) 110
 4 Mech Hangar (NEO) 270
