@@ -3,6 +3,7 @@ Deck
 4 Darigaaz Reincarnated (DOM) 193
 4 Demonlord Belzenlok (DOM) 86
 4 History of Benalia (DOM) 21
+4 History of Benalia (DOM) 21y
 4 Jaya Ballard (DOM) 132
 4 Jhoira, Weatherlight Captain (DOM) 197
 4 Karn, Scion of Urza (DOM) 1
