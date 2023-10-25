@@ -1,1 +1,15 @@
 Deck
+4 Broodrage Mycoid (LCI) 95
+4 Didact Echo (LCI) 53
+4 Dinotomaton (LCI) 144
+4 Hidden Cataract (LCI) 273
+4 Hidden Courtyard (LCI) 274
+4 Hidden Necropolis (LCI) 275
+4 Hidden Nursery (LCI) 276
+4 Hidden Volcano (LCI) 277
+4 Idol of the Deep King (LCI) 155
+4 Miner's Guidewing (LCI) 24
+4 Poison Dart Frog (LCI) 999-PDF
+4 Rampaging Spiketail (LCI) 116
+4 Song of Stupefaction (LCI) 77
+4 Waterwind Scout (LCI) 84

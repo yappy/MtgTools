@@ -1,4 +1,7 @@
 Deck
+4 Bloodletter of Aclazotz (LCI) 92
+4 Bonehoard Dracosaur (LCI) 134
+4 Bonehoard Dracosaur (LCI) 321
 4 Cavern of Souls (LCI) 269
 4 Cavern of Souls (LCI) 345
 4 Cavern of Souls (LCI) 410a
@@ -9,8 +12,25 @@ Deck
 4 Cavern of Souls (LCI) 410f
 4 Ghalta, Stampede Tyrant (LCI) 185
 4 Ghalta, Stampede Tyrant (LCI) 326
+4 Gishath, Sun's Avatar (LCI) 229
+4 Gishath, Sun's Avatar (LCI) 330
 4 Huatli, Poet of Unity (LCI) 189
+4 Huatli, Poet of Unity (LCI) 296
+4 Huatli, Poet of Unity (LCI) 339
 4 Ojer Axonil, Deepest Might (LCI) 158
 4 Ojer Axonil, Deepest Might (LCI) 317
+4 Ojer Taq, Deepest Foundation (LCI) 26
+4 Ojer Taq, Deepest Foundation (LCI) 314
+4 Quintorius Kand (LCI) 238
+4 Quintorius Kand (LCI) 307
+4 Quintorius Kand (LCI) 352
+4 Saheeli, the Sun's Brilliance (LCI) 239
+4 Saheeli, the Sun's Brilliance (LCI) 308
+4 The Enigma Jewel (LCI) 55
+4 The Enigma Jewel (LCI) 362
+4 The Mycotyrant (LCI) 235
+4 The Mycotyrant (LCI) 305
 4 The Skullspore Nexus (LCI) 212
 4 The Skullspore Nexus (LCI) 340
+4 Vito, Fanatic of Aclazotz (LCI) 243
+4 Vito, Fanatic of Aclazotz (LCI) 311

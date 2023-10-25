@@ -1,1 +1,20 @@
 Deck
+4 Bartolomé del Presidio (LCI) 224
+4 Bartolomé del Presidio (LCI) 301
+4 Bartolomé del Presidio (LCI) 409
+4 Cavernous Maw (LCI) 270
+4 Cenote Scout (LCI) 178
+4 Cenote Scout (LCI) 408
+4 Chart a Course (LCI) 48
+4 Deep-Cavern Bat (LCI) 102
+4 Deep-Cavern Bat (LCI) 406
+4 Geological Appraiser (LCI) 150
+4 Geological Appraiser (LCI) 407
+4 Oltec Cloud Guard (LCI) 999-OCG
+4 Sinuous Benthisaur (LCI) 76
+4 Spring-Loaded Sawblades (LCI) 36
+4 Spyglass Siren (LCI) 78
+4 Spyglass Siren (LCI) 405
+4 Thrashing Brontodon (LCI) 999-TB
+4 Uchbenbak, the Great Mistake (LCI) 242
+4 Uchbenbak, the Great Mistake (LCI) 310

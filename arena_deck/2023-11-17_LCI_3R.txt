@@ -1,4 +1,32 @@
 Deck
+4 Abuelo, Ancestral Echo (LCI) 219
+4 Abuelo, Ancestral Echo (LCI) 297
 4 Breeches, Eager Pillager (LCI) 137
 4 Breeches, Eager Pillager (LCI) 294
+4 Bringer of the Last Gift (LCI) 94
+4 Cosmium Confluence (LCI) 181
+4 Cosmium Confluence (LCI) 379
+4 Growing Rites of Itlimoc (LCI) 188
+4 Growing Rites of Itlimoc (LCI) 380
+4 Hit the Mother Lode (LCI) 153
+4 Hit the Mother Lode (LCI) 375
+4 Hit the Mother Lode (LCI) 404
+4 Intrepid Paleontologist (LCI) 193
+4 Intrepid Paleontologist (LCI) 381
+4 Jadelight Spelunker (LCI) 196
+4 Jadelight Spelunker (LCI) 382
+4 Jadelight Spelunker (LCI) 403
 4 Kellan, Daring Traveler (LCI) 231
+4 Kellan, Daring Traveler (LCI) 341
+4 Malcolm, Alluring Scoundrel (LCI) 63
+4 Malcolm, Alluring Scoundrel (LCI) 293
+4 Restless Prairie (LCI) 281
+4 Restless Prairie (LCI) 348
+4 Souls of the Lost (LCI) 121
+4 Souls of the Lost (LCI) 369
+4 The Everflowing Well (LCI) 56
+4 The Everflowing Well (LCI) 363
+4 Throne of the Grim Captain (LCI) 266
+4 Throne of the Grim Captain (LCI) 313
+4 Treasure Map (LCI) 261
+4 Treasure Map (LCI) 391
