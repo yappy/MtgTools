@@ -9,7 +9,8 @@ Deck
 4 Hidden Volcano (LCI) 277
 4 Idol of the Deep King (LCI) 155
 4 Miner's Guidewing (LCI) 24
-4 Poison Dart Frog (LCI) 999-PDF
+4 Poison Dart Frog (LCI) 207
 4 Rampaging Spiketail (LCI) 116
+4 Skullcap Snail (LCI) 999?
 4 Song of Stupefaction (LCI) 77
 4 Waterwind Scout (LCI) 84

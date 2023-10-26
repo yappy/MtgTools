@@ -1,4 +1,7 @@
 Deck
+4 "Doomsday Calendar" (LCI) 257
+4 Aclazotz, Deepest Betrayal (LCI) 88
+4 Aclazotz, Deepest Betrayal (LCI) 316
 4 Bloodletter of Aclazotz (LCI) 92
 4 Bonehoard Dracosaur (LCI) 134
 4 Bonehoard Dracosaur (LCI) 321
@@ -26,6 +29,8 @@ Deck
 4 Quintorius Kand (LCI) 352
 4 Saheeli, the Sun's Brilliance (LCI) 239
 4 Saheeli, the Sun's Brilliance (LCI) 308
+4 Sovereign Okinec Ahau (LCI) 240
+4 Sovereign Okinec Ahau (LCI) 309
 4 The Enigma Jewel (LCI) 55
 4 The Enigma Jewel (LCI) 362
 4 The Mycotyrant (LCI) 235
