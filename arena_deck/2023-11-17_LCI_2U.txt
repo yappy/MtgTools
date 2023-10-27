@@ -1,32 +1,40 @@
 Deck
-4 "Explorer's Stash" (LCI) 184
+4 "A Bat! Wow!" (LCI) 33
 4 "Fracturing Mage" (LCI) 8
-4 "Goldfury Strider" (LCI) 152
 4 "Hermit Nautilus" (LCI) 58
+4 "Master's Mural" (LCI) 233
 4 "Ubercrab" (LCI) 87
 4 Bartolomé del Presidio (LCI) 224
 4 Bartolomé del Presidio (LCI) 301
 4 Bartolomé del Presidio (LCI) 409
+4 Captain Storm, Plunderer of Cosmium (LCI) 227
+4 Captain Storm, Plunderer of Cosmium (LCI) 303
 4 Careening Mine Cart (LCI) 247
 4 Cavernous Maw (LCI) 270
 4 Cenote Scout (LCI) 178
 4 Cenote Scout (LCI) 408
 4 Chart a Course (LCI) 48
 4 Coati Scavenger (LCI) 179
+4 Confounding Riddle (LCI) 50
 4 Deep-Cavern Bat (LCI) 102
 4 Deep-Cavern Bat (LCI) 406
+4 Digsite Conservator (LCI) 252
+4 Explorer's Stash (LCI) 184
 4 Geological Appraiser (LCI) 150
 4 Geological Appraiser (LCI) 407
+4 Goldfury Strider (LCI) 152
 4 Kinjalli's Dawnrunner (LCI) 19
 4 Mischievous Pup (LCI) 25
-4 Oltec Cloud Guard (LCI) 28
 4 Sinuous Benthisaur (LCI) 76
+4 Soulcoil Viper (LCI) 120
 4 Spelunking (LCI) 213
 4 Spring-Loaded Sawblades (LCI) 36
 4 Spyglass Siren (LCI) 78
 4 Spyglass Siren (LCI) 405
+4 Staunch Crewmate (LCI) 79
 4 Sunbird Standard (LCI) 262
 4 Thrashing Brontodon (LCI) 216
 4 Thrashing Brontodon (LCI) 329
 4 Uchbenbak, the Great Mistake (LCI) 242
 4 Uchbenbak, the Great Mistake (LCI) 310
+4 Well of Offerings (LCI) 278

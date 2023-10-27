@@ -1,10 +1,15 @@
 Deck
 4 "Dire Fleet Flail" (LCI) 145
 4 "Headlong Bonkasaurus" (LCI) 208
+4 "Poetic Ingenuity" (LCI) 161
 4 "Sheikah Guardian" (LCI) 258
-4 "Very Judgmental Rock" (LCI) 41
+4 "Sunken Citadel" (LCI) 285
+4 "Tishana's Tidebinder" (LCI) 81
 4 Abuelo, Ancestral Echo (LCI) 219
 4 Abuelo, Ancestral Echo (LCI) 297
+4 Amalia Benavides Aguirre (LCI) 221
+4 Amalia Benavides Aguirre (LCI) 299
+4 Bedrock Tortoise (LCI) 176
 4 Breeches, Eager Pillager (LCI) 137
 4 Breeches, Eager Pillager (LCI) 294
 4 Bringer of the Last Gift (LCI) 94
@@ -12,6 +17,9 @@ Deck
 4 Cosmium Confluence (LCI) 181
 4 Cosmium Confluence (LCI) 379
 4 Deeproot Pilgrimage (LCI) 52
+4 Deeproot Pilgrimage (LCI) 361
+4 Get Lost (LCI) 14
+4 Get Lost (LCI) 333
 4 Growing Rites of Itlimoc (LCI) 188
 4 Growing Rites of Itlimoc (LCI) 380
 4 Hit the Mother Lode (LCI) 153
@@ -27,18 +35,33 @@ Deck
 4 Malcolm, Alluring Scoundrel (LCI) 63
 4 Malcolm, Alluring Scoundrel (LCI) 293
 4 Matzalantli, the Great Door (LCI) 256
+4 Matzalantli, the Great Door (LCI) 387
+4 Palani's Hatcher (LCI) 237
+4 Palani's Hatcher (LCI) 332
 4 Preacher of the Schism (LCI) 113
+4 Preacher of the Schism (LCI) 367
 4 Restless Prairie (LCI) 281
 4 Restless Prairie (LCI) 348
 4 Sanguine Evangelist (LCI) 34
+4 Sanguine Evangelist (LCI) 356
 4 Souls of the Lost (LCI) 121
 4 Souls of the Lost (LCI) 369
+4 Stalactite Stalker (LCI) 122
+4 Stalactite Stalker (LCI) 370
 4 Tarrian's Journal (LCI) 126
 4 Tarrian's Journal (LCI) 371
+4 Terror Tide (LCI) 372
+4 The Belligerent (LCI) 225
+4 The Belligerent (LCI) 384
 4 The Everflowing Well (LCI) 56
 4 The Everflowing Well (LCI) 363
+4 Threefold Thunderhulk (LCI) 265
 4 Threefold Thunderhulk (LCI) 390
 4 Throne of the Grim Captain (LCI) 266
 4 Throne of the Grim Captain (LCI) 313
-4 Treasure Map (LCI) 261
+4 Treasure Map (LCI) 267
 4 Treasure Map (LCI) 391
+================================================================================
+Deck
+4 Unstable Glyphbridge (LCI) 41
+4 Unstable Glyphbridge (LCI) 358
