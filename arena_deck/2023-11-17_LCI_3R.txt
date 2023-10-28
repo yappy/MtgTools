@@ -1,15 +1,15 @@
 Deck
-4 "Dire Fleet Flail" (LCI) 145
-4 "Headlong Bonkasaurus" (LCI) 208
-4 "Poetic Ingenuity" (LCI) 161
+4 "Collapsible Schooner" (LCI) 80
 4 "Sheikah Guardian" (LCI) 258
-4 "Sunken Citadel" (LCI) 285
 4 "Tishana's Tidebinder" (LCI) 81
 4 Abuelo, Ancestral Echo (LCI) 219
 4 Abuelo, Ancestral Echo (LCI) 297
 4 Amalia Benavides Aguirre (LCI) 221
 4 Amalia Benavides Aguirre (LCI) 299
 4 Bedrock Tortoise (LCI) 176
+4 Bedrock Tortoise (LCI) 378
+4 Braided Net (LCI) 360
+4 Brass's Tunnel-Grinder (LCI) 135
 4 Breeches, Eager Pillager (LCI) 137
 4 Breeches, Eager Pillager (LCI) 294
 4 Bringer of the Last Gift (LCI) 94
@@ -18,6 +18,8 @@ Deck
 4 Cosmium Confluence (LCI) 379
 4 Deeproot Pilgrimage (LCI) 52
 4 Deeproot Pilgrimage (LCI) 361
+4 Dire Flail (LCI) 145
+4 Dire Flail (LCI) 374
 4 Get Lost (LCI) 14
 4 Get Lost (LCI) 333
 4 Growing Rites of Itlimoc (LCI) 188
@@ -25,6 +27,8 @@ Deck
 4 Hit the Mother Lode (LCI) 153
 4 Hit the Mother Lode (LCI) 375
 4 Hit the Mother Lode (LCI) 404
+4 Inti, Seneschal of the Sun (LCI) 156
+4 Inti, Seneschal of the Sun (LCI) 295
 4 Intrepid Paleontologist (LCI) 193
 4 Intrepid Paleontologist (LCI) 381
 4 Jadelight Spelunker (LCI) 196
@@ -32,24 +36,43 @@ Deck
 4 Jadelight Spelunker (LCI) 403
 4 Kellan, Daring Traveler (LCI) 231
 4 Kellan, Daring Traveler (LCI) 341
+4 Kitesail Larcenist (LCI) 61
+4 Kitesail Larcenist (LCI) 364
 4 Malcolm, Alluring Scoundrel (LCI) 63
 4 Malcolm, Alluring Scoundrel (LCI) 293
 4 Matzalantli, the Great Door (LCI) 256
 4 Matzalantli, the Great Door (LCI) 387
 4 Palani's Hatcher (LCI) 237
 4 Palani's Hatcher (LCI) 332
+4 Poetic Ingenuity (LCI) 161
+4 Poetic Ingenuity (LCI) 377
 4 Preacher of the Schism (LCI) 113
 4 Preacher of the Schism (LCI) 367
+4 Pugnacious Hammerskull (LCI) 208
+4 Pugnacious Hammerskull (LCI) 328
+4 Queen's Bay Paladin (LCI) 115
+4 Queen's Bay Paladin (LCI) 368
+4 Restless Anchorage (LCI) 280
+4 Restless Anchorage (LCI) 347
 4 Restless Prairie (LCI) 281
 4 Restless Prairie (LCI) 348
+4 Restless Ridgeline (LCI) 283
+4 Restless Ridgeline (LCI) 350
+4 Restless Vents (LCI) 284
+4 Restless Vents (LCI) 351
 4 Sanguine Evangelist (LCI) 34
+================================================================================
+Deck
 4 Sanguine Evangelist (LCI) 356
 4 Souls of the Lost (LCI) 121
 4 Souls of the Lost (LCI) 369
 4 Stalactite Stalker (LCI) 122
 4 Stalactite Stalker (LCI) 370
+4 Sunken Citadel (LCI) 285
+4 Sunken Citadel (LCI) 392
 4 Tarrian's Journal (LCI) 126
 4 Tarrian's Journal (LCI) 371
+4 Terror Tide (LCI) 127
 4 Terror Tide (LCI) 372
 4 The Belligerent (LCI) 225
 4 The Belligerent (LCI) 384
@@ -61,7 +84,5 @@ Deck
 4 Throne of the Grim Captain (LCI) 313
 4 Treasure Map (LCI) 267
 4 Treasure Map (LCI) 391
-================================================================================
-Deck
 4 Unstable Glyphbridge (LCI) 41
 4 Unstable Glyphbridge (LCI) 358

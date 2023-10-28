@@ -1,5 +1,6 @@
 Deck
 4 Broodrage Mycoid (LCI) 95
+4 Compass Gnome (LCI) 250
 4 Didact Echo (LCI) 53
 4 Dinotomaton (LCI) 144
 4 Hidden Cataract (LCI) 273
@@ -9,8 +10,10 @@ Deck
 4 Hidden Volcano (LCI) 277
 4 Idol of the Deep King (LCI) 155
 4 Miner's Guidewing (LCI) 24
+4 Nurturing Bristleback (LCI) 203
 4 Nurturing Bristleback (LCI) 999?
 4 Oltec Cloud Guard (LCI) 28
+4 Pathfinding Axejaw (LCI) 999-PA
 4 Poison Dart Frog (LCI) 207
 4 Rampaging Spiketail (LCI) 116
 4 Skullcap Snail (LCI) 119
