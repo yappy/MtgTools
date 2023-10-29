@@ -1,8 +1,11 @@
 Deck
 4 "A Bat! Wow!" (LCI) 33
 4 "Dunna Nunna Nunna Bat Cave" (LCI) 5
+4 "Leech Life" (LCI) 107
+4 "Nooks and Crannies" (LCI) 217
 4 "Scytheclaw Raptor" (LCI) 165
 4 "Scytheclaw Raptor" (LCI) 323
+4 "Self Reflection" (LCI) 74
 4 "Selfie-Stick Arcanist" (LCI) 141
 4 Abyssal Gorestalker (LCI) 87
 4 Bartolomé del Presidio (LCI) 224
@@ -17,6 +20,7 @@ Deck
 4 Chart a Course (LCI) 48
 4 Clay-Fired Bricks (LCI) 6
 4 Coati Scavenger (LCI) 179
+4 Colossadactyl (LCI) 180
 4 Confounding Riddle (LCI) 50
 4 Dauntless Dismantler (LCI) 8
 4 Deep-Cavern Bat (LCI) 102
@@ -36,6 +40,7 @@ Deck
 4 Hurl into History (LCI) 59
 4 Kinjalli's Dawnrunner (LCI) 19
 4 Malamet War Scribe (LCI) 21
+4 Market Gnome (LCI) 22
 4 Master's Guide-Mural (LCI) 233
 4 Mischievous Pup (LCI) 25
 4 Pit of Offerings (LCI) 278

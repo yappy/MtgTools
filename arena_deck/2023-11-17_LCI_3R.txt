@@ -38,6 +38,8 @@ Deck
 4 Kellan, Daring Traveler (LCI) 341
 4 Kitesail Larcenist (LCI) 61
 4 Kitesail Larcenist (LCI) 364
+4 Magmatic Galleon (LCI) 157
+4 Magmatic Galleon (LCI) 376
 4 Malcolm, Alluring Scoundrel (LCI) 63
 4 Malcolm, Alluring Scoundrel (LCI) 293
 4 Matzalantli, the Great Door (LCI) 256
@@ -59,10 +61,10 @@ Deck
 4 Restless Ridgeline (LCI) 283
 4 Restless Ridgeline (LCI) 350
 4 Restless Vents (LCI) 284
-4 Restless Vents (LCI) 351
-4 Sanguine Evangelist (LCI) 34
 ================================================================================
 Deck
+4 Restless Vents (LCI) 351
+4 Sanguine Evangelist (LCI) 34
 4 Sanguine Evangelist (LCI) 356
 4 Souls of the Lost (LCI) 121
 4 Souls of the Lost (LCI) 369
