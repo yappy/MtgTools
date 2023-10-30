@@ -11,6 +11,9 @@ Deck
 4 Bartolomé del Presidio (LCI) 224
 4 Bartolomé del Presidio (LCI) 301
 4 Bartolomé del Presidio (LCI) 409
+4 Belligerent Yearling (LCI) 133
+4 Belligerent Yearling (LCI) 320
+4 Bloodthorn Flail (LCI) 93
 4 Captain Storm, Cosmium Raider (LCI) 227
 4 Captain Storm, Cosmium Raider (LCI) 303
 4 Careening Mine Cart (LCI) 247
@@ -28,6 +31,7 @@ Deck
 4 Defossilize (LCI) 103
 4 Digsite Conservator (LCI) 252
 4 Dowsing Device (LCI) 146
+4 Dusk Rose Reliquary (LCI) 10
 4 Earthshaker Dreadmaw (LCI) 183
 4 Earthshaker Dreadmaw (LCI) 325
 4 Enterprising Scallywag (LCI) 148
@@ -43,7 +47,11 @@ Deck
 4 Market Gnome (LCI) 22
 4 Master's Guide-Mural (LCI) 233
 4 Mischievous Pup (LCI) 25
+4 Nicanzil, Current Conductor (LCI) 236
+4 Nicanzil, Current Conductor (LCI) 306
 4 Pit of Offerings (LCI) 278
+4 Rampaging Ceratops (LCI) 162
+4 Rampaging Ceratops (LCI) 322
 4 Sinuous Benthisaur (LCI) 76
 4 Soulcoil Viper (LCI) 120
 4 Spelunking (LCI) 213
@@ -53,6 +61,8 @@ Deck
 4 Staunch Crewmate (LCI) 79
 4 Sunbird Standard (LCI) 262
 4 Thrashing Brontodon (LCI) 216
+================================================================================
+Deck
 4 Thrashing Brontodon (LCI) 329
 4 Uchbenbak, the Great Mistake (LCI) 242
 4 Uchbenbak, the Great Mistake (LCI) 310
