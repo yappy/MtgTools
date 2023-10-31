@@ -1,4 +1,6 @@
 Deck
+4 "Sleepy Sam" (LCI) 222
+4 "Sleepy Sam" (LCI) 319
 4 Aclazotz, Deepest Betrayal (LCI) 88
 4 Aclazotz, Deepest Betrayal (LCI) 316
 4 Bloodletter of Aclazotz (LCI) 92
@@ -13,6 +15,7 @@ Deck
 4 Cavern of Souls (LCI) 410d
 4 Cavern of Souls (LCI) 410e
 4 Cavern of Souls (LCI) 410f
+4 Chimil, the Inner Sun (LCI) 249
 4 Ghalta, Stampede Tyrant (LCI) 185
 4 Ghalta, Stampede Tyrant (LCI) 326
 4 Gishath, Sun's Avatar (LCI) 229
@@ -30,6 +33,7 @@ Deck
 4 Quintorius Kand (LCI) 307
 4 Quintorius Kand (LCI) 352
 4 Resplendent Angel (LCI) 32
+4 Resplendent Angel (LCI) 334
 4 Saheeli, the Sun's Brilliance (LCI) 239
 4 Saheeli, the Sun's Brilliance (LCI) 308
 4 Sovereign Okinec Ahau (LCI) 240

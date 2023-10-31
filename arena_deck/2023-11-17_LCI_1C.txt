@@ -13,7 +13,7 @@ Deck
 4 Nurturing Bristleback (LCI) 203
 4 Nurturing Bristleback (LCI) 999?
 4 Oltec Cloud Guard (LCI) 28
-4 Pathfinding Axejaw (LCI) 999-PA
+4 Pathfinding Axejaw (LCI) 206
 4 Poison Dart Frog (LCI) 207
 4 Rampaging Spiketail (LCI) 116
 4 Skullcap Snail (LCI) 119
