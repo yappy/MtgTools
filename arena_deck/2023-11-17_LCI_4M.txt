@@ -1,6 +1,4 @@
 Deck
-4 "Sleepy Sam" (LCI) 222
-4 "Sleepy Sam" (LCI) 319
 4 Aclazotz, Deepest Betrayal (LCI) 88
 4 Aclazotz, Deepest Betrayal (LCI) 316
 4 Bloodletter of Aclazotz (LCI) 92
@@ -25,6 +23,8 @@ Deck
 4 Huatli, Poet of Unity (LCI) 339
 4 Ojer Axonil, Deepest Might (LCI) 158
 4 Ojer Axonil, Deepest Might (LCI) 317
+4 Ojer Kaslem, Deepest Growth (LCI) 204
+4 Ojer Kaslem, Deepest Growth (LCI) 318
 4 Ojer Pakpatiq, Deepest Epoch (LCI) 67
 4 Ojer Pakpatiq, Deepest Epoch (LCI) 315
 4 Ojer Taq, Deepest Foundation (LCI) 26
@@ -38,6 +38,8 @@ Deck
 4 Saheeli, the Sun's Brilliance (LCI) 308
 4 Sovereign Okinec Ahau (LCI) 240
 4 Sovereign Okinec Ahau (LCI) 309
+4 The Ancient One (LCI) 222
+4 The Ancient One (LCI) 319
 4 The Enigma Jewel (LCI) 55
 4 The Enigma Jewel (LCI) 362
 4 The Millennium Calendar (LCI) 257

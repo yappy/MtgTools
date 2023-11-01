@@ -1,5 +1,10 @@
 Deck
+4 "Inverted Iceberg" (LCI) 60
+4 "JELL-O® Discovery" (LCI) 279
+4 "Oteclan Arch" (LCI) 29
+4 "Three Cans of Mounutain Dew" (LCI) 195
 4 Broodrage Mycoid (LCI) 95
+4 Cogwork Wrestler (LCI) 49
 4 Compass Gnome (LCI) 250
 4 Didact Echo (LCI) 53
 4 Dinotomaton (LCI) 144
@@ -14,6 +19,7 @@ Deck
 4 Nurturing Bristleback (LCI) 999?
 4 Oltec Cloud Guard (LCI) 28
 4 Pathfinding Axejaw (LCI) 206
+4 Petrify (LCI) 30
 4 Poison Dart Frog (LCI) 207
 4 Rampaging Spiketail (LCI) 116
 4 Skullcap Snail (LCI) 119

@@ -1,7 +1,5 @@
 Deck
-4 "I FORGOT MY WALLET" (LCI) 343
-4 "Skullficionado" (LCI) 123
-4 "Skullficionado" (LCI) 338
+4 "Dragon Runway Controller" (LCI) 43
 4 Abuelo, Ancestral Echo (LCI) 219
 4 Abuelo, Ancestral Echo (LCI) 297
 4 Akal Pakal, First Among Equals (LCI) 44
@@ -18,14 +16,20 @@ Deck
 4 Breeches, Eager Pillager (LCI) 294
 4 Bringer of the Last Gift (LCI) 94
 4 Bringer of the Last Gift (LCI) 337
+4 Corpses of the Lost (LCI) 98
+4 Corpses of the Lost (LCI) 366
 4 Cosmium Confluence (LCI) 181
 4 Cosmium Confluence (LCI) 379
+4 Deepfathom Echo (LCI) 228
+4 Deepfathom Echo (LCI) 385
 4 Deeproot Pilgrimage (LCI) 52
 4 Deeproot Pilgrimage (LCI) 361
 4 Dire Flail (LCI) 145
 4 Dire Flail (LCI) 374
 4 Echoing Deeps (LCI) 271
 4 Echoing Deeps (LCI) 346
+4 Fabrication Foundry (LCI) 12
+4 Fabrication Foundry (LCI) 354
 4 Get Lost (LCI) 14
 4 Get Lost (LCI) 333
 4 Growing Rites of Itlimoc (LCI) 188
@@ -44,6 +48,8 @@ Deck
 4 Kellan, Daring Traveler (LCI) 341
 4 Kitesail Larcenist (LCI) 61
 4 Kitesail Larcenist (LCI) 364
+4 Kutzil's Flanker (LCI) 20
+4 Kutzil's Flanker (LCI) 355
 4 Magmatic Galleon (LCI) 157
 4 Magmatic Galleon (LCI) 376
 4 Malcolm, Alluring Scoundrel (LCI) 63
@@ -55,14 +61,14 @@ Deck
 4 Palani's Hatcher (LCI) 237
 4 Palani's Hatcher (LCI) 332
 4 Poetic Ingenuity (LCI) 161
+================================================================================
+Deck
 4 Poetic Ingenuity (LCI) 377
 4 Preacher of the Schism (LCI) 113
 4 Preacher of the Schism (LCI) 367
 4 Pugnacious Hammerskull (LCI) 208
 4 Pugnacious Hammerskull (LCI) 328
 4 Queen's Bay Paladin (LCI) 115
-================================================================================
-Deck
 4 Queen's Bay Paladin (LCI) 368
 4 Restless Anchorage (LCI) 280
 4 Restless Anchorage (LCI) 347
@@ -79,12 +85,15 @@ Deck
 4 Sanguine Evangelist (LCI) 34
 4 Sanguine Evangelist (LCI) 356
 4 Sentinel of the Nameless City (LCI) 211
+4 Sentinel of the Nameless City (LCI) 383
 4 Souls of the Lost (LCI) 121
 4 Souls of the Lost (LCI) 369
 4 Squirming Emergence (LCI) 241
 4 Squirming Emergence (LCI) 386
 4 Stalactite Stalker (LCI) 122
 4 Stalactite Stalker (LCI) 370
+4 Starving Revenant (LCI) 123
+4 Starving Revenant (LCI) 338
 4 Subterranean Schooner (LCI) 80
 4 Subterranean Schooner (LCI) 365
 4 Sunken Citadel (LCI) 285
@@ -99,6 +108,8 @@ Deck
 4 The Belligerent (LCI) 384
 4 The Everflowing Well (LCI) 56
 4 The Everflowing Well (LCI) 363
+4 Thousand Moons Smithy (LCI) 39
+4 Thousand Moons Smithy (LCI) 357
 4 Threefold Thunderhulk (LCI) 265
 4 Threefold Thunderhulk (LCI) 390
 4 Throne of the Grim Captain (LCI) 266
@@ -107,5 +118,8 @@ Deck
 4 Tishana's Tidebinder (LCI) 335
 4 Treasure Map (LCI) 267
 4 Treasure Map (LCI) 391
+4 Trumpeting Carnosaur (LCI) 324
 4 Unstable Glyphbridge (LCI) 41
 4 Unstable Glyphbridge (LCI) 358
+4 Wail of the Forgotten (LCI) 244
+4 Wail of the Forgotten (LCI) 343
