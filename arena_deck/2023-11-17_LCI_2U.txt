@@ -1,4 +1,6 @@
 Deck
+4 "Solemn Gnomelacrum" (LCI) 260
+4 "Three Cans of Mountain Dew" (LCI) 195
 4 Abyssal Gorestalker (LCI) 87
 4 Akawalli, the Seething Tower (LCI) 220
 4 Akawalli, the Seething Tower (LCI) 298
@@ -24,6 +26,7 @@ Deck
 4 Coati Scavenger (LCI) 179
 4 Colossadactyl (LCI) 180
 4 Confounding Riddle (LCI) 50
+4 Contested Game Ball (LCI) 251
 4 Council of Echoes (LCI) 51
 4 Curator of Sun's Creation (LCI) 141
 4 Dauntless Dismantler (LCI) 8
@@ -58,11 +61,11 @@ Deck
 4 Lodestone Needle (LCI) 62
 4 Malamet War Scribe (LCI) 21
 4 Market Gnome (LCI) 22
+================================================================================
+Deck
 4 Master's Guide-Mural (LCI) 233
 4 Merfolk Cave-Diver (LCI) 65
 4 Mischievous Pup (LCI) 25
-================================================================================
-Deck
 4 Nicanzil, Current Conductor (LCI) 236
 4 Nicanzil, Current Conductor (LCI) 306
 4 Pit of Offerings (LCI) 278
