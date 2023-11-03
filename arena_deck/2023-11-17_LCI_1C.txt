@@ -3,25 +3,27 @@ Deck
 4 "JELL-O® Discovery" (LCI) 279
 4 "Oteclan Arch" (LCI) 29
 4 Abrade (LCI) 131
-4 Basking Capybara (LCI) 999???
+4 Basking Capybara (LCI) 175
 4 Broodrage Mycoid (LCI) 95
 4 Cogwork Wrestler (LCI) 49
 4 Compass Gnome (LCI) 250
 4 Didact Echo (LCI) 53
 4 Dinotomaton (LCI) 144
+4 Fanatical Offering (LCI) 105
 4 Frilled Cave-Wurm (LCI) 999?????
 4 Hidden Cataract (LCI) 273
 4 Hidden Courtyard (LCI) 274
 4 Hidden Necropolis (LCI) 275
 4 Hidden Nursery (LCI) 276
 4 Hidden Volcano (LCI) 277
+4 Huatli's Final Strike (LCI) 190
 4 Idol of the Deep King (LCI) 155
-4 Itzquinth, Firstborn of Gishath (LCI) 230
-4 Kaslem's Stonetree (LCI) 999??????
+4 Kaslem's Stonetree (LCI) 197
 4 Miner's Guidewing (LCI) 24
 4 Nurturing Bristleback (LCI) 203
 4 Nurturing Bristleback (LCI) 999-NB
 4 Oltec Cloud Guard (LCI) 28
+4 Orazca Puzzle-Door (LCI) 68
 4 Pathfinding Axejaw (LCI) 206
 4 Petrify (LCI) 30
 4 Poison Dart Frog (LCI) 207

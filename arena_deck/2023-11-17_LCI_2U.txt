@@ -1,6 +1,5 @@
 Deck
 4 "Solemn Gnomelacrum" (LCI) 260
-4 "Three Cans of Mountain Dew" (LCI) 195
 4 Abyssal Gorestalker (LCI) 87
 4 Akawalli, the Seething Tower (LCI) 220
 4 Akawalli, the Seething Tower (LCI) 298
@@ -10,8 +9,10 @@ Deck
 4 Bat Colony (LCI) 5
 4 Belligerent Yearling (LCI) 133
 4 Belligerent Yearling (LCI) 320
+4 Bitter Triumph (LCI) 91
 4 Bloodthorn Flail (LCI) 93
 4 Calamitous Cave-In (LCI) 139
+4 Canonized in Blood (LCI) 96
 4 Caparocti Sunborn (LCI) 226
 4 Caparocti Sunborn (LCI) 302
 4 Captain Storm, Cosmium Raider (LCI) 227
@@ -54,15 +55,19 @@ Deck
 4 Hermitic Nautilus (LCI) 58
 4 Hoverstone Pilgrim (LCI) 254
 4 Hurl into History (LCI) 59
+4 Itzquinth, Firstborn of Gishath (LCI) 230
+4 Itzquinth, Firstborn of Gishath (LCI) 331
 4 Ixalli's Lorekeeper (LCI) 194
+4 Jade Seedstones (LCI) 195
 4 Kinjalli's Dawnrunner (LCI) 19
 4 Kutzil, Malamet Exemplar (LCI) 232
+================================================================================
+Deck
 4 Kutzil, Malamet Exemplar (LCI) 304
 4 Lodestone Needle (LCI) 62
 4 Malamet War Scribe (LCI) 21
+4 Malicious Eclipse (LCI) 111
 4 Market Gnome (LCI) 22
-================================================================================
-Deck
 4 Master's Guide-Mural (LCI) 233
 4 Merfolk Cave-Diver (LCI) 65
 4 Mischievous Pup (LCI) 25

@@ -1,12 +1,13 @@
 Deck
-4 "Dragon Runway Controller" (LCI) 43
-4 "Placeholderosaurus" (LCI) 191
+4 Abuelo's Awakening (LCI) 1
 4 Abuelo, Ancestral Echo (LCI) 219
 4 Abuelo, Ancestral Echo (LCI) 297
 4 Akal Pakal, First Among Equals (LCI) 44
 4 Akal Pakal, First Among Equals (LCI) 292
 4 Amalia Benavides Aguirre (LCI) 221
 4 Amalia Benavides Aguirre (LCI) 299
+4 Anim Pakal, Thousandth Moon (LCI) 223
+4 Anim Pakal, Thousandth Moon (LCI) 300
 4 Bedrock Tortoise (LCI) 176
 4 Bedrock Tortoise (LCI) 378
 4 Braided Net (LCI) 47
@@ -38,6 +39,8 @@ Deck
 4 Hit the Mother Lode (LCI) 153
 4 Hit the Mother Lode (LCI) 375
 4 Hit the Mother Lode (LCI) 404
+4 Hulking Raptor (LCI) 191
+4 Hulking Raptor (LCI) 327
 4 Inti, Seneschal of the Sun (LCI) 156
 4 Inti, Seneschal of the Sun (LCI) 295
 4 Intrepid Paleontologist (LCI) 193
@@ -58,11 +61,11 @@ Deck
 4 Matzalantli, the Great Door (LCI) 256
 4 Matzalantli, the Great Door (LCI) 387
 4 Molten Collapse (LCI) 234
+================================================================================
+Deck
 4 Molten Collapse (LCI) 342
 4 Palani's Hatcher (LCI) 237
 4 Palani's Hatcher (LCI) 332
-================================================================================
-Deck
 4 Poetic Ingenuity (LCI) 161
 4 Poetic Ingenuity (LCI) 377
 4 Preacher of the Schism (LCI) 113
@@ -119,8 +122,13 @@ Deck
 4 Tishana's Tidebinder (LCI) 335
 4 Treasure Map (LCI) 267
 4 Treasure Map (LCI) 391
+4 Trumpeting Carnosaur (LCI) 171
 4 Trumpeting Carnosaur (LCI) 324
 4 Unstable Glyphbridge (LCI) 41
+================================================================================
+Deck
 4 Unstable Glyphbridge (LCI) 358
 4 Wail of the Forgotten (LCI) 244
 4 Wail of the Forgotten (LCI) 343
+4 Warden of the Inner Sky (LCI) 43
+4 Warden of the Inner Sky (LCI) 359
