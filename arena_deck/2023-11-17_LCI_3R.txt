@@ -1,5 +1,6 @@
 Deck
 4 Abuelo's Awakening (LCI) 1
+4 Abuelo's Awakening (LCI) 353
 4 Abuelo, Ancestral Echo (LCI) 219
 4 Abuelo, Ancestral Echo (LCI) 297
 4 Akal Pakal, First Among Equals (LCI) 44
@@ -60,9 +61,9 @@ Deck
 4 Malcolm, Alluring Scoundrel (LCI) 293
 4 Matzalantli, the Great Door (LCI) 256
 4 Matzalantli, the Great Door (LCI) 387
-4 Molten Collapse (LCI) 234
 ================================================================================
 Deck
+4 Molten Collapse (LCI) 234
 4 Molten Collapse (LCI) 342
 4 Palani's Hatcher (LCI) 237
 4 Palani's Hatcher (LCI) 332
@@ -124,9 +125,9 @@ Deck
 4 Treasure Map (LCI) 391
 4 Trumpeting Carnosaur (LCI) 171
 4 Trumpeting Carnosaur (LCI) 324
-4 Unstable Glyphbridge (LCI) 41
 ================================================================================
 Deck
+4 Unstable Glyphbridge (LCI) 41
 4 Unstable Glyphbridge (LCI) 358
 4 Wail of the Forgotten (LCI) 244
 4 Wail of the Forgotten (LCI) 343
