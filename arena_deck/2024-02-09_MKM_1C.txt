@@ -1,1 +1,15 @@
 Deck
+4 Benthic Criminologists (MKM) 40
+4 Deduce (MKM) 52
+4 Deduce (MKM) 293
+4 Demand Answers (MKM) 122
+4 Demand Answers (MKM) 306
+4 Fanatical Strength (MKM) 159
+4 Fanatical Strength (MKM) 310
+4 Magnifying Glass (MKM) 255
+4 Not on My Watch (MKM) 28
+4 Not on My Watch (MKM) 291
+4 Novice Inspector (MKM) 29
+4 Out Cold (MKM) 66
+4 Shock (MKM) 144
+4 Topiary Panther (MKM) 179
