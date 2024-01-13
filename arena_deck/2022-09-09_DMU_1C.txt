@@ -1,4 +1,7 @@
 Deck
+4 A-Meria's Outrider (DMU) A-138
+4 A-Scout the Wilderness (DMU) A-176
+4 A-Sunbathing Rootwalla (DMU) A-181
 4 Academy Wall (DMU) 41
 4 Aggressive Sabotage (DMU) 78
 4 Argivian Cavalier (DMU) 4
@@ -58,11 +61,11 @@ Deck
 4 Mesa Cavalier (DMU) 26
 4 Meteorite (DMU) 235
 4 Molten Monstrosity (DMU) 139
+================================================================================
+Deck
 4 Molten Tributary (DMU) 251
 4 Negate (DMU) 58
 4 Phyrexian Espionage (DMU) 60
-================================================================================
-Deck
 4 Phyrexian Rager (DMU) 99
 4 Phyrexian Vivisector (DMU) 100
 4 Phyrexian Warhorse (DMU) 101

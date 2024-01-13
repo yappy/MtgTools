@@ -1,4 +1,10 @@
 Deck
+4 A-Nael, Avizoa Aeronaut (DMU) A-207
+4 A-Rulik Mons, Warren Chief (DMU) A-217
+4 A-Sprouting Goblin (DMU) A-145
+4 A-Tatyova, Steward of Tides (DMU) A-222
+4 A-Uurg, Spawn of Turg (DMU) A-225
+4 A-Zar Ojanen, Scion of Efrava (DMU) A-227
 4 Aron, Benalia's Ruin (DMU) 193
 4 Aron, Benalia's Ruin (DMU) 292
 4 Aron, Benalia's Ruin (DMU) 333
@@ -55,14 +61,14 @@ Deck
 4 Micromancer (DMU) 57
 4 Micromancer (DMU) 431
 4 Monstrous War-Leech (DMU) 98
+================================================================================
+Deck
 4 Mossbeard Ancient (DMU) 173
 4 Nael, Avizoa Aeronaut (DMU) 207
 4 Nael, Avizoa Aeronaut (DMU) 306
 4 Nael, Avizoa Aeronaut (DMU) 347
 4 Najal, the Storm Runner (DMU) 208
 4 Najal, the Storm Runner (DMU) 307
-================================================================================
-Deck
 4 Najal, the Storm Runner (DMU) 348
 4 Nishoba Brawler (DMU) 174
 4 Nishoba Brawler (DMU) 434
@@ -119,6 +125,8 @@ Deck
 4 Vohar, Vodalian Desecrator (DMU) 366
 4 Walking Bulwark (DMU) 241
 4 Warhost's Frenzy (DMU) 151
+================================================================================
+Deck
 4 Wingmantle Chaplain (DMU) 39
 4 Yavimaya Iconoclast (DMU) 190
 4 Yotia Declares War (DMU) 153

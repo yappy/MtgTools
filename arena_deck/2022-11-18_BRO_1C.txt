@@ -1,4 +1,6 @@
 Deck
+4 A-Excavation Explosion (BRO) A-132
+4 A-Mightstone's Animation (BRO) A-58
 4 Aeronaut Cavalry (BRO) 1
 4 Aeronaut's Wings (BRO) 231
 4 Air Marshal (BRO) 43
@@ -59,10 +61,10 @@ Deck
 4 Overwhelming Remorse (BRO) 110
 4 Penregon Strongbull (BRO) 147
 4 Perimeter Patrol (BRO) 188
-4 Phalanx Vanguard (BRO) 19
-4 Power Plant Worker (BRO) 241
 ================================================================================
 Deck
+4 Phalanx Vanguard (BRO) 19
+4 Power Plant Worker (BRO) 241
 4 Powerstone Engineer (BRO) 20
 4 Powerstone Fracture (BRO) 112
 4 Prison Sentence (BRO) 21

@@ -1,5 +1,8 @@
 Deck
 4 A-Haywire Mite (BRO) A-199
+4 A-Mishra, Excavation Prodigy (BRO) A-140
+4 A-Splitting the Powerstone (BRO) A-63
+4 A-Urza, Powerstone Prodigy (BRO) A-69
 4 Alloy Animist (BRO) 166
 4 Arbalest Engineers (BRO) 206
 4 Argivian Avenger (BRO) 232
@@ -58,11 +61,11 @@ Deck
 4 Obstinate Baloth (BRO) 187
 4 Pyrrhic Blast (BRO) 148
 4 Reconstructed Thopter (BRO) 242
+================================================================================
+Deck
 4 Recruitment Officer (BRO) 23
 4 Repair and Recharge (BRO) 24
 4 Sardian Cliffstomper (BRO) 151
-================================================================================
-Deck
 4 Sardian Cliffstomper (BRO) 383
 4 Sarinth Steelseeker (BRO) 189
 4 Skyfisher Spider (BRO) 221
