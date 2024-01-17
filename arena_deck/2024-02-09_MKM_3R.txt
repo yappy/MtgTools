@@ -1,8 +1,63 @@
 Deck
+4 "Columbonimbus" (MKM) 71
+4 "Columbonimbus" (MKM) 397
+4 Analyze the Pollen (MKM) 150
+4 Analyze the Pollen (MKM) 308
+4 Assassin's Trophy (MKM) 187
+4 Assassin's Trophy (MKM) 412
 4 Aurelia, the Law Above (MKM) 188
 4 Aurelia, the Law Above (MKM) 317
 4 Aurelia, the Law Above (MKM) 357
 4 Aurelia, the Law Above (MKM) 317z
+4 Axebane Ferox (MKM) 153
+4 Axebane Ferox (MKM) 409
+4 Axebane Ferox (MKM) 428
+4 Case of the Ransacked Lab (MKM) 45
+4 Case of the Stashed Skeleton (MKM) 80
+4 Commercial District (MKM) 259
+4 Commercial District (MKM) 324
+4 Elegant Parlor (MKM) 260
+4 Elegant Parlor (MKM) 325
+4 Hedge Maze (MKM) 262
+4 Hedge Maze (MKM) 326
+4 Homicide Investigator (MKM) 86
+4 Homicide Investigator (MKM) 343
+4 Izoni, Center of the Web (MKM) 209
+4 Izoni, Center of the Web (MKM) 362
+4 Judith, Carnage Connoisseur (MKM) 210
+4 Judith, Carnage Connoisseur (MKM) 363
+4 Kellan, Inquisitive Prodigy (MKM) 212
+4 Kellan, Inquisitive Prodigy (MKM) 334
+4 Krenko, Baron of Tin Street (MKM) 135
+4 Krenko, Baron of Tin Street (MKM) 350
+4 Kylox, Visionary Inventor (MKM) 214
+4 Kylox, Visionary Inventor (MKM) 365
+4 Lush Portico (MKM) 263
+4 Lush Portico (MKM) 327
+4 Meticulous Archive (MKM) 264
+4 Meticulous Archive (MKM) 328
+4 No Witnesses (MKM) 27
+4 No Witnesses (MKM) 390
+4 Pyrotechnic Performer (MKM) 140
+4 Raucous Theater (MKM) 266
+4 Raucous Theater (MKM) 329
+4 Shadowy Backstreet (MKM) 268
+4 Shadowy Backstreet (MKM) 330
+4 Sharp-Eyed Rookie (MKM) 176
+4 Sharp-Eyed Rookie (MKM) 353
+4 Teysa, Opulent Oligarch (MKM) 234
+4 Teysa, Opulent Oligarch (MKM) 321
+4 Teysa, Opulent Oligarch (MKM) 370
+4 Thundering Falls (MKM) 269
+4 Thundering Falls (MKM) 331
+4 Tolsimir, Midnight's Light (MKM) 236
+4 Tolsimir, Midnight's Light (MKM) 371
+4 Undercity Sewers (MKM) 270
+4 Undercity Sewers (MKM) 332
+4 Underground Mortuary (MKM) 271
+4 Underground Mortuary (MKM) 333
+4 Warleader's Call (MKM) 242
+4 Warleader's Call (MKM) 315
 4 Wojek Investigator (MKM) 36
 4 Wojek Investigator (MKM) 340
 4 Wojek Investigator (MKM) 429

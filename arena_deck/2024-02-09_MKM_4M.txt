@@ -1,8 +1,31 @@
 Deck
+4 "Blood Artist's Very Large Son" (MKM) 110
+4 "Blood Artist's Very Large Son" (MKM) 346
+4 Agrus Kos, Spirit of Justice (MKM) 184
+4 Agrus Kos, Spirit of Justice (MKM) 354
+4 Agrus Kos, Spirit of Justice (MKM) 383
 4 Alquist Proft, Master Sleuth (MKM) 185
 4 Alquist Proft, Master Sleuth (MKM) 355
 4 Alquist Proft, Master Sleuth (MKM) 384
+4 Aurelia's Vindicator (MKM) 4
+4 Aurelia's Vindicator (MKM) 336
+4 Aurelia's Vindicator (MKM) 377
+4 Etrata, Deadly Fugitive (MKM) 200
+4 Etrata, Deadly Fugitive (MKM) 359
+4 Etrata, Deadly Fugitive (MKM) 386
+4 Kaya, Spirits' Justice (MKM) 211
+4 Kaya, Spirits' Justice (MKM) 335
+4 Massacre Girl, Known Killer (MKM) 94
+4 Massacre Girl, Known Killer (MKM) 344
+4 Massacre Girl, Known Killer (MKM) 380
+4 Melek, Reforged Researcher (MKM) 430
 4 Rakdos, Patron of Chaos (MKM) 224
 4 Rakdos, Patron of Chaos (MKM) 320
 4 Rakdos, Patron of Chaos (MKM) 369
 4 Rakdos, Patron of Chaos (MKM) 387
+4 Tomik, Wielder of Law (MKM) 431
+4 Trostani, Three Whispers (MKM) 238
+4 Trostani, Three Whispers (MKM) 322
+4 Trostani, Three Whispers (MKM) 372
+4 Trostani, Three Whispers (MKM) 388
+4 Voja, Jaws of the Conclave (MKM) 432

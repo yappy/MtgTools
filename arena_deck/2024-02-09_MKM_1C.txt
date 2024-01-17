@@ -1,14 +1,30 @@
 Deck
+4 Airtight Alibi (MKM) 149
+4 Auspicious Arrival (MKM) 5
+4 Auspicious Arrival (MKM) 288
 4 Benthic Criminologists (MKM) 40
+4 Bite Down on Crime (MKM) 154
+4 Crimestopper Sprite (MKM) 49
 4 Deduce (MKM) 52
 4 Deduce (MKM) 293
+4 Defenestrated Phantom (MKM) 11
 4 Demand Answers (MKM) 122
 4 Demand Answers (MKM) 306
+4 Dog Walker (MKM) 197
+4 Extract a Confession (MKM) 84
 4 Fanatical Strength (MKM) 159
 4 Fanatical Strength (MKM) 310
+4 Felonious Rage (MKM) 125
+4 Gadget Technician (MKM) 204
+4 Galvanize (MKM) 128
 4 Hotshot Investigators (MKM) 60
+4 Loxodon Eavesdropper (MKM) 168
 4 Magnifying Glass (MKM) 255
+4 Marketwatch Phantom (MKM) 24
 4 Novice Inspector (MKM) 29
 4 Out Cold (MKM) 66
+4 Public Thoroughfare (MKM) 265
+4 Sanitation Automaton (MKM) 256
 4 Shock (MKM) 144
 4 Topiary Panther (MKM) 179
+4 Vitu-Ghazi Inspector (MKM) 183

@@ -1,14 +1,39 @@
 Deck
+4 "A Gorgon Smooched Me. Just Like Jace!" (MKM) 79
+4 A Killer Among Us (MKM) 167
+4 Branch of Vitu-Ghazi (MKM) 258
 4 Burden of Proof (MKM) 42
+4 Case of the Filched Falcon (MKM) 44
+4 Case of the Pilfered Proof (MKM) 9
+4 Convenient Target (MKM) 119
+4 Convenient Target (MKM) 305
+4 Crime Novelist (MKM) 121
 4 Curious Cadaver (MKM) 194
 4 Curious Cadaver (MKM) 358
+4 Deadly Complication (MKM) 195
+4 Deadly Complication (MKM) 312
+4 Expose the Culprit (MKM) 124
+4 Expose the Culprit (MKM) 307
 4 Gleaming Geardrake (MKM) 205
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
+4 It Doesn't Add Up (MKM) 89
+4 It Doesn't Add Up (MKM) 299
+4 Knife (MKM) 134
+4 Kraul Whipcracker (MKM) 213
+4 Kraul Whipcracker (MKM) 364
+4 Kraul Whipcracker (MKM) 425
 4 Lead Pipe (MKM) 90
 4 Lightning Helix (MKM) 218
 4 Lightning Helix (MKM) 426
+4 Long Goodbye (MKM) 92
+4 Long Goodbye (MKM) 423
 4 Meddling Youths (MKM) 219
 4 Meddling Youths (MKM) 367
+4 Nightdrinker Moroii (MKM) 96
+4 No More Lies (MKM) 221
+4 No More Lies (MKM) 427
 4 Not on My Watch (MKM) 28
 4 Not on My Watch (MKM) 291
+4 Scene of the Crime (MKM) 267
+4 Sumala Sentry (MKM) 233
