@@ -1,5 +1,6 @@
 Deck
 4 "A Gorgon Smooched Me. Just Like Jace!" (MKM) 79
+4 "Buried in the Garden" (MKM) 191
 4 A Killer Among Us (MKM) 167
 4 Branch of Vitu-Ghazi (MKM) 258
 4 Burden of Proof (MKM) 42
@@ -8,6 +9,8 @@ Deck
 4 Convenient Target (MKM) 119
 4 Convenient Target (MKM) 305
 4 Crime Novelist (MKM) 121
+4 Culvert Ambusher (MKM) 158
+4 Culvert Ambusher (MKM) 351
 4 Curious Cadaver (MKM) 194
 4 Curious Cadaver (MKM) 358
 4 Deadly Complication (MKM) 195
@@ -28,6 +31,8 @@ Deck
 4 Lightning Helix (MKM) 426
 4 Long Goodbye (MKM) 92
 4 Long Goodbye (MKM) 423
+4 Magnetic Snuffler (MKM) 254
+4 Magnetic Snuffler (MKM) 376
 4 Meddling Youths (MKM) 219
 4 Meddling Youths (MKM) 367
 4 Nightdrinker Moroii (MKM) 96
@@ -35,5 +40,7 @@ Deck
 4 No More Lies (MKM) 427
 4 Not on My Watch (MKM) 28
 4 Not on My Watch (MKM) 291
+4 Private Eye (MKM) 223
 4 Scene of the Crime (MKM) 267
 4 Sumala Sentry (MKM) 233
+4 Undercity Eliminator (MKM) 108

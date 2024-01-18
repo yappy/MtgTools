@@ -5,6 +5,8 @@ Deck
 4 Analyze the Pollen (MKM) 308
 4 Assassin's Trophy (MKM) 187
 4 Assassin's Trophy (MKM) 412
+4 Assemble the Players (MKM) 3
+4 Assemble the Players (MKM) 287
 4 Aurelia, the Law Above (MKM) 188
 4 Aurelia, the Law Above (MKM) 317
 4 Aurelia, the Law Above (MKM) 357
@@ -39,6 +41,7 @@ Deck
 4 No Witnesses (MKM) 27
 4 No Witnesses (MKM) 390
 4 Pyrotechnic Performer (MKM) 140
+4 Pyrotechnic Performer (MKM) 407
 4 Raucous Theater (MKM) 266
 4 Raucous Theater (MKM) 329
 4 Shadowy Backstreet (MKM) 268
@@ -56,6 +59,10 @@ Deck
 4 Undercity Sewers (MKM) 332
 4 Underground Mortuary (MKM) 271
 4 Underground Mortuary (MKM) 333
+4 Unyielding Gatekeeper (MKM) 35
+4 Unyielding Gatekeeper (MKM) 392
+================================================================================
+Deck
 4 Warleader's Call (MKM) 242
 4 Warleader's Call (MKM) 315
 4 Wojek Investigator (MKM) 36

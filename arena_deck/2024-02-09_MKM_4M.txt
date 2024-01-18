@@ -10,9 +10,13 @@ Deck
 4 Aurelia's Vindicator (MKM) 4
 4 Aurelia's Vindicator (MKM) 336
 4 Aurelia's Vindicator (MKM) 377
+4 Delney, Streetwise Lookout (MKM) 12
+4 Delney, Streetwise Lookout (MKM) 337
 4 Etrata, Deadly Fugitive (MKM) 200
 4 Etrata, Deadly Fugitive (MKM) 359
 4 Etrata, Deadly Fugitive (MKM) 386
+4 Intrude on the Mind (MKM) 61
+4 Intrude on the Mind (MKM) 296
 4 Kaya, Spirits' Justice (MKM) 211
 4 Kaya, Spirits' Justice (MKM) 335
 4 Massacre Girl, Known Killer (MKM) 94
@@ -28,4 +32,7 @@ Deck
 4 Trostani, Three Whispers (MKM) 322
 4 Trostani, Three Whispers (MKM) 372
 4 Trostani, Three Whispers (MKM) 388
+4 Vannifar, Evolved Enigma (MKM) 241
+4 Vannifar, Evolved Enigma (MKM) 323
+4 Vannifar, Evolved Enigma (MKM) 373
 4 Voja, Jaws of the Conclave (MKM) 432
