@@ -1,10 +1,11 @@
 Deck
-4 "A Gorgon Smooched Me. Just Like Jace!" (MKM) 79
-4 "Buried in the Garden" (MKM) 191
+4 "Foam Prop Weapon" (MKM) 117
 4 A Killer Among Us (MKM) 167
 4 Branch of Vitu-Ghazi (MKM) 258
 4 Burden of Proof (MKM) 42
+4 Buried in the Garden (MKM) 191
 4 Case of the Filched Falcon (MKM) 44
+4 Case of the Gorgon's Kiss (MKM) 79
 4 Case of the Pilfered Proof (MKM) 9
 4 Convenient Target (MKM) 119
 4 Convenient Target (MKM) 305
@@ -17,9 +18,12 @@ Deck
 4 Deadly Complication (MKM) 312
 4 Expose the Culprit (MKM) 124
 4 Expose the Culprit (MKM) 307
+4 Forensic Researcher (MKM) 58
 4 Gleaming Geardrake (MKM) 205
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
+4 Harried Dronesmith (MKM) 131
+4 Hedge Whisperer (MKM) 165
 4 It Doesn't Add Up (MKM) 89
 4 It Doesn't Add Up (MKM) 299
 4 Knife (MKM) 134
@@ -40,6 +44,8 @@ Deck
 4 No More Lies (MKM) 427
 4 Not on My Watch (MKM) 28
 4 Not on My Watch (MKM) 291
+4 Persuasive Interrogators (MKM) 98
+4 Persuasive Interrogators (MKM) 345
 4 Private Eye (MKM) 223
 4 Scene of the Crime (MKM) 267
 4 Sumala Sentry (MKM) 233

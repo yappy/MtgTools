@@ -1,6 +1,4 @@
 Deck
-4 "Blood Artist's Very Large Son" (MKM) 110
-4 "Blood Artist's Very Large Son" (MKM) 346
 4 Agrus Kos, Spirit of Justice (MKM) 184
 4 Agrus Kos, Spirit of Justice (MKM) 354
 4 Agrus Kos, Spirit of Justice (MKM) 383
@@ -12,6 +10,7 @@ Deck
 4 Aurelia's Vindicator (MKM) 377
 4 Delney, Streetwise Lookout (MKM) 12
 4 Delney, Streetwise Lookout (MKM) 337
+4 Delney, Streetwise Lookout (MKM) 378
 4 Etrata, Deadly Fugitive (MKM) 200
 4 Etrata, Deadly Fugitive (MKM) 359
 4 Etrata, Deadly Fugitive (MKM) 386
@@ -27,6 +26,8 @@ Deck
 4 Rakdos, Patron of Chaos (MKM) 320
 4 Rakdos, Patron of Chaos (MKM) 369
 4 Rakdos, Patron of Chaos (MKM) 387
+4 The Pride of Hull Clade (MKM) 172
+4 The Pride of Hull Clade (MKM) 352
 4 Tomik, Wielder of Law (MKM) 431
 4 Trostani, Three Whispers (MKM) 238
 4 Trostani, Three Whispers (MKM) 322
@@ -35,4 +36,7 @@ Deck
 4 Vannifar, Evolved Enigma (MKM) 241
 4 Vannifar, Evolved Enigma (MKM) 323
 4 Vannifar, Evolved Enigma (MKM) 373
+4 Vein Ripper (MKM) 110
+4 Vein Ripper (MKM) 346
+4 Vein Ripper (MKM) 433
 4 Voja, Jaws of the Conclave (MKM) 432

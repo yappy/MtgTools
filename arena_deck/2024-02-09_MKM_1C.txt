@@ -11,6 +11,7 @@ Deck
 4 Demand Answers (MKM) 122
 4 Demand Answers (MKM) 306
 4 Dog Walker (MKM) 197
+4 Escape Tunnel (MKM) 261
 4 Extract a Confession (MKM) 84
 4 Faerie Snoop (MKM) 203
 4 Fanatical Strength (MKM) 159
@@ -19,12 +20,19 @@ Deck
 4 Gadget Technician (MKM) 204
 4 Galvanize (MKM) 128
 4 Gearbane Orangutan (MKM) 129
+4 Goblin Maskmaker (MKM) 130
+4 Granite Witness (MKM) 206
 4 Hotshot Investigators (MKM) 60
+4 Jaded Analyst (MKM) 62
 4 Loxodon Eavesdropper (MKM) 168
+4 Macabre Reconstruction (MKM) 93
 4 Magnifying Glass (MKM) 255
 4 Marketwatch Phantom (MKM) 24
+4 Museum Nightwatch (MKM) 25
+4 Nervous Gardener (MKM) 169
 4 Novice Inspector (MKM) 29
 4 Out Cold (MKM) 66
+4 Projektor Inspector (MKM) 68
 4 Public Thoroughfare (MKM) 265
 4 Sanitation Automaton (MKM) 256
 4 Shady Informant (MKM) 231
