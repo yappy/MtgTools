@@ -1,7 +1,10 @@
 Deck
-4 "Entering My Memory Palace" (MKM) 118
+4 "Relive the Past" (MKM) 226
+4 "Relive the Past" (MKM) 419
 4 Analyze the Pollen (MKM) 150
 4 Analyze the Pollen (MKM) 308
+4 Archdruid's Charm (MKM) 151
+4 Archdruid's Charm (MKM) 408
 4 Assassin's Trophy (MKM) 187
 4 Assassin's Trophy (MKM) 412
 4 Assemble the Players (MKM) 3
@@ -13,10 +16,16 @@ Deck
 4 Axebane Ferox (MKM) 153
 4 Axebane Ferox (MKM) 409
 4 Axebane Ferox (MKM) 428
+4 Barbed Servitor (MKM) 77
+4 Barbed Servitor (MKM) 398
+4 Blood Spatter Analysis (MKM) 189
+4 Blood Spatter Analysis (MKM) 413
 4 Case of the Ransacked Lab (MKM) 45
 4 Case of the Stashed Skeleton (MKM) 80
 4 Commercial District (MKM) 259
 4 Commercial District (MKM) 324
+4 Connecting the Dots (MKM) 118
+4 Connecting the Dots (MKM) 403
 4 Doppelgang (MKM) 198
 4 Doppelgang (MKM) 414
 4 Drag the Canal (MKM) 199
@@ -39,14 +48,21 @@ Deck
 4 Krenko, Baron of Tin Street (MKM) 350
 4 Kylox, Visionary Inventor (MKM) 214
 4 Kylox, Visionary Inventor (MKM) 365
+4 Lazav, Wearer of Faces (MKM) 216
+4 Lazav, Wearer of Faces (MKM) 318
+4 Lazav, Wearer of Faces (MKM) 366
 4 Lush Portico (MKM) 263
 4 Lush Portico (MKM) 327
 4 Meticulous Archive (MKM) 264
 4 Meticulous Archive (MKM) 328
 4 No Witnesses (MKM) 27
 4 No Witnesses (MKM) 390
+4 Proft's Eidetic Memory (MKM) 67
+4 Proft's Eidetic Memory (MKM) 396
 4 Pyrotechnic Performer (MKM) 140
 4 Pyrotechnic Performer (MKM) 407
+================================================================================
+Deck
 4 Raucous Theater (MKM) 266
 4 Raucous Theater (MKM) 329
 4 Shadowy Backstreet (MKM) 268
@@ -61,8 +77,6 @@ Deck
 4 Thundering Falls (MKM) 269
 4 Thundering Falls (MKM) 331
 4 Tolsimir, Midnight's Light (MKM) 236
-================================================================================
-Deck
 4 Tolsimir, Midnight's Light (MKM) 371
 4 Undercity Sewers (MKM) 270
 4 Undercity Sewers (MKM) 332

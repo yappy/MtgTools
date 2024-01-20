@@ -1,10 +1,13 @@
 Deck
+4 "Kylox's Cell Phone Charger" (MKM) 215
 4 Agrus Kos, Spirit of Justice (MKM) 184
 4 Agrus Kos, Spirit of Justice (MKM) 354
 4 Agrus Kos, Spirit of Justice (MKM) 383
 4 Alquist Proft, Master Sleuth (MKM) 185
 4 Alquist Proft, Master Sleuth (MKM) 355
 4 Alquist Proft, Master Sleuth (MKM) 384
+4 Anzrag, the Quake-Mole (MKM) 186
+4 Anzrag, the Quake-Mole (MKM) 356
 4 Aurelia's Vindicator (MKM) 4
 4 Aurelia's Vindicator (MKM) 336
 4 Aurelia's Vindicator (MKM) 377
@@ -28,6 +31,7 @@ Deck
 4 Rakdos, Patron of Chaos (MKM) 387
 4 The Pride of Hull Clade (MKM) 172
 4 The Pride of Hull Clade (MKM) 352
+4 The Pride of Hull Clade (MKM) 382
 4 Tomik, Wielder of Law (MKM) 431
 4 Trostani, Three Whispers (MKM) 238
 4 Trostani, Three Whispers (MKM) 322

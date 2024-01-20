@@ -1,12 +1,22 @@
 Deck
-4 "Foam Prop Weapon" (MKM) 117
+4 "Case of the Burning Mask" (MKM) 113
+4 "Cornered Perp" (MKM) 120
+4 "Greenbelt Orator" (MKM) 163
+4 "Internet Celebrity" (MKM) 171
+4 "Over-hunted Lammasu" (MKM) 2
+4 "Reckless Investigator" (MKM) 141
+4 "There Was Crotch Here" (MKM) 157
 4 A Killer Among Us (MKM) 167
+4 Aftermath Analyst (MKM) 148
+4 Bolrac-Clan Basher (MKM) 112
 4 Branch of Vitu-Ghazi (MKM) 258
 4 Burden of Proof (MKM) 42
 4 Buried in the Garden (MKM) 191
 4 Case of the Filched Falcon (MKM) 44
 4 Case of the Gorgon's Kiss (MKM) 79
 4 Case of the Pilfered Proof (MKM) 9
+4 Clandestine Meddler (MKM) 82
+4 Concealed Weapon (MKM) 117
 4 Convenient Target (MKM) 119
 4 Convenient Target (MKM) 305
 4 Crime Novelist (MKM) 121
@@ -16,9 +26,11 @@ Deck
 4 Curious Cadaver (MKM) 358
 4 Deadly Complication (MKM) 195
 4 Deadly Complication (MKM) 312
+4 Essence of Antiquity (MKM) 15
 4 Expose the Culprit (MKM) 124
 4 Expose the Culprit (MKM) 307
 4 Forensic Researcher (MKM) 58
+4 Get a Leg Up (MKM) 161
 4 Gleaming Geardrake (MKM) 205
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
@@ -30,6 +42,7 @@ Deck
 4 Kraul Whipcracker (MKM) 213
 4 Kraul Whipcracker (MKM) 364
 4 Kraul Whipcracker (MKM) 425
+4 Krovod Haunch (MKM) 21
 4 Lead Pipe (MKM) 90
 4 Lightning Helix (MKM) 218
 4 Lightning Helix (MKM) 426
@@ -39,6 +52,7 @@ Deck
 4 Magnetic Snuffler (MKM) 376
 4 Meddling Youths (MKM) 219
 4 Meddling Youths (MKM) 367
+4 Mistway Spy (MKM) 65
 4 Nightdrinker Moroii (MKM) 96
 4 No More Lies (MKM) 221
 4 No More Lies (MKM) 427
@@ -46,7 +60,11 @@ Deck
 4 Not on My Watch (MKM) 291
 4 Persuasive Interrogators (MKM) 98
 4 Persuasive Interrogators (MKM) 345
+4 Polygraph Orb (MKM) 99
+================================================================================
+Deck
 4 Private Eye (MKM) 223
+4 Repulsive Mutation (MKM) 227
 4 Scene of the Crime (MKM) 267
 4 Sumala Sentry (MKM) 233
 4 Undercity Eliminator (MKM) 108

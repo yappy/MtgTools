@@ -1,4 +1,5 @@
 Deck
+4 Agency Coroner (MKM) 75
 4 Airtight Alibi (MKM) 149
 4 Auspicious Arrival (MKM) 5
 4 Auspicious Arrival (MKM) 288
@@ -11,6 +12,7 @@ Deck
 4 Demand Answers (MKM) 122
 4 Demand Answers (MKM) 306
 4 Dog Walker (MKM) 197
+4 Due Diligence (MKM) 14
 4 Escape Tunnel (MKM) 261
 4 Extract a Confession (MKM) 84
 4 Faerie Snoop (MKM) 203
@@ -23,6 +25,7 @@ Deck
 4 Goblin Maskmaker (MKM) 130
 4 Granite Witness (MKM) 206
 4 Hotshot Investigators (MKM) 60
+4 Innocent Bystander (MKM) 133
 4 Jaded Analyst (MKM) 62
 4 Loxodon Eavesdropper (MKM) 168
 4 Macabre Reconstruction (MKM) 93
@@ -32,11 +35,19 @@ Deck
 4 Nervous Gardener (MKM) 169
 4 Novice Inspector (MKM) 29
 4 Out Cold (MKM) 66
+4 Pick Your Poison (MKM) 170
 4 Projektor Inspector (MKM) 68
 4 Public Thoroughfare (MKM) 265
+4 Rakish Scoundrel (MKM) 225
+4 Red Herring (MKM) 142
+4 Repeat Offender (MKM) 101
 4 Sanitation Automaton (MKM) 256
+4 Seasoned Consultant (MKM) 33
 4 Shady Informant (MKM) 231
 4 Shock (MKM) 144
+4 Slime Against Humanity (MKM) 177
+4 They Went This Way (MKM) 178
 4 Topiary Panther (MKM) 179
+4 Tunnel Tipster (MKM) 180
 4 Undercover Crocodelf (MKM) 239
 4 Vitu-Ghazi Inspector (MKM) 183
