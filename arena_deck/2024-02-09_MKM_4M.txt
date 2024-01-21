@@ -37,6 +37,7 @@ Deck
 4 Trostani, Three Whispers (MKM) 322
 4 Trostani, Three Whispers (MKM) 372
 4 Trostani, Three Whispers (MKM) 388
+4 Undergrowth Recon (MKM) 181
 4 Vannifar, Evolved Enigma (MKM) 241
 4 Vannifar, Evolved Enigma (MKM) 323
 4 Vannifar, Evolved Enigma (MKM) 373

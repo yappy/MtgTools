@@ -15,6 +15,7 @@ Deck
 4 Case of the Filched Falcon (MKM) 44
 4 Case of the Gorgon's Kiss (MKM) 79
 4 Case of the Pilfered Proof (MKM) 9
+4 Case of the Trampled Garden (MKM) 156
 4 Clandestine Meddler (MKM) 82
 4 Concealed Weapon (MKM) 117
 4 Convenient Target (MKM) 119
@@ -29,7 +30,9 @@ Deck
 4 Essence of Antiquity (MKM) 15
 4 Expose the Culprit (MKM) 124
 4 Expose the Culprit (MKM) 307
+4 Festerleech (MKM) 85
 4 Forensic Researcher (MKM) 58
+4 Fuss (MKM) 248
 4 Get a Leg Up (MKM) 161
 4 Gleaming Geardrake (MKM) 205
 4 Gleaming Geardrake (MKM) 361
@@ -58,13 +61,16 @@ Deck
 4 No More Lies (MKM) 427
 4 Not on My Watch (MKM) 28
 4 Not on My Watch (MKM) 291
+================================================================================
+Deck
 4 Persuasive Interrogators (MKM) 98
 4 Persuasive Interrogators (MKM) 345
 4 Polygraph Orb (MKM) 99
-================================================================================
-Deck
+4 Presumed Dead (MKM) 100
 4 Private Eye (MKM) 223
+4 Push (MKM) 250
 4 Repulsive Mutation (MKM) 227
+4 Sample Collector (MKM) 175
 4 Scene of the Crime (MKM) 267
 4 Sumala Sentry (MKM) 233
 4 Undercity Eliminator (MKM) 108

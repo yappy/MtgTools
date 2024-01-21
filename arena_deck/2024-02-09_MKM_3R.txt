@@ -20,24 +20,30 @@ Deck
 4 Barbed Servitor (MKM) 398
 4 Blood Spatter Analysis (MKM) 189
 4 Blood Spatter Analysis (MKM) 413
+4 Case of the Crimson Pulse (MKM) 114
 4 Case of the Ransacked Lab (MKM) 45
 4 Case of the Stashed Skeleton (MKM) 80
 4 Commercial District (MKM) 259
 4 Commercial District (MKM) 324
 4 Connecting the Dots (MKM) 118
 4 Connecting the Dots (MKM) 403
+4 Cryptex (MKM) 251
+4 Cryptex (MKM) 422
 4 Doppelgang (MKM) 198
 4 Doppelgang (MKM) 414
 4 Drag the Canal (MKM) 199
 4 Drag the Canal (MKM) 415
 4 Elegant Parlor (MKM) 260
 4 Elegant Parlor (MKM) 325
+4 Ezrim, Agency Chief (MKM) 202
 4 Fugitive Codebreaker (MKM) 127
 4 Fugitive Codebreaker (MKM) 348
 4 Hedge Maze (MKM) 262
 4 Hedge Maze (MKM) 326
 4 Homicide Investigator (MKM) 86
 4 Homicide Investigator (MKM) 343
+4 Hunted Bonebrute (MKM) 87
+4 Hunted Bonebrute (MKM) 400
 4 Izoni, Center of the Web (MKM) 209
 4 Izoni, Center of the Web (MKM) 362
 4 Judith, Carnage Connoisseur (MKM) 210
@@ -51,8 +57,12 @@ Deck
 4 Lazav, Wearer of Faces (MKM) 216
 4 Lazav, Wearer of Faces (MKM) 318
 4 Lazav, Wearer of Faces (MKM) 366
+4 Lost in the Maze (MKM) 64
+4 Lost in the Maze (MKM) 395
 4 Lush Portico (MKM) 263
 4 Lush Portico (MKM) 327
+================================================================================
+Deck
 4 Meticulous Archive (MKM) 264
 4 Meticulous Archive (MKM) 328
 4 No Witnesses (MKM) 27
@@ -61,8 +71,6 @@ Deck
 4 Proft's Eidetic Memory (MKM) 396
 4 Pyrotechnic Performer (MKM) 140
 4 Pyrotechnic Performer (MKM) 407
-================================================================================
-Deck
 4 Raucous Theater (MKM) 266
 4 Raucous Theater (MKM) 329
 4 Shadowy Backstreet (MKM) 268
@@ -78,6 +86,7 @@ Deck
 4 Thundering Falls (MKM) 331
 4 Tolsimir, Midnight's Light (MKM) 236
 4 Tolsimir, Midnight's Light (MKM) 371
+4 Treacherous Greed (MKM) 237
 4 Undercity Sewers (MKM) 270
 4 Undercity Sewers (MKM) 332
 4 Underground Mortuary (MKM) 271
