@@ -12,10 +12,12 @@ Deck
 4 Branch of Vitu-Ghazi (MKM) 258
 4 Burden of Proof (MKM) 42
 4 Buried in the Garden (MKM) 191
+4 Candlestick (MKM) 43
 4 Case of the Filched Falcon (MKM) 44
 4 Case of the Gorgon's Kiss (MKM) 79
 4 Case of the Pilfered Proof (MKM) 9
 4 Case of the Trampled Garden (MKM) 156
+4 Cease (MKM) 246
 4 Clandestine Meddler (MKM) 82
 4 Concealed Weapon (MKM) 117
 4 Convenient Target (MKM) 119
@@ -37,10 +39,12 @@ Deck
 4 Gleaming Geardrake (MKM) 205
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
+4 Glint Weaver (MKM) 162
 4 Harried Dronesmith (MKM) 131
 4 Hedge Whisperer (MKM) 165
 4 It Doesn't Add Up (MKM) 89
 4 It Doesn't Add Up (MKM) 299
+4 Karlov Watchdog (MKM) 20
 4 Knife (MKM) 134
 4 Kraul Whipcracker (MKM) 213
 4 Kraul Whipcracker (MKM) 364
@@ -57,12 +61,12 @@ Deck
 4 Meddling Youths (MKM) 367
 4 Mistway Spy (MKM) 65
 4 Nightdrinker Moroii (MKM) 96
+================================================================================
+Deck
 4 No More Lies (MKM) 221
 4 No More Lies (MKM) 427
 4 Not on My Watch (MKM) 28
 4 Not on My Watch (MKM) 291
-================================================================================
-Deck
 4 Persuasive Interrogators (MKM) 98
 4 Persuasive Interrogators (MKM) 345
 4 Polygraph Orb (MKM) 99
@@ -71,6 +75,7 @@ Deck
 4 Push (MKM) 250
 4 Repulsive Mutation (MKM) 227
 4 Sample Collector (MKM) 175
+4 Sanctuary Wall (MKM) 32
 4 Scene of the Crime (MKM) 267
 4 Sumala Sentry (MKM) 233
 4 Undercity Eliminator (MKM) 108

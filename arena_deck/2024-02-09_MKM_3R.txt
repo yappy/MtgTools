@@ -1,4 +1,7 @@
 Deck
+4 "Deadly Secrets" (MKM) 83
+4 "Deadly Secrets" (MKM) 399
+4 "Engine Engineer" (MKM) 57
 4 "Relive the Past" (MKM) 226
 4 "Relive the Past" (MKM) 419
 4 Analyze the Pollen (MKM) 150
@@ -21,6 +24,7 @@ Deck
 4 Blood Spatter Analysis (MKM) 189
 4 Blood Spatter Analysis (MKM) 413
 4 Case of the Crimson Pulse (MKM) 114
+4 Case of the Locked Hothouse (MKM) 155
 4 Case of the Ransacked Lab (MKM) 45
 4 Case of the Stashed Skeleton (MKM) 80
 4 Commercial District (MKM) 259
@@ -36,6 +40,7 @@ Deck
 4 Elegant Parlor (MKM) 260
 4 Elegant Parlor (MKM) 325
 4 Ezrim, Agency Chief (MKM) 202
+4 Ezrim, Agency Chief (MKM) 360
 4 Fugitive Codebreaker (MKM) 127
 4 Fugitive Codebreaker (MKM) 348
 4 Hedge Maze (MKM) 262
@@ -56,13 +61,13 @@ Deck
 4 Kylox, Visionary Inventor (MKM) 365
 4 Lazav, Wearer of Faces (MKM) 216
 4 Lazav, Wearer of Faces (MKM) 318
+================================================================================
+Deck
 4 Lazav, Wearer of Faces (MKM) 366
 4 Lost in the Maze (MKM) 64
 4 Lost in the Maze (MKM) 395
 4 Lush Portico (MKM) 263
 4 Lush Portico (MKM) 327
-================================================================================
-Deck
 4 Meticulous Archive (MKM) 264
 4 Meticulous Archive (MKM) 328
 4 No Witnesses (MKM) 27
