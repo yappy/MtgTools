@@ -1,5 +1,6 @@
 Deck
 4 A-Nael, Avizoa Aeronaut (DMU) A-207
+4 A-Radha, Coalition Warlord (DMU) A-211
 4 A-Rulik Mons, Warren Chief (DMU) A-217
 4 A-Sprouting Goblin (DMU) A-145
 4 A-Tatyova, Steward of Tides (DMU) A-222
@@ -60,9 +61,9 @@ Deck
 4 Love Song of Night and Day (DMU) 25
 4 Micromancer (DMU) 57
 4 Micromancer (DMU) 431
-4 Monstrous War-Leech (DMU) 98
 ================================================================================
 Deck
+4 Monstrous War-Leech (DMU) 98
 4 Mossbeard Ancient (DMU) 173
 4 Nael, Avizoa Aeronaut (DMU) 207
 4 Nael, Avizoa Aeronaut (DMU) 306
@@ -124,9 +125,9 @@ Deck
 4 Vohar, Vodalian Desecrator (DMU) 325
 4 Vohar, Vodalian Desecrator (DMU) 366
 4 Walking Bulwark (DMU) 241
-4 Warhost's Frenzy (DMU) 151
 ================================================================================
 Deck
+4 Warhost's Frenzy (DMU) 151
 4 Wingmantle Chaplain (DMU) 39
 4 Yavimaya Iconoclast (DMU) 190
 4 Yotia Declares War (DMU) 153

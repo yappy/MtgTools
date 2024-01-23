@@ -1,8 +1,10 @@
 Deck
 4 Agency Coroner (MKM) 75
 4 Airtight Alibi (MKM) 149
+4 Alley Assailant (MKM) 76
 4 Auspicious Arrival (MKM) 5
 4 Auspicious Arrival (MKM) 288
+4 Behind the Mask (MKM) 39
 4 Benthic Criminologists (MKM) 40
 4 Bite Down on Crime (MKM) 154
 4 Crimestopper Sprite (MKM) 49
@@ -24,6 +26,7 @@ Deck
 4 Gearbane Orangutan (MKM) 129
 4 Goblin Maskmaker (MKM) 130
 4 Granite Witness (MKM) 206
+4 Griffnaut Tracker (MKM) 17
 4 Hotshot Investigators (MKM) 60
 4 Innocent Bystander (MKM) 133
 4 Jaded Analyst (MKM) 62
@@ -34,6 +37,7 @@ Deck
 4 Museum Nightwatch (MKM) 25
 4 Nervous Gardener (MKM) 169
 4 Novice Inspector (MKM) 29
+4 Offender at Large (MKM) 138
 4 Out Cold (MKM) 66
 4 Pick Your Poison (MKM) 170
 4 Projektor Inspector (MKM) 68
@@ -41,6 +45,9 @@ Deck
 4 Rakish Scoundrel (MKM) 225
 4 Red Herring (MKM) 142
 4 Repeat Offender (MKM) 101
+4 Riftburst Hellion (MKM) 228
+4 Rot Farm Mortipede (MKM) 102
+4 Rubblebelt Maverick (MKM) 174
 4 Sanitation Automaton (MKM) 256
 4 Seasoned Consultant (MKM) 33
 4 Shady Informant (MKM) 231
