@@ -1,14 +1,19 @@
 Deck
-4 "Computer, load up Celery Man please." (MKM) 54
-4 "Hatficianado" (MKM) 38
-4 "In My Gamer Chair, Thinking About Dudes Getting Stabbed" (MKM) 51
+4 "Banish the Fanfiction" (MKM) 72
+4 "Hustle" (MKM) 249
+4 "Lennie Briscoe Superfan" (MKM) 7
+4 "Rune-Brand Juggler" (MKM) 229
 4 A Killer Among Us (MKM) 167
 4 Absolving Lammasu (MKM) 2
 4 Aftermath Analyst (MKM) 148
+4 Agency Outfitter (MKM) 38
 4 Bolrac-Clan Basher (MKM) 112
 4 Branch of Vitu-Ghazi (MKM) 258
+4 Break Out (MKM) 190
 4 Burden of Proof (MKM) 42
 4 Buried in the Garden (MKM) 191
+4 Call a Surprise Witness (MKM) 6
+4 Call a Surprise Witness (MKM) 289
 4 Candlestick (MKM) 43
 4 Case of the Burning Masks (MKM) 113
 4 Case of the Filched Falcon (MKM) 44
@@ -30,17 +35,25 @@ Deck
 4 Culvert Ambusher (MKM) 351
 4 Curious Cadaver (MKM) 194
 4 Curious Cadaver (MKM) 358
+4 Curious Inquiry (MKM) 51
 4 Deadly Complication (MKM) 195
 4 Deadly Complication (MKM) 312
+4 Detective's Satchel (MKM) 196
+4 Eliminate the Impossible (MKM) 54
 4 Essence of Antiquity (MKM) 15
 4 Evidence Examiner (MKM) 201
 4 Exit Specialist (MKM) 55
 4 Expose the Culprit (MKM) 124
 4 Expose the Culprit (MKM) 307
+4 Fae Flight (MKM) 56
+4 Fae Flight (MKM) 295
 4 Festerleech (MKM) 85
+4 Flotsam (MKM) 247
 4 Flourishing Bloom-Kin (MKM) 160
 4 Forensic Researcher (MKM) 58
 4 Frantic Scapegoat (MKM) 126
+4 Frantic Scapegoat (MKM) 347
+4 Furtive Courier (MKM) 59
 4 Fuss (MKM) 248
 4 Get a Leg Up (MKM) 161
 4 Gleaming Geardrake (MKM) 205
@@ -48,9 +61,13 @@ Deck
 4 Gleaming Geardrake (MKM) 424
 4 Glint Weaver (MKM) 162
 4 Greenbelt Radical (MKM) 163
+================================================================================
+Deck
 4 Hard-Hitting Question (MKM) 164
 4 Harried Dronesmith (MKM) 131
 4 Hedge Whisperer (MKM) 165
+4 Insidious Roots (MKM) 208
+4 Insidious Roots (MKM) 313
 4 It Doesn't Add Up (MKM) 89
 4 It Doesn't Add Up (MKM) 299
 4 Karlov Watchdog (MKM) 20
@@ -61,8 +78,6 @@ Deck
 4 Krovod Haunch (MKM) 21
 4 Lead Pipe (MKM) 90
 4 Lightning Helix (MKM) 218
-================================================================================
-Deck
 4 Lightning Helix (MKM) 426
 4 Living Conundrum (MKM) 63
 4 Long Goodbye (MKM) 92
@@ -74,6 +89,7 @@ Deck
 4 Meddling Youths (MKM) 367
 4 Mistway Spy (MKM) 65
 4 Neighborhood Guardian (MKM) 26
+4 Neighborhood Guardian (MKM) 339
 4 Nightdrinker Moroii (MKM) 96
 4 No More Lies (MKM) 221
 4 No More Lies (MKM) 427
@@ -91,8 +107,13 @@ Deck
 4 Sample Collector (MKM) 175
 4 Sanctuary Wall (MKM) 32
 4 Scene of the Crime (MKM) 267
+4 Soul Enervation (MKM) 106
+4 Soul Enervation (MKM) 302
 4 Soul Search (MKM) 232
 4 Sumala Sentry (MKM) 233
 4 Surveillance Monitor (MKM) 73
+4 Tin Street Gossip (MKM) 235
 4 Torch the Witness (MKM) 146
 4 Undercity Eliminator (MKM) 108
+4 Wispdrinker Vampire (MKM) 243
+4 Wispdrinker Vampire (MKM) 374

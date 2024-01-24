@@ -1,4 +1,5 @@
 Deck
+4 "Expedited Inheritance" (MKM) 123
 4 Agrus Kos, Spirit of Justice (MKM) 184
 4 Agrus Kos, Spirit of Justice (MKM) 354
 4 Agrus Kos, Spirit of Justice (MKM) 383
@@ -7,6 +8,7 @@ Deck
 4 Alquist Proft, Master Sleuth (MKM) 384
 4 Anzrag, the Quake-Mole (MKM) 186
 4 Anzrag, the Quake-Mole (MKM) 356
+4 Anzrag, the Quake-Mole (MKM) 385
 4 Aurelia's Vindicator (MKM) 4
 4 Aurelia's Vindicator (MKM) 336
 4 Aurelia's Vindicator (MKM) 377
