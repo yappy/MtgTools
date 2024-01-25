@@ -1,8 +1,12 @@
 Deck
 4 "Banish the Fanfiction" (MKM) 72
+4 "Ham Cat" (MKM) 16
 4 "Hustle" (MKM) 249
+4 "Leering Onlooker" (MKM) 91
 4 "Lennie Briscoe Superfan" (MKM) 7
+4 "Rope Respecter" (MKM) 31
 4 "Rune-Brand Juggler" (MKM) 229
+4 "Two Leeches for the Price of One" (MKM) 104
 4 A Killer Among Us (MKM) 167
 4 Absolving Lammasu (MKM) 2
 4 Aftermath Analyst (MKM) 148
@@ -26,6 +30,8 @@ Deck
 4 Cease (MKM) 246
 4 Chalk Outline (MKM) 157
 4 Clandestine Meddler (MKM) 82
+4 Coerced to Kill (MKM) 192
+4 Coerced to Kill (MKM) 311
 4 Concealed Weapon (MKM) 117
 4 Convenient Target (MKM) 119
 4 Convenient Target (MKM) 305
@@ -55,14 +61,14 @@ Deck
 4 Frantic Scapegoat (MKM) 347
 4 Furtive Courier (MKM) 59
 4 Fuss (MKM) 248
+================================================================================
+Deck
 4 Get a Leg Up (MKM) 161
 4 Gleaming Geardrake (MKM) 205
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
 4 Glint Weaver (MKM) 162
 4 Greenbelt Radical (MKM) 163
-================================================================================
-Deck
 4 Hard-Hitting Question (MKM) 164
 4 Harried Dronesmith (MKM) 131
 4 Hedge Whisperer (MKM) 165
@@ -104,6 +110,7 @@ Deck
 4 Push (MKM) 250
 4 Reckless Detective (MKM) 141
 4 Repulsive Mutation (MKM) 227
+4 Rope (MKM) 173
 4 Sample Collector (MKM) 175
 4 Sanctuary Wall (MKM) 32
 4 Scene of the Crime (MKM) 267
@@ -115,5 +122,9 @@ Deck
 4 Tin Street Gossip (MKM) 235
 4 Torch the Witness (MKM) 146
 4 Undercity Eliminator (MKM) 108
+4 Vengeful Tracker (MKM) 147
 4 Wispdrinker Vampire (MKM) 243
 4 Wispdrinker Vampire (MKM) 374
+================================================================================
+Deck
+4 Wrench (MKM) 37

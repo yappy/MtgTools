@@ -1,5 +1,4 @@
 Deck
-4 "Expedited Inheritance" (MKM) 123
 4 Agrus Kos, Spirit of Justice (MKM) 184
 4 Agrus Kos, Spirit of Justice (MKM) 354
 4 Agrus Kos, Spirit of Justice (MKM) 383
@@ -21,6 +20,8 @@ Deck
 4 Etrata, Deadly Fugitive (MKM) 200
 4 Etrata, Deadly Fugitive (MKM) 359
 4 Etrata, Deadly Fugitive (MKM) 386
+4 Expedited Inheritance (MKM) 123
+4 Expedited Inheritance (MKM) 404
 4 Incinerator of the Guilty (MKM) 132
 4 Incinerator of the Guilty (MKM) 349
 4 Incinerator of the Guilty (MKM) 381

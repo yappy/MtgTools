@@ -9,7 +9,10 @@ Deck
 4 Benthic Criminologists (MKM) 40
 4 Bite Down on Crime (MKM) 154
 4 Bubble Smuggler (MKM) 41
+4 Cerebral Confiscation (MKM) 81
+4 Cold Case Cracker (MKM) 46
 4 Crimestopper Sprite (MKM) 49
+4 Crowd-Control Warden (MKM) 193
 4 Deduce (MKM) 52
 4 Deduce (MKM) 293
 4 Defenestrated Phantom (MKM) 11
@@ -17,6 +20,7 @@ Deck
 4 Demand Answers (MKM) 306
 4 Dog Walker (MKM) 197
 4 Dramatic Accusation (MKM) 53
+4 Dramatic Accusation (MKM) 294
 4 Due Diligence (MKM) 14
 4 Escape Tunnel (MKM) 261
 4 Extract a Confession (MKM) 84
@@ -29,6 +33,7 @@ Deck
 4 Gearbane Orangutan (MKM) 129
 4 Goblin Maskmaker (MKM) 130
 4 Granite Witness (MKM) 206
+4 Gravestone Strider (MKM) 252
 4 Griffnaut Tracker (MKM) 17
 4 Haazda Vigilante (MKM) 18
 4 Hotshot Investigators (MKM) 60
@@ -38,17 +43,26 @@ Deck
 4 Loxodon Eavesdropper (MKM) 168
 4 Macabre Reconstruction (MKM) 93
 4 Magnifying Glass (MKM) 255
+4 Make Your Move (MKM) 22
+4 Makeshift Binding (MKM) 23
+4 Makeshift Binding (MKM) 290
 4 Marketwatch Phantom (MKM) 24
+4 Murder (MKM) 95
+4 Murder (MKM) 300
 4 Museum Nightwatch (MKM) 25
 4 Nervous Gardener (MKM) 169
 4 Novice Inspector (MKM) 29
 4 Offender at Large (MKM) 138
+4 On the Job (MKM) 30
+4 On the Job (MKM) 292
 4 Out Cold (MKM) 66
 4 Person of Interest (MKM) 139
 4 Pick Your Poison (MKM) 170
 4 Projektor Inspector (MKM) 68
 4 Public Thoroughfare (MKM) 265
 4 Rakish Scoundrel (MKM) 225
+================================================================================
+Deck
 4 Reasonable Doubt (MKM) 69
 4 Red Herring (MKM) 142
 4 Repeat Offender (MKM) 101
@@ -61,15 +75,21 @@ Deck
 4 Seasoned Consultant (MKM) 33
 4 Shady Informant (MKM) 231
 4 Shock (MKM) 144
-================================================================================
-Deck
+4 Slice from the Shadows (MKM) 103
+4 Slice from the Shadows (MKM) 301
 4 Slime Against Humanity (MKM) 177
 4 Snarling Gorehound (MKM) 105
+4 Suspicious Detonation (MKM) 145
+4 The Chase Is On (MKM) 116
+4 The Chase Is On (MKM) 304
 4 They Went This Way (MKM) 178
 4 Thinking Cap (MKM) 257
 4 Topiary Panther (MKM) 179
 4 Toxin Analysis (MKM) 107
 4 Tunnel Tipster (MKM) 180
+4 Unauthorized Exit (MKM) 74
+4 Unauthorized Exit (MKM) 298
 4 Undercover Crocodelf (MKM) 239
+4 Unscrupulous Agent (MKM) 109
 4 Vengeful Creeper (MKM) 182
 4 Vitu-Ghazi Inspector (MKM) 183

@@ -1,16 +1,21 @@
 Deck
-4 "Tenth District Hero" (MKM) 34
-4 "Tenth District Hero" (MKM) 391
+4 "AAA Lens Flare" (MKM) 207
+4 "Dominion Scheming" (MKM) 88
+4 "Hidden in Plain Sight" (MKM) 166
 4 "Yarus, Roar of the Gods" (MKM) 245
 4 "Yarus, Roar of the Gods" (MKM) 375
 4 Analyze the Pollen (MKM) 150
 4 Analyze the Pollen (MKM) 308
+4 Anzrag's Rampage (MKM) 111
+4 Anzrag's Rampage (MKM) 303
 4 Archdruid's Charm (MKM) 151
 4 Archdruid's Charm (MKM) 408
 4 Assassin's Trophy (MKM) 187
 4 Assassin's Trophy (MKM) 412
 4 Assemble the Players (MKM) 3
 4 Assemble the Players (MKM) 287
+4 Audience with Trostani (MKM) 152
+4 Audience with Trostani (MKM) 309
 4 Aurelia, the Law Above (MKM) 188
 4 Aurelia, the Law Above (MKM) 317
 4 Aurelia, the Law Above (MKM) 357
@@ -31,6 +36,7 @@ Deck
 4 Commercial District (MKM) 324
 4 Connecting the Dots (MKM) 118
 4 Connecting the Dots (MKM) 403
+4 Coveted Falcon (MKM) 48
 4 Coveted Falcon (MKM) 393
 4 Cryptex (MKM) 251
 4 Cryptex (MKM) 422
@@ -55,14 +61,14 @@ Deck
 4 Hedge Maze (MKM) 262
 4 Hedge Maze (MKM) 326
 4 Homicide Investigator (MKM) 86
+================================================================================
+Deck
 4 Homicide Investigator (MKM) 343
 4 Hunted Bonebrute (MKM) 87
 4 Hunted Bonebrute (MKM) 400
 4 Izoni, Center of the Web (MKM) 209
 4 Izoni, Center of the Web (MKM) 362
 4 Judith, Carnage Connoisseur (MKM) 210
-================================================================================
-Deck
 4 Judith, Carnage Connoisseur (MKM) 363
 4 Kellan, Inquisitive Prodigy (MKM) 212
 4 Kellan, Inquisitive Prodigy (MKM) 334
@@ -85,6 +91,7 @@ Deck
 4 Lush Portico (MKM) 327
 4 Meticulous Archive (MKM) 264
 4 Meticulous Archive (MKM) 328
+4 Niv-Mizzet, Guildpact (MKM) 220
 4 No Witnesses (MKM) 27
 4 No Witnesses (MKM) 390
 4 Officious Interrogation (MKM) 222
@@ -97,6 +104,8 @@ Deck
 4 Pyrotechnic Performer (MKM) 407
 4 Raucous Theater (MKM) 266
 4 Raucous Theater (MKM) 329
+4 Reenact the Crime (MKM) 70
+4 Reenact the Crime (MKM) 297
 4 Relive the Past (MKM) 226
 4 Relive the Past (MKM) 419
 4 Shadowy Backstreet (MKM) 268
@@ -105,6 +114,8 @@ Deck
 4 Sharp-Eyed Rookie (MKM) 353
 4 Steamcore Scholar (MKM) 71
 4 Steamcore Scholar (MKM) 397
+4 Tenth District Hero (MKM) 34
+4 Tenth District Hero (MKM) 391
 4 Teysa, Opulent Oligarch (MKM) 234
 4 Teysa, Opulent Oligarch (MKM) 321
 4 Teysa, Opulent Oligarch (MKM) 370
@@ -114,6 +125,8 @@ Deck
 4 Tolsimir, Midnight's Light (MKM) 371
 4 Treacherous Greed (MKM) 237
 4 Treacherous Greed (MKM) 420
+================================================================================
+Deck
 4 Undercity Sewers (MKM) 270
 4 Undercity Sewers (MKM) 332
 4 Underground Mortuary (MKM) 271
@@ -125,3 +138,5 @@ Deck
 4 Wojek Investigator (MKM) 36
 4 Wojek Investigator (MKM) 340
 4 Wojek Investigator (MKM) 429
+4 Worldsoul's Rage (MKM) 244
+4 Worldsoul's Rage (MKM) 316
