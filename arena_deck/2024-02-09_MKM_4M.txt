@@ -54,6 +54,7 @@ Deck
 4 Vannifar, Evolved Enigma (MKM) 241
 4 Vannifar, Evolved Enigma (MKM) 323
 4 Vannifar, Evolved Enigma (MKM) 373
+4 Vannifar, Evolved Enigma (MKM) 389
 4 Vein Ripper (MKM) 110
 4 Vein Ripper (MKM) 346
 4 Vein Ripper (MKM) 433

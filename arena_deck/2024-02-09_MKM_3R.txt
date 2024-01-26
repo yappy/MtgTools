@@ -1,9 +1,4 @@
 Deck
-4 "AAA Lens Flare" (MKM) 207
-4 "Dominion Scheming" (MKM) 88
-4 "Hidden in Plain Sight" (MKM) 166
-4 "Yarus, Roar of the Gods" (MKM) 245
-4 "Yarus, Roar of the Gods" (MKM) 375
 4 Analyze the Pollen (MKM) 150
 4 Analyze the Pollen (MKM) 308
 4 Anzrag's Rampage (MKM) 111
@@ -60,12 +55,18 @@ Deck
 4 Fugitive Codebreaker (MKM) 348
 4 Hedge Maze (MKM) 262
 4 Hedge Maze (MKM) 326
+4 Hide in Plain Sight (MKM) 166
+4 Hide in Plain Sight (MKM) 410
 4 Homicide Investigator (MKM) 86
-================================================================================
-Deck
 4 Homicide Investigator (MKM) 343
 4 Hunted Bonebrute (MKM) 87
 4 Hunted Bonebrute (MKM) 400
+================================================================================
+Deck
+4 Ill-Timed Explosion (MKM) 207
+4 Ill-Timed Explosion (MKM) 416
+4 Illicit Masquerade (MKM) 88
+4 Illicit Masquerade (MKM) 401
 4 Izoni, Center of the Web (MKM) 209
 4 Izoni, Center of the Web (MKM) 362
 4 Judith, Carnage Connoisseur (MKM) 210
@@ -92,6 +93,8 @@ Deck
 4 Meticulous Archive (MKM) 264
 4 Meticulous Archive (MKM) 328
 4 Niv-Mizzet, Guildpact (MKM) 220
+4 Niv-Mizzet, Guildpact (MKM) 319
+4 Niv-Mizzet, Guildpact (MKM) 368
 4 No Witnesses (MKM) 27
 4 No Witnesses (MKM) 390
 4 Officious Interrogation (MKM) 222
@@ -122,11 +125,11 @@ Deck
 4 Thundering Falls (MKM) 269
 4 Thundering Falls (MKM) 331
 4 Tolsimir, Midnight's Light (MKM) 236
+================================================================================
+Deck
 4 Tolsimir, Midnight's Light (MKM) 371
 4 Treacherous Greed (MKM) 237
 4 Treacherous Greed (MKM) 420
-================================================================================
-Deck
 4 Undercity Sewers (MKM) 270
 4 Undercity Sewers (MKM) 332
 4 Underground Mortuary (MKM) 271
@@ -140,3 +143,5 @@ Deck
 4 Wojek Investigator (MKM) 429
 4 Worldsoul's Rage (MKM) 244
 4 Worldsoul's Rage (MKM) 316
+4 Yarus, Roar of the Old Gods (MKM) 245
+4 Yarus, Roar of the Old Gods (MKM) 375

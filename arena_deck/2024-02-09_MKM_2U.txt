@@ -1,12 +1,5 @@
 Deck
-4 "Banish the Fanfiction" (MKM) 72
-4 "Ham Cat" (MKM) 16
-4 "Hustle" (MKM) 249
-4 "Leering Onlooker" (MKM) 91
-4 "Lennie Briscoe Superfan" (MKM) 7
-4 "Rope Respecter" (MKM) 31
 4 "Rune-Brand Juggler" (MKM) 229
-4 "Two Leeches for the Price of One" (MKM) 104
 4 A Killer Among Us (MKM) 167
 4 Absolving Lammasu (MKM) 2
 4 Aftermath Analyst (MKM) 148
@@ -19,6 +12,7 @@ Deck
 4 Call a Surprise Witness (MKM) 6
 4 Call a Surprise Witness (MKM) 289
 4 Candlestick (MKM) 43
+4 Case File Auditor (MKM) 7
 4 Case of the Burning Masks (MKM) 113
 4 Case of the Filched Falcon (MKM) 44
 4 Case of the Gateway Express (MKM) 8
@@ -57,21 +51,23 @@ Deck
 4 Flotsam (MKM) 247
 4 Flourishing Bloom-Kin (MKM) 160
 4 Forensic Researcher (MKM) 58
+4 Forum Familiar (MKM) 16
 4 Frantic Scapegoat (MKM) 126
 4 Frantic Scapegoat (MKM) 347
 4 Furtive Courier (MKM) 59
 4 Fuss (MKM) 248
-================================================================================
-Deck
 4 Get a Leg Up (MKM) 161
 4 Gleaming Geardrake (MKM) 205
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
 4 Glint Weaver (MKM) 162
+================================================================================
+Deck
 4 Greenbelt Radical (MKM) 163
 4 Hard-Hitting Question (MKM) 164
 4 Harried Dronesmith (MKM) 131
 4 Hedge Whisperer (MKM) 165
+4 Hustle (MKM) 249
 4 Insidious Roots (MKM) 208
 4 Insidious Roots (MKM) 313
 4 It Doesn't Add Up (MKM) 89
@@ -83,6 +79,7 @@ Deck
 4 Kraul Whipcracker (MKM) 425
 4 Krovod Haunch (MKM) 21
 4 Lead Pipe (MKM) 90
+4 Leering Onlooker (MKM) 91
 4 Lightning Helix (MKM) 218
 4 Lightning Helix (MKM) 426
 4 Living Conundrum (MKM) 63
@@ -101,6 +98,7 @@ Deck
 4 No More Lies (MKM) 427
 4 Not on My Watch (MKM) 28
 4 Not on My Watch (MKM) 291
+4 Perimeter Enforcer (MKM) 31
 4 Persuasive Interrogators (MKM) 98
 4 Persuasive Interrogators (MKM) 345
 4 Polygraph Orb (MKM) 99
@@ -114,9 +112,11 @@ Deck
 4 Sample Collector (MKM) 175
 4 Sanctuary Wall (MKM) 32
 4 Scene of the Crime (MKM) 267
+4 Slimy Dualleech (MKM) 104
 4 Soul Enervation (MKM) 106
 4 Soul Enervation (MKM) 302
 4 Soul Search (MKM) 232
+4 Sudden Setback (MKM) 72
 4 Sumala Sentry (MKM) 233
 4 Surveillance Monitor (MKM) 73
 4 Tin Street Gossip (MKM) 235
