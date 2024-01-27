@@ -1,5 +1,4 @@
 Deck
-4 "Rune-Brand Juggler" (MKM) 229
 4 A Killer Among Us (MKM) 167
 4 Absolving Lammasu (MKM) 2
 4 Aftermath Analyst (MKM) 148
@@ -61,9 +60,9 @@ Deck
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
 4 Glint Weaver (MKM) 162
+4 Greenbelt Radical (MKM) 163
 ================================================================================
 Deck
-4 Greenbelt Radical (MKM) 163
 4 Hard-Hitting Question (MKM) 164
 4 Harried Dronesmith (MKM) 131
 4 Hedge Whisperer (MKM) 165
@@ -109,6 +108,7 @@ Deck
 4 Reckless Detective (MKM) 141
 4 Repulsive Mutation (MKM) 227
 4 Rope (MKM) 173
+4 Rune-Brand Juggler (MKM) 229
 4 Sample Collector (MKM) 175
 4 Sanctuary Wall (MKM) 32
 4 Scene of the Crime (MKM) 267
