@@ -90,6 +90,7 @@ Deck
 4 Unauthorized Exit (MKM) 74
 4 Unauthorized Exit (MKM) 298
 4 Undercover Crocodelf (MKM) 239
+4 Undercover Crocodelf (MKM) 239†
 4 Unscrupulous Agent (MKM) 109
 4 Vengeful Creeper (MKM) 182
 4 Vitu-Ghazi Inspector (MKM) 183

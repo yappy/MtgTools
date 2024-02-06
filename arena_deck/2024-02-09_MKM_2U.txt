@@ -6,16 +6,19 @@ Deck
 4 Bolrac-Clan Basher (MKM) 112
 4 Branch of Vitu-Ghazi (MKM) 258
 4 Break Out (MKM) 190
+4 Break Out (MKM) 190†
 4 Burden of Proof (MKM) 42
 4 Buried in the Garden (MKM) 191
 4 Call a Surprise Witness (MKM) 6
 4 Call a Surprise Witness (MKM) 289
 4 Candlestick (MKM) 43
 4 Case File Auditor (MKM) 7
+4 Case File Auditor (MKM) 7†
 4 Case of the Burning Masks (MKM) 113
 4 Case of the Filched Falcon (MKM) 44
 4 Case of the Gateway Express (MKM) 8
 4 Case of the Gorgon's Kiss (MKM) 79
+4 Case of the Gorgon's Kiss (MKM) 79†
 4 Case of the Pilfered Proof (MKM) 9
 4 Case of the Shattered Pact (MKM) 1
 4 Case of the Trampled Garden (MKM) 156
@@ -23,6 +26,7 @@ Deck
 4 Cease (MKM) 246
 4 Chalk Outline (MKM) 157
 4 Clandestine Meddler (MKM) 82
+4 Clandestine Meddler (MKM) 82†
 4 Coerced to Kill (MKM) 192
 4 Coerced to Kill (MKM) 311
 4 Concealed Weapon (MKM) 117
@@ -57,12 +61,12 @@ Deck
 4 Fuss (MKM) 248
 4 Get a Leg Up (MKM) 161
 4 Gleaming Geardrake (MKM) 205
+================================================================================
+Deck
 4 Gleaming Geardrake (MKM) 361
 4 Gleaming Geardrake (MKM) 424
 4 Glint Weaver (MKM) 162
 4 Greenbelt Radical (MKM) 163
-================================================================================
-Deck
 4 Hard-Hitting Question (MKM) 164
 4 Harried Dronesmith (MKM) 131
 4 Hedge Whisperer (MKM) 165
@@ -76,6 +80,7 @@ Deck
 4 Kraul Whipcracker (MKM) 213
 4 Kraul Whipcracker (MKM) 364
 4 Kraul Whipcracker (MKM) 425
+4 Kraul Whipcracker (MKM) 213†
 4 Krovod Haunch (MKM) 21
 4 Lead Pipe (MKM) 90
 4 Leering Onlooker (MKM) 91
@@ -117,14 +122,17 @@ Deck
 4 Soul Enervation (MKM) 302
 4 Soul Search (MKM) 232
 4 Sudden Setback (MKM) 72
+4 Sudden Setback (MKM) 72†
 4 Sumala Sentry (MKM) 233
 4 Surveillance Monitor (MKM) 73
+================================================================================
+Deck
+4 Surveillance Monitor (MKM) 73†
 4 Tin Street Gossip (MKM) 235
 4 Torch the Witness (MKM) 146
+4 Torch the Witness (MKM) 146†
 4 Undercity Eliminator (MKM) 108
 4 Vengeful Tracker (MKM) 147
 4 Wispdrinker Vampire (MKM) 243
 4 Wispdrinker Vampire (MKM) 374
-================================================================================
-Deck
 4 Wrench (MKM) 37
