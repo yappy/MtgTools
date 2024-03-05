@@ -8,3 +8,4 @@ Deck
 4 Scrutiny of the Guildpact (YMKM) 1
 4 Shove Aside (YMKM) 16
 4 Snarlfang Vermin (YMKM) 12
+4 Woodland Investigation (YMKM) 21
