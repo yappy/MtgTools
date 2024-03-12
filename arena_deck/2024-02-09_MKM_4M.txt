@@ -39,6 +39,7 @@ Deck
 4 Rakdos, Patron of Chaos (MKM) 320
 4 Rakdos, Patron of Chaos (MKM) 369
 4 Rakdos, Patron of Chaos (MKM) 387
+4 Rakdos, Patron of Chaos (MKM) 320z
 4 The Pride of Hull Clade (MKM) 172
 4 The Pride of Hull Clade (MKM) 352
 4 The Pride of Hull Clade (MKM) 382
@@ -47,6 +48,7 @@ Deck
 4 Trostani, Three Whispers (MKM) 322
 4 Trostani, Three Whispers (MKM) 372
 4 Trostani, Three Whispers (MKM) 388
+4 Trostani, Three Whispers (MKM) 322z
 4 Undergrowth Recon (MKM) 181
 4 Undergrowth Recon (MKM) 411
 4 Urgent Necropsy (MKM) 240
@@ -55,7 +57,10 @@ Deck
 4 Vannifar, Evolved Enigma (MKM) 323
 4 Vannifar, Evolved Enigma (MKM) 373
 4 Vannifar, Evolved Enigma (MKM) 389
+4 Vannifar, Evolved Enigma (MKM) 323z
 4 Vein Ripper (MKM) 110
 4 Vein Ripper (MKM) 346
 4 Vein Ripper (MKM) 433
+================================================================================
+Deck
 4 Voja, Jaws of the Conclave (MKM) 432

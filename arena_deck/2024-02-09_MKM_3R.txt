@@ -84,6 +84,7 @@ Deck
 4 Lazav, Wearer of Faces (MKM) 216
 4 Lazav, Wearer of Faces (MKM) 318
 4 Lazav, Wearer of Faces (MKM) 366
+4 Lazav, Wearer of Faces (MKM) 318z
 4 Leyline of the Guildpact (MKM) 217
 4 Leyline of the Guildpact (MKM) 418
 4 Lost in the Maze (MKM) 64
@@ -95,6 +96,7 @@ Deck
 4 Niv-Mizzet, Guildpact (MKM) 220
 4 Niv-Mizzet, Guildpact (MKM) 319
 4 Niv-Mizzet, Guildpact (MKM) 368
+4 Niv-Mizzet, Guildpact (MKM) 319z
 4 No Witnesses (MKM) 27
 4 No Witnesses (MKM) 390
 4 Officious Interrogation (MKM) 222
@@ -122,11 +124,12 @@ Deck
 4 Teysa, Opulent Oligarch (MKM) 234
 4 Teysa, Opulent Oligarch (MKM) 321
 4 Teysa, Opulent Oligarch (MKM) 370
+4 Teysa, Opulent Oligarch (MKM) 321z
+================================================================================
+Deck
 4 Thundering Falls (MKM) 269
 4 Thundering Falls (MKM) 331
 4 Tolsimir, Midnight's Light (MKM) 236
-================================================================================
-Deck
 4 Tolsimir, Midnight's Light (MKM) 371
 4 Treacherous Greed (MKM) 237
 4 Treacherous Greed (MKM) 420
