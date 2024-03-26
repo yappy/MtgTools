@@ -1,1 +1,5 @@
 Deck
+4 "Cowborb" (OTJ) 14
+4 "Raise Dead? No. Raise Child." (OTJ) 194
+4 "Unreal Estate" (OTJ) 46
+4 Lavaspur Boots (OTJ) 243
