@@ -1,7 +1,33 @@
 Deck
+4 Blooming Marsh (OTJ) 266
+4 Blooming Marsh (OTJ) 300
+4 Botanical Sanctum (OTJ) 267
+4 Botanical Sanctum (OTJ) 301
+4 Colossal Rattlewurm (OTJ) 159
+4 Colossal Rattlewurm (OTJ) 339
+4 Concealed Courtyard (OTJ) 268
+4 Concealed Courtyard (OTJ) 302
 4 Duelist of the Mind (OTJ) 45
 4 Duelist of the Mind (OTJ) 318
 4 Fblthp, Lost on the Range (OTJ) 48
 4 Fblthp, Lost on the Range (OTJ) 319
+4 Freestrider Lookout (OTJ) 163
+4 Freestrider Lookout (OTJ) 340
+4 Great Train Heist (OTJ) 125
+4 Great Train Heist (OTJ) 331
 4 Hell to Pay (OTJ) 126
 4 Hell to Pay (OTJ) 332
+4 High Noon (OTJ) 15
+4 Inspiring Vantage (OTJ) 269
+4 Inspiring Vantage (OTJ) 303
+4 Magda, the Hoardmaster (OTJ) 133
+4 Magda, the Hoardmaster (OTJ) 334
+4 Magda, the Hoardmaster (OTJ) 374
+4 Slickshot Show-Off (OTJ) 146
+4 Slickshot Show-Off (OTJ) 335
+4 Spirebluff Canal (OTJ) 270
+4 Spirebluff Canal (OTJ) 304
+4 The Key to the Vault (OTJ) 54
+4 The Key to the Vault (OTJ) 320
+4 Tinybones Joins Up (OTJ) 108
+4 Tinybones Joins Up (OTJ) 328

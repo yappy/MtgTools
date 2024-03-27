@@ -2,7 +2,20 @@ Deck
 4 Nexus of Becoming (BIG) 25
 4 Nexus of Becoming (BIG) 55
 4 Nexus of Becoming (BIG) 90
+4 Oltec Matterweaver (BIG) 3
+4 Oltec Matterweaver (BIG) 33
+4 Oltec Matterweaver (BIG) 68
 4 Sword of Wealth and Power (BIG) 26
 4 Sword of Wealth and Power (BIG) 56
 4 Sword of Wealth and Power (BIG) 64
 4 Sword of Wealth and Power (BIG) 91
+4 Torpor Orb (BIG) 27
+4 Torpor Orb (BIG) 57
+4 Torpor Orb (BIG) 92
+4 Transmutation Font (BIG) 28
+4 Transmutation Font (BIG) 58
+4 Transmutation Font (BIG) 93
+4 Vaultborn Tyrant (BIG) 20
+4 Vaultborn Tyrant (BIG) 50
+4 Vaultborn Tyrant (BIG) 61
+4 Vaultborn Tyrant (BIG) 85
