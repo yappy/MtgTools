@@ -1,8 +1,17 @@
 Deck
+4 "Kellan Joins Up" (OTJ) 212
+4 "Kellan Joins Up" (OTJ) 354
+4 "Roxanne, Starfall Savant" (OTJ) 228
+4 Aven Interrupter (OTJ) 4
+4 Aven Interrupter (OTJ) 309
 4 Blooming Marsh (OTJ) 266
 4 Blooming Marsh (OTJ) 300
+4 Bonny Pall, Clearcutter (OTJ) 196
+4 Bonny Pall, Clearcutter (OTJ) 349
 4 Botanical Sanctum (OTJ) 267
 4 Botanical Sanctum (OTJ) 301
+4 Bruse Tarl, Roving Rancher (OTJ) 198
+4 Bruse Tarl, Roving Rancher (OTJ) 350
 4 Colossal Rattlewurm (OTJ) 159
 4 Colossal Rattlewurm (OTJ) 339
 4 Concealed Courtyard (OTJ) 268
@@ -11,6 +20,8 @@ Deck
 4 Duelist of the Mind (OTJ) 318
 4 Fblthp, Lost on the Range (OTJ) 48
 4 Fblthp, Lost on the Range (OTJ) 319
+4 Fortune, Loyal Steed (OTJ) 12
+4 Fortune, Loyal Steed (OTJ) 313
 4 Freestrider Lookout (OTJ) 163
 4 Freestrider Lookout (OTJ) 340
 4 Great Train Heist (OTJ) 125
@@ -18,16 +29,38 @@ Deck
 4 Hell to Pay (OTJ) 126
 4 Hell to Pay (OTJ) 332
 4 High Noon (OTJ) 15
+4 Insatiable Avarice (OTJ) 91
+4 Insatiable Avarice (OTJ) 325
 4 Inspiring Vantage (OTJ) 269
 4 Inspiring Vantage (OTJ) 303
 4 Magda, the Hoardmaster (OTJ) 133
 4 Magda, the Hoardmaster (OTJ) 334
 4 Magda, the Hoardmaster (OTJ) 374
+4 Malcolm, the Eyes (OTJ) 999-MTE
+4 Marchesa, Dealer of Death (OTJ) 220
+4 Outcaster Trailblazer (OTJ) 173
+4 Outcaster Trailblazer (OTJ) 343
+4 Riku of Many Paths (OTJ) 227
+4 Riku of Many Paths (OTJ) 361
+4 Satoru, the Infiltrator (OTJ) 230
+4 Satoru, the Infiltrator (OTJ) 298
+4 Seraphic Steed (OTJ) 232
 4 Slickshot Show-Off (OTJ) 146
 4 Slickshot Show-Off (OTJ) 335
+4 Smuggler's Surprise (OTJ) 180
+4 Smuggler's Surprise (OTJ) 345
 4 Spirebluff Canal (OTJ) 270
 4 Spirebluff Canal (OTJ) 304
+4 Step Between Worlds (OTJ) 70
+4 Step Between Worlds (OTJ) 321
 4 The Key to the Vault (OTJ) 54
 4 The Key to the Vault (OTJ) 320
+4 The Key to the Vault (OTJ) 373
+4 Three Steps Ahead (OTJ) 75
 4 Tinybones Joins Up (OTJ) 108
 4 Tinybones Joins Up (OTJ) 328
+4 Vadmir, New Blood (OTJ) 113
+4 Vraska Joins Up (OTJ) 236
+================================================================================
+Deck
+4 Vraska Joins Up (OTJ) 366

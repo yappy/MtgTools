@@ -1,18 +1,20 @@
 Deck
 4 Abraded Bluffs (OTJ) 251
+4 Aloe Alchemist (OTJ) 152
 4 Armored Armadillo (OTJ) 3
 4 Bristling Backwoods (OTJ) 253
 4 Cactarantula (OTJ) 158
 4 Creosote Heath (OTJ) 255
+4 Desperate Bloodseeker (OTJ) 86
 4 Eroded Canyon (OTJ) 256
 4 Festering Gulch (OTJ) 257
 4 Forlorn Flats (OTJ) 258
 4 Hardbristle Bandit (OTJ) 168
 4 Holy Cow (OTJ) 16
 4 Jagged Barrens (OTJ) 259
+4 Loan Shark (OTJ) 55
 4 Lonely Arroyo (OTJ) 260
 4 Lush Oasis (OTJ) 261
 4 Quilled Charger (OTJ) 139
 4 Soured Springs (OTJ) 264
-4 The Key to the Vault (OTJ) 373
 4 Trained Arynx (OTJ) 36

@@ -1,30 +1,56 @@
 Deck
 4 "Cowborb" (OTJ) 14
-4 "Craft. T. Coyote" (OTJ) 118
-4 "Raise Dead? No. Raise Child." (OTJ) 194
-4 "Unreal Estate" (OTJ) 46
+4 "Lively Dirge" (OTJ) 93
+4 "Longhorn Sharpshooter" (OTJ) 132
+4 "Method Actor" (OTJ) 76
+4 "Prickly-Paw" (OTJ) 176
+4 Arid Archway (OTJ) 252
+4 At Knifepoint (OTJ) 193
+4 Badlands Revival (OTJ) 194
+4 Binding Negotiation (OTJ) 78
 4 Bovine Intervention (OTJ) 6
+4 Congregation Gryff (OTJ) 200
+4 Cunning Coyote (OTJ) 118
+4 Emergent Haunting (OTJ) 46
 4 Ertha Jo, Frontier Mentor (OTJ) 203
+4 Fleeting Reflection (OTJ) 49
 4 Form a Posse (OTJ) 204
 4 Frontier Seeker (OTJ) 13
 4 Frontier Seeker (OTJ) 368
+4 Hellspur Brute (OTJ) 127
 4 Honest Rutstein (OTJ) 207
 4 Honest Rutstein (OTJ) 370
 4 Intimidation Campaign (OTJ) 208
 4 Jolene, Plundering Pugilist (OTJ) 210
 4 Kraum, Violent Cacophony (OTJ) 214
+4 Lassoed by the Law (OTJ) 18
 4 Lavaspur Boots (OTJ) 243
 4 Lazav, Familiar Stranger (OTJ) 216
 4 Make Your Own Luck (OTJ) 218
 4 Make Your Own Luck (OTJ) 371
 4 Marauding Sphinx (OTJ) 56
+4 Miriam, Herd Whisperer (OTJ) 221
+4 Mobile Homestead (OTJ) 245
+4 Outcaster Greenblade (OTJ) 172
 4 Plan the Heist (OTJ) 62
+4 Prosperity Tycoon (OTJ) 25
 4 Rakish Crew (OTJ) 99
 4 Rattleback Apothecary (OTJ) 100
+4 Resilient Roadrunner (OTJ) 141
+4 Rictus Robber (OTJ) 102
 4 Ruthless Lawbringer (OTJ) 229
 4 Ruthless Lawbringer (OTJ) 372
 4 Scorching Shot (OTJ) 145
 4 Scorching Shot (OTJ) 369
+4 Servant of the Stinger (OTJ) 105
+4 Shifting Grift (OTJ) 66
+4 Shoot the Sheriff (OTJ) 106
 4 Slickshot Lockpicker (OTJ) 67
+4 Spinewoods Armadillo (OTJ) 182
+4 Stubborn Burrowfiend (OTJ) 184
+4 Thunder Lasso (OTJ) 35
+4 Tomb Trawler (OTJ) 250
 4 Unfortunate Accident (OTJ) 111
+4 Unscrupulous Contractor (OTJ) 112
 4 Vial Smasher, Gleeful Grenadier (OTJ) 235
+4 Wrangler of the Damned (OTJ) 238
