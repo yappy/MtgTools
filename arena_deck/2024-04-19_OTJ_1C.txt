@@ -1,20 +1,38 @@
 Deck
 4 Abraded Bluffs (OTJ) 251
-4 Aloe Alchemist (OTJ) 152
 4 Armored Armadillo (OTJ) 3
+4 Blacksnag Buzzard (OTJ) 79
+4 Bridled Bighorn (OTJ) 999?
+4 Bristlepack Sentry (OTJ) 156
 4 Bristling Backwoods (OTJ) 253
 4 Cactarantula (OTJ) 158
 4 Creosote Heath (OTJ) 255
+4 Dance of the Tumbleweeds (OTJ) 160
 4 Desperate Bloodseeker (OTJ) 86
+4 Discerning Peddler (OTJ) 121
+4 Djinn of Fool's Fall (OTJ) 43
+4 Eriette's Lullaby (OTJ) 10
 4 Eroded Canyon (OTJ) 256
+4 Fake Your Own Death (OTJ) 997?
 4 Festering Gulch (OTJ) 257
 4 Forlorn Flats (OTJ) 258
+4 Gold Pan (OTJ) 242
 4 Hardbristle Bandit (OTJ) 168
 4 Holy Cow (OTJ) 16
+4 Irascible Wolverine (OTJ) 130
 4 Jagged Barrens (OTJ) 259
 4 Loan Shark (OTJ) 55
 4 Lonely Arroyo (OTJ) 260
 4 Lush Oasis (OTJ) 261
+4 Mine Raider (OTJ) 135
+4 Patient Naturalist (OTJ) 174
 4 Quilled Charger (OTJ) 139
+4 Raven of Fell Omens (OTJ) 101
+4 Razzle-Dazzler (OTJ) 998?
+4 Reckless Lackey (OTJ) 140
+4 Slickshot Vault-Buster (OTJ) 68
 4 Soured Springs (OTJ) 264
+4 Steer Clear (OTJ) 31
 4 Trained Arynx (OTJ) 36
+4 Tumbleweed Rising (OTJ) 187
+4 Vengeful Townsfolk (OTJ) 37

@@ -2,12 +2,19 @@ Deck
 4 Annie Flash, the Veteran (OTJ) 190
 4 Annie Flash, the Veteran (OTJ) 291
 4 Archangel of Tithes (OTJ) 2
+4 Archangel of Tithes (OTJ) 308
+4 Assimilation Aegis (OTJ) 192
+4 Assimilation Aegis (OTJ) 348
 4 Bristly Bill, Spine Sower (OTJ) 157
 4 Bristly Bill, Spine Sower (OTJ) 338
 4 Double Down (OTJ) 44
 4 Double Down (OTJ) 317
 4 Final Showdown (OTJ) 11
 4 Final Showdown (OTJ) 312
+4 Geralf, the Fleshwright (OTJ) 50
+4 Geralf, the Fleshwright (OTJ) 287
+4 Ghired, Mirror of the Wilds (OTJ) 205
+4 Ghired, Mirror of the Wilds (OTJ) 351
 4 Gisa, the Hellraiser (OTJ) 89
 4 Gisa, the Hellraiser (OTJ) 288
 4 Jace Reawakened (OTJ) 271
@@ -17,6 +24,8 @@ Deck
 4 Oko, the Ringleader (OTJ) 223
 4 Oko, the Ringleader (OTJ) 296
 4 Oko, the Ringleader (OTJ) 305
+4 Railway Brawler (OTJ) 175
+4 Railway Brawler (OTJ) 344
 4 Rakdos, the Muscle (OTJ) 226
 4 Rakdos, the Muscle (OTJ) 297
 4 Selvala, Eager Trailblazer (OTJ) 231
