@@ -2,7 +2,8 @@ Deck
 4 Abraded Bluffs (OTJ) 251
 4 Armored Armadillo (OTJ) 3
 4 Blacksnag Buzzard (OTJ) 79
-4 Bridled Bighorn (OTJ) 999?
+4 Boneyard Desecrator (OTJ) 81
+4 Bridled Bighorn (OTJ) 7
 4 Bristlepack Sentry (OTJ) 156
 4 Bristling Backwoods (OTJ) 253
 4 Cactarantula (OTJ) 158
@@ -13,26 +14,40 @@ Deck
 4 Djinn of Fool's Fall (OTJ) 43
 4 Eriette's Lullaby (OTJ) 10
 4 Eroded Canyon (OTJ) 256
-4 Fake Your Own Death (OTJ) 997?
+4 Explosive Derailment (OTJ) 122
+4 Failed Fording (OTJ) 47
+4 Fake Your Own Death (OTJ) 87
 4 Festering Gulch (OTJ) 257
 4 Forlorn Flats (OTJ) 258
 4 Gold Pan (OTJ) 242
 4 Hardbristle Bandit (OTJ) 168
 4 Holy Cow (OTJ) 16
+4 Inventive Wingsmith (OTJ) 17
 4 Irascible Wolverine (OTJ) 130
 4 Jagged Barrens (OTJ) 259
 4 Loan Shark (OTJ) 55
 4 Lonely Arroyo (OTJ) 260
 4 Lush Oasis (OTJ) 261
 4 Mine Raider (OTJ) 135
+4 Mystical Tether (OTJ) 19
+4 Oasis Gardener (OTJ) 246
+4 Outlaws' Fury (OTJ) 136
 4 Patient Naturalist (OTJ) 174
+4 Peerless Ropemaster (OTJ) 60
 4 Quilled Charger (OTJ) 139
 4 Raven of Fell Omens (OTJ) 101
-4 Razzle-Dazzler (OTJ) 998?
+4 Razzle-Dazzler (OTJ) 63
+4 Reach for the Sky (OTJ) 178
 4 Reckless Lackey (OTJ) 140
+4 Rodeo Pyromancers (OTJ) 143
+4 Rooftop Assassin (OTJ) 103
 4 Slickshot Vault-Buster (OTJ) 68
 4 Soured Springs (OTJ) 264
+4 Spring Splasher (OTJ) 69
 4 Steer Clear (OTJ) 31
+4 Sterling Keykeeper (OTJ) 32
 4 Trained Arynx (OTJ) 36
 4 Tumbleweed Rising (OTJ) 187
 4 Vengeful Townsfolk (OTJ) 37
+4 Voracious Varmint (OTJ) 188
+4 Wanted Griffin (OTJ) 38

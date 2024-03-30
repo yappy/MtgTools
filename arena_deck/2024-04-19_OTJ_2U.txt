@@ -1,30 +1,41 @@
 Deck
-4 "Bag of Golding" (OTJ) 240
-4 "Gentlemen, behold: DINOSAURS" (OTJ) 144
 4 Aloe Alchemist (OTJ) 152
 4 Arid Archway (OTJ) 252
 4 At Knifepoint (OTJ) 193
 4 Badlands Revival (OTJ) 194
+4 Bandit's Haul (OTJ) 240
 4 Baron Bertram Graywater (OTJ) 195
 4 Beastbond Outcaster (OTJ) 154
+4 Betrayal at the Vault (OTJ) 155
 4 Binding Negotiation (OTJ) 78
+4 Blood Hustler (OTJ) 80
+4 Boom Box (OTJ) 241
+4 Bounding Felidar (OTJ) 5
 4 Bovine Intervention (OTJ) 6
 4 Brimstone Roundup (OTJ) 115
+4 Bucolic Ranch (OTJ) 265
+4 Cactusfolk Sureshot (OTJ) 199
 4 Canyon Crab (OTJ) 40
 4 Caught in the Crossfire (OTJ) 117
 4 Congregation Gryff (OTJ) 200
 4 Cunning Coyote (OTJ) 118
+4 Deepmuck Desperado (OTJ) 42
 4 Demonic Ruckus (OTJ) 120
+4 Doc Aurlock, Grizzled Genius (OTJ) 201
 4 Emergent Haunting (OTJ) 46
 4 Ertha Jo, Frontier Mentor (OTJ) 203
+4 Ferocification (OTJ) 123
 4 Fleeting Reflection (OTJ) 49
 4 Form a Posse (OTJ) 204
 4 Forsaken Miner (OTJ) 88
 4 Frontier Seeker (OTJ) 13
 4 Frontier Seeker (OTJ) 368
+4 Full Steam Ahead (OTJ) 164
 4 Getaway Glamer (OTJ) 14
+4 Gila Courser (OTJ) 124
 4 Gold Rush (OTJ) 166
 4 Hellspur Brute (OTJ) 127
+4 Hollow Marauder (OTJ) 90
 4 Honest Rutstein (OTJ) 207
 4 Honest Rutstein (OTJ) 370
 4 Intimidation Campaign (OTJ) 208
@@ -40,18 +51,25 @@ Deck
 4 Magebane Lizard (OTJ) 134
 4 Make Your Own Luck (OTJ) 218
 4 Make Your Own Luck (OTJ) 371
+4 Map the Frontier (OTJ) 170
 4 Marauding Sphinx (OTJ) 56
 4 Miriam, Herd Whisperer (OTJ) 221
 4 Mobile Homestead (OTJ) 245
 4 Neutralize the Guards (OTJ) 95
 4 Nimble Brigand (OTJ) 58
+4 Nurturing Pixie (OTJ) 20
+4 Omenport Vigilante (OTJ) 21
 4 Outcaster Greenblade (OTJ) 172
 4 Outlaw Stitcher (OTJ) 59
+================================================================================
+Deck
 4 Plan the Heist (OTJ) 62
+4 Prairie Dog (OTJ) 24
 4 Prosperity Tycoon (OTJ) 25
 4 Rakish Crew (OTJ) 99
 4 Rambling Possum (OTJ) 176
 4 Rattleback Apothecary (OTJ) 100
+4 Raucous Entertainer (OTJ) 177
 4 Redrock Sentinel (OTJ) 247
 4 Requisition Raid (OTJ) 26
 4 Resilient Roadrunner (OTJ) 141
@@ -60,12 +78,12 @@ Deck
 4 Rustler Rampage (OTJ) 27
 4 Ruthless Lawbringer (OTJ) 229
 4 Ruthless Lawbringer (OTJ) 372
+4 Scalestorm Summoner (OTJ) 144
 4 Scorching Shot (OTJ) 145
-================================================================================
-Deck
 4 Scorching Shot (OTJ) 369
 4 Servant of the Stinger (OTJ) 105
 4 Shackle Slinger (OTJ) 65
+4 Shepherd of the Clouds (OTJ) 28
 4 Sheriff of Safe Passage (OTJ) 29
 4 Shifting Grift (OTJ) 66
 4 Shoot the Sheriff (OTJ) 106
@@ -77,6 +95,7 @@ Deck
 4 This Town Ain't Big Enough (OTJ) 74
 4 Thunder Lasso (OTJ) 35
 4 Tomb Trawler (OTJ) 250
+4 Trash the Town (OTJ) 186
 4 Treasure Dredger (OTJ) 110
 4 Unfortunate Accident (OTJ) 111
 4 Unscrupulous Contractor (OTJ) 112
