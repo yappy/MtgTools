@@ -1,4 +1,6 @@
 Deck
+4 "Crispy Crab Akul" (OTJ) 189
+4 Annie Joins Up (OTJ) 191
 4 Another Round (OTJ) 1
 4 Another Round (OTJ) 307
 4 Archmage's Newt (OTJ) 39
@@ -48,6 +50,7 @@ Deck
 4 Kaervek, the Punisher (OTJ) 92
 4 Kaervek, the Punisher (OTJ) 289
 4 Kambal, Profiteering Mayor (OTJ) 211
+4 Kambal, Profiteering Mayor (OTJ) 353
 4 Kellan Joins Up (OTJ) 212
 4 Kellan Joins Up (OTJ) 354
 4 Laughing Jasper Flint (OTJ) 215
@@ -58,11 +61,11 @@ Deck
 4 Magda, the Hoardmaster (OTJ) 334
 4 Magda, the Hoardmaster (OTJ) 374
 4 Malcolm, the Eyes (OTJ) 219
+================================================================================
+Deck
 4 Malcolm, the Eyes (OTJ) 295
 4 Marchesa, Dealer of Death (OTJ) 220
 4 Marchesa, Dealer of Death (OTJ) 357
-================================================================================
-Deck
 4 Obeka, Splitter of Seconds (OTJ) 222
 4 Obeka, Splitter of Seconds (OTJ) 358
 4 One Last Job (OTJ) 22
@@ -108,3 +111,4 @@ Deck
 4 Vadmir, New Blood (OTJ) 329
 4 Vraska Joins Up (OTJ) 236
 4 Vraska Joins Up (OTJ) 366
+4 Wylie Duke, Atiin Hero (OTJ) 239

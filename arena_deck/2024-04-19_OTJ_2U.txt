@@ -40,6 +40,7 @@ Deck
 4 Honest Rutstein (OTJ) 370
 4 Intimidation Campaign (OTJ) 208
 4 Intrepid Stablemaster (OTJ) 169
+4 Jem Lightfoote, Sky Explorer (OTJ) 209
 4 Jolene, Plundering Pugilist (OTJ) 210
 4 Kraum, Violent Cacophony (OTJ) 214
 4 Lassoed by the Law (OTJ) 18
@@ -53,16 +54,17 @@ Deck
 4 Make Your Own Luck (OTJ) 371
 4 Map the Frontier (OTJ) 170
 4 Marauding Sphinx (OTJ) 56
+4 Metamorphic Blast (OTJ) 57
 4 Miriam, Herd Whisperer (OTJ) 221
 4 Mobile Homestead (OTJ) 245
 4 Neutralize the Guards (OTJ) 95
 4 Nimble Brigand (OTJ) 58
 4 Nurturing Pixie (OTJ) 20
 4 Omenport Vigilante (OTJ) 21
-4 Outcaster Greenblade (OTJ) 172
-4 Outlaw Stitcher (OTJ) 59
 ================================================================================
 Deck
+4 Outcaster Greenblade (OTJ) 172
+4 Outlaw Stitcher (OTJ) 59
 4 Plan the Heist (OTJ) 62
 4 Prairie Dog (OTJ) 24
 4 Prosperity Tycoon (OTJ) 25
@@ -73,11 +75,13 @@ Deck
 4 Redrock Sentinel (OTJ) 247
 4 Requisition Raid (OTJ) 26
 4 Resilient Roadrunner (OTJ) 141
+4 Return the Favor (OTJ) 142
 4 Rictus Robber (OTJ) 102
 4 Rise of the Varmints (OTJ) 179
 4 Rustler Rampage (OTJ) 27
 4 Ruthless Lawbringer (OTJ) 229
 4 Ruthless Lawbringer (OTJ) 372
+4 Sandstorm Verge (OTJ) 263
 4 Scalestorm Summoner (OTJ) 144
 4 Scorching Shot (OTJ) 145
 4 Scorching Shot (OTJ) 369
