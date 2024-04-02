@@ -1,6 +1,8 @@
 Deck
-4 "Crispy Crab Akul" (OTJ) 189
+4 Akul the Unrepentant (OTJ) 189
+4 Akul the Unrepentant (OTJ) 346
 4 Annie Joins Up (OTJ) 191
+4 Annie Joins Up (OTJ) 347
 4 Another Round (OTJ) 1
 4 Another Round (OTJ) 307
 4 Archmage's Newt (OTJ) 39
@@ -18,7 +20,9 @@ Deck
 4 Bruse Tarl, Roving Rancher (OTJ) 198
 4 Bruse Tarl, Roving Rancher (OTJ) 350
 4 Calamity, Galloping Inferno (OTJ) 116
+4 Calamity, Galloping Inferno (OTJ) 330
 4 Caustic Bronco (OTJ) 82
+4 Caustic Bronco (OTJ) 324
 4 Claim Jumper (OTJ) 8
 4 Claim Jumper (OTJ) 310
 4 Colossal Rattlewurm (OTJ) 159
@@ -27,6 +31,8 @@ Deck
 4 Concealed Courtyard (OTJ) 302
 4 Duelist of the Mind (OTJ) 45
 4 Duelist of the Mind (OTJ) 318
+4 Dust Animus (OTJ) 9
+4 Dust Animus (OTJ) 311
 4 Eriette, the Beguiler (OTJ) 202
 4 Eriette, the Beguiler (OTJ) 293
 4 Fblthp, Lost on the Range (OTJ) 48
@@ -55,20 +61,21 @@ Deck
 4 Kellan Joins Up (OTJ) 354
 4 Laughing Jasper Flint (OTJ) 215
 4 Laughing Jasper Flint (OTJ) 355
+================================================================================
+Deck
 4 Lilah, Undefeated Slickshot (OTJ) 217
 4 Lilah, Undefeated Slickshot (OTJ) 356
 4 Magda, the Hoardmaster (OTJ) 133
 4 Magda, the Hoardmaster (OTJ) 334
 4 Magda, the Hoardmaster (OTJ) 374
 4 Malcolm, the Eyes (OTJ) 219
-================================================================================
-Deck
 4 Malcolm, the Eyes (OTJ) 295
 4 Marchesa, Dealer of Death (OTJ) 220
 4 Marchesa, Dealer of Death (OTJ) 357
 4 Obeka, Splitter of Seconds (OTJ) 222
 4 Obeka, Splitter of Seconds (OTJ) 358
 4 One Last Job (OTJ) 22
+4 One Last Job (OTJ) 315
 4 Ornery Tumblewagg (OTJ) 171
 4 Ornery Tumblewagg (OTJ) 342
 4 Outcaster Trailblazer (OTJ) 173
@@ -76,7 +83,9 @@ Deck
 4 Pillage the Bog (OTJ) 224
 4 Pillage the Bog (OTJ) 359
 4 Pitiless Carnage (OTJ) 98
+4 Pitiless Carnage (OTJ) 326
 4 Rakdos Joins Up (OTJ) 225
+4 Rakdos Joins Up (OTJ) 360
 4 Riku of Many Paths (OTJ) 227
 4 Riku of Many Paths (OTJ) 361
 4 Roxanne, Starfall Savant (OTJ) 228
@@ -86,6 +95,7 @@ Deck
 4 Satoru, the Infiltrator (OTJ) 230
 4 Satoru, the Infiltrator (OTJ) 298
 4 Seraphic Steed (OTJ) 232
+4 Seraphic Steed (OTJ) 364
 4 Slickshot Show-Off (OTJ) 146
 4 Slickshot Show-Off (OTJ) 335
 4 Smuggler's Surprise (OTJ) 180
@@ -112,3 +122,4 @@ Deck
 4 Vraska Joins Up (OTJ) 236
 4 Vraska Joins Up (OTJ) 366
 4 Wylie Duke, Atiin Hero (OTJ) 239
+4 Wylie Duke, Atiin Hero (OTJ) 367
