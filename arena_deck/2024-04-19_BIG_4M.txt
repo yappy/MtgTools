@@ -1,10 +1,43 @@
 Deck
+4 Collector's Cage (BIG) 1
+4 Collector's Cage (BIG) 31
+4 Esoteric Duplicator (BIG) 5
+4 Esoteric Duplicator (BIG) 35
+4 Esoteric Duplicator (BIG) 70
+4 Grand Abolisher (BIG) 2
+4 Grand Abolisher (BIG) 32
+4 Grand Abolisher (BIG) 67
+4 Legion Extruder (BIG) 12
+4 Legion Extruder (BIG) 42
+4 Loot, the Key to Everything (BIG) 21
+4 Loot, the Key to Everything (BIG) 51
+4 Loot, the Key to Everything (BIG) 62
+4 Loot, the Key to Everything (BIG) 86
+4 Lotus Ring (BIG) 24
+4 Lotus Ring (BIG) 63
+4 Memory Vessel (BIG) 13
+4 Memory Vessel (BIG) 43
+4 Memory Vessel (BIG) 78
+4 Molten Duplication (BIG) 14
+4 Molten Duplication (BIG) 44
+4 Molten Duplication (BIG) 79
 4 Nexus of Becoming (BIG) 25
 4 Nexus of Becoming (BIG) 55
 4 Nexus of Becoming (BIG) 90
 4 Oltec Matterweaver (BIG) 3
 4 Oltec Matterweaver (BIG) 33
 4 Oltec Matterweaver (BIG) 68
+4 Omenpath Journey (BIG) 18
+4 Omenpath Journey (BIG) 48
+4 Omenpath Journey (BIG) 83
+4 Pest Control (BIG) 22
+4 Pest Control (BIG) 52
+4 Pest Control (BIG) 87
+4 Rest in Peace (BIG) 4
+4 Rest in Peace (BIG) 34
+4 Rest in Peace (BIG) 69
+4 Simulacrum Synthesizer (BIG) 6
+4 Simulacrum Synthesizer (BIG) 36
 4 Sword of Wealth and Power (BIG) 26
 4 Sword of Wealth and Power (BIG) 56
 4 Sword of Wealth and Power (BIG) 64
@@ -19,3 +52,6 @@ Deck
 4 Vaultborn Tyrant (BIG) 50
 4 Vaultborn Tyrant (BIG) 61
 4 Vaultborn Tyrant (BIG) 85
+4 Worldwalker Helm (BIG) 7
+4 Worldwalker Helm (BIG) 37
+4 Worldwalker Helm (BIG) 72
