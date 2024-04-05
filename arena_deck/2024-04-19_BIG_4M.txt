@@ -1,7 +1,4 @@
 Deck
-4 "Darude — Splicer" (BIG) 19
-4 "Darude — Splicer" (BIG) 49
-4 "Nab the Salt Lamp" (BIG) 8
 4 Ancient Cornucopia (BIG) 16
 4 Ancient Cornucopia (BIG) 46
 4 Ancient Cornucopia (BIG) 81
@@ -10,19 +7,28 @@ Deck
 4 Bristlebud Farmer (BIG) 82
 4 Collector's Cage (BIG) 1
 4 Collector's Cage (BIG) 31
+4 Collector's Cage (BIG) 66
 4 Esoteric Duplicator (BIG) 5
 4 Esoteric Duplicator (BIG) 35
 4 Esoteric Duplicator (BIG) 70
+4 Fomori Vault (BIG) 29
+4 Fomori Vault (BIG) 59
+4 Fomori Vault (BIG) 94
 4 Generous Plunderer (BIG) 11
 4 Generous Plunderer (BIG) 41
 4 Generous Plunderer (BIG) 76
 4 Grand Abolisher (BIG) 2
 4 Grand Abolisher (BIG) 32
 4 Grand Abolisher (BIG) 67
+4 Greed's Gambit (BIG) 8
+4 Greed's Gambit (BIG) 38
+4 Greed's Gambit (BIG) 73
 4 Harvester of Misery (BIG) 9
 4 Harvester of Misery (BIG) 39
 4 Harvester of Misery (BIG) 74
 4 Hostile Investigator (BIG) 10
+4 Hostile Investigator (BIG) 40
+4 Hostile Investigator (BIG) 75
 4 Legion Extruder (BIG) 12
 4 Legion Extruder (BIG) 42
 4 Legion Extruder (BIG) 77
@@ -30,6 +36,7 @@ Deck
 4 Loot, the Key to Everything (BIG) 51
 4 Loot, the Key to Everything (BIG) 62
 4 Loot, the Key to Everything (BIG) 86
+4 Lost Jitte (BIG) 23
 4 Lost Jitte (BIG) 53
 4 Lost Jitte (BIG) 88
 4 Lotus Ring (BIG) 24
@@ -54,20 +61,28 @@ Deck
 4 Pest Control (BIG) 22
 4 Pest Control (BIG) 52
 4 Pest Control (BIG) 87
+================================================================================
+Deck
 4 Rest in Peace (BIG) 4
 4 Rest in Peace (BIG) 34
 4 Rest in Peace (BIG) 69
+4 Sandstorm Salvager (BIG) 19
+4 Sandstorm Salvager (BIG) 49
+4 Sandstorm Salvager (BIG) 84
 4 Simulacrum Synthesizer (BIG) 6
 4 Simulacrum Synthesizer (BIG) 36
 4 Simulacrum Synthesizer (BIG) 71
 4 Sword of Wealth and Power (BIG) 26
-================================================================================
-Deck
 4 Sword of Wealth and Power (BIG) 56
 4 Sword of Wealth and Power (BIG) 64
 4 Sword of Wealth and Power (BIG) 91
 4 Tarnation Vista (BIG) 30
+4 Tarnation Vista (BIG) 60
 4 Tarnation Vista (BIG) 65
+4 Tarnation Vista (BIG) 95
+4 Territory Forge (BIG) 15
+4 Territory Forge (BIG) 45
+4 Territory Forge (BIG) 80
 4 Torpor Orb (BIG) 27
 4 Torpor Orb (BIG) 57
 4 Torpor Orb (BIG) 92
