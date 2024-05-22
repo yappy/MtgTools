@@ -1,0 +1,7 @@
+Deck
+4 Endurance (H2R) 14
+4 Fury (H2R) 10
+4 Grief (H2R) 7
+4 Ragavan, Nimble Pilferer (H2R) 11
+4 Solitude (H2R) 3
+4 Subtlety (H2R) 6
