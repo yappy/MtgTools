@@ -19,6 +19,8 @@ Deck
 4 Castle Locthwain (ELD) 389
 4 Castle Vantress (ELD) 242
 4 Castle Vantress (ELD) 390
+4 Cavalcante Omicida (ELD) 97
+4 Cavalcante Omicida (ELD) 287
 4 Charming Prince (ELD) 8
 4 Charming Prince (ELD) 335
 4 Chittering Witch (ELD) 319
@@ -59,10 +61,10 @@ Deck
 4 Happily Ever After (ELD) 337
 4 Hushbringer (ELD) 18
 4 Hushbringer (ELD) 339
-4 Irencrag Feat (ELD) 127
-4 Irencrag Feat (ELD) 362
 ================================================================================
 Deck
+4 Irencrag Feat (ELD) 127
+4 Irencrag Feat (ELD) 362
 4 Irencrag Pyromancer (ELD) 128
 4 Irencrag Pyromancer (ELD) 363
 4 Knights' Charge (ELD) 328
@@ -77,8 +79,6 @@ Deck
 4 Midnight Clock (ELD) 346
 4 Mirrormade (ELD) 55
 4 Mirrormade (ELD) 347
-4 Murderous Rider (ELD) 97
-4 Murderous Rider (ELD) 287
 4 Oathsworn Knight (ELD) 98
 4 Oathsworn Knight (ELD) 354
 4 Oko's Hospitality (ELD) 312
