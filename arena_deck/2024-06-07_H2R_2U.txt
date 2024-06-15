@@ -1,7 +1,0 @@
-Deck
-4 Abiding Grace (H2R) 1
-4 Dragon's Rage Channeler (H2R) 9
-4 Munitions Expert (H2R) 16
-4 Sling-Gang Lieutenant (H2R) 8
-4 Strike It Rich (H2R) 12
-4 Tireless Provisioner (H2R) 15
