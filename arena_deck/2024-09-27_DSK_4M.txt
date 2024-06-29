@@ -1,5 +1,11 @@
 Deck
 4 Enduring Tenacity (DSK) 390
 4 Enduring Tenacity (DSK) 400
+4 Overlord of the Hauntwoods (DSK) 194
+4 Overlord of the Hauntwoods (DSK) 383
 4 Overlord of the Hauntwoods (DSK) 395
 4 Overlord of the Hauntwoods (DSK) 405
+4 Screaming Nemesis (DSK) 348
+4 The Wandering Rescuer (DSK) 41
+4 The Wandering Rescuer (DSK) 351
+4 The Wandering Rescuer (DSK) 406

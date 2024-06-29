@@ -1,1 +1,6 @@
 Deck
+4 Lilypad Village (BLB) 255
+4 Lupinflower Village (BLB) 256
+4 Mudflat Village (BLB) 257
+4 Oakhollow Village (BLB) 258
+4 Rockface Village (BLB) 259
