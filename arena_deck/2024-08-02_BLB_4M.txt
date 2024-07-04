@@ -1,6 +1,8 @@
 Deck
 4 Bria, Riptide Rogue (BLB) 379
 4 Byrke, Long Ear of the Law (BLB) 380
+4 Hugs, Grisly Guardian (BLB) 218
+4 Hugs, Grisly Guardian (BLB) 333
 4 Lumra, Bellow of the Woods (BLB) 183
 4 Lumra, Bellow of the Woods (BLB) 293
 4 Lumra, Bellow of the Woods (BLB) 342
