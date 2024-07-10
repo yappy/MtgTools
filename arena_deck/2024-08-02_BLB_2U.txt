@@ -1,6 +1,29 @@
 Deck
+4 Fell (BLB) 95
+4 Fell (BLB) 383
+4 Fireglass Mentor (BLB) 213
+4 Flowerfoot Swordmaster (BLB) 14
+4 Hop to It (BLB) 16
+4 Hop to It (BLB) 381
+4 Hunter's Talent (BLB) 179
 4 Lilypad Village (BLB) 255
+4 Lilysplash Mentor (BLB) 222
 4 Lupinflower Village (BLB) 256
 4 Mudflat Village (BLB) 257
 4 Oakhollow Village (BLB) 258
+4 Parting Gust (BLB) 24
+4 Plumecreed Mentor (BLB) 228
+4 Repel Calamity (BLB) 27
 4 Rockface Village (BLB) 259
+4 Ruthless Negotiation (BLB) 108
+4 Seedglaive Mentor (BLB) 231
+4 Shoreline Looter (BLB) 70
+4 Shoreline Looter (BLB) 382
+4 Shrike Force (BLB) 31
+4 Starseer Mentor (BLB) 233
+4 Stormcatch Mentor (BLB) 234
+4 Stormcatch Mentor (BLB) 385
+4 Tidecaller Mentor (BLB) 236
+4 Wandertale Mentor (BLB) 240
+4 Wear Down (BLB) 203
+4 Wear Down (BLB) 384

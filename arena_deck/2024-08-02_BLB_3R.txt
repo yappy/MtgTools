@@ -1,6 +1,46 @@
 Deck
+4 Alania, Divergent Storm (BLB) 204
+4 Alania, Divergent Storm (BLB) 327
+4 Alania, Divergent Storm (BLB) 344
+4 Artist's Talent (BLB) 124
+4 Camellia, the Seedmiser (BLB) 207
+4 Camellia, the Seedmiser (BLB) 328
+4 Camellia, the Seedmiser (BLB) 346
+4 Clement, the Worrywort (BLB) 209
+4 Clement, the Worrywort (BLB) 329
+4 Clement, the Worrywort (BLB) 347
+4 Dreamdew Entrancer (BLB) 211
+4 Dreamdew Entrancer (BLB) 365
+4 Finneas, Ace Archer (BLB) 212
+4 Finneas, Ace Archer (BLB) 330
+4 Finneas, Ace Archer (BLB) 348
+4 Kastral, the Windcrested (BLB) 221
+4 Kastral, the Windcrested (BLB) 335
+4 Kastral, the Windcrested (BLB) 350
+4 Kitnap (BLB) 53
+4 Kitnap (BLB) 357
 4 Mabel, Heir to Cragflame (BLB) 224
 4 Mabel, Heir to Cragflame (BLB) 336
 4 Mabel, Heir to Cragflame (BLB) 351
+4 Muerra, Trash Tactician (BLB) 227
+4 Muerra, Trash Tactician (BLB) 352
+4 Osteomancer Adept (BLB) 103
+4 Osteomancer Adept (BLB) 312
 4 Salvation Swan (BLB) 28
 4 Salvation Swan (BLB) 297
+4 Tender Wildguide (BLB) 196
+4 Tender Wildguide (BLB) 325
+4 Thornvault Forager (BLB) 197
+4 Thornvault Forager (BLB) 364
+4 Three Tree City (BLB) 260
+4 Three Tree City (BLB) 337
+4 Three Tree City (BLB) 338
+4 Three Tree City (BLB) 339
+4 Three Tree City (BLB) 340
+4 Thundertrap Trainer (BLB) 78
+4 Thundertrap Trainer (BLB) 307
+4 Thundertrap Trainer (BLB) 386
+4 Valley Questcaller (BLB) 36
+4 Valley Questcaller (BLB) 299
+4 Valley Rotcaller (BLB) 119
+4 Valley Rotcaller (BLB) 313
