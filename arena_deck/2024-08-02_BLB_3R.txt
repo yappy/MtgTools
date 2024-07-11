@@ -14,6 +14,8 @@ Deck
 4 Finneas, Ace Archer (BLB) 212
 4 Finneas, Ace Archer (BLB) 330
 4 Finneas, Ace Archer (BLB) 348
+4 Iridescent Vinelasher (BLB) 99
+4 Iridescent Vinelasher (BLB) 359
 4 Kastral, the Windcrested (BLB) 221
 4 Kastral, the Windcrested (BLB) 335
 4 Kastral, the Windcrested (BLB) 350
@@ -22,12 +24,15 @@ Deck
 4 Mabel, Heir to Cragflame (BLB) 224
 4 Mabel, Heir to Cragflame (BLB) 336
 4 Mabel, Heir to Cragflame (BLB) 351
+4 Manifold Mouse (BLB) 143
 4 Muerra, Trash Tactician (BLB) 227
 4 Muerra, Trash Tactician (BLB) 352
 4 Osteomancer Adept (BLB) 103
 4 Osteomancer Adept (BLB) 312
 4 Salvation Swan (BLB) 28
 4 Salvation Swan (BLB) 297
+4 Sunspine Lynx (BLB) 155
+4 Sunspine Lynx (BLB) 292
 4 Tender Wildguide (BLB) 196
 4 Tender Wildguide (BLB) 325
 4 Thornvault Forager (BLB) 197
@@ -40,7 +45,9 @@ Deck
 4 Thundertrap Trainer (BLB) 78
 4 Thundertrap Trainer (BLB) 307
 4 Thundertrap Trainer (BLB) 386
+4 Valley Floodcaller (BLB) 79
 4 Valley Questcaller (BLB) 36
 4 Valley Questcaller (BLB) 299
 4 Valley Rotcaller (BLB) 119
 4 Valley Rotcaller (BLB) 313
+4 Zoraline, Cosmos Caller (BLB) 242
