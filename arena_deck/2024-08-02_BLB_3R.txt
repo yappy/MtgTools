@@ -1,19 +1,27 @@
 Deck
+4 "Emberheart Challenger" (BLB) 133
+4 "Emberheart Challenger" (BLB) 315
+4 "Hired Claw" (BLB) 140
 4 Alania, Divergent Storm (BLB) 204
 4 Alania, Divergent Storm (BLB) 327
 4 Alania, Divergent Storm (BLB) 344
 4 Artist's Talent (BLB) 124
+4 Byway Barterer (BLB) 129
+4 Byway Barterer (BLB) 360
 4 Camellia, the Seedmiser (BLB) 207
 4 Camellia, the Seedmiser (BLB) 328
 4 Camellia, the Seedmiser (BLB) 346
 4 Clement, the Worrywort (BLB) 209
 4 Clement, the Worrywort (BLB) 329
 4 Clement, the Worrywort (BLB) 347
+4 Dawn's Truce (BLB) 9
+4 Dawn's Truce (BLB) 295
 4 Dreamdew Entrancer (BLB) 211
 4 Dreamdew Entrancer (BLB) 365
 4 Finneas, Ace Archer (BLB) 212
 4 Finneas, Ace Archer (BLB) 330
 4 Finneas, Ace Archer (BLB) 348
+4 Innkeeper's Talent (BLB) 180
 4 Iridescent Vinelasher (BLB) 99
 4 Iridescent Vinelasher (BLB) 359
 4 Kastral, the Windcrested (BLB) 221
@@ -25,12 +33,17 @@ Deck
 4 Mabel, Heir to Cragflame (BLB) 336
 4 Mabel, Heir to Cragflame (BLB) 351
 4 Manifold Mouse (BLB) 143
+4 Manifold Mouse (BLB) 318
+4 Mistbreath Elder (BLB) 184
+4 Mistbreath Elder (BLB) 323
 4 Muerra, Trash Tactician (BLB) 227
 4 Muerra, Trash Tactician (BLB) 352
 4 Osteomancer Adept (BLB) 103
 4 Osteomancer Adept (BLB) 312
 4 Salvation Swan (BLB) 28
 4 Salvation Swan (BLB) 297
+4 Starfall Invocation (BLB) 34
+4 Starfall Invocation (BLB) 298
 4 Sunspine Lynx (BLB) 155
 4 Sunspine Lynx (BLB) 292
 4 Tender Wildguide (BLB) 196
@@ -48,6 +61,11 @@ Deck
 4 Valley Floodcaller (BLB) 79
 4 Valley Questcaller (BLB) 36
 4 Valley Questcaller (BLB) 299
+================================================================================
+Deck
 4 Valley Rotcaller (BLB) 119
 4 Valley Rotcaller (BLB) 313
+4 Vren, the Relentless (BLB) 239
+4 Vren, the Relentless (BLB) 354
 4 Zoraline, Cosmos Caller (BLB) 242
+4 Zoraline, Cosmos Caller (BLB) 355

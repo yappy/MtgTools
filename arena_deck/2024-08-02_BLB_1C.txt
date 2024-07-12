@@ -1,19 +1,30 @@
 Deck
+4 Barkform Harvester (BLB) 243
 4 Brave-Kin Duo (BLB) 3
 4 Cache Grab (BLB) 167
 4 Carrot Cake (BLB) 7
 4 Cindering Cutthroat (BLB) 208
+4 Conduct Electricity (BLB) 130
 4 Corpseberry Cultivator (BLB) 210
+4 Diresight (BLB) 91
 4 Early Winter (BLB) 93
+4 Finch Formation (BLB) 50
 4 Head of the Homestead (BLB) 216
 4 Junkblade Bruiser (BLB) 220
+4 Lifecreed Duo (BLB) 20
+4 Longstalk Brawl (BLB) 182
 4 Might of the Meek (BLB) 144
 4 Mind Drill Assailant (BLB) 225
 4 Moonrise Cleric (BLB) 226
 4 Pearl of Wisdom (BLB) 64
 4 Pond Prophet (BLB) 229
 4 Run Away Together (BLB) 67
+4 Scales of Shale (BLB) 110
 4 Seedpod Squire (BLB) 232
+4 Steampath Charger (BLB) 153
 4 Sunshower Druid (BLB) 195
 4 Tempest Angler (BLB) 235
+4 Thistledown Players (BLB) 35
+4 Thought Shucker (BLB) 77
+4 Treetop Sentries (BLB) 201
 4 Veteran Guardmouse (BLB) 237

@@ -1,22 +1,36 @@
 Deck
+4 "Swarmerine" (BLB) 177
+4 "Treasure for Trash" (BLB) 188
+4 Bark-Knuckle Boxer (BLB) 164
+4 Bonecache Overseer (BLB) 85
 4 Brambleguard Captain (BLB) 127
 4 Brambleguard Veteran (BLB) 165
 4 Brazen Collector (BLB) 128
 4 Brightblade Stoat (BLB) 4
+4 Burrowguard Mentor (BLB) 206
 4 Consumed by Greed (BLB) 87
+4 Coruscation Mage (BLB) 131
+4 Dewdrop Cure (BLB) 10
+4 Downwind Ambusher (BLB) 92
+4 Driftgloom Coyote (BLB) 11
+4 Feather of Flight (BLB) 13
 4 Fell (BLB) 95
 4 Fell (BLB) 383
 4 Fireglass Mentor (BLB) 213
 4 Flowerfoot Swordmaster (BLB) 14
 4 Galewind Moose (BLB) 173
+4 Harnesser of Storms (BLB) 137
 4 Heartfire Hero (BLB) 138
 4 Hop to It (BLB) 16
 4 Hop to It (BLB) 381
 4 Hunter's Talent (BLB) 179
+4 Huskburster Swarm (BLB) 98
 4 Lilypad Village (BLB) 255
 4 Lilysplash Mentor (BLB) 222
+4 Long River Lurker (BLB) 57
 4 Lupinflower Village (BLB) 256
 4 Mabel's Mettle (BLB) 21
+4 Moonstone Harbinger (BLB) 101
 4 Mudflat Village (BLB) 257
 4 Oakhollow Village (BLB) 258
 4 Parting Gust (BLB) 24
@@ -29,6 +43,9 @@ Deck
 4 Shoreline Looter (BLB) 70
 4 Shoreline Looter (BLB) 382
 4 Shrike Force (BLB) 31
+4 Splash Lasher (BLB) 73
+4 Star Charter (BLB) 33
+4 Stargaze (BLB) 114
 4 Starseer Mentor (BLB) 233
 4 Stormcatch Mentor (BLB) 234
 4 Stormcatch Mentor (BLB) 385

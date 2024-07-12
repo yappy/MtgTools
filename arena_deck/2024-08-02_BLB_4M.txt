@@ -22,6 +22,9 @@ Deck
 4 Season of Weaving (BLB) 283
 4 Season of the Bold (BLB) 152
 4 Season of the Bold (BLB) 285
+4 Season of the Burrow (BLB) 29
+4 The Infamous Cruelclaw (BLB) 219
+4 The Infamous Cruelclaw (BLB) 334
 4 Warren Warleader (BLB) 38
 4 Warren Warleader (BLB) 300
 4 Ygra, Eater of All (BLB) 241
