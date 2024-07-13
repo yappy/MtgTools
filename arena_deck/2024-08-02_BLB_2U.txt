@@ -1,6 +1,7 @@
 Deck
-4 "Swarmerine" (BLB) 177
-4 "Treasure for Trash" (BLB) 188
+4 "Ottersport" (BLB) 63
+4 "Splash Portal" (BLB) 74
+4 Bandit's Talent (BLB) 83
 4 Bark-Knuckle Boxer (BLB) 164
 4 Bonecache Overseer (BLB) 85
 4 Brambleguard Captain (BLB) 127
@@ -8,8 +9,11 @@ Deck
 4 Brazen Collector (BLB) 128
 4 Brightblade Stoat (BLB) 4
 4 Burrowguard Mentor (BLB) 206
+4 Clifftop Lookout (BLB) 168
 4 Consumed by Greed (BLB) 87
 4 Coruscation Mage (BLB) 131
+4 Curious Forager (BLB) 169
+4 Daring Waverider (BLB) 44
 4 Dewdrop Cure (BLB) 10
 4 Downwind Ambusher (BLB) 92
 4 Driftgloom Coyote (BLB) 11
@@ -19,21 +23,33 @@ Deck
 4 Fireglass Mentor (BLB) 213
 4 Flowerfoot Swordmaster (BLB) 14
 4 Galewind Moose (BLB) 173
+4 Gossip's Talent (BLB) 51
 4 Harnesser of Storms (BLB) 137
+4 Harvestrite Host (BLB) 15
 4 Heartfire Hero (BLB) 138
+4 Hivespine Wolverine (BLB) 177
 4 Hop to It (BLB) 16
 4 Hop to It (BLB) 381
 4 Hunter's Talent (BLB) 179
 4 Huskburster Swarm (BLB) 98
+4 Into the Flood Maw (BLB) 52
+4 Knightfisher (BLB) 55
 4 Lilypad Village (BLB) 255
 4 Lilysplash Mentor (BLB) 222
 4 Long River Lurker (BLB) 57
+4 Long River's Pull (BLB) 58
 4 Lupinflower Village (BLB) 256
 4 Mabel's Mettle (BLB) 21
 4 Moonstone Harbinger (BLB) 101
+4 Mouse Trapper (BLB) 22
 4 Mudflat Village (BLB) 257
 4 Oakhollow Village (BLB) 258
+4 Overprotect (BLB) 185
 4 Parting Gust (BLB) 24
+4 Pawpatch Formation (BLB) 186
+4 Peerless Recycling (BLB) 188
+4 Persistent Marshstalker (BLB) 104
+4 Plumecreed Escort (BLB) 65
 4 Plumecreed Mentor (BLB) 228
 4 Quaketusk Boar (BLB) 146
 4 Repel Calamity (BLB) 27
@@ -45,13 +61,18 @@ Deck
 4 Shrike Force (BLB) 31
 4 Splash Lasher (BLB) 73
 4 Star Charter (BLB) 33
+================================================================================
+Deck
 4 Stargaze (BLB) 114
 4 Starseer Mentor (BLB) 233
 4 Stormcatch Mentor (BLB) 234
 4 Stormcatch Mentor (BLB) 385
 4 Sugar Coat (BLB) 76
+4 Three Tree Scribe (BLB) 199
 4 Tidecaller Mentor (BLB) 236
 4 Valley Rally (BLB) 159
+4 Vinereap Mentor (BLB) 238
 4 Wandertale Mentor (BLB) 240
 4 Wear Down (BLB) 203
 4 Wear Down (BLB) 384
+4 Wick's Patrol (BLB) 121

@@ -1,11 +1,11 @@
 Deck
-4 "Emberheart Challenger" (BLB) 133
-4 "Emberheart Challenger" (BLB) 315
-4 "Hired Claw" (BLB) 140
+4 "Mocking Bird" (BLB) 61
 4 Alania, Divergent Storm (BLB) 204
 4 Alania, Divergent Storm (BLB) 327
 4 Alania, Divergent Storm (BLB) 344
 4 Artist's Talent (BLB) 124
+4 Baylen, the Haymaker (BLB) 205
+4 Baylen, the Haymaker (BLB) 345
 4 Byway Barterer (BLB) 129
 4 Byway Barterer (BLB) 360
 4 Camellia, the Seedmiser (BLB) 207
@@ -14,13 +14,22 @@ Deck
 4 Clement, the Worrywort (BLB) 209
 4 Clement, the Worrywort (BLB) 329
 4 Clement, the Worrywort (BLB) 347
+4 Darkstar Augur (BLB) 90
+4 Darkstar Augur (BLB) 311
 4 Dawn's Truce (BLB) 9
 4 Dawn's Truce (BLB) 295
 4 Dreamdew Entrancer (BLB) 211
 4 Dreamdew Entrancer (BLB) 365
+4 Emberheart Challenger (BLB) 133
+4 Emberheart Challenger (BLB) 315
 4 Finneas, Ace Archer (BLB) 212
 4 Finneas, Ace Archer (BLB) 330
 4 Finneas, Ace Archer (BLB) 348
+4 For the Common Good (BLB) 172
+4 Hearthborn Battler (BLB) 139
+4 Hearthborn Battler (BLB) 361
+4 Hired Claw (BLB) 140
+4 Hired Claw (BLB) 317
 4 Innkeeper's Talent (BLB) 180
 4 Iridescent Vinelasher (BLB) 99
 4 Iridescent Vinelasher (BLB) 359
@@ -52,6 +61,8 @@ Deck
 4 Thornvault Forager (BLB) 364
 4 Three Tree City (BLB) 260
 4 Three Tree City (BLB) 337
+================================================================================
+Deck
 4 Three Tree City (BLB) 338
 4 Three Tree City (BLB) 339
 4 Three Tree City (BLB) 340
@@ -61,11 +72,14 @@ Deck
 4 Valley Floodcaller (BLB) 79
 4 Valley Questcaller (BLB) 36
 4 Valley Questcaller (BLB) 299
-================================================================================
-Deck
 4 Valley Rotcaller (BLB) 119
 4 Valley Rotcaller (BLB) 313
 4 Vren, the Relentless (BLB) 239
 4 Vren, the Relentless (BLB) 354
+4 Whiskervale Forerunner (BLB) 40
+4 Whiskervale Forerunner (BLB) 301
+4 Wick, the Whorled Mind (BLB) 120
+4 Wick, the Whorled Mind (BLB) 314
+4 Wishing Well (BLB) 81
 4 Zoraline, Cosmos Caller (BLB) 242
 4 Zoraline, Cosmos Caller (BLB) 355

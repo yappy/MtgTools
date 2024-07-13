@@ -5,6 +5,8 @@ Deck
 4 Byrke, Long Ear of the Law (BLB) 380
 4 Glarb, Calamity's Augur (BLB) 215
 4 Glarb, Calamity's Augur (BLB) 331
+4 Helga, Skittish Seer (BLB) 217
+4 Helga, Skittish Seer (BLB) 332
 4 Hugs, Grisly Guardian (BLB) 218
 4 Hugs, Grisly Guardian (BLB) 333
 4 Lumra, Bellow of the Woods (BLB) 183
@@ -16,6 +18,7 @@ Deck
 4 Ral, Crackling Wit (BLB) 230
 4 Ral, Crackling Wit (BLB) 341
 4 Ral, Crackling Wit (BLB) 353
+4 Season of Gathering (BLB) 192
 4 Season of Loss (BLB) 112
 4 Season of Loss (BLB) 284
 4 Season of Weaving (BLB) 68
@@ -23,6 +26,7 @@ Deck
 4 Season of the Bold (BLB) 152
 4 Season of the Bold (BLB) 285
 4 Season of the Burrow (BLB) 29
+4 Season of the Burrow (BLB) 282
 4 The Infamous Cruelclaw (BLB) 219
 4 The Infamous Cruelclaw (BLB) 334
 4 Warren Warleader (BLB) 38
