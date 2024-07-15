@@ -26,6 +26,7 @@ Deck
 4 Gossip's Talent (BLB) 51
 4 Harnesser of Storms (BLB) 137
 4 Harvestrite Host (BLB) 15
+4 Hazardroot Herbalist (BLB) 174
 4 Heartfire Hero (BLB) 138
 4 Hivespine Wolverine (BLB) 177
 4 Hop to It (BLB) 16
@@ -60,9 +61,9 @@ Deck
 4 Shoreline Looter (BLB) 382
 4 Shrike Force (BLB) 31
 4 Splash Lasher (BLB) 73
-4 Star Charter (BLB) 33
 ================================================================================
 Deck
+4 Star Charter (BLB) 33
 4 Stargaze (BLB) 114
 4 Starseer Mentor (BLB) 233
 4 Stormcatch Mentor (BLB) 234
