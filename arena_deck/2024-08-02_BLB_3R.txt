@@ -1,5 +1,4 @@
 Deck
-4 "Mocking Bird" (BLB) 61
 4 Alania, Divergent Storm (BLB) 204
 4 Alania, Divergent Storm (BLB) 327
 4 Alania, Divergent Storm (BLB) 344
@@ -22,10 +21,13 @@ Deck
 4 Dreamdew Entrancer (BLB) 365
 4 Emberheart Challenger (BLB) 133
 4 Emberheart Challenger (BLB) 315
+4 Fabled Passage (BLB) 252
+4 Fabled Passage (BLB) 367
 4 Finneas, Ace Archer (BLB) 212
 4 Finneas, Ace Archer (BLB) 330
 4 Finneas, Ace Archer (BLB) 348
 4 For the Common Good (BLB) 172
+4 For the Common Good (BLB) 321
 4 Hearthborn Battler (BLB) 139
 4 Hearthborn Battler (BLB) 361
 4 Hired Claw (BLB) 140
@@ -33,11 +35,14 @@ Deck
 4 Innkeeper's Talent (BLB) 180
 4 Iridescent Vinelasher (BLB) 99
 4 Iridescent Vinelasher (BLB) 359
+4 Jackdaw Savior (BLB) 18
 4 Kastral, the Windcrested (BLB) 221
 4 Kastral, the Windcrested (BLB) 335
 4 Kastral, the Windcrested (BLB) 350
 4 Kitnap (BLB) 53
 4 Kitnap (BLB) 357
+4 Lunar Convocation (BLB) 223
+4 Lunar Convocation (BLB) 366
 4 Mabel, Heir to Cragflame (BLB) 224
 4 Mabel, Heir to Cragflame (BLB) 336
 4 Mabel, Heir to Cragflame (BLB) 351
@@ -45,13 +50,19 @@ Deck
 4 Manifold Mouse (BLB) 318
 4 Mistbreath Elder (BLB) 184
 4 Mistbreath Elder (BLB) 323
+4 Mockingbird (BLB) 61
+4 Mockingbird (BLB) 305
 4 Muerra, Trash Tactician (BLB) 227
 4 Muerra, Trash Tactician (BLB) 352
 4 Osteomancer Adept (BLB) 103
 4 Osteomancer Adept (BLB) 312
+4 Pawpatch Recruit (BLB) 187
+4 Pawpatch Recruit (BLB) 363
 4 Salvation Swan (BLB) 28
 4 Salvation Swan (BLB) 297
 4 Starfall Invocation (BLB) 34
+================================================================================
+Deck
 4 Starfall Invocation (BLB) 298
 4 Sunspine Lynx (BLB) 155
 4 Sunspine Lynx (BLB) 292
@@ -61,8 +72,6 @@ Deck
 4 Thornvault Forager (BLB) 364
 4 Three Tree City (BLB) 260
 4 Three Tree City (BLB) 337
-================================================================================
-Deck
 4 Three Tree City (BLB) 338
 4 Three Tree City (BLB) 339
 4 Three Tree City (BLB) 340
@@ -70,6 +79,9 @@ Deck
 4 Thundertrap Trainer (BLB) 307
 4 Thundertrap Trainer (BLB) 386
 4 Valley Floodcaller (BLB) 79
+4 Valley Floodcaller (BLB) 308
+4 Valley Mightcaller (BLB) 202
+4 Valley Mightcaller (BLB) 326
 4 Valley Questcaller (BLB) 36
 4 Valley Questcaller (BLB) 299
 4 Valley Rotcaller (BLB) 119
@@ -81,5 +93,6 @@ Deck
 4 Wick, the Whorled Mind (BLB) 120
 4 Wick, the Whorled Mind (BLB) 314
 4 Wishing Well (BLB) 81
+4 Wishing Well (BLB) 358
 4 Zoraline, Cosmos Caller (BLB) 242
 4 Zoraline, Cosmos Caller (BLB) 355
