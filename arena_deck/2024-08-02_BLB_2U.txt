@@ -1,12 +1,15 @@
 Deck
+4 "Raccoon Katamari" (BLB) 250
 4 Bandit's Talent (BLB) 83
 4 Bark-Knuckle Boxer (BLB) 164
 4 Blacksmith's Talent (BLB) 125
+4 Blooming Blast (BLB) 126
 4 Bonecache Overseer (BLB) 85
 4 Brambleguard Captain (BLB) 127
 4 Brambleguard Veteran (BLB) 165
 4 Brazen Collector (BLB) 128
 4 Brightblade Stoat (BLB) 4
+4 Builder's Talent (BLB) 5
 4 Burrowguard Mentor (BLB) 206
 4 Bushy Bodyguard (BLB) 166
 4 Calamitous Tide (BLB) 43
@@ -18,7 +21,9 @@ Deck
 4 Dewdrop Cure (BLB) 10
 4 Downwind Ambusher (BLB) 92
 4 Driftgloom Coyote (BLB) 11
+4 Eddymurk Crab (BLB) 48
 4 Feather of Flight (BLB) 13
+4 Feed the Cycle (BLB) 94
 4 Fell (BLB) 95
 4 Fell (BLB) 383
 4 Fireglass Mentor (BLB) 213
@@ -56,13 +61,14 @@ Deck
 4 Parting Gust (BLB) 24
 4 Patchwork Banner (BLB) 247
 4 Pawpatch Formation (BLB) 186
+================================================================================
+Deck
 4 Peerless Recycling (BLB) 188
 4 Persistent Marshstalker (BLB) 104
+4 Playful Shove (BLB) 145
 4 Plumecreed Escort (BLB) 65
 4 Plumecreed Mentor (BLB) 228
 4 Quaketusk Boar (BLB) 146
-================================================================================
-Deck
 4 Repel Calamity (BLB) 27
 4 Reptilian Recruiter (BLB) 149
 4 Rockface Village (BLB) 259
@@ -76,11 +82,14 @@ Deck
 4 Splash Lasher (BLB) 73
 4 Splash Portal (BLB) 74
 4 Star Charter (BLB) 33
+4 Starforged Sword (BLB) 249
 4 Stargaze (BLB) 114
+4 Starscape Cleric (BLB) 116
 4 Starseer Mentor (BLB) 233
 4 Stormcatch Mentor (BLB) 234
 4 Stormcatch Mentor (BLB) 385
 4 Sugar Coat (BLB) 76
+4 Teapot Slinger (BLB) 157
 4 Thought-Stalker Warlock (BLB) 118
 4 Three Tree Scribe (BLB) 199
 4 Tidecaller Mentor (BLB) 236

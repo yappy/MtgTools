@@ -1,10 +1,10 @@
 Deck
-4 "SILENCE! IT IS I WHO HAS THE FISH NOW." (BLB) 154
-4 "SILENCE! IT IS I WHO HAS THE FISH NOW." (BLB) 319
 4 Beza, the Bounding Spring (BLB) 2
 4 Beza, the Bounding Spring (BLB) 287
 4 Bria, Riptide Rogue (BLB) 379
 4 Byrke, Long Ear of the Law (BLB) 380
+4 Eluge, the Shoreless Sea (BLB) 49
+4 Eluge, the Shoreless Sea (BLB) 288
 4 Glarb, Calamity's Augur (BLB) 215
 4 Glarb, Calamity's Augur (BLB) 331
 4 Helga, Skittish Seer (BLB) 217
@@ -34,6 +34,8 @@ Deck
 4 Season of the Bold (BLB) 285
 4 Season of the Burrow (BLB) 29
 4 Season of the Burrow (BLB) 282
+4 Stormsplitter (BLB) 154
+4 Stormsplitter (BLB) 319
 4 The Infamous Cruelclaw (BLB) 219
 4 The Infamous Cruelclaw (BLB) 334
 4 Warren Warleader (BLB) 38
