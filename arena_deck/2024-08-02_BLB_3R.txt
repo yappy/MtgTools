@@ -1,9 +1,12 @@
 Deck
-4 "Grave Offspring" (BLB) 86
+4 "Scrapnel Launcher" (BLB) 191
+4 "Scrapnel Launcher" (BLB) 324
 4 Alania, Divergent Storm (BLB) 204
 4 Alania, Divergent Storm (BLB) 327
 4 Alania, Divergent Storm (BLB) 344
 4 Artist's Talent (BLB) 124
+4 Azure Beastbinder (BLB) 41
+4 Azure Beastbinder (BLB) 302
 4 Baylen, the Haymaker (BLB) 205
 4 Baylen, the Haymaker (BLB) 345
 4 Byway Barterer (BLB) 129
@@ -11,10 +14,15 @@ Deck
 4 Camellia, the Seedmiser (BLB) 207
 4 Camellia, the Seedmiser (BLB) 328
 4 Camellia, the Seedmiser (BLB) 346
+4 Caretaker's Talent (BLB) 6
 4 Clement, the Worrywort (BLB) 209
 4 Clement, the Worrywort (BLB) 329
 4 Clement, the Worrywort (BLB) 347
+4 Coiling Rebirth (BLB) 86
+4 Coiling Rebirth (BLB) 309
 4 Colossification (BLB) 392
+4 Cruelclaw's Heist (BLB) 88
+4 Cruelclaw's Heist (BLB) 310
 4 Darkstar Augur (BLB) 90
 4 Darkstar Augur (BLB) 311
 4 Dawn's Truce (BLB) 9
@@ -25,6 +33,8 @@ Deck
 4 Dreamdew Entrancer (BLB) 365
 4 Emberheart Challenger (BLB) 133
 4 Emberheart Challenger (BLB) 315
+4 Essence Channeler (BLB) 12
+4 Essence Channeler (BLB) 356
 4 Fabled Passage (BLB) 252
 4 Fabled Passage (BLB) 367
 4 Fecund Greenshell (BLB) 171
@@ -37,6 +47,7 @@ Deck
 4 For the Common Good (BLB) 172
 4 For the Common Good (BLB) 321
 4 Fountainport (BLB) 253
+4 Fountainport (BLB) 368
 4 Gev, Scaled Scorch (BLB) 214
 4 Gev, Scaled Scorch (BLB) 349
 4 Hearthborn Battler (BLB) 139
@@ -50,6 +61,8 @@ Deck
 4 Jackdaw Savior (BLB) 296
 4 Kastral, the Windcrested (BLB) 221
 4 Kastral, the Windcrested (BLB) 335
+================================================================================
+Deck
 4 Kastral, the Windcrested (BLB) 350
 4 Keen-Eyed Curator (BLB) 181
 4 Keen-Eyed Curator (BLB) 322
@@ -61,8 +74,6 @@ Deck
 4 Mabel, Heir to Cragflame (BLB) 336
 4 Mabel, Heir to Cragflame (BLB) 351
 4 Manifold Mouse (BLB) 143
-================================================================================
-Deck
 4 Manifold Mouse (BLB) 318
 4 Mind Spring (BLB) 389
 4 Mistbreath Elder (BLB) 184
@@ -83,6 +94,7 @@ Deck
 4 Serra Redeemer (BLB) 387
 4 Starfall Invocation (BLB) 34
 4 Starfall Invocation (BLB) 298
+4 Stormchaser's Talent (BLB) 75
 4 Sunspine Lynx (BLB) 155
 4 Sunspine Lynx (BLB) 292
 4 Sword of Vengeance (BLB) 395
@@ -98,6 +110,8 @@ Deck
 4 Thundertrap Trainer (BLB) 78
 4 Thundertrap Trainer (BLB) 307
 4 Thundertrap Trainer (BLB) 386
+4 Valley Flamecaller (BLB) 158
+4 Valley Flamecaller (BLB) 320
 4 Valley Floodcaller (BLB) 79
 4 Valley Floodcaller (BLB) 308
 4 Valley Mightcaller (BLB) 202
@@ -111,6 +125,8 @@ Deck
 4 Whiskervale Forerunner (BLB) 40
 4 Whiskervale Forerunner (BLB) 301
 4 Wick, the Whorled Mind (BLB) 120
+================================================================================
+Deck
 4 Wick, the Whorled Mind (BLB) 314
 4 Wishing Well (BLB) 81
 4 Wishing Well (BLB) 358

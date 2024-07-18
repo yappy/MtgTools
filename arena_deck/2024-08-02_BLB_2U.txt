@@ -1,5 +1,4 @@
 Deck
-4 "Raccoon Katamari" (BLB) 250
 4 Bandit's Talent (BLB) 83
 4 Bark-Knuckle Boxer (BLB) 164
 4 Blacksmith's Talent (BLB) 125
@@ -27,6 +26,7 @@ Deck
 4 Fell (BLB) 95
 4 Fell (BLB) 383
 4 Fireglass Mentor (BLB) 213
+4 Flamecache Gecko (BLB) 135
 4 Flowerfoot Swordmaster (BLB) 14
 4 Galewind Moose (BLB) 173
 4 Gossip's Talent (BLB) 51
@@ -69,6 +69,7 @@ Deck
 4 Plumecreed Escort (BLB) 65
 4 Plumecreed Mentor (BLB) 228
 4 Quaketusk Boar (BLB) 146
+4 Rabid Gnaw (BLB) 147
 4 Repel Calamity (BLB) 27
 4 Reptilian Recruiter (BLB) 149
 4 Rockface Village (BLB) 259
@@ -79,6 +80,7 @@ Deck
 4 Shoreline Looter (BLB) 382
 4 Shrike Force (BLB) 31
 4 Sinister Monolith (BLB) 113
+4 Spellgyre (BLB) 72
 4 Splash Lasher (BLB) 73
 4 Splash Portal (BLB) 74
 4 Star Charter (BLB) 33
@@ -86,9 +88,11 @@ Deck
 4 Stargaze (BLB) 114
 4 Starscape Cleric (BLB) 116
 4 Starseer Mentor (BLB) 233
+4 Stocking the Pantry (BLB) 194
 4 Stormcatch Mentor (BLB) 234
 4 Stormcatch Mentor (BLB) 385
 4 Sugar Coat (BLB) 76
+4 Tangle Tumbler (BLB) 250
 4 Teapot Slinger (BLB) 157
 4 Thought-Stalker Warlock (BLB) 118
 4 Three Tree Scribe (BLB) 199
@@ -99,3 +103,4 @@ Deck
 4 Wear Down (BLB) 203
 4 Wear Down (BLB) 384
 4 Wick's Patrol (BLB) 121
+4 Wildfire Howl (BLB) 162
