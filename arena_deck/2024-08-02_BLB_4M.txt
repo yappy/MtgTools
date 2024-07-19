@@ -4,6 +4,7 @@ Deck
 4 Bria, Riptide Rogue (BLB) 379
 4 Byrke, Long Ear of the Law (BLB) 380
 4 Dragonhawk, Fate's Tempest (BLB) 132
+4 Dragonhawk, Fate's Tempest (BLB) 291
 4 Eluge, the Shoreless Sea (BLB) 49
 4 Eluge, the Shoreless Sea (BLB) 288
 4 Glarb, Calamity's Augur (BLB) 215

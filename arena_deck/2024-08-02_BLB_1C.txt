@@ -7,6 +7,7 @@ Deck
 4 Barkform Harvester (BLB) 243
 4 Bellowing Crier (BLB) 42
 4 Blossoming Sands (BLB) 396
+4 Bonebind Orator (BLB) 84
 4 Brave-Kin Duo (BLB) 3
 4 Bumbleflower's Sharepot (BLB) 244
 4 Cache Grab (BLB) 167
@@ -15,6 +16,10 @@ Deck
 4 Cindering Cutthroat (BLB) 208
 4 Conduct Electricity (BLB) 130
 4 Corpseberry Cultivator (BLB) 210
+4 Crumb and Get It (BLB) 8
+4 Daggerfang Duo (BLB) 89
+4 Dazzling Denial (BLB) 45
+4 Dire Downdraft (BLB) 46
 4 Diresight (BLB) 91
 4 Druid of the Spade (BLB) 170
 4 Early Winter (BLB) 93
@@ -25,7 +30,10 @@ Deck
 4 Giant Growth (BLB) 393
 4 Glidedive Duo (BLB) 96
 4 Head of the Homestead (BLB) 216
+4 Heaped Harvest (BLB) 175
 4 Hidden Grotto (BLB) 254
+4 High Stride (BLB) 176
+4 Intrepid Rabbit (BLB) 17
 4 Junkblade Bruiser (BLB) 220
 4 Kindlespark Duo (BLB) 142
 4 Lifecreed Duo (BLB) 20
@@ -46,10 +54,18 @@ Deck
 4 Rabbit Response (BLB) 26
 4 Rabid Bite (BLB) 394
 4 Raccoon Rallier (BLB) 148
+4 Ravine Raider (BLB) 106
+4 Roughshod Duo (BLB) 150
 4 Run Away Together (BLB) 67
 4 Rust-Shield Rampager (BLB) 190
+4 Savor (BLB) 109
+4 Sazacap's Brew (BLB) 151
 4 Scales of Shale (BLB) 110
+================================================================================
+Deck
 4 Seedpod Squire (BLB) 232
+4 Shore Up (BLB) 69
+4 Skyskipper Duo (BLB) 71
 4 Sonar Strike (BLB) 32
 4 Starlit Soothsayer (BLB) 115
 4 Steampath Charger (BLB) 153
@@ -61,10 +77,9 @@ Deck
 4 Thieving Otter (BLB) 390
 4 Thistledown Players (BLB) 35
 4 Thornplate Intimidator (BLB) 117
-================================================================================
-Deck
 4 Thought Shucker (BLB) 77
 4 Three Tree Mascot (BLB) 251
+4 Three Tree Rootweaver (BLB) 198
 4 Treeguard Duo (BLB) 200
 4 Treetop Sentries (BLB) 201
 4 Uncharted Haven (BLB) 261

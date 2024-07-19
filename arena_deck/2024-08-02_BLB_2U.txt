@@ -44,6 +44,7 @@ Deck
 4 Hunter's Talent (BLB) 179
 4 Huskburster Swarm (BLB) 98
 4 Into the Flood Maw (BLB) 52
+4 Jolly Gerbils (BLB) 19
 4 Knightfisher (BLB) 55
 4 Lilypad Village (BLB) 255
 4 Lilysplash Mentor (BLB) 222
@@ -60,9 +61,9 @@ Deck
 4 Overprotect (BLB) 185
 4 Parting Gust (BLB) 24
 4 Patchwork Banner (BLB) 247
-4 Pawpatch Formation (BLB) 186
 ================================================================================
 Deck
+4 Pawpatch Formation (BLB) 186
 4 Peerless Recycling (BLB) 188
 4 Persistent Marshstalker (BLB) 104
 4 Playful Shove (BLB) 145
