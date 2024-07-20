@@ -79,6 +79,7 @@ Deck
 4 Seedglaive Mentor (BLB) 231
 4 Shoreline Looter (BLB) 70
 4 Shoreline Looter (BLB) 382
+4 Short Bow (BLB) 248
 4 Shrike Force (BLB) 31
 4 Sinister Monolith (BLB) 113
 4 Spellgyre (BLB) 72
