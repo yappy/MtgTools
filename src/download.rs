@@ -17,7 +17,7 @@ const BULK_TYPE_ALL: &str = "all_cards";
 #[allow(dead_code)]
 const BULK_TYPE_RULINGS: &str = "rulings";
 
-/// User-Agent: <product> / <product-version> <comment>
+/// `User-Agent: <product> / <product-version> <comment>`
 ///
 /// Example:
 /// Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
