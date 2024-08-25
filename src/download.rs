@@ -1,5 +1,5 @@
 use crate::{api, common};
-use anyhow::{anyhow, Result};
+use anyhow::{anyhow, bail, Result};
 use std::{
     fs::File,
     io::{BufWriter, Write},
@@ -39,6 +39,11 @@ fn sets_get() -> Result<Vec<api::Set>> {
     let mut url = "https://api.scryfall.com/sets".to_string();
     loop {
         let resp = reqwest::blocking::get(url)?;
+        let st = resp.error_for_status_ref().map(|_| ());
+        if let Err(err) = st {
+            eprintln!("{}", resp.text()?);
+            bail!(err);
+        }
         let list = resp.json::<api::List<api::Set>>()?;
 
         data.extend(list.data);

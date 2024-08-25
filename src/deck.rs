@@ -47,7 +47,7 @@ fn convert_name(orig: &str) -> &str {
     let idx = orig.find(" // ");
     if let Some(idx) = idx {
         &orig[0..idx]
-    }else {
+    } else {
         orig
     }
 }
@@ -56,7 +56,10 @@ fn create_one(cards: &Cards, set: &api::Set, rarity: &str, rname: &str) -> Resul
     let cards = cards
         .iter()
         .filter(|card| card.set_id == set.id && card.rarity == rarity)
-        .filter(|card| !(card.type_line.is_some() && card.type_line.as_ref().unwrap().starts_with("Basic Land")));
+        .filter(|card| {
+            !(card.type_line.is_some()
+                && card.type_line.as_ref().unwrap().starts_with("Basic Land"))
+        });
 
     {
         let path = format!(
