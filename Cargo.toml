@@ -1,7 +1,9 @@
 [package]
-name = "mtg"
-version = "0.1.0"
+name = "MtgTools"
+version = "0.2.0"
 edition = "2021"
+repository = "https://github.com/yappy/MtgTools"
+homepage = "https://github.com/yappy/MtgTools"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

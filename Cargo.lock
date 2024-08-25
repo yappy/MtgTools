@@ -3,6 +3,17 @@
 version = 3
 
 [[package]]
+name = "MtgTools"
+version = "0.2.0"
+dependencies = [
+ "anyhow",
+ "getopts",
+ "reqwest",
+ "serde",
+ "serde_json",
+]
+
+[[package]]
 name = "anyhow"
 version = "1.0.68"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -369,17 +380,6 @@ dependencies = [
  "log",
  "wasi",
  "windows-sys 0.42.0",
-]
-
-[[package]]
-name = "mtg"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "getopts",
- "reqwest",
- "serde",
- "serde_json",
 ]
 
 [[package]]
