@@ -1,6 +1,6 @@
 Deck
 4 Abundant Maw (SIR) 1
-4 Accursed Witch // Infectious Curse (SIR) 97
+4 Accursed Witch (SIR) 97
 4 Advanced Stitchwing (SIR) 54
 4 Anguished Unmaking (SIR) 229
 4 Biting Rain (SIR) 99
@@ -13,14 +13,14 @@ Deck
 4 Compelling Deterrence (SIR) 55
 4 Courageous Outrider (SIR) 20
 4 Crawling Sensation (SIR) 191
-4 Cryptolith Fragment // Aurora of Emrakul (SIR) 248
-4 Curious Homunculus // Voracious Reader (SIR) 58
-4 Daring Sleuth // Bearer of Overwhelming Truths (SIR) 59
+4 Cryptolith Fragment (SIR) 248
+4 Curious Homunculus (SIR) 58
+4 Daring Sleuth (SIR) 59
 4 Deathcap Cultivator (SIR) 193
 4 Drownyard Behemoth (SIR) 4
 4 Drunau Corpse Trawler (SIR) 64
 4 Dusk Feaster (SIR) 109
-4 Duskwatch Recruiter // Krallenhorde Howler (SIR) 194
+4 Duskwatch Recruiter (SIR) 194
 4 Erdwal Illuminator (SIR) 66
 4 Faith Unbroken (SIR) 27
 4 Fiery Temper (SIR) 154
@@ -31,13 +31,13 @@ Deck
 4 Foul Orchard (SIR) 268
 4 Furyblade Vampire (SIR) 156
 4 Game Trail (SIR) 269
-4 Geier Reach Bandit // Vildin-Pack Alpha (SIR) 159
+4 Geier Reach Bandit (SIR) 159
 4 Graf Harvest (SIR) 114
 4 Graf Mole (SIR) 197
 4 Groundskeeper (SIR) 199
 4 Gryff's Boon (SIR) 31
 4 Hamlet Captain (SIR) 200
-4 Harvest Hand // Scrounged Scythe (SIR) 252
+4 Harvest Hand (SIR) 252
 4 Haunted Dead (SIR) 117
 4 Highland Lake (SIR) 272
 4 Hope Against Hope (SIR) 33
@@ -46,9 +46,9 @@ Deck
 4 Indulgent Aristocrat (SIR) 118
 4 Invasive Surgery (SIR) 76
 4 Ironclad Slayer (SIR) 35
-4 Kindly Stranger // Demon-Possessed Witch (SIR) 107
+4 Kindly Stranger (SIR) 107
 4 Lightning Axe (SIR) 166
-4 Lone Rider // It That Rides as One (SIR) 36
+4 Lone Rider (SIR) 36
 4 Lupine Prototype (SIR) 253
 4 Mad Prophet (SIR) 167
 4 Manic Scribe (SIR) 80
@@ -59,7 +59,7 @@ Deck
 4 Murderer's Axe (SIR) 255
 4 Nearheath Chaplain (SIR) 38
 4 Nebelgast Herald (SIR) 83
-4 Neglected Heirloom // Ashmouth Blade (SIR) 256
+4 Neglected Heirloom (SIR) 256
 4 Noose Constrictor (SIR) 206
 ================================================================================
 Deck
@@ -77,7 +77,7 @@ Deck
 4 Ruthless Disposal (SIR) 132
 4 Scourge Wolf (SIR) 175
 4 Shreds of Sanity (SIR) 176
-4 Shrill Howler // Howling Chorus (SIR) 214
+4 Shrill Howler (SIR) 214
 4 Soul Separator (SIR) 258
 4 Spectral Shepherd (SIR) 45
 4 Stensia Masquerade (SIR) 178
@@ -86,11 +86,11 @@ Deck
 4 Subjugator Angel (SIR) 48
 4 Thermo-Alchemist (SIR) 180
 4 Topplegeist (SIR) 52
-4 Town Gossipmonger // Incited Rabble (SIR) 53
+4 Town Gossipmonger (SIR) 53
 4 Ulrich's Kindred (SIR) 182
 4 Ulvenwald Mysteries (SIR) 223
 4 Uncaged Fury (SIR) 183
 4 Vessel of Nascency (SIR) 224
 4 Veteran Cathar (SIR) 225
-4 Village Messenger // Moonrise Intruder (SIR) 184
+4 Village Messenger (SIR) 184
 4 Woodland Stream (SIR) 276

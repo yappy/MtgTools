@@ -1,4 +1,5 @@
 Deck
+4 A-Nashi, Moon Sage's Scion (NEO) A-114
 4 Ao, the Dawn Sky (NEO) 2
 4 Ao, the Dawn Sky (NEO) 406
 4 Ao, the Dawn Sky (NEO) 433
@@ -13,9 +14,9 @@ Deck
 4 Explosive Singularity (NEO) 383
 4 Explosive Singularity (NEO) 422
 4 Explosive Singularity (NEO) 464
-4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 221
-4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 361
-4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 486
+4 Hidetsugu Consumes All (NEO) 221
+4 Hidetsugu Consumes All (NEO) 361
+4 Hidetsugu Consumes All (NEO) 486
 4 Jin-Gitaxias, Progress Tyrant (NEO) 59
 4 Jin-Gitaxias, Progress Tyrant (NEO) 307
 4 Jin-Gitaxias, Progress Tyrant (NEO) 371
@@ -23,9 +24,9 @@ Deck
 4 Jin-Gitaxias, Progress Tyrant (NEO) 445
 4 Jin-Gitaxias, Progress Tyrant (NEO) 513
 4 Jin-Gitaxias, Progress Tyrant (NEO) 514
-4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
-4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 359
-4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 475
+4 Jugan Defends the Temple (NEO) 194
+4 Jugan Defends the Temple (NEO) 359
+4 Jugan Defends the Temple (NEO) 475
 4 Junji, the Midnight Sky (NEO) 102
 4 Junji, the Midnight Sky (NEO) 409
 4 Junji, the Midnight Sky (NEO) 456
@@ -58,11 +59,11 @@ Deck
 4 Tezzeret, Betrayer of Flesh (NEO) 304
 4 Tezzeret, Betrayer of Flesh (NEO) 376
 4 Tezzeret, Betrayer of Flesh (NEO) 419
-4 The Kami War // O-Kagachi Made Manifest (NEO) 227
-4 The Kami War // O-Kagachi Made Manifest (NEO) 362
-4 The Kami War // O-Kagachi Made Manifest (NEO) 489
+4 The Kami War (NEO) 227
+4 The Kami War (NEO) 362
 ================================================================================
 Deck
+4 The Kami War (NEO) 489
 4 The Wandering Emperor (NEO) 42
 4 The Wandering Emperor (NEO) 303
 4 The Wandering Emperor (NEO) 316

@@ -1,6 +1,7 @@
 Deck
 4 +2 Mace (AFR) 1
 4 A-Armory Veteran (AFR) A-130
+4 A-Dawnbringer Cleric (AFR) A-9
 4 A-Dwarfhold Champion (AFR) A-14
 4 A-Fates' Reversal (AFR) A-102
 4 A-Find the Path (AFR) A-183
@@ -60,9 +61,9 @@ Deck
 4 Herald of Hadar (AFR) 108
 4 Hill Giant Herdgorger (AFR) 187
 4 Hired Hexblade (AFR) 109
-4 Hoard Robber (AFR) 110
 ================================================================================
 Deck
+4 Hoard Robber (AFR) 110
 4 Hoarding Ogre (AFR) 146
 4 Hobgoblin Captain (AFR) 148
 4 Improvised Weaponry (AFR) 150
@@ -124,7 +125,7 @@ Deck
 4 You Hear Something on Watch (AFR) 42
 4 You See a Guard Approach (AFR) 85
 4 You're Ambushed on the Road (AFR) 43
-4 Yuan-Ti Fang-Blade (AFR) 128
 ================================================================================
 Deck
+4 Yuan-Ti Fang-Blade (AFR) 128
 4 Zombie Ogre (AFR) 129

@@ -1,7 +1,6 @@
 Deck
-4 A-Dorothea, Vengeful Victim // A-Dorothea's Retribution (VOW) A-235
+4 A-Dorothea, Vengeful Victim (VOW) A-235
 4 A-Dreamshackle Geist (VOW) A-58
-4 A-Hullbreaker Horror (VOW) A-63
 4 Alchemist's Gambit (VOW) 140
 4 Alchemist's Gambit (VOW) 374
 4 Anje, Maid of Dishonor (VOW) 231
@@ -14,8 +13,8 @@ Deck
 4 By Invitation Only (VOW) 346
 4 Change of Fortune (VOW) 150
 4 Change of Fortune (VOW) 375
-4 Concealing Curtains // Revealing Eye (VOW) 101
-4 Concealing Curtains // Revealing Eye (VOW) 367
+4 Concealing Curtains (VOW) 101
+4 Concealing Curtains (VOW) 367
 4 Consuming Tide (VOW) 53
 4 Consuming Tide (VOW) 357
 4 Creepy Puppeteer (VOW) 151
@@ -33,8 +32,8 @@ Deck
 4 Dominating Vampire (VOW) 154
 4 Dominating Vampire (VOW) 305
 4 Dominating Vampire (VOW) 407
-4 Dorothea, Vengeful Victim // Dorothea's Retribution (VOW) 235
-4 Dorothea, Vengeful Victim // Dorothea's Retribution (VOW) 322
+4 Dorothea, Vengeful Victim (VOW) 235
+4 Dorothea, Vengeful Victim (VOW) 322
 4 Dreadfeast Demon (VOW) 108
 4 Dreadfeast Demon (VOW) 369
 4 Dreamroot Cascade (VOW) 262
@@ -43,9 +42,9 @@ Deck
 4 Dreamshackle Geist (VOW) 358
 4 Dying to Serve (VOW) 109
 4 Dying to Serve (VOW) 370
-4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 236
-4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 311
-4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 341
+4 Edgar, Charmed Groom (VOW) 236
+4 Edgar, Charmed Groom (VOW) 311
+4 Edgar, Charmed Groom (VOW) 341
 4 Eruth, Tormented Prophet (VOW) 237
 4 Eruth, Tormented Prophet (VOW) 323
 4 Eruth, Tormented Prophet (VOW) 342
@@ -61,9 +60,9 @@ Deck
 4 Grolnok, the Omnivore (VOW) 238
 4 Grolnok, the Omnivore (VOW) 324
 4 Halana and Alena, Partners (VOW) 239
+4 Halana and Alena, Partners (VOW) 325
 ================================================================================
 Deck
-4 Halana and Alena, Partners (VOW) 325
 4 Hamlet Vanguard (VOW) 201
 4 Hamlet Vanguard (VOW) 389
 4 Headless Rider (VOW) 118
@@ -74,25 +73,25 @@ Deck
 4 Hopeful Initiate (VOW) 350
 4 Howling Moon (VOW) 204
 4 Howling Moon (VOW) 391
-4 Howlpack Piper // Wildsong Howler (VOW) 205
-4 Howlpack Piper // Wildsong Howler (VOW) 392
+4 Howlpack Piper (VOW) 205
+4 Howlpack Piper (VOW) 392
 4 Hullbreaker Horror (VOW) 63
 4 Hullbreaker Horror (VOW) 359
-4 Ill-Tempered Loner // Howlpack Avenger (VOW) 162
-4 Ill-Tempered Loner // Howlpack Avenger (VOW) 378
+4 Ill-Tempered Loner (VOW) 162
+4 Ill-Tempered Loner (VOW) 378
 4 Inspired Idea (VOW) 64
 4 Inspired Idea (VOW) 360
 4 Investigator's Journal (VOW) 258
 4 Investigator's Journal (VOW) 345
 4 Investigator's Journal (VOW) 396
-4 Katilda, Dawnhart Martyr // Katilda's Rising Dawn (VOW) 21
-4 Katilda, Dawnhart Martyr // Katilda's Rising Dawn (VOW) 317
+4 Katilda, Dawnhart Martyr (VOW) 21
+4 Katilda, Dawnhart Martyr (VOW) 317
 4 Kessig Wolfrider (VOW) 165
 4 Kessig Wolfrider (VOW) 379
 4 Lantern Flare (VOW) 23
 4 Lantern Flare (VOW) 351
-4 Mirrorhall Mimic // Ghastly Mimicry (VOW) 68
-4 Mirrorhall Mimic // Ghastly Mimicry (VOW) 361
+4 Mirrorhall Mimic (VOW) 68
+4 Mirrorhall Mimic (VOW) 361
 4 Odric, Blood-Cursed (VOW) 243
 4 Odric, Blood-Cursed (VOW) 314
 4 Old Rutstein (VOW) 244
@@ -105,9 +104,9 @@ Deck
 4 Patchwork Crawler (VOW) 364
 4 Path of Peril (VOW) 124
 4 Path of Peril (VOW) 373
-4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 246
-4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 316
-4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 327
+4 Runo Stromkirk (VOW) 246
+4 Runo Stromkirk (VOW) 316
+4 Runo Stromkirk (VOW) 327
 4 Shattered Sanctum (VOW) 264
 4 Shattered Sanctum (VOW) 283
 4 Sigarda's Summons (VOW) 36
@@ -125,22 +124,22 @@ Deck
 4 Thalia, Guardian of Thraben (VOW) 318
 4 Thalia, Guardian of Thraben (VOW) 331
 4 Torens, Fist of the Angels (VOW) 249
+4 Torens, Fist of the Angels (VOW) 328
 ================================================================================
 Deck
-4 Torens, Fist of the Angels (VOW) 328
 4 Torens, Fist of the Angels (VOW) 344
-4 Ulvenwald Oddity // Ulvenwald Behemoth (VOW) 225
-4 Ulvenwald Oddity // Ulvenwald Behemoth (VOW) 394
+4 Ulvenwald Oddity (VOW) 225
+4 Ulvenwald Oddity (VOW) 394
 4 Voice of the Blessed (VOW) 44
 4 Voice of the Blessed (VOW) 354
-4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 137
-4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 298
-4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 338
+4 Voldaren Bloodcaster (VOW) 137
+4 Voldaren Bloodcaster (VOW) 298
+4 Voldaren Bloodcaster (VOW) 338
 4 Voldaren Estate (VOW) 267
 4 Voldaren Estate (VOW) 397
 4 Voldaren Estate (VOW) 403
-4 Wedding Announcement // Wedding Festivity (VOW) 45
-4 Wedding Announcement // Wedding Festivity (VOW) 355
+4 Wedding Announcement (VOW) 45
+4 Wedding Announcement (VOW) 355
 4 Welcoming Vampire (VOW) 46
 4 Welcoming Vampire (VOW) 287
 4 Winged Portent (VOW) 89

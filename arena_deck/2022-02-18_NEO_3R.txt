@@ -1,5 +1,7 @@
 Deck
 4 A-Raiyuu, Storm's Edge (NEO) A-232
+4 A-Satoru Umezawa (NEO) A-234
+4 A-Thousand-Faced Shadow (NEO) A-86
 4 Biting-Palm Ninja (NEO) 88
 4 Biting-Palm Ninja (NEO) 338
 4 Biting-Palm Ninja (NEO) 452
@@ -21,9 +23,9 @@ Deck
 4 Eiganjo, Seat of the Empire (NEO) 268
 4 Eiganjo, Seat of the Empire (NEO) 413
 4 Eiganjo, Seat of the Empire (NEO) 502
-4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
-4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 357
-4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 465
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Fable of the Mirror-Breaker (NEO) 357
+4 Fable of the Mirror-Breaker (NEO) 465
 4 Farewell (NEO) 13
 4 Farewell (NEO) 365
 4 Farewell (NEO) 417
@@ -44,9 +46,9 @@ Deck
 4 Hinata, Dawn-Crowned (NEO) 222
 4 Hinata, Dawn-Crowned (NEO) 398
 4 Hinata, Dawn-Crowned (NEO) 487
-4 Inventive Iteration // Living Breakthrough (NEO) 57
-4 Inventive Iteration // Living Breakthrough (NEO) 355
-4 Inventive Iteration // Living Breakthrough (NEO) 443
+4 Inventive Iteration (NEO) 57
+4 Inventive Iteration (NEO) 355
+4 Inventive Iteration (NEO) 443
 4 Invoke Calamity (NEO) 147
 4 Invoke Calamity (NEO) 384
 4 Invoke Calamity (NEO) 467
@@ -59,10 +61,10 @@ Deck
 4 Invoke Justice (NEO) 437
 4 Invoke the Ancients (NEO) 193
 4 Invoke the Ancients (NEO) 390
-4 Invoke the Ancients (NEO) 474
-4 Invoke the Winds (NEO) 58
 ================================================================================
 Deck
+4 Invoke the Ancients (NEO) 474
+4 Invoke the Winds (NEO) 58
 4 Invoke the Winds (NEO) 370
 4 Invoke the Winds (NEO) 444
 4 Isshin, Two Heavens as One (NEO) 224
@@ -123,10 +125,10 @@ Deck
 4 Raiyuu, Storm's Edge (NEO) 329
 4 Raiyuu, Storm's Edge (NEO) 491
 4 Reckoner Bankbuster (NEO) 255
-4 Reckoner Bankbuster (NEO) 404
-4 Reckoner Bankbuster (NEO) 499
 ================================================================================
 Deck
+4 Reckoner Bankbuster (NEO) 404
+4 Reckoner Bankbuster (NEO) 499
 4 Risona, Asari Commander (NEO) 233
 4 Risona, Asari Commander (NEO) 330
 4 Risona, Asari Commander (NEO) 425
@@ -166,29 +168,29 @@ Deck
 4 Tatsunari, Toad Rider (NEO) 123
 4 Tatsunari, Toad Rider (NEO) 345
 4 Tatsunari, Toad Rider (NEO) 461
-4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 212
-4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 360
-4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 482
-4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 181
-4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 358
-4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 473
+4 Teachings of the Kirin (NEO) 212
+4 Teachings of the Kirin (NEO) 360
+4 Teachings of the Kirin (NEO) 482
+4 The Dragon-Kami Reborn (NEO) 181
+4 The Dragon-Kami Reborn (NEO) 358
+4 The Dragon-Kami Reborn (NEO) 473
 4 The Reality Chip (NEO) 74
 4 The Reality Chip (NEO) 374
 4 The Reality Chip (NEO) 449
-4 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
-4 The Restoration of Eiganjo // Architect of Restoration (NEO) 354
-4 The Restoration of Eiganjo // Architect of Restoration (NEO) 442
+4 The Restoration of Eiganjo (NEO) 34
+4 The Restoration of Eiganjo (NEO) 354
+4 The Restoration of Eiganjo (NEO) 442
 4 Thousand-Faced Shadow (NEO) 86
 4 Thousand-Faced Shadow (NEO) 337
 4 Thousand-Faced Shadow (NEO) 451
 4 Thundering Raiju (NEO) 166
 4 Thundering Raiju (NEO) 389
 4 Thundering Raiju (NEO) 472
-4 Tribute to Horobi // Echo of Death's Wail (NEO) 124
-4 Tribute to Horobi // Echo of Death's Wail (NEO) 356
-4 Tribute to Horobi // Echo of Death's Wail (NEO) 462
-4 Weaver of Harmony (NEO) 213
-4 Weaver of Harmony (NEO) 395
+4 Tribute to Horobi (NEO) 124
+4 Tribute to Horobi (NEO) 356
+4 Tribute to Horobi (NEO) 462
 ================================================================================
 Deck
+4 Weaver of Harmony (NEO) 213
+4 Weaver of Harmony (NEO) 395
 4 Weaver of Harmony (NEO) 483

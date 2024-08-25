@@ -7,8 +7,8 @@ Deck
 4 Banish into Fable (ELD) 325
 4 Blacklance Paragon (ELD) 79
 4 Blacklance Paragon (ELD) 351
-4 Bonecrusher Giant // Stomp (ELD) 115
-4 Bonecrusher Giant // Stomp (ELD) 291
+4 Bonecrusher Giant (ELD) 115
+4 Bonecrusher Giant (ELD) 291
 4 Castle Ardenvale (ELD) 238
 4 Castle Ardenvale (ELD) 386
 4 Castle Embereth (ELD) 239
@@ -35,8 +35,8 @@ Deck
 4 Escape to the Wilds (ELD) 379
 4 Fabled Passage (ELD) 244
 4 Fabled Passage (ELD) 391
-4 Fae of Wishes // Granted (ELD) 44
-4 Fae of Wishes // Granted (ELD) 282
+4 Fae of Wishes (ELD) 44
+4 Fae of Wishes (ELD) 282
 4 Faeburrow Elder (ELD) 190
 4 Faeburrow Elder (ELD) 380
 4 Faerie Formation (ELD) 316
@@ -50,8 +50,8 @@ Deck
 4 Folio of Fancies (ELD) 343
 4 Gadwick, the Wizened (ELD) 48
 4 Gadwick, the Wizened (ELD) 344
-4 Giant Killer // Chop Down (ELD) 14
-4 Giant Killer // Chop Down (ELD) 275
+4 Giant Killer (ELD) 14
+4 Giant Killer (ELD) 275
 4 Gilded Goose (ELD) 160
 4 Gilded Goose (ELD) 369
 4 Gluttonous Troll (ELD) 327
@@ -70,15 +70,15 @@ Deck
 4 Linden, the Steadfast Queen (ELD) 340
 4 Lochmere Serpent (ELD) 195
 4 Lochmere Serpent (ELD) 381
-4 Lovestruck Beast // Heart's Desire (ELD) 165
-4 Lovestruck Beast // Heart's Desire (ELD) 299
+4 Lovestruck Beast (ELD) 165
+4 Lovestruck Beast (ELD) 299
 4 Mace of the Valiant (ELD) 314
 4 Midnight Clock (ELD) 54
 4 Midnight Clock (ELD) 346
 4 Mirrormade (ELD) 55
 4 Mirrormade (ELD) 347
-4 Murderous Rider // Swift End (ELD) 97
-4 Murderous Rider // Swift End (ELD) 287
+4 Murderous Rider (ELD) 97
+4 Murderous Rider (ELD) 287
 4 Oathsworn Knight (ELD) 98
 4 Oathsworn Knight (ELD) 354
 4 Oko's Hospitality (ELD) 312

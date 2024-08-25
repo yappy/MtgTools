@@ -1,16 +1,124 @@
 Deck
+4 Ancient Imperiosaur (MOM) 174
+4 Ancient Imperiosaur (MOM) 368
+4 Archpriest of Shadows (MOM) 89
+4 Archpriest of Shadows (MOM) 356
+4 Ayara, Widow of the Realm (MOM) 90
+4 Ayara, Widow of the Realm (MOM) 296
+4 Baral and Kari Zev (MOM) 218
+4 Baral and Kari Zev (MOM) 302
+4 Bloated Processor (MOM) 93
+4 Bloated Processor (MOM) 357
+4 Bloodfeather Phoenix (MOM) 132
+4 Bloodfeather Phoenix (MOM) 362
+4 Boon-Bringer Valkyrie (MOM) 9
+4 Boon-Bringer Valkyrie (MOM) 343
 4 Breach the Multiverse (MOM) 94
 4 Breach the Multiverse (MOM) 358
+4 Chrome Host Seedshark (MOM) 51
+4 Chrome Host Seedshark (MOM) 350
+4 City on Fire (MOM) 135
+4 City on Fire (MOM) 363
+4 Complete the Circuit (MOM) 52
+4 Complete the Circuit (MOM) 351
+4 Deeproot Wayfinder (MOM) 184
+4 Deeproot Wayfinder (MOM) 369
+4 Djeru and Hazoret (MOM) 221
+4 Djeru and Hazoret (MOM) 304
+4 Doomskar Warrior (MOM) 185
+4 Doomskar Warrior (MOM) 370
 4 Drana and Linvala (MOM) 222
+4 Drana and Linvala (MOM) 305
+4 Dusk Legion Duelist (MOM) 11
+4 Dusk Legion Duelist (MOM) 344
+4 Errant and Giada (MOM) 224
+4 Errant and Giada (MOM) 306
+4 Essence of Orthodoxy (MOM) 323
+4 Essence of Orthodoxy (MOM) 376
+4 Etali, Primal Conqueror (MOM) 137
+4 Etali, Primal Conqueror (MOM) 298
 4 Faerie Mastermind (MOM) 58
 4 Faerie Mastermind (MOM) 352
 4 Ghalta and Mavren (MOM) 225
 4 Ghalta and Mavren (MOM) 307
 4 Ghalta and Mavren (MOM) 386
-4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 17
-4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 293
+4 Glissa, Herald of Predation (MOM) 226
+4 Glissa, Herald of Predation (MOM) 308
+4 Glistening Dawn (MOM) 187
+4 Glistening Dawn (MOM) 371
+4 Grafted Butcher (MOM) 109
+4 Grafted Butcher (MOM) 359
+4 Guardian of Ghirapur (MOM) 16
+4 Guardian of Ghirapur (MOM) 345
+4 Heliod, the Radiant Dawn (MOM) 17
+4 Heliod, the Radiant Dawn (MOM) 293
+4 Hidetsugu and Kairi (MOM) 228
+4 Hidetsugu and Kairi (MOM) 309
+4 Hoarding Broodlord (MOM) 110
+4 Hoarding Broodlord (MOM) 360
+4 Inga and Esika (MOM) 229
+4 Inga and Esika (MOM) 310
+4 Interdisciplinary Mascot (MOM) 326
+4 Interdisciplinary Mascot (MOM) 377
+4 Into the Fire (MOM) 144
+================================================================================
+Deck
+4 Into the Fire (MOM) 364
+4 Invasion of Alara (MOM) 230
+4 Invasion of Arcavios (MOM) 61
+4 Invasion of Fiora (MOM) 114
+4 Invasion of Gobakhan (MOM) 22
+4 Invasion of Ikoria (MOM) 190
+4 Invasion of Ixalan (MOM) 191
+4 Invasion of Kaldheim (MOM) 145
+4 Invasion of Karsus (MOM) 146
+4 Invasion of Segovia (MOM) 63
+4 Invasion of Theros (MOM) 23
+4 Invasion of Tolvada (MOM) 241
+4 Knight-Errant of Eos (MOM) 26
+4 Knight-Errant of Eos (MOM) 346
+4 Kogla and Yidaro (MOM) 244
+4 Kogla and Yidaro (MOM) 311
+4 Nahiri's Warcrafting (MOM) 155
+4 Nahiri's Warcrafting (MOM) 365
 4 Omnath, Locus of All (MOM) 249
 4 Omnath, Locus of All (MOM) 313
 4 Omnath, Locus of All (MOM) 387
+4 Orthion, Hero of Lavabrink (MOM) 334
+4 Orthion, Hero of Lavabrink (MOM) 379
+4 Ozolith, the Shattered Spire (MOM) 198
+4 Ozolith, the Shattered Spire (MOM) 372
+4 Pile On (MOM) 122
+4 Pile On (MOM) 361
+4 Polukranos Reborn (MOM) 200
+4 Polukranos Reborn (MOM) 300
+4 Progenitor Exarch (MOM) 32
+4 Progenitor Exarch (MOM) 348
+4 Quintorius, Loremaster (MOM) 250
+4 Quintorius, Loremaster (MOM) 314
+4 Rampaging Raptor (MOM) 160
+4 Rampaging Raptor (MOM) 366
+4 Rankle and Torbran (MOM) 252
+4 Rankle and Torbran (MOM) 315
+4 Realmbreaker, the Invasion Tree (MOM) 263
+4 Realmbreaker, the Invasion Tree (MOM) 374
+4 Rona, Herald of Invasion (MOM) 75
+4 Rona, Herald of Invasion (MOM) 295
+4 See Double (MOM) 77
+4 See Double (MOM) 353
+4 Sunfall (MOM) 40
+4 Sunfall (MOM) 349
+4 Surrak and Goreclaw (MOM) 337
+4 Surrak and Goreclaw (MOM) 380
+4 Terror of Towashi (MOM) 331
+4 Terror of Towashi (MOM) 378
+4 Transcendent Message (MOM) 83
+4 Transcendent Message (MOM) 354
+4 Tribute to the World Tree (MOM) 211
+4 Tribute to the World Tree (MOM) 373
+4 Voldaren Thrillseeker (MOM) 171
+4 Voldaren Thrillseeker (MOM) 367
 4 Yargle and Multani (MOM) 256
 4 Yargle and Multani (MOM) 317
+4 Zephyr Singer (MOM) 86
+4 Zephyr Singer (MOM) 355

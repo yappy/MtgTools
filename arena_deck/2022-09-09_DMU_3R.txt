@@ -1,4 +1,9 @@
 Deck
+4 A-Briar Hydra (DMU) A-286
+4 A-Llanowar Greenwidow (DMU) A-169
+4 A-Llanowar Loamspeaker (DMU) A-170
+4 A-Radha's Firebrand (DMU) A-141
+4 A-Thran Portal (DMU) A-259
 4 Academy Loremaster (DMU) 40
 4 Academy Loremaster (DMU) 391
 4 Adarkar Wastes (DMU) 243
@@ -56,13 +61,13 @@ Deck
 4 Ivy, Gleeful Spellthief (DMU) 341
 4 Jhoira, Ageless Innovator (DMU) 202
 4 Jhoira, Ageless Innovator (DMU) 301
+================================================================================
+Deck
 4 Jhoira, Ageless Innovator (DMU) 342
 4 Karplusan Forest (DMU) 250
 4 Karplusan Forest (DMU) 379
 4 Keldon Flamesage (DMU) 135
 4 Keldon Flamesage (DMU) 407
-================================================================================
-Deck
 4 King Darien XLVIII (DMU) 204
 4 King Darien XLVIII (DMU) 303
 4 King Darien XLVIII (DMU) 344
@@ -120,13 +125,13 @@ Deck
 4 Temporary Lockdown (DMU) 36
 4 Temporary Lockdown (DMU) 389
 4 The Cruelty of Gix (DMU) 87
+================================================================================
+Deck
 4 The Elder Dragon War (DMU) 121
 4 The Phasing of Zhalfir (DMU) 59
 4 The Raven Man (DMU) 103
 4 The Raven Man (DMU) 289
 4 The Raven Man (DMU) 330
-================================================================================
-Deck
 4 Thran Portal (DMU) 259
 4 Thran Portal (DMU) 422
 4 Threats Undetected (DMU) 185

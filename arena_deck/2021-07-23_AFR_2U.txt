@@ -3,6 +3,7 @@ Deck
 4 A-Cloister Gargoyle (AFR) A-7
 4 A-Death-Priest of Myrkul (AFR) A-95
 4 A-Druid Class (AFR) A-180
+4 A-Krydle of Baldur's Gate (AFR) A-226
 4 A-Plate Armor (AFR) A-32
 4 A-Shessra, Death's Whisper (AFR) A-231
 4 A-Wizard Class (AFR) A-81
@@ -60,9 +61,9 @@ Deck
 4 Intrepid Outlander (AFR) 191
 4 Iron Golem (AFR) 247
 4 Iron Golem (AFR) 348
-4 Kalain, Reclusive Painter (AFR) 225
 ================================================================================
 Deck
+4 Kalain, Reclusive Painter (AFR) 225
 4 Kalain, Reclusive Painter (AFR) 342
 4 Keen-Eared Sentry (AFR) 22
 4 Krydle of Baldur's Gate (AFR) 226

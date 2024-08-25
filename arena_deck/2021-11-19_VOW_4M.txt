@@ -1,6 +1,6 @@
 Deck
-4 Avabruck Caretaker // Hollowhenge Huntmaster (VOW) 187
-4 Avabruck Caretaker // Hollowhenge Huntmaster (VOW) 384
+4 Avabruck Caretaker (VOW) 187
+4 Avabruck Caretaker (VOW) 384
 4 Cemetery Desecrator (VOW) 100
 4 Cemetery Desecrator (VOW) 366
 4 Cemetery Gatekeeper (VOW) 148
@@ -15,16 +15,16 @@ Deck
 4 Chandra, Dressed to Kill (VOW) 279
 4 Cultivator Colossus (VOW) 195
 4 Cultivator Colossus (VOW) 386
-4 Faithbound Judge // Sinner's Judgment (VOW) 12
-4 Faithbound Judge // Sinner's Judgment (VOW) 348
+4 Faithbound Judge (VOW) 12
+4 Faithbound Judge (VOW) 348
 4 Hallowed Haunting (VOW) 17
 4 Hallowed Haunting (VOW) 349
-4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 119
-4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 293
-4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 335
-4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 65
-4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 320
-4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 332
+4 Henrika Domnathi (VOW) 119
+4 Henrika Domnathi (VOW) 293
+4 Henrika Domnathi (VOW) 335
+4 Jacob Hauken, Inspector (VOW) 65
+4 Jacob Hauken, Inspector (VOW) 320
+4 Jacob Hauken, Inspector (VOW) 332
 4 Kaya, Geist Hunter (VOW) 240
 4 Kaya, Geist Hunter (VOW) 280
 4 Manaform Hellkite (VOW) 170
@@ -43,5 +43,5 @@ Deck
 4 Sorin the Mirthless (VOW) 337
 4 Toxrill, the Corrosive (VOW) 132
 4 Toxrill, the Corrosive (VOW) 321
-4 Volatile Arsonist // Dire-Strain Anarchist (VOW) 181
-4 Volatile Arsonist // Dire-Strain Anarchist (VOW) 382
+4 Volatile Arsonist (VOW) 181
+4 Volatile Arsonist (VOW) 382

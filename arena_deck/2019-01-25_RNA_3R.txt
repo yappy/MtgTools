@@ -2,7 +2,7 @@ Deck
 4 Absorb (RNA) 151
 4 Amplifire (RNA) 92
 4 Awaken the Erstwhile (RNA) 61
-4 Bedeck // Bedazzle (RNA) 221
+4 Bedeck (RNA) 221
 4 Bedevil (RNA) 157
 4 Benthic Biomancer (RNA) 32
 4 Biomancer's Familiar (RNA) 158
@@ -38,8 +38,8 @@ Deck
 4 Precognitive Perception (RNA) 45
 4 Priest of Forgotten Gods (RNA) 83
 4 Rampage of the Clans (RNA) 134
-4 Repudiate // Replicate (RNA) 227
-4 Revival // Revenge (RNA) 228
+4 Repudiate (RNA) 227
+4 Revival (RNA) 228
 4 Rix Maadi Reveler (RNA) 109
 4 Simic Ascendancy (RNA) 207
 4 Smothering Tithe (RNA) 22
@@ -47,10 +47,10 @@ Deck
 4 Stomping Ground (RNA) 259
 4 Teysa Karlov (RNA) 212
 4 Theater of Horrors (RNA) 213
-4 Thrash // Threat (RNA) 229
+4 Thrash (RNA) 229
 4 Tithe Taker (RNA) 27
 4 Tome of the Guildpact (RNA) 242
 4 Unbreakable Formation (RNA) 29
 4 Verity Circle (RNA) 58
-4 Warrant // Warden (RNA) 230
+4 Warrant (RNA) 230
 4 Zegana, Utopian Speaker (RNA) 214

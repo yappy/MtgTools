@@ -5,10 +5,10 @@ Deck
 4 Abandon the Post (MID) 127
 4 Ardent Elementalist (MID) 128
 4 Arrogant Outlaw (MID) 84
-4 Baithook Angler // Hook-Haunt Drifter (MID) 42
+4 Baithook Angler (MID) 42
 4 Bat Whisperer (MID) 86
-4 Bird Admirer // Wing Shredder (MID) 169
-4 Bird Admirer // Wing Shredder (MID) 298
+4 Bird Admirer (MID) 169
+4 Bird Admirer (MID) 298
 4 Bladebrand (MID) 87
 4 Blessed Defiance (MID) 5
 4 Blood Pact (MID) 88
@@ -38,7 +38,7 @@ Deck
 4 Duress (MID) 98
 4 Eaten Alive (MID) 99
 4 Eccentric Farmer (MID) 185
-4 Ecstatic Awakener // Awoken Demon (MID) 100
+4 Ecstatic Awakener (MID) 100
 4 Electric Revelation (MID) 135
 4 Evolving Wilds (MID) 261
 4 Falcon Abomination (MID) 52
@@ -47,12 +47,12 @@ Deck
 4 Festival Crasher (MID) 140
 4 Flare of Faith (MID) 19
 4 Flip the Switch (MID) 54
-4 Galedrifter // Waildrifter (MID) 55
+4 Galedrifter (MID) 55
 4 Gavony Silversmith (MID) 21
 4 Gavony Trapper (MID) 22
 4 Geistwave (MID) 56
-4 Harvesttide Infiltrator // Harvesttide Assailant (MID) 143
-4 Harvesttide Infiltrator // Harvesttide Assailant (MID) 293
+4 Harvesttide Infiltrator (MID) 143
+4 Harvesttide Infiltrator (MID) 293
 4 Harvesttide Sentry (MID) 186
 4 Hedgewitch's Mask (MID) 23
 4 Hobbling Zombie (MID) 106
@@ -65,12 +65,12 @@ Deck
 Deck
 4 Larder Zombie (MID) 58
 4 Locked in the Cemetery (MID) 60
-4 Lunarch Veteran // Luminous Phantom (MID) 27
+4 Lunarch Veteran (MID) 27
 4 Might of the Old Ways (MID) 189
 4 Moonrager's Slash (MID) 148
 4 Morkrut Behemoth (MID) 114
 4 Mounted Dreadknight (MID) 150
-4 Mourning Patrol // Morning Apparition (MID) 28
+4 Mourning Patrol (MID) 28
 4 Neonate's Rush (MID) 151
 4 No Way Out (MID) 116
 4 Novice Occultist (MID) 117
@@ -89,8 +89,8 @@ Deck
 4 Search Party Captain (MID) 32
 4 Secrets of the Key (MID) 73
 4 Shadowbeast Sighting (MID) 198
-4 Shady Traveler // Stalking Predator (MID) 120
-4 Shady Traveler // Stalking Predator (MID) 291
+4 Shady Traveler (MID) 120
+4 Shady Traveler (MID) 291
 4 Shipwreck Sifters (MID) 74
 4 Siege Zombie (MID) 121
 4 Silver Bolt (MID) 258
@@ -102,12 +102,12 @@ Deck
 4 Stuffed Bear (MID) 259
 4 Sungold Barrage (MID) 36
 4 Tapping at the Window (MID) 201
-4 Tavern Ruffian // Tavern Smasher (MID) 163
-4 Tavern Ruffian // Tavern Smasher (MID) 296
+4 Tavern Ruffian (MID) 163
+4 Tavern Ruffian (MID) 296
 4 Thraben Exorcism (MID) 39
 4 Timberland Guide (MID) 202
-4 Tireless Hauler // Dire-Strain Brawler (MID) 203
-4 Tireless Hauler // Dire-Strain Brawler (MID) 305
+4 Tireless Hauler (MID) 203
+4 Tireless Hauler (MID) 305
 4 Unblinking Observer (MID) 82
 4 Unruly Mob (MID) 40
 4 Vampire Interloper (MID) 125

@@ -1,5 +1,6 @@
 use crate::{api, common};
-use anyhow::{anyhow, Result};
+use anyhow::{anyhow, bail, Result};
+use reqwest::blocking::{Client, Response};
 use std::{
     fs::File,
     io::{BufWriter, Write},
@@ -16,9 +17,33 @@ const BULK_TYPE_ALL: &str = "all_cards";
 #[allow(dead_code)]
 const BULK_TYPE_RULINGS: &str = "rulings";
 
+/// User-Agent: <product> / <product-version> <comment>
+///
+/// Example:
+/// Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+/// Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0
+const USER_AGENT: &'static str = concat!(
+    env!("CARGO_PKG_NAME"),
+    "/",
+    env!("CARGO_PKG_VERSION"),
+    " (",
+    env!("CARGO_PKG_HOMEPAGE"),
+    ")"
+);
+
+fn http_get(url: &str) -> Result<Response> {
+    let client = Client::new();
+    let resp = client
+        .get(url)
+        .header(reqwest::header::USER_AGENT, USER_AGENT)
+        .header(reqwest::header::ACCEPT, "*/*")
+        .send()?;
+    Ok(resp)
+}
+
 fn bulk_get(bulk_type: &str) -> Result<String> {
     let url = format!("https://api.scryfall.com/bulk-data/{bulk_type}");
-    let resp = reqwest::blocking::get(url)?;
+    let resp = http_get(&url)?;
 
     Ok(resp.text()?)
 }
@@ -26,7 +51,7 @@ fn bulk_get(bulk_type: &str) -> Result<String> {
 fn download_bulk(url: &str, size: u64, dist: &str) -> Result<()> {
     let outfile = File::create(dist)?;
     let mut outfile = BufWriter::new(outfile);
-    let mut resp = reqwest::blocking::get(url)?;
+    let mut resp = http_get(url)?;
     let read_size = resp.copy_to(&mut outfile)?;
     assert_eq!(read_size, size);
 
@@ -38,7 +63,12 @@ fn sets_get() -> Result<Vec<api::Set>> {
 
     let mut url = "https://api.scryfall.com/sets".to_string();
     loop {
-        let resp = reqwest::blocking::get(url)?;
+        let resp = http_get(&url)?;
+        let st = resp.error_for_status_ref().map(|_| ());
+        if let Err(err) = st {
+            eprintln!("{}", resp.text()?);
+            bail!(err);
+        }
         let list = resp.json::<api::List<api::Set>>()?;
 
         data.extend(list.data);
@@ -54,6 +84,8 @@ fn sets_get() -> Result<Vec<api::Set>> {
 }
 
 pub fn entry() -> Result<()> {
+    println!("USER_AGENT: {USER_AGENT}");
+
     let sets = sets_get()?;
     println!("{} sets fetched", sets.len());
     {

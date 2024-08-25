@@ -1,6 +1,6 @@
 Deck
 4 Assassin's Trophy (GRN) 152
-4 Assure // Assemble (GRN) 221
+4 Assure (GRN) 221
 4 Beast Whisperer (GRN) 123
 4 Blood Operative (GRN) 63
 4 Bounty Agent (GRN) 2
@@ -10,16 +10,16 @@ Deck
 4 Charnel Troll (GRN) 160
 4 Chromatic Lantern (GRN) 233
 4 Citywide Bust (GRN) 4
-4 Connive // Concoct (GRN) 222
+4 Connive (GRN) 222
 4 Dawn of Hope (GRN) 8
 4 Deafening Clarion (GRN) 165
 4 Drowned Secrets (GRN) 39
 4 Emmara, Soul of the Accord (GRN) 168
 4 Erratic Cyclops (GRN) 98
 4 Etrata, the Silencer (GRN) 170
-4 Expansion // Explosion (GRN) 224
+4 Expansion (GRN) 224
 4 Experimental Frenzy (GRN) 99
-4 Find // Finality (GRN) 225
+4 Find (GRN) 225
 4 Firemind's Research (GRN) 171
 4 Gruesome Menagerie (GRN) 71
 4 Guildmages' Forum (GRN) 250
@@ -39,7 +39,7 @@ Deck
 4 Pelt Collector (GRN) 141
 4 Quasiduplicate (GRN) 51
 4 Ral's Dispersal (GRN) 266
-4 Response // Resurgence (GRN) 229
+4 Response (GRN) 229
 4 Risk Factor (GRN) 113
 4 Ritual of Soot (GRN) 84
 4 Runaway Steam-Kin (GRN) 115

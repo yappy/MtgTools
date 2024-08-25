@@ -6,8 +6,8 @@ Deck
 4 Archmage Emeritus (STX) 37
 4 Archmage Emeritus (STX) 295
 4 Archmage Emeritus (STX) 377
-4 Augmenter Pugilist // Echoing Equation (STX) 147
-4 Augmenter Pugilist // Echoing Equation (STX) 321
+4 Augmenter Pugilist (STX) 147
+4 Augmenter Pugilist (STX) 321
 4 Baleful Mastery (STX) 64
 4 Baleful Mastery (STX) 301
 4 Basic Conjuration (STX) 120
@@ -51,8 +51,8 @@ Deck
 4 Exponential Growth (STX) 318
 4 Fervent Mastery (STX) 101
 4 Fervent Mastery (STX) 311
-4 Flamescroll Celebrant // Revel in Silence (STX) 150
-4 Flamescroll Celebrant // Revel in Silence (STX) 324
+4 Flamescroll Celebrant (STX) 150
+4 Flamescroll Celebrant (STX) 324
 4 Frostboil Snarl (STX) 265
 4 Frostboil Snarl (STX) 360
 4 Furycalm Snarl (STX) 266
@@ -67,8 +67,8 @@ Deck
 4 Illuminate History (STX) 312
 4 Ingenious Mastery (STX) 44
 4 Ingenious Mastery (STX) 297
-4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX) 152
-4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX) 326
+4 Kianne, Dean of Substance (STX) 152
+4 Kianne, Dean of Substance (STX) 326
 4 Leonin Lightscribe (STX) 20
 4 Leonin Lightscribe (STX) 290
 4 Lorehold Command (STX) 199
@@ -81,10 +81,10 @@ Deck
 4 Necroblossom Snarl (STX) 363
 4 Oriq Loremage (STX) 80
 4 Oriq Loremage (STX) 304
-4 Pestilent Cauldron // Restorative Burst (STX) 154
-4 Pestilent Cauldron // Restorative Burst (STX) 327
-4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 155
-4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 328
+4 Pestilent Cauldron (STX) 154
+4 Pestilent Cauldron (STX) 327
+4 Plargg, Dean of Chaos (STX) 155
+4 Plargg, Dean of Chaos (STX) 328
 4 Poet's Quill (STX) 82
 4 Poet's Quill (STX) 305
 4 Prismari Command (STX) 214
@@ -99,12 +99,12 @@ Deck
 4 Rushed Rebirth (STX) 351
 4 Sedgemoor Witch (STX) 86
 4 Sedgemoor Witch (STX) 306
-4 Selfless Glyphweaver // Deadly Vanity (STX) 157
-4 Selfless Glyphweaver // Deadly Vanity (STX) 329
+4 Selfless Glyphweaver (STX) 157
+4 Selfless Glyphweaver (STX) 329
 4 Semester's End (STX) 27
 4 Semester's End (STX) 292
-4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX) 158
-4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX) 330
+4 Shaile, Dean of Radiance (STX) 158
+4 Shaile, Dean of Radiance (STX) 330
 4 Shineshadow Snarl (STX) 272
 4 Shineshadow Snarl (STX) 364
 4 Silverquill Command (STX) 232
@@ -124,14 +124,14 @@ Deck
 4 Tempted by the Oriq (STX) 300
 4 The Biblioplex (STX) 264
 4 The Biblioplex (STX) 359
-4 Torrent Sculptor // Flamethrower Sonata (STX) 159
+4 Torrent Sculptor (STX) 159
 ================================================================================
 Deck
-4 Torrent Sculptor // Flamethrower Sonata (STX) 331
-4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX) 160
-4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX) 332
-4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX) 161
-4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX) 333
+4 Torrent Sculptor (STX) 331
+4 Uvilda, Dean of Perfection (STX) 160
+4 Uvilda, Dean of Perfection (STX) 332
+4 Valentin, Dean of the Vein (STX) 161
+4 Valentin, Dean of the Vein (STX) 333
 4 Vanishing Verse (STX) 244
 4 Vanishing Verse (STX) 354
 4 Venerable Warsinger (STX) 246
@@ -140,7 +140,7 @@ Deck
 4 Verdant Mastery (STX) 320
 4 Vineglimmer Snarl (STX) 274
 4 Vineglimmer Snarl (STX) 365
-4 Wandering Archaic // Explore the Vastlands (STX) 6
-4 Wandering Archaic // Explore the Vastlands (STX) 286
+4 Wandering Archaic (STX) 6
+4 Wandering Archaic (STX) 286
 4 Witherbloom Command (STX) 248
 4 Witherbloom Command (STX) 356
