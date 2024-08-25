@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["main","Parse args and dispatch."]],"mod":[["api",""],["common",""],["deck",""],["download",""],["info",""]]};

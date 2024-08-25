@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":[["PATH_CARDS",""],["PATH_CARDS_INFO",""],["PATH_DECK_DIR",""],["PATH_SETS",""]]};

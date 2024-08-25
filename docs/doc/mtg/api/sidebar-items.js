@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":[["Bulk","https://scryfall.com/docs/api/bulk-data"],["Card","https://scryfall.com/docs/api/cards"],["List","https://scryfall.com/docs/api/lists"],["Set","https://scryfall.com/docs/api/sets"]]};

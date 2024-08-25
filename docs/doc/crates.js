@@ -1,1 +1,1 @@
-window.ALL_CRATES = ["mtg"];
+window.ALL_CRATES = ["MtgTools"];
