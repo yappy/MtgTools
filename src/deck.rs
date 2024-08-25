@@ -28,10 +28,10 @@ fn load_all_cards() -> Result<Cards> {
             let mut cna = a.collector_number.clone();
             let mut cnb = b.collector_number.clone();
             while cna.len() < 5 {
-                cna.insert_str(0, " ");
+                cna.insert(0, ' ');
             }
             while cnb.len() < 5 {
-                cnb.insert_str(0, " ");
+                cnb.insert(0, ' ');
             }
             cna.cmp(&cnb)
         } else {
