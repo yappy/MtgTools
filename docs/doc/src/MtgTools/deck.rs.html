@@ -165,10 +165,10 @@
             <span class="kw">let </span><span class="kw-2">mut </span>cna = a.collector_number.clone();
             <span class="kw">let </span><span class="kw-2">mut </span>cnb = b.collector_number.clone();
             <span class="kw">while </span>cna.len() &lt; <span class="number">5 </span>{
-                cna.insert_str(<span class="number">0</span>, <span class="string">" "</span>);
+                cna.insert(<span class="number">0</span>, <span class="string">' '</span>);
             }
             <span class="kw">while </span>cnb.len() &lt; <span class="number">5 </span>{
-                cnb.insert_str(<span class="number">0</span>, <span class="string">" "</span>);
+                cnb.insert(<span class="number">0</span>, <span class="string">' '</span>);
             }
             cna.cmp(<span class="kw-2">&amp;</span>cnb)
         } <span class="kw">else </span>{

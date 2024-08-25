@@ -132,7 +132,7 @@
 /// Example:
 /// Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
 /// Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0
-</span><span class="kw">const </span>USER_AGENT: <span class="kw-2">&amp;</span><span class="lifetime">'static </span>str = <span class="macro">concat!</span>(
+</span><span class="kw">const </span>USER_AGENT: <span class="kw-2">&amp;</span>str = <span class="macro">concat!</span>(
     <span class="macro">env!</span>(<span class="string">"CARGO_PKG_NAME"</span>),
     <span class="string">"/"</span>,
     <span class="macro">env!</span>(<span class="string">"CARGO_PKG_VERSION"</span>),
