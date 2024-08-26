@@ -6,12 +6,15 @@ Deck
 4 Come Back Wrong (DSK) 309
 4 Cursed Recording (DSK) 131
 4 Cursed Recording (DSK) 296
+4 Cursed Recording (DSK) 315
 4 Doomsday Excruciator (DSK) 94
 4 Doomsday Excruciator (DSK) 346
 4 Enduring Tenacity (DSK) 95
 4 Enduring Tenacity (DSK) 374
 4 Fear of Missing Out (DSK) 136
+4 Fear of Missing Out (DSK) 316
 4 Leyline of Hope (DSK) 18
+4 Leyline of Hope (DSK) 369
 4 Toby, Beastie Befriender (DSK) 35
 4 Toby, Beastie Befriender (DSK) 356
 4 Twitching Doll (DSK) 417
