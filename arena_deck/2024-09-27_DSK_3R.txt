@@ -7,14 +7,34 @@ Deck
 4 Cursed Recording (DSK) 131
 4 Cursed Recording (DSK) 296
 4 Cursed Recording (DSK) 315
+4 Demonic Counsel (DSK) 92
+4 Demonic Counsel (DSK) 310
 4 Doomsday Excruciator (DSK) 94
 4 Doomsday Excruciator (DSK) 346
+4 Enduring Innocence (DSK) 6
+4 Enduring Innocence (DSK) 368
+4 Enduring Innocence (DSK) 386
+4 Enduring Innocence (DSK) 396
 4 Enduring Tenacity (DSK) 95
 4 Enduring Tenacity (DSK) 374
 4 Fear of Missing Out (DSK) 136
 4 Fear of Missing Out (DSK) 316
 4 Leyline of Hope (DSK) 18
 4 Leyline of Hope (DSK) 369
+4 Peer Past the Veil (DSK) 226
+4 Peer Past the Veil (DSK) 325
+4 Razorkin Needlehead (DSK) 153
+4 Razorkin Needlehead (DSK) 347
+4 Split Up (DSK) 32
+4 Split Up (DSK) 304
+4 The Jolly Balloon Man (DSK) 219
+4 The Jolly Balloon Man (DSK) 359
 4 Toby, Beastie Befriender (DSK) 35
 4 Toby, Beastie Befriender (DSK) 356
 4 Twitching Doll (DSK) 417
+4 Valgavoth's Lair (DSK) 271
+4 Valgavoth's Lair (DSK) 327
+4 Winter, Misanthropic Guide (DSK) 240
+4 Winter, Misanthropic Guide (DSK) 365
+4 Zimone, All-Questioning (DSK) 241
+4 Zimone, All-Questioning (DSK) 366
