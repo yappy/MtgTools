@@ -35,6 +35,8 @@ Deck
 4 Toby, Beastie Befriender (DSK) 35
 4 Toby, Beastie Befriender (DSK) 356
 4 Twitching Doll (DSK) 417
+4 Undead Sprinter (DSK) 237
+4 Undead Sprinter (DSK) 350
 4 Valgavoth's Lair (DSK) 271
 4 Valgavoth's Lair (DSK) 327
 4 Winter, Misanthropic Guide (DSK) 240

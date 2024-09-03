@@ -1,3 +1,13 @@
 Deck
+4 Abandoned Campground (DSK) 255
+4 Bleeding Woods (DSK) 257
+4 Etched Cornfield (DSK) 258
 4 Fear of Immobility (DSK) 10
 4 Fear of Lost Teeth (DSK) 97
+4 Lakeside Shack (DSK) 262
+4 Murky Sewer (DSK) 263
+4 Neglected Manor (DSK) 264
+4 Peculiar Lighthouse (DSK) 265
+4 Raucous Carnival (DSK) 266
+4 Razortrap Gorge (DSK) 267
+4 Strangled Cemetery (DSK) 268

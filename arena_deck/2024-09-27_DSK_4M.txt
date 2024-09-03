@@ -9,6 +9,8 @@ Deck
 4 Kaito, Bane of Nightmares (DSK) 328
 4 Kaito, Bane of Nightmares (DSK) 354
 4 Kaito, Bane of Nightmares (DSK) 409
+4 Mirror Room (DSK) 67
+4 Mirror Room (DSK) 337
 4 Overlord of the Hauntwoods (DSK) 194
 4 Overlord of the Hauntwoods (DSK) 383
 4 Overlord of the Hauntwoods (DSK) 395
