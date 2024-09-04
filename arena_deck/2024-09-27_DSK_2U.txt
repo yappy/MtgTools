@@ -1,16 +1,32 @@
 Deck
+4 Altanak, the Thrice-Called (DSK) 166
 4 Disturbing Mirth (DSK) 212
+4 Drag to the Roots (DSK) 213
+4 Drag to the Roots (DSK) 414
+4 Ethereal Armor (DSK) 7
 4 Fear of Failed Tests (DSK) 55
+4 Fear of Impostors (DSK) 57
 4 Fear of Isolation (DSK) 58
 4 Glimmer Seeker (DSK) 14
 4 Infernal Phantom (DSK) 141
+4 Inquisitive Glimmer (DSK) 217
+4 Inquisitive Glimmer (DSK) 415
 4 Norin, Swift Survivalist (DSK) 145
 4 Norin, Swift Survivalist (DSK) 297
 4 Nowhere to Run (DSK) 111
 4 Patched Plaything (DSK) 24
+4 Patchwork Beastie (DSK) 195
+4 Pyroclasm (DSK) 149
+4 Pyroclasm (DSK) 413
 4 Scrabbling Skullcrab (DSK) 71
+4 Shardmage's Rescue (DSK) 29
+4 Shardmage's Rescue (DSK) 411
 4 Smoky Lounge (DSK) 235
+4 Stay Hidden, Stay Silent (DSK) 74
+4 Stay Hidden, Stay Silent (DSK) 291
 4 Unwanted Remake (DSK) 39
 4 Unwanted Remake (DSK) 306
 4 Unwilling Vessel (DSK) 81
+4 Valgavoth's Faithful (DSK) 121
+4 Valgavoth's Faithful (DSK) 412
 4 Veteran Survivor (DSK) 40

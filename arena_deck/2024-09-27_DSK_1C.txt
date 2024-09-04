@@ -1,13 +1,23 @@
 Deck
 4 Abandoned Campground (DSK) 255
+4 Acrobatic Cheerleader (DSK) 1
 4 Bleeding Woods (DSK) 257
+4 Clockwork Percussionist (DSK) 130
+4 Clockwork Percussionist (DSK) 295
 4 Etched Cornfield (DSK) 258
+4 Fanatic of the Harrowing (DSK) 96
 4 Fear of Immobility (DSK) 10
 4 Fear of Lost Teeth (DSK) 97
+4 Grasping Longneck (DSK) 180
 4 Lakeside Shack (DSK) 262
 4 Murky Sewer (DSK) 263
 4 Neglected Manor (DSK) 264
 4 Peculiar Lighthouse (DSK) 265
+4 Piranha Fly (DSK) 70
 4 Raucous Carnival (DSK) 266
 4 Razortrap Gorge (DSK) 267
+4 Say Its Name (DSK) 197
+4 Shepherding Spirits (DSK) 31
+4 Slavering Branchsnapper (DSK) 198
 4 Strangled Cemetery (DSK) 268
+4 Turn Inside Out (DSK) 160

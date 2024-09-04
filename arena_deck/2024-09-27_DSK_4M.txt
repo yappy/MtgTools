@@ -1,4 +1,6 @@
 Deck
+4 "Overlord of the Boilerbilges" (DSK) 146
+4 "Overlord of the Boilerbilges" (DSK) 393
 4 Dollmaker's Shop (DSK) 4
 4 Dollmaker's Shop (DSK) 335
 4 Enduring Tenacity (DSK) 390
@@ -9,8 +11,17 @@ Deck
 4 Kaito, Bane of Nightmares (DSK) 328
 4 Kaito, Bane of Nightmares (DSK) 354
 4 Kaito, Bane of Nightmares (DSK) 409
+4 Meathook Massacre II (DSK) 108
+4 Meathook Massacre II (DSK) 293
+4 Meathook Massacre II (DSK) 311
 4 Mirror Room (DSK) 67
 4 Mirror Room (DSK) 337
+4 Niko, Light of Hope (DSK) 224
+4 Niko, Light of Hope (DSK) 355
+4 Overlord of the Floodpits (DSK) 68
+4 Overlord of the Floodpits (DSK) 373
+4 Overlord of the Floodpits (DSK) 389
+4 Overlord of the Floodpits (DSK) 399
 4 Overlord of the Hauntwoods (DSK) 194
 4 Overlord of the Hauntwoods (DSK) 383
 4 Overlord of the Hauntwoods (DSK) 395
@@ -24,6 +35,8 @@ Deck
 4 The Wandering Rescuer (DSK) 41
 4 The Wandering Rescuer (DSK) 351
 4 The Wandering Rescuer (DSK) 406
+4 Tyvar, the Pummeler (DSK) 202
+4 Tyvar, the Pummeler (DSK) 353
 4 Tyvar, the Pummeler (DSK) 408
 4 Valgavoth, Terror Eater (DSK) 120
 4 Valgavoth, Terror Eater (DSK) 352
