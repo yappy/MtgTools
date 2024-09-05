@@ -7,6 +7,7 @@ Deck
 4 Fear of Failed Tests (DSK) 55
 4 Fear of Impostors (DSK) 57
 4 Fear of Isolation (DSK) 58
+4 Ghostly Keybearer (DSK) 61
 4 Glimmer Seeker (DSK) 14
 4 Infernal Phantom (DSK) 141
 4 Inquisitive Glimmer (DSK) 217
