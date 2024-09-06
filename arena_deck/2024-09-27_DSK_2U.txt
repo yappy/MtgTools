@@ -1,30 +1,50 @@
 Deck
+4 "Commune with Evil" (DSK) 87
+4 "Sting of Betrayal" (DSK) 126
 4 Altanak, the Thrice-Called (DSK) 166
+4 Attack-in-the-Box (DSK) 242
+4 Bottomless Pool (DSK) 43
+4 Cursed Windbreaker (DSK) 47
+4 Cynical Loner (DSK) 89
+4 Dashing Bloodsucker (DSK) 90
 4 Disturbing Mirth (DSK) 212
 4 Drag to the Roots (DSK) 213
 4 Drag to the Roots (DSK) 414
 4 Ethereal Armor (DSK) 7
+4 Fear of Burning Alive (DSK) 135
 4 Fear of Failed Tests (DSK) 55
 4 Fear of Impostors (DSK) 57
+4 Fear of Infinity (DSK) 214
 4 Fear of Isolation (DSK) 58
+4 Floodpits Drowner (DSK) 59
 4 Ghostly Keybearer (DSK) 61
 4 Glimmer Seeker (DSK) 14
+4 Haunted Screen (DSK) 250
 4 Infernal Phantom (DSK) 141
 4 Inquisitive Glimmer (DSK) 217
 4 Inquisitive Glimmer (DSK) 415
+4 Insidious Fungus (DSK) 186
+4 Insidious Fungus (DSK) 321
 4 Norin, Swift Survivalist (DSK) 145
 4 Norin, Swift Survivalist (DSK) 297
 4 Nowhere to Run (DSK) 111
+4 Orphans of the Wheat (DSK) 22
 4 Patched Plaything (DSK) 24
 4 Patchwork Beastie (DSK) 195
+4 Popular Egotist (DSK) 114
 4 Pyroclasm (DSK) 149
 4 Pyroclasm (DSK) 413
+4 Savior of the Small (DSK) 27
+4 Saw (DSK) 254
 4 Scrabbling Skullcrab (DSK) 71
 4 Shardmage's Rescue (DSK) 29
 4 Shardmage's Rescue (DSK) 411
+4 Shrewd Storyteller (DSK) 232
 4 Smoky Lounge (DSK) 235
 4 Stay Hidden, Stay Silent (DSK) 74
 4 Stay Hidden, Stay Silent (DSK) 291
+4 Threats Around Every Corner (DSK) 200
+4 Untimely Malfunction (DSK) 161
 4 Unwanted Remake (DSK) 39
 4 Unwanted Remake (DSK) 306
 4 Unwilling Vessel (DSK) 81

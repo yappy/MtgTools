@@ -4,10 +4,13 @@ Deck
 4 Bleeding Woods (DSK) 257
 4 Clockwork Percussionist (DSK) 130
 4 Clockwork Percussionist (DSK) 295
+4 Cult Healer (DSK) 2
 4 Etched Cornfield (DSK) 258
 4 Fanatic of the Harrowing (DSK) 96
 4 Fear of Immobility (DSK) 10
 4 Fear of Lost Teeth (DSK) 97
+4 Fear of the Dark (DSK) 98
+4 Glassworks (DSK) 137
 4 Grasping Longneck (DSK) 180
 4 Lakeside Shack (DSK) 262
 4 Murky Sewer (DSK) 263
@@ -19,5 +22,9 @@ Deck
 4 Say Its Name (DSK) 197
 4 Shepherding Spirits (DSK) 31
 4 Slavering Branchsnapper (DSK) 198
+4 Spineseeker Centipede (DSK) 199
+4 Stalked Researcher (DSK) 73
 4 Strangled Cemetery (DSK) 268
+4 Trapped in the Screen (DSK) 36
 4 Turn Inside Out (DSK) 160
+4 Vicious Clown (DSK) 163

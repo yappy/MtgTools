@@ -2,6 +2,7 @@ Deck
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
 4 Blazemire Verge (DSK) 256
+4 Blazemire Verge (DSK) 329
 4 Central Elevator (DSK) 44
 4 Central Elevator (DSK) 336
 4 Chainsaw (DSK) 128
@@ -29,43 +30,54 @@ Deck
 4 Fear of Missing Out (DSK) 136
 4 Fear of Missing Out (DSK) 316
 4 Floodfarm Verge (DSK) 259
+4 Floodfarm Verge (DSK) 330
 4 Ghost Vacuum (DSK) 248
 4 Ghost Vacuum (DSK) 326
 4 Gloomlake Verge (DSK) 260
+4 Gloomlake Verge (DSK) 331
 4 Grievous Wound (DSK) 102
 4 Grievous Wound (DSK) 375
 4 Grievous Wound (DSK) 416
 4 Hedge Shredder (DSK) 183
 4 Hushwood Verge (DSK) 261
+4 Hushwood Verge (DSK) 332
 4 Leyline of Hope (DSK) 18
 4 Leyline of Hope (DSK) 369
+4 Leyline of Mutation (DSK) 188
+4 Leyline of Mutation (DSK) 382
 4 Leyline of Resonance (DSK) 143
 4 Leyline of Resonance (DSK) 379
 4 Leyline of Transformation (DSK) 63
 4 Leyline of Transformation (DSK) 372
 4 Leyline of the Void (DSK) 106
 4 Leyline of the Void (DSK) 376
+4 Marina Vendrell's Grimoire (DSK) 64
+4 Marina Vendrell's Grimoire (DSK) 308
 4 Peer Past the Veil (DSK) 226
 4 Peer Past the Veil (DSK) 325
 4 Razorkin Needlehead (DSK) 153
 4 Razorkin Needlehead (DSK) 347
+4 Silent Hallcreeper (DSK) 72
 4 Split Up (DSK) 32
 4 Split Up (DSK) 304
 4 The Jolly Balloon Man (DSK) 219
+================================================================================
+Deck
 4 The Jolly Balloon Man (DSK) 359
 4 The Swarmweaver (DSK) 236
 4 The Swarmweaver (DSK) 301
 4 The Swarmweaver (DSK) 363
 4 Thornspire Verge (DSK) 270
+4 Thornspire Verge (DSK) 333
 4 Toby, Beastie Befriender (DSK) 35
 4 Toby, Beastie Befriender (DSK) 356
 4 Twitching Doll (DSK) 201
 4 Twitching Doll (DSK) 384
-================================================================================
-Deck
 4 Twitching Doll (DSK) 417
 4 Undead Sprinter (DSK) 237
 4 Undead Sprinter (DSK) 350
+4 Unstoppable Slasher (DSK) 119
+4 Unstoppable Slasher (DSK) 312
 4 Valgavoth's Lair (DSK) 271
 4 Valgavoth's Lair (DSK) 327
 4 Victor, Valgavoth's Seneschal (DSK) 238
