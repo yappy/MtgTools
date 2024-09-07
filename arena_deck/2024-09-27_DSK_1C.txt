@@ -1,17 +1,27 @@
 Deck
 4 Abandoned Campground (DSK) 255
 4 Acrobatic Cheerleader (DSK) 1
+4 Anthropede (DSK) 167
+4 Bashful Beastie (DSK) 169
+4 Bear Trap (DSK) 243
 4 Bleeding Woods (DSK) 257
+4 Clammy Prowler (DSK) 45
 4 Clockwork Percussionist (DSK) 130
 4 Clockwork Percussionist (DSK) 295
 4 Cult Healer (DSK) 2
+4 Emerge from the Cocoon (DSK) 5
 4 Etched Cornfield (DSK) 258
 4 Fanatic of the Harrowing (DSK) 96
 4 Fear of Immobility (DSK) 10
 4 Fear of Lost Teeth (DSK) 97
+4 Fear of Surveillance (DSK) 11
 4 Fear of the Dark (DSK) 98
+4 Final Vengeance (DSK) 99
+4 Give In to Violence (DSK) 101
 4 Glassworks (DSK) 137
+4 Grab the Prize (DSK) 138
 4 Grasping Longneck (DSK) 180
+4 Hand That Feeds (DSK) 139
 4 Lakeside Shack (DSK) 262
 4 Murky Sewer (DSK) 263
 4 Neglected Manor (DSK) 264
@@ -25,6 +35,11 @@ Deck
 4 Spineseeker Centipede (DSK) 199
 4 Stalked Researcher (DSK) 73
 4 Strangled Cemetery (DSK) 268
+4 Terramorphic Expanse (DSK) 269
 4 Trapped in the Screen (DSK) 36
+4 Tunnel Surveyor (DSK) 76
 4 Turn Inside Out (DSK) 160
+4 Twist Reality (DSK) 77
+4 Unsettling Twins (DSK) 38
 4 Vicious Clown (DSK) 163
+4 Wary Watchdog (DSK) 206

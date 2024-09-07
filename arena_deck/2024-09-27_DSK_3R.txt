@@ -1,4 +1,6 @@
 Deck
+4 "Breaker of Spirits" (DSK) 66
+4 "Breaker of Spirits" (DSK) 357
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
 4 Blazemire Verge (DSK) 256
@@ -53,16 +55,21 @@ Deck
 4 Leyline of the Void (DSK) 376
 4 Marina Vendrell's Grimoire (DSK) 64
 4 Marina Vendrell's Grimoire (DSK) 308
+4 Omnivorous Flytrap (DSK) 192
+4 Omnivorous Flytrap (DSK) 322
 4 Peer Past the Veil (DSK) 226
 4 Peer Past the Veil (DSK) 325
 4 Razorkin Needlehead (DSK) 153
 4 Razorkin Needlehead (DSK) 347
+================================================================================
+Deck
+4 Reluctant Role Model (DSK) 26
+4 Reluctant Role Model (DSK) 289
+4 Reluctant Role Model (DSK) 303
 4 Silent Hallcreeper (DSK) 72
 4 Split Up (DSK) 32
 4 Split Up (DSK) 304
 4 The Jolly Balloon Man (DSK) 219
-================================================================================
-Deck
 4 The Jolly Balloon Man (DSK) 359
 4 The Swarmweaver (DSK) 236
 4 The Swarmweaver (DSK) 301
@@ -76,7 +83,10 @@ Deck
 4 Twitching Doll (DSK) 417
 4 Undead Sprinter (DSK) 237
 4 Undead Sprinter (DSK) 350
+4 Unholy Lobby (DSK) 118
+4 Unholy Lobby (DSK) 339
 4 Unstoppable Slasher (DSK) 119
+4 Unstoppable Slasher (DSK) 294
 4 Unstoppable Slasher (DSK) 312
 4 Valgavoth's Lair (DSK) 271
 4 Valgavoth's Lair (DSK) 327
