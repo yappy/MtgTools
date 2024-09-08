@@ -1,6 +1,7 @@
 Deck
 4 "Breaker of Spirits" (DSK) 66
 4 "Breaker of Spirits" (DSK) 357
+4 "Nashi, Searcher in the Dark" (DSK) 361
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
 4 Blazemire Verge (DSK) 256
@@ -60,9 +61,9 @@ Deck
 4 Peer Past the Veil (DSK) 226
 4 Peer Past the Veil (DSK) 325
 4 Razorkin Needlehead (DSK) 153
-4 Razorkin Needlehead (DSK) 347
 ================================================================================
 Deck
+4 Razorkin Needlehead (DSK) 347
 4 Reluctant Role Model (DSK) 26
 4 Reluctant Role Model (DSK) 289
 4 Reluctant Role Model (DSK) 303
@@ -74,6 +75,7 @@ Deck
 4 The Swarmweaver (DSK) 236
 4 The Swarmweaver (DSK) 301
 4 The Swarmweaver (DSK) 363
+4 The Tale of Tamiyo (DSK) 75
 4 Thornspire Verge (DSK) 270
 4 Thornspire Verge (DSK) 333
 4 Toby, Beastie Befriender (DSK) 35

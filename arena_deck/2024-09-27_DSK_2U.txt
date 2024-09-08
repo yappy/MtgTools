@@ -4,6 +4,7 @@ Deck
 4 "Trial of Anguish" (DSK) 159
 4 Altanak, the Thrice-Called (DSK) 166
 4 Attack-in-the-Box (DSK) 242
+4 Baseball Bat (DSK) 209
 4 Betrayer's Bargain (DSK) 126
 4 Bottomless Pool (DSK) 43
 4 Commune with Evil (DSK) 87
@@ -15,8 +16,10 @@ Deck
 4 Drag to the Roots (DSK) 213
 4 Drag to the Roots (DSK) 414
 4 Ethereal Armor (DSK) 7
+4 Fear of Being Hunted (DSK) 134
 4 Fear of Burning Alive (DSK) 135
 4 Fear of Failed Tests (DSK) 55
+4 Fear of Falling (DSK) 56
 4 Fear of Impostors (DSK) 57
 4 Fear of Infinity (DSK) 214
 4 Fear of Isolation (DSK) 58
@@ -26,6 +29,7 @@ Deck
 4 Greenhouse (DSK) 181
 4 Growing Dread (DSK) 216
 4 Haunted Screen (DSK) 250
+4 House Cartographer (DSK) 185
 4 Infernal Phantom (DSK) 141
 4 Inquisitive Glimmer (DSK) 217
 4 Inquisitive Glimmer (DSK) 415
@@ -36,6 +40,8 @@ Deck
 4 Norin, Swift Survivalist (DSK) 145
 4 Norin, Swift Survivalist (DSK) 297
 4 Nowhere to Run (DSK) 111
+4 Oblivious Bookworm (DSK) 225
+4 Oblivious Bookworm (DSK) 300
 4 Orphans of the Wheat (DSK) 22
 4 Overgrown Zealot (DSK) 193
 4 Patched Plaything (DSK) 24
@@ -44,6 +50,7 @@ Deck
 4 Popular Egotist (DSK) 114
 4 Pyroclasm (DSK) 149
 4 Pyroclasm (DSK) 413
+4 Rite of the Moth (DSK) 229
 4 Savior of the Small (DSK) 27
 4 Saw (DSK) 254
 4 Sawblade Skinripper (DSK) 231
@@ -54,16 +61,20 @@ Deck
 4 Skullsnap Nuisance (DSK) 234
 4 Smoky Lounge (DSK) 235
 4 Splitskin Doll (DSK) 33
+================================================================================
+Deck
 4 Stay Hidden, Stay Silent (DSK) 74
 4 Stay Hidden, Stay Silent (DSK) 291
 4 Threats Around Every Corner (DSK) 200
+4 Under the Skin (DSK) 203
+4 Under the Skin (DSK) 323
 4 Untimely Malfunction (DSK) 161
 4 Unwanted Remake (DSK) 39
 4 Unwanted Remake (DSK) 306
 4 Unwilling Vessel (DSK) 81
-================================================================================
-Deck
 4 Valgavoth's Faithful (DSK) 121
 4 Valgavoth's Faithful (DSK) 412
+4 Vengeful Possession (DSK) 162
 4 Veteran Survivor (DSK) 40
 4 Vile Mutilator (DSK) 122
+4 Wildfire Wickerfolk (DSK) 239
