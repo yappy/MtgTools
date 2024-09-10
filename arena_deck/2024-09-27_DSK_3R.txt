@@ -1,7 +1,5 @@
 Deck
-4 "Breaker of Spirits" (DSK) 66
-4 "Breaker of Spirits" (DSK) 357
-4 "Nashi, Searcher in the Dark" (DSK) 361
+4 "Croak Room" (DSK) 227
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
 4 Blazemire Verge (DSK) 256
@@ -20,13 +18,14 @@ Deck
 4 Demonic Counsel (DSK) 310
 4 Doomsday Excruciator (DSK) 94
 4 Doomsday Excruciator (DSK) 346
+4 Enduring Courage (DSK) 133
+4 Enduring Courage (DSK) 378
 4 Enduring Curiosity (DSK) 51
 4 Enduring Curiosity (DSK) 371
 4 Enduring Curiosity (DSK) 388
 4 Enduring Curiosity (DSK) 398
 4 Enduring Innocence (DSK) 6
 4 Enduring Innocence (DSK) 368
-4 Enduring Innocence (DSK) 386
 4 Enduring Innocence (DSK) 396
 4 Enduring Tenacity (DSK) 95
 4 Enduring Tenacity (DSK) 374
@@ -42,6 +41,7 @@ Deck
 4 Grievous Wound (DSK) 375
 4 Grievous Wound (DSK) 416
 4 Hedge Shredder (DSK) 183
+4 Hedge Shredder (DSK) 320
 4 Hushwood Verge (DSK) 261
 4 Hushwood Verge (DSK) 332
 4 Leyline of Hope (DSK) 18
@@ -56,22 +56,29 @@ Deck
 4 Leyline of the Void (DSK) 376
 4 Marina Vendrell's Grimoire (DSK) 64
 4 Marina Vendrell's Grimoire (DSK) 308
+4 Marvin, Murderous Mimic (DSK) 253
+4 Marvin, Murderous Mimic (DSK) 367
+4 Nashi, Searcher in the Dark (DSK) 223
+4 Nashi, Searcher in the Dark (DSK) 361
 4 Omnivorous Flytrap (DSK) 192
+================================================================================
+Deck
 4 Omnivorous Flytrap (DSK) 322
 4 Peer Past the Veil (DSK) 226
 4 Peer Past the Veil (DSK) 325
 4 Razorkin Needlehead (DSK) 153
-================================================================================
-Deck
 4 Razorkin Needlehead (DSK) 347
 4 Reluctant Role Model (DSK) 26
 4 Reluctant Role Model (DSK) 289
 4 Reluctant Role Model (DSK) 303
 4 Silent Hallcreeper (DSK) 72
+4 Silent Hallcreeper (DSK) 345
 4 Split Up (DSK) 32
 4 Split Up (DSK) 304
 4 The Jolly Balloon Man (DSK) 219
 4 The Jolly Balloon Man (DSK) 359
+4 The Mindskinner (DSK) 66
+4 The Mindskinner (DSK) 357
 4 The Swarmweaver (DSK) 236
 4 The Swarmweaver (DSK) 301
 4 The Swarmweaver (DSK) 363
@@ -85,13 +92,15 @@ Deck
 4 Twitching Doll (DSK) 417
 4 Undead Sprinter (DSK) 237
 4 Undead Sprinter (DSK) 350
-4 Unholy Lobby (DSK) 118
-4 Unholy Lobby (DSK) 339
+4 Unholy Annex (DSK) 118
+4 Unholy Annex (DSK) 339
 4 Unstoppable Slasher (DSK) 119
 4 Unstoppable Slasher (DSK) 294
 4 Unstoppable Slasher (DSK) 312
 4 Valgavoth's Lair (DSK) 271
 4 Valgavoth's Lair (DSK) 327
+4 Valgavoth's Onslaught (DSK) 204
+4 Valgavoth's Onslaught (DSK) 324
 4 Victor, Valgavoth's Seneschal (DSK) 238
 4 Victor, Valgavoth's Seneschal (DSK) 364
 4 Winter, Misanthropic Guide (DSK) 240

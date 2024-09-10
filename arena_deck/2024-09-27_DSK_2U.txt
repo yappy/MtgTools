@@ -1,21 +1,23 @@
 Deck
-4 "Here's Jenny!" (DSK) 170
-4 "Razorkin Hordemaster" (DSK) 152
-4 "Trial of Anguish" (DSK) 159
 4 Altanak, the Thrice-Called (DSK) 166
+4 Arabella, Abandoned Doll (DSK) 208
 4 Attack-in-the-Box (DSK) 242
 4 Baseball Bat (DSK) 209
 4 Betrayer's Bargain (DSK) 126
 4 Bottomless Pool (DSK) 43
+4 Break Down the Door (DSK) 170
 4 Commune with Evil (DSK) 87
+4 Coordinated Clobbering (DSK) 173
 4 Cursed Windbreaker (DSK) 47
 4 Cynical Loner (DSK) 89
 4 Dashing Bloodsucker (DSK) 90
+4 Defiant Survivor (DSK) 175
 4 Disturbing Mirth (DSK) 212
 4 Diversion Specialist (DSK) 132
 4 Drag to the Roots (DSK) 213
 4 Drag to the Roots (DSK) 414
 4 Ethereal Armor (DSK) 7
+4 Fear of Abduction (DSK) 9
 4 Fear of Being Hunted (DSK) 134
 4 Fear of Burning Alive (DSK) 135
 4 Fear of Failed Tests (DSK) 55
@@ -27,6 +29,7 @@ Deck
 4 Ghostly Keybearer (DSK) 61
 4 Glimmer Seeker (DSK) 14
 4 Greenhouse (DSK) 181
+4 Gremlin Tamer (DSK) 215
 4 Growing Dread (DSK) 216
 4 Haunted Screen (DSK) 250
 4 House Cartographer (DSK) 185
@@ -35,8 +38,10 @@ Deck
 4 Inquisitive Glimmer (DSK) 415
 4 Insidious Fungus (DSK) 186
 4 Insidious Fungus (DSK) 321
+4 Intruding Soulrager (DSK) 218
 4 Irreverent Gremlin (DSK) 142
 4 Lionheart Glimmer (DSK) 19
+4 Midnight Mayhem (DSK) 222
 4 Norin, Swift Survivalist (DSK) 145
 4 Norin, Swift Survivalist (DSK) 297
 4 Nowhere to Run (DSK) 111
@@ -50,10 +55,14 @@ Deck
 4 Popular Egotist (DSK) 114
 4 Pyroclasm (DSK) 149
 4 Pyroclasm (DSK) 413
+4 Razorkin Hordecaller (DSK) 152
 4 Rite of the Moth (DSK) 229
+4 Rootwise Survivor (DSK) 196
 4 Savior of the Small (DSK) 27
 4 Saw (DSK) 254
 4 Sawblade Skinripper (DSK) 231
+================================================================================
+Deck
 4 Scrabbling Skullcrab (DSK) 71
 4 Shardmage's Rescue (DSK) 29
 4 Shardmage's Rescue (DSK) 411
@@ -61,11 +70,10 @@ Deck
 4 Skullsnap Nuisance (DSK) 234
 4 Smoky Lounge (DSK) 235
 4 Splitskin Doll (DSK) 33
-================================================================================
-Deck
 4 Stay Hidden, Stay Silent (DSK) 74
 4 Stay Hidden, Stay Silent (DSK) 291
 4 Threats Around Every Corner (DSK) 200
+4 Trial of Agony (DSK) 159
 4 Under the Skin (DSK) 203
 4 Under the Skin (DSK) 323
 4 Untimely Malfunction (DSK) 161
@@ -77,4 +85,7 @@ Deck
 4 Vengeful Possession (DSK) 162
 4 Veteran Survivor (DSK) 40
 4 Vile Mutilator (DSK) 122
+4 Wickerfolk Thresher (DSK) 207
 4 Wildfire Wickerfolk (DSK) 239
+4 Withering Torment (DSK) 124
+4 Withering Torment (DSK) 313

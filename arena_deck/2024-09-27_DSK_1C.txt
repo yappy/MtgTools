@@ -2,13 +2,18 @@ Deck
 4 Abandoned Campground (DSK) 255
 4 Acrobatic Cheerleader (DSK) 1
 4 Anthropede (DSK) 167
+4 Appendage Amalgam (DSK) 83
 4 Bashful Beastie (DSK) 169
 4 Bear Trap (DSK) 243
 4 Bleeding Woods (DSK) 257
+4 Cautious Survivor (DSK) 172
 4 Clammy Prowler (DSK) 45
 4 Clockwork Percussionist (DSK) 130
 4 Clockwork Percussionist (DSK) 295
+4 Creeping Peeper (DSK) 46
+4 Cryptid Inspector (DSK) 174
 4 Cult Healer (DSK) 2
+4 Daggermaw Megalodon (DSK) 48
 4 Emerge from the Cocoon (DSK) 5
 4 Etched Cornfield (DSK) 258
 4 Fanatic of the Harrowing (DSK) 96
@@ -17,18 +22,32 @@ Deck
 4 Fear of Surveillance (DSK) 11
 4 Fear of the Dark (DSK) 98
 4 Final Vengeance (DSK) 99
+4 Flesh Burrower (DSK) 178
+4 Found Footage (DSK) 246
+4 Friendly Ghost (DSK) 12
+4 Friendly Teddy (DSK) 247
 4 Give In to Violence (DSK) 101
 4 Glassworks (DSK) 137
+4 Glimmerlight (DSK) 249
 4 Grab the Prize (DSK) 138
+4 Grand Entryway (DSK) 15
+4 Grand Entryway (DSK) 287
 4 Grasping Longneck (DSK) 180
 4 Hand That Feeds (DSK) 139
+4 Hardened Escort (DSK) 16
+4 Impossible Inferno (DSK) 140
+4 Innocuous Rat (DSK) 103
 4 Lakeside Shack (DSK) 262
+4 Most Valuable Slayer (DSK) 144
+4 Murder (DSK) 110
 4 Murky Sewer (DSK) 263
 4 Neglected Manor (DSK) 264
 4 Peculiar Lighthouse (DSK) 265
 4 Piranha Fly (DSK) 70
+4 Ragged Playmate (DSK) 150
 4 Raucous Carnival (DSK) 266
 4 Razortrap Gorge (DSK) 267
+4 Resurrected Cultist (DSK) 115
 4 Say Its Name (DSK) 197
 4 Shepherding Spirits (DSK) 31
 4 Slavering Branchsnapper (DSK) 198
@@ -40,6 +59,10 @@ Deck
 4 Tunnel Surveyor (DSK) 76
 4 Turn Inside Out (DSK) 160
 4 Twist Reality (DSK) 77
+4 Unable to Scream (DSK) 78
 4 Unsettling Twins (DSK) 38
+================================================================================
+Deck
+4 Vanish from Sight (DSK) 82
 4 Vicious Clown (DSK) 163
 4 Wary Watchdog (DSK) 206

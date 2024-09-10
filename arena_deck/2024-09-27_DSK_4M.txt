@@ -1,6 +1,10 @@
 Deck
+4 Charred Foyer (DSK) 129
+4 Charred Foyer (DSK) 340
 4 Dollmaker's Shop (DSK) 4
 4 Dollmaker's Shop (DSK) 335
+4 Enduring Courage (DSK) 392
+4 Enduring Innocence (DSK) 386
 4 Enduring Tenacity (DSK) 390
 4 Enduring Tenacity (DSK) 400
 4 Funeral Room (DSK) 100
