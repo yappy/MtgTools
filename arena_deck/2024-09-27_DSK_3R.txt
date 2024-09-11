@@ -1,5 +1,7 @@
 Deck
-4 "Croak Room" (DSK) 227
+4 "Heidi Seeker" (DSK) 53
+4 "Heidi Seeker" (DSK) 290
+4 "Heidi Seeker" (DSK) 307
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
 4 Blazemire Verge (DSK) 256
@@ -29,6 +31,7 @@ Deck
 4 Enduring Innocence (DSK) 396
 4 Enduring Tenacity (DSK) 95
 4 Enduring Tenacity (DSK) 374
+4 Enduring Vitality (DSK) 176
 4 Fear of Missing Out (DSK) 136
 4 Fear of Missing Out (DSK) 316
 4 Floodfarm Verge (DSK) 259
@@ -44,6 +47,9 @@ Deck
 4 Hedge Shredder (DSK) 320
 4 Hushwood Verge (DSK) 261
 4 Hushwood Verge (DSK) 332
+4 Kona, Rescue Beastie (DSK) 187
+4 Kona, Rescue Beastie (DSK) 299
+4 Kona, Rescue Beastie (DSK) 358
 4 Leyline of Hope (DSK) 18
 4 Leyline of Hope (DSK) 369
 4 Leyline of Mutation (DSK) 188
@@ -55,14 +61,14 @@ Deck
 4 Leyline of the Void (DSK) 106
 4 Leyline of the Void (DSK) 376
 4 Marina Vendrell's Grimoire (DSK) 64
+================================================================================
+Deck
 4 Marina Vendrell's Grimoire (DSK) 308
 4 Marvin, Murderous Mimic (DSK) 253
 4 Marvin, Murderous Mimic (DSK) 367
 4 Nashi, Searcher in the Dark (DSK) 223
 4 Nashi, Searcher in the Dark (DSK) 361
 4 Omnivorous Flytrap (DSK) 192
-================================================================================
-Deck
 4 Omnivorous Flytrap (DSK) 322
 4 Peer Past the Veil (DSK) 226
 4 Peer Past the Veil (DSK) 325
@@ -71,6 +77,8 @@ Deck
 4 Reluctant Role Model (DSK) 26
 4 Reluctant Role Model (DSK) 289
 4 Reluctant Role Model (DSK) 303
+4 Restricted Office (DSK) 227
+4 Restricted Office (DSK) 342
 4 Silent Hallcreeper (DSK) 72
 4 Silent Hallcreeper (DSK) 345
 4 Split Up (DSK) 32

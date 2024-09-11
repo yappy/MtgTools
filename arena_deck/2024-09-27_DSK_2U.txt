@@ -6,7 +6,9 @@ Deck
 4 Betrayer's Bargain (DSK) 126
 4 Bottomless Pool (DSK) 43
 4 Break Down the Door (DSK) 170
+4 Broodspinner (DSK) 211
 4 Commune with Evil (DSK) 87
+4 Conductive Machete (DSK) 244
 4 Coordinated Clobbering (DSK) 173
 4 Cursed Windbreaker (DSK) 47
 4 Cynical Loner (DSK) 89
@@ -16,7 +18,9 @@ Deck
 4 Diversion Specialist (DSK) 132
 4 Drag to the Roots (DSK) 213
 4 Drag to the Roots (DSK) 414
+4 Duskmourn's Domination (DSK) 50
 4 Ethereal Armor (DSK) 7
+4 Exorcise (DSK) 8
 4 Fear of Abduction (DSK) 9
 4 Fear of Being Hunted (DSK) 134
 4 Fear of Burning Alive (DSK) 135
@@ -40,17 +44,25 @@ Deck
 4 Insidious Fungus (DSK) 321
 4 Intruding Soulrager (DSK) 218
 4 Irreverent Gremlin (DSK) 142
+4 Let's Play a Game (DSK) 105
 4 Lionheart Glimmer (DSK) 19
+4 Live or Die (DSK) 107
 4 Midnight Mayhem (DSK) 222
 4 Norin, Swift Survivalist (DSK) 145
 4 Norin, Swift Survivalist (DSK) 297
 4 Nowhere to Run (DSK) 111
 4 Oblivious Bookworm (DSK) 225
 4 Oblivious Bookworm (DSK) 300
+4 Optimistic Scavenger (DSK) 21
+4 Optimistic Scavenger (DSK) 288
 4 Orphans of the Wheat (DSK) 22
+4 Osseous Sticktwister (DSK) 112
 4 Overgrown Zealot (DSK) 193
+4 Paranormal Analyst (DSK) 69
 4 Patched Plaything (DSK) 24
 4 Patchwork Beastie (DSK) 195
+================================================================================
+Deck
 4 Piggy Bank (DSK) 148
 4 Popular Egotist (DSK) 114
 4 Pyroclasm (DSK) 149
@@ -61,8 +73,6 @@ Deck
 4 Savior of the Small (DSK) 27
 4 Saw (DSK) 254
 4 Sawblade Skinripper (DSK) 231
-================================================================================
-Deck
 4 Scrabbling Skullcrab (DSK) 71
 4 Shardmage's Rescue (DSK) 29
 4 Shardmage's Rescue (DSK) 411
@@ -70,6 +80,7 @@ Deck
 4 Skullsnap Nuisance (DSK) 234
 4 Smoky Lounge (DSK) 235
 4 Splitskin Doll (DSK) 33
+4 Sporogenic Infection (DSK) 117
 4 Stay Hidden, Stay Silent (DSK) 74
 4 Stay Hidden, Stay Silent (DSK) 291
 4 Threats Around Every Corner (DSK) 200

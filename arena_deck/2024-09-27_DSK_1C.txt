@@ -3,9 +3,11 @@ Deck
 4 Acrobatic Cheerleader (DSK) 1
 4 Anthropede (DSK) 167
 4 Appendage Amalgam (DSK) 83
+4 Balemurk Leech (DSK) 84
 4 Bashful Beastie (DSK) 169
 4 Bear Trap (DSK) 243
 4 Bleeding Woods (DSK) 257
+4 Cathartic Parting (DSK) 171
 4 Cautious Survivor (DSK) 172
 4 Clammy Prowler (DSK) 45
 4 Clockwork Percussionist (DSK) 130
@@ -15,6 +17,7 @@ Deck
 4 Cult Healer (DSK) 2
 4 Daggermaw Megalodon (DSK) 48
 4 Emerge from the Cocoon (DSK) 5
+4 Enter the Enigma (DSK) 52
 4 Etched Cornfield (DSK) 258
 4 Fanatic of the Harrowing (DSK) 96
 4 Fear of Immobility (DSK) 10
@@ -24,6 +27,7 @@ Deck
 4 Final Vengeance (DSK) 99
 4 Flesh Burrower (DSK) 178
 4 Found Footage (DSK) 246
+4 Frantic Strength (DSK) 179
 4 Friendly Ghost (DSK) 12
 4 Friendly Teddy (DSK) 247
 4 Give In to Violence (DSK) 101
@@ -37,7 +41,10 @@ Deck
 4 Hardened Escort (DSK) 16
 4 Impossible Inferno (DSK) 140
 4 Innocuous Rat (DSK) 103
+4 Jump Scare (DSK) 17
 4 Lakeside Shack (DSK) 262
+4 Malevolent Chandelier (DSK) 252
+4 Manifest Dread (DSK) 189
 4 Most Valuable Slayer (DSK) 144
 4 Murder (DSK) 110
 4 Murky Sewer (DSK) 263
@@ -45,13 +52,17 @@ Deck
 4 Peculiar Lighthouse (DSK) 265
 4 Piranha Fly (DSK) 70
 4 Ragged Playmate (DSK) 150
+4 Rampaging Soulrager (DSK) 151
 4 Raucous Carnival (DSK) 266
 4 Razortrap Gorge (DSK) 267
 4 Resurrected Cultist (DSK) 115
 4 Say Its Name (DSK) 197
 4 Shepherding Spirits (DSK) 31
 4 Slavering Branchsnapper (DSK) 198
+4 Spectral Snatcher (DSK) 116
 4 Spineseeker Centipede (DSK) 199
+================================================================================
+Deck
 4 Stalked Researcher (DSK) 73
 4 Strangled Cemetery (DSK) 268
 4 Terramorphic Expanse (DSK) 269
@@ -61,8 +72,6 @@ Deck
 4 Twist Reality (DSK) 77
 4 Unable to Scream (DSK) 78
 4 Unsettling Twins (DSK) 38
-================================================================================
-Deck
 4 Vanish from Sight (DSK) 82
 4 Vicious Clown (DSK) 163
 4 Wary Watchdog (DSK) 206
