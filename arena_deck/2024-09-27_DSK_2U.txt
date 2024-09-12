@@ -3,10 +3,12 @@ Deck
 4 Arabella, Abandoned Doll (DSK) 208
 4 Attack-in-the-Box (DSK) 242
 4 Baseball Bat (DSK) 209
+4 Beastie Beatdown (DSK) 210
 4 Betrayer's Bargain (DSK) 126
 4 Bottomless Pool (DSK) 43
 4 Break Down the Door (DSK) 170
 4 Broodspinner (DSK) 211
+4 Cathartic Parting (DSK) 171
 4 Commune with Evil (DSK) 87
 4 Conductive Machete (DSK) 244
 4 Coordinated Clobbering (DSK) 173
@@ -24,12 +26,14 @@ Deck
 4 Fear of Abduction (DSK) 9
 4 Fear of Being Hunted (DSK) 134
 4 Fear of Burning Alive (DSK) 135
+4 Fear of Exposure (DSK) 177
 4 Fear of Failed Tests (DSK) 55
 4 Fear of Falling (DSK) 56
 4 Fear of Impostors (DSK) 57
 4 Fear of Infinity (DSK) 214
 4 Fear of Isolation (DSK) 58
 4 Floodpits Drowner (DSK) 59
+4 Get Out (DSK) 60
 4 Ghostly Keybearer (DSK) 61
 4 Glimmer Seeker (DSK) 14
 4 Greenhouse (DSK) 181
@@ -44,9 +48,12 @@ Deck
 4 Insidious Fungus (DSK) 321
 4 Intruding Soulrager (DSK) 218
 4 Irreverent Gremlin (DSK) 142
+4 Keys to the House (DSK) 251
+4 Killer's Mask (DSK) 104
 4 Let's Play a Game (DSK) 105
 4 Lionheart Glimmer (DSK) 19
 4 Live or Die (DSK) 107
+4 Miasma Demon (DSK) 109
 4 Midnight Mayhem (DSK) 222
 4 Norin, Swift Survivalist (DSK) 145
 4 Norin, Swift Survivalist (DSK) 297
@@ -54,15 +61,16 @@ Deck
 4 Oblivious Bookworm (DSK) 225
 4 Oblivious Bookworm (DSK) 300
 4 Optimistic Scavenger (DSK) 21
+================================================================================
+Deck
 4 Optimistic Scavenger (DSK) 288
 4 Orphans of the Wheat (DSK) 22
 4 Osseous Sticktwister (DSK) 112
 4 Overgrown Zealot (DSK) 193
+4 Painter's Studio (DSK) 147
 4 Paranormal Analyst (DSK) 69
 4 Patched Plaything (DSK) 24
 4 Patchwork Beastie (DSK) 195
-================================================================================
-Deck
 4 Piggy Bank (DSK) 148
 4 Popular Egotist (DSK) 114
 4 Pyroclasm (DSK) 149
@@ -76,6 +84,7 @@ Deck
 4 Scrabbling Skullcrab (DSK) 71
 4 Shardmage's Rescue (DSK) 29
 4 Shardmage's Rescue (DSK) 411
+4 Sheltered by Ghosts (DSK) 30
 4 Shrewd Storyteller (DSK) 232
 4 Skullsnap Nuisance (DSK) 234
 4 Smoky Lounge (DSK) 235
@@ -83,10 +92,12 @@ Deck
 4 Sporogenic Infection (DSK) 117
 4 Stay Hidden, Stay Silent (DSK) 74
 4 Stay Hidden, Stay Silent (DSK) 291
+4 Surgical Suite (DSK) 34
 4 Threats Around Every Corner (DSK) 200
 4 Trial of Agony (DSK) 159
 4 Under the Skin (DSK) 203
 4 Under the Skin (DSK) 323
+4 Unnerving Grasp (DSK) 80
 4 Untimely Malfunction (DSK) 161
 4 Unwanted Remake (DSK) 39
 4 Unwanted Remake (DSK) 306

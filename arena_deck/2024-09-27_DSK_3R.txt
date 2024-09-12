@@ -1,7 +1,6 @@
 Deck
-4 "Heidi Seeker" (DSK) 53
-4 "Heidi Seeker" (DSK) 290
-4 "Heidi Seeker" (DSK) 307
+4 "Marina Vendrell" (DSK) 221
+4 "Marina Vendrell" (DSK) 360
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
 4 Blazemire Verge (DSK) 256
@@ -18,6 +17,8 @@ Deck
 4 Cursed Recording (DSK) 315
 4 Demonic Counsel (DSK) 92
 4 Demonic Counsel (DSK) 310
+4 Dissection Tools (DSK) 245
+4 Dissection Tools (DSK) 385
 4 Doomsday Excruciator (DSK) 94
 4 Doomsday Excruciator (DSK) 346
 4 Enduring Courage (DSK) 133
@@ -32,12 +33,18 @@ Deck
 4 Enduring Tenacity (DSK) 95
 4 Enduring Tenacity (DSK) 374
 4 Enduring Vitality (DSK) 176
+4 Enduring Vitality (DSK) 381
+4 Entity Tracker (DSK) 53
+4 Entity Tracker (DSK) 290
+4 Entity Tracker (DSK) 307
 4 Fear of Missing Out (DSK) 136
 4 Fear of Missing Out (DSK) 316
 4 Floodfarm Verge (DSK) 259
 4 Floodfarm Verge (DSK) 330
 4 Ghost Vacuum (DSK) 248
 4 Ghost Vacuum (DSK) 326
+4 Ghostly Dancers (DSK) 13
+4 Ghostly Dancers (DSK) 302
 4 Gloomlake Verge (DSK) 260
 4 Gloomlake Verge (DSK) 331
 4 Grievous Wound (DSK) 102
@@ -54,6 +61,8 @@ Deck
 4 Leyline of Hope (DSK) 369
 4 Leyline of Mutation (DSK) 188
 4 Leyline of Mutation (DSK) 382
+================================================================================
+Deck
 4 Leyline of Resonance (DSK) 143
 4 Leyline of Resonance (DSK) 379
 4 Leyline of Transformation (DSK) 63
@@ -61,8 +70,6 @@ Deck
 4 Leyline of the Void (DSK) 106
 4 Leyline of the Void (DSK) 376
 4 Marina Vendrell's Grimoire (DSK) 64
-================================================================================
-Deck
 4 Marina Vendrell's Grimoire (DSK) 308
 4 Marvin, Murderous Mimic (DSK) 253
 4 Marvin, Murderous Mimic (DSK) 367
@@ -79,6 +86,8 @@ Deck
 4 Reluctant Role Model (DSK) 303
 4 Restricted Office (DSK) 227
 4 Restricted Office (DSK) 342
+4 Rip, Spawn Hunter (DSK) 228
+4 Rip, Spawn Hunter (DSK) 362
 4 Silent Hallcreeper (DSK) 72
 4 Silent Hallcreeper (DSK) 345
 4 Split Up (DSK) 32
@@ -102,6 +111,8 @@ Deck
 4 Undead Sprinter (DSK) 350
 4 Unholy Annex (DSK) 118
 4 Unholy Annex (DSK) 339
+4 Unidentified Hovership (DSK) 37
+4 Unidentified Hovership (DSK) 305
 4 Unstoppable Slasher (DSK) 119
 4 Unstoppable Slasher (DSK) 294
 4 Unstoppable Slasher (DSK) 312
@@ -111,7 +122,11 @@ Deck
 4 Valgavoth's Onslaught (DSK) 324
 4 Victor, Valgavoth's Seneschal (DSK) 238
 4 Victor, Valgavoth's Seneschal (DSK) 364
+4 Waltz of Rage (DSK) 165
+4 Waltz of Rage (DSK) 318
 4 Winter, Misanthropic Guide (DSK) 240
+================================================================================
+Deck
 4 Winter, Misanthropic Guide (DSK) 365
 4 Zimone, All-Questioning (DSK) 241
 4 Zimone, All-Questioning (DSK) 366
