@@ -88,6 +88,7 @@ Deck
 4 Restricted Office (DSK) 342
 4 Rip, Spawn Hunter (DSK) 228
 4 Rip, Spawn Hunter (DSK) 362
+4 Roaring Furnace (DSK) 343
 4 Silent Hallcreeper (DSK) 72
 4 Silent Hallcreeper (DSK) 345
 4 Split Up (DSK) 32
@@ -124,9 +125,9 @@ Deck
 4 Victor, Valgavoth's Seneschal (DSK) 364
 4 Waltz of Rage (DSK) 165
 4 Waltz of Rage (DSK) 318
-4 Winter, Misanthropic Guide (DSK) 240
 ================================================================================
 Deck
+4 Winter, Misanthropic Guide (DSK) 240
 4 Winter, Misanthropic Guide (DSK) 365
 4 Zimone, All-Questioning (DSK) 241
 4 Zimone, All-Questioning (DSK) 366

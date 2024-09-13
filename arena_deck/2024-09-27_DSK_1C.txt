@@ -6,12 +6,14 @@ Deck
 4 Balemurk Leech (DSK) 84
 4 Bashful Beastie (DSK) 169
 4 Bear Trap (DSK) 243
+4 Bedhead Beastie (DSK) 125
 4 Bleeding Woods (DSK) 257
 4 Cackling Slasher (DSK) 85
 4 Cautious Survivor (DSK) 172
 4 Clammy Prowler (DSK) 45
 4 Clockwork Percussionist (DSK) 130
 4 Clockwork Percussionist (DSK) 295
+4 Cracked Skull (DSK) 88
 4 Creeping Peeper (DSK) 46
 4 Cryptid Inspector (DSK) 174
 4 Cult Healer (DSK) 2
@@ -48,6 +50,7 @@ Deck
 4 Living Phone (DSK) 20
 4 Malevolent Chandelier (DSK) 252
 4 Manifest Dread (DSK) 189
+4 Moldering Gym (DSK) 190
 4 Most Valuable Slayer (DSK) 144
 4 Murder (DSK) 110
 4 Murky Sewer (DSK) 263
@@ -58,11 +61,12 @@ Deck
 4 Rampaging Soulrager (DSK) 151
 4 Raucous Carnival (DSK) 266
 4 Razortrap Gorge (DSK) 267
+================================================================================
+Deck
 4 Resurrected Cultist (DSK) 115
 4 Ripchain Razorkin (DSK) 154
 4 Say Its Name (DSK) 197
-================================================================================
-Deck
+4 Scorching Dragonfire (DSK) 156
 4 Shepherding Spirits (DSK) 31
 4 Slavering Branchsnapper (DSK) 198
 4 Spectral Snatcher (DSK) 116

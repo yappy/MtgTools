@@ -16,6 +16,7 @@ Deck
 4 Cynical Loner (DSK) 89
 4 Dashing Bloodsucker (DSK) 90
 4 Defiant Survivor (DSK) 175
+4 Defiled Crypt (DSK) 91
 4 Disturbing Mirth (DSK) 212
 4 Diversion Specialist (DSK) 132
 4 Drag to the Roots (DSK) 213
@@ -60,9 +61,9 @@ Deck
 4 Nowhere to Run (DSK) 111
 4 Oblivious Bookworm (DSK) 225
 4 Oblivious Bookworm (DSK) 300
-4 Optimistic Scavenger (DSK) 21
 ================================================================================
 Deck
+4 Optimistic Scavenger (DSK) 21
 4 Optimistic Scavenger (DSK) 288
 4 Orphans of the Wheat (DSK) 22
 4 Osseous Sticktwister (DSK) 112
@@ -107,6 +108,7 @@ Deck
 4 Vengeful Possession (DSK) 162
 4 Veteran Survivor (DSK) 40
 4 Vile Mutilator (DSK) 122
+4 Violent Urge (DSK) 164
 4 Wickerfolk Thresher (DSK) 207
 4 Wildfire Wickerfolk (DSK) 239
 4 Withering Torment (DSK) 124
