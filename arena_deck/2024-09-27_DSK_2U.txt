@@ -87,6 +87,7 @@ Deck
 4 Shardmage's Rescue (DSK) 411
 4 Sheltered by Ghosts (DSK) 30
 4 Shrewd Storyteller (DSK) 232
+4 Shroudstomper (DSK) 233
 4 Skullsnap Nuisance (DSK) 234
 4 Smoky Lounge (DSK) 235
 4 Splitskin Doll (DSK) 33
