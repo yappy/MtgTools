@@ -1,6 +1,4 @@
 Deck
-4 "Marina Vendrell" (DSK) 221
-4 "Marina Vendrell" (DSK) 360
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
 4 Blazemire Verge (DSK) 256
@@ -61,16 +59,18 @@ Deck
 4 Kona, Rescue Beastie (DSK) 358
 4 Leyline of Hope (DSK) 18
 4 Leyline of Hope (DSK) 369
-================================================================================
-Deck
 4 Leyline of Mutation (DSK) 188
 4 Leyline of Mutation (DSK) 382
+================================================================================
+Deck
 4 Leyline of Resonance (DSK) 143
 4 Leyline of Resonance (DSK) 379
 4 Leyline of Transformation (DSK) 63
 4 Leyline of Transformation (DSK) 372
 4 Leyline of the Void (DSK) 106
 4 Leyline of the Void (DSK) 376
+4 Marina Vendrell (DSK) 221
+4 Marina Vendrell (DSK) 360
 4 Marina Vendrell's Grimoire (DSK) 64
 4 Marina Vendrell's Grimoire (DSK) 308
 4 Marvin, Murderous Mimic (DSK) 253
