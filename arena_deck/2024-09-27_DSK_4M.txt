@@ -64,5 +64,5 @@ Deck
 ================================================================================
 Deck
 4 Valgavoth, Terror Eater (DSK) 407
-4 Walk-in Closet (DSK) 205
-4 Walk-in Closet (DSK) 341
+4 Walk-In Closet (DSK) 205
+4 Walk-In Closet (DSK) 341
