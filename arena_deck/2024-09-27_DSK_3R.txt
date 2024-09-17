@@ -25,8 +25,6 @@ Deck
 4 Enduring Courage (DSK) 378
 4 Enduring Curiosity (DSK) 51
 4 Enduring Curiosity (DSK) 371
-4 Enduring Curiosity (DSK) 388
-4 Enduring Curiosity (DSK) 398
 4 Enduring Innocence (DSK) 6
 4 Enduring Innocence (DSK) 368
 4 Enduring Innocence (DSK) 396
@@ -61,10 +59,10 @@ Deck
 4 Leyline of Hope (DSK) 369
 4 Leyline of Mutation (DSK) 188
 4 Leyline of Mutation (DSK) 382
-================================================================================
-Deck
 4 Leyline of Resonance (DSK) 143
 4 Leyline of Resonance (DSK) 379
+================================================================================
+Deck
 4 Leyline of Transformation (DSK) 63
 4 Leyline of Transformation (DSK) 372
 4 Leyline of the Void (DSK) 106
@@ -125,10 +123,10 @@ Deck
 4 Valgavoth's Onslaught (DSK) 204
 4 Valgavoth's Onslaught (DSK) 324
 4 Victor, Valgavoth's Seneschal (DSK) 238
-================================================================================
-Deck
 4 Victor, Valgavoth's Seneschal (DSK) 364
 4 Waltz of Rage (DSK) 165
+================================================================================
+Deck
 4 Waltz of Rage (DSK) 318
 4 Winter, Misanthropic Guide (DSK) 240
 4 Winter, Misanthropic Guide (DSK) 365
