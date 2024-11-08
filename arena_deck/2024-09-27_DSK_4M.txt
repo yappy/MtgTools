@@ -10,6 +10,7 @@ Deck
 4 Enduring Curiosity (DSK) 388
 4 Enduring Curiosity (DSK) 398
 4 Enduring Innocence (DSK) 386
+4 Enduring Innocence (DSK) 396
 4 Enduring Tenacity (DSK) 390
 4 Enduring Tenacity (DSK) 400
 4 Enduring Vitality (DSK) 394
@@ -60,9 +61,9 @@ Deck
 4 The Wandering Rescuer (DSK) 406
 4 Tyvar, the Pummeler (DSK) 202
 4 Tyvar, the Pummeler (DSK) 353
-4 Tyvar, the Pummeler (DSK) 408
 ================================================================================
 Deck
+4 Tyvar, the Pummeler (DSK) 408
 4 Valgavoth, Terror Eater (DSK) 120
 4 Valgavoth, Terror Eater (DSK) 352
 4 Valgavoth, Terror Eater (DSK) 407
