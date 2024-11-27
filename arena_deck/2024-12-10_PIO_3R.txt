@@ -1,2 +1,8 @@
 Deck
+4 Bring to Light (PIO) 94448
+4 Hornet Nest (PIO) 94417
+4 Legion Loyalist (PIO) 94378
+4 Silence (PIO) 94259
+4 Sylvan Caryatid (PIO) 94435
+4 Tasigur, the Golden Fang (PIO) 94346
 4 Urborg, Tomb of Yawgmoth (PIO) 94351
