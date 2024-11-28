@@ -1,7 +1,9 @@
 Deck
 4 Athreos, God of Passage (PIO) 94543
+4 Behold the Beyond (PIO) 94314
 4 Jace, Vryn's Prodigy (PIO) 94287
 4 Liliana, Heretical Healer (PIO) 94327
 4 Mogis, God of Slaughter (PIO) 94552
 4 Purphoros, God of the Forge (PIO) 94535
+4 Temporal Trespass (PIO) 94307
 4 The Chain Veil (PIO) 94597

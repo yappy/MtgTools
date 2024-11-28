@@ -1,5 +1,6 @@
 Deck
 4 Bring to Light (PIO) 94448
+4 Dark Petition (PIO) 94610
 4 Hornet Nest (PIO) 94417
 4 Legion Loyalist (PIO) 94378
 4 Silence (PIO) 94259

@@ -1,2 +1,5 @@
 Deck
 4 Gladecover Scout (PIO) 94412
+4 Gurmag Angler (PIO) 94325
+4 Void Shatter (PIO) 94607
+4 Voyaging Satyr (PIO) 94438
