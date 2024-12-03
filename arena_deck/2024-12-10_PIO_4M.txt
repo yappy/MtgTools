@@ -1,9 +1,73 @@
 Deck
+4 Ajani Steadfast (PIO) 94558
+4 Ajani, Mentor of Heroes (PIO) 94590
+4 Archangel of Thune (PIO) 94226
+4 Ashen Rider (PIO) 94442
+4 Ashiok, Nightmare Weaver (PIO) 94591
 4 Athreos, God of Passage (PIO) 94543
+4 Aurelia's Fury (PIO) 94623
 4 Behold the Beyond (PIO) 94314
+4 Blood Baron of Vizkopa (PIO) 94445
+4 Chandra, Flamecaller (PIO) 94362
+4 Chromanticore (PIO) 94451
+4 Crush of Tentacles (PIO) 94279
+4 Day's Undoing (PIO) 94280
+4 Domri Rade (PIO) 94592
+4 Dragonlord Atarka (PIO) 94455
+4 Dragonlord Dromoka (PIO) 94456
+4 Dragonlord Kolaghan (PIO) 94457
+4 Dragonlord Ojutai (PIO) 94458
+4 Dragonlord Silumgar (PIO) 94459
+4 Elspeth, Sun's Champion (PIO) 94560
+4 Enter the Infinite (PIO) 94604
+4 Ephara, God of the Polis (PIO) 94544
+4 Epic Experiment (PIO) 94462
+4 Erebos, God of the Dead (PIO) 94530
+4 Garruk, Apex Predator (PIO) 94464
+4 Garruk, Caller of Beasts (PIO) 94586
+4 Gideon, Ally of Zendikar (PIO) 94238
+4 Heliod, God of the Sun (PIO) 94521
+4 Iroas, God of Victory (PIO) 94548
+4 Jace, Architect of Thought (PIO) 94568
+4 Jace, Memory Adept (PIO) 94569
 4 Jace, Vryn's Prodigy (PIO) 94287
+4 Karametra, God of Harvests (PIO) 94549
+4 Keranos, God of Storms (PIO) 94550
+4 Kiora, the Crashing Wave (PIO) 94593
+4 Kozilek's Return (PIO) 94376
+4 Kruphix, God of Horizons (PIO) 94551
+4 Kytheon, Hero of Akros (PIO) 94248
+4 Liliana of the Dark Realms (PIO) 94573
 4 Liliana, Heretical Healer (PIO) 94327
+4 Linvala, the Preserver (PIO) 94251
+4 Master of Waves (PIO) 94292
+4 Maze's End (PIO) 94508
+4 Medomai the Ageless (PIO) 94472
 4 Mogis, God of Slaughter (PIO) 94552
+4 Narset Transcendent (PIO) 94594
+4 Nissa, Vastwood Seer (PIO) 94425
+4 Nissa, Voice of Zendikar (PIO) 94427
+4 Nylea, God of the Hunt (PIO) 94540
+4 Ob Nixilis Reignited (PIO) 94331
+4 Part the Waterveil (PIO) 94605
+4 Pharika, God of Affliction (PIO) 94554
+4 Phenax, God of Deception (PIO) 94555
+4 Polukranos, World Eater (PIO) 94429
+4 Progenitor Mimic (PIO) 94477
 4 Purphoros, God of the Forge (PIO) 94535
+4 Rakdos's Return (PIO) 94625
+4 Sarkhan Unbroken (PIO) 94595
+4 Scourge of Valkas (PIO) 94390
+4 Starfield of Nyx (PIO) 94263
+4 Stormbreath Dragon (PIO) 94392
 4 Temporal Trespass (PIO) 94307
+================================================================================
+Deck
+4 Thassa, God of the Sea (PIO) 94527
 4 The Chain Veil (PIO) 94597
+4 The Great Aurora (PIO) 94619
+4 Void Winnower (PIO) 94225
+4 Whisperwood Elemental (PIO) 94439
+4 Worst Fears (PIO) 94612
+4 Xenagos, God of Revels (PIO) 94557
+4 Xenagos, the Reveler (PIO) 94596

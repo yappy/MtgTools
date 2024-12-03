@@ -1,3 +1,142 @@
 Deck
+4 Akoum Warrior (PIO) 94355
+4 Alive (PIO) 94671
+4 Alpha Authority (PIO) 94398
+4 Anchor to the Aether (PIO) 94271
+4 Archway Angel (PIO) 94227
+4 Armed (PIO) 94674
+4 Audacity (PIO) 94400
+4 Azorius Charm (PIO) 94444
+4 Bala Ged Recovery (PIO) 94401
 4 Bane of Bala Ged (PIO) 94223
+4 Bassara Tower Archer (PIO) 94403
+4 Bile Blight (PIO) 94608
+4 Blackbloom Rogue (PIO) 94315
+4 Bloodfire Enforcers (PIO) 94358
+4 Bloodtithe Harvester (PIO) 94446
+4 Boundary Lands Ranger (PIO) 94360
+4 Bounding Krasis (PIO) 94539
+4 Brineborn Cutthroat (PIO) 94275
+4 Brood Monitor (PIO) 94584
+4 Burning Anger (PIO) 94361
+4 Cartel Aristocrat (PIO) 94449
+4 Catacomb Sifter (PIO) 94450
+4 Clear Shot (PIO) 94405
+4 Conclave Naturalists (PIO) 94407
+4 Coordinated Assault (PIO) 94363
+4 Courier's Briefcase (PIO) 94408
+4 Crackdown Construct (PIO) 94492
+4 Cruel Revival (PIO) 94318
+4 Crumble to Dust (PIO) 94579
+4 Dark Betrayal (PIO) 94609
+4 Dark Deal (PIO) 94320
+4 Darksteel Ingot (PIO) 94493
+4 Destructive Revelry (PIO) 94453
+4 Dinrova Horror (PIO) 94454
+4 District Guide (PIO) 94409
+4 Down (PIO) 94677
+4 Draconic Roar (PIO) 94364
+4 Dreadhound (PIO) 94323
+4 Dreg Mangler (PIO) 94461
+4 Eidolon of Rhetoric (PIO) 94518
+4 Evangel of Heliod (PIO) 94519
+4 Experiment One (PIO) 94410
+4 Extricator of Sin (PIO) 94235
+4 Fanatic of Mogis (PIO) 94534
+4 Far (PIO) 94680
+4 Fell Stinger (PIO) 94324
+4 Fight with Fire (PIO) 94369
+4 Flitterstep Eidolon (PIO) 94566
+4 Furious Rise (PIO) 94370
+4 Gate Colossus (PIO) 94494
+4 Gatebreaker Ram (PIO) 94411
+4 Gates Ablaze (PIO) 94371
+4 Gather the Pack (PIO) 94618
+4 Ghor-Clan Rampager (PIO) 94465
+4 Ghostblade Eidolon (PIO) 94237
+4 Gift of Orzhova (PIO) 94546
+4 Give (PIO) 94683
+4 Gnarlback Rhino (PIO) 94413
+4 Guild Summit (PIO) 94283
 4 Hidden Strings (PIO) 94567
+4 Humble Defector (PIO) 94375
+4 Illness in the Ranks (PIO) 94531
+================================================================================
+Deck
+4 Illusory Angel (PIO) 94285
+4 Jhessian Thief (PIO) 94289
+4 Jwari Disruption (PIO) 94290
+4 Kabira Takedown (PIO) 94243
+4 Keepsake Gorgon (PIO) 94532
+4 Khalni Ambush (PIO) 94418
+4 Kiora's Follower (PIO) 94467
+4 Kraul Harpooner (PIO) 94420
+4 Limits of Solidarity (PIO) 94614
+4 Lotus-Eye Mystics (PIO) 94252
+4 Lyev Skyknight (PIO) 94470
+4 Miming Slime (PIO) 94621
+4 Mogis's Warhound (PIO) 94380
+4 Monastery Swiftspear (PIO) 94381
+4 Murmuring Mystic (PIO) 94294
+4 Nemesis of Mortals (PIO) 94423
+4 Nyx Weaver (PIO) 94475
+4 Open the Armory (PIO) 94599
+4 Ordeal of Purphoros (PIO) 94383
+4 Ovalchase Daredevil (PIO) 94576
+4 Pelakka Predation (PIO) 94334
+4 Phalanx Leader (PIO) 94254
+4 Phalanx Tactics (PIO) 94255
+4 Possessed Skaab (PIO) 94476
+4 Profit (PIO) 94686
+4 Protect (PIO) 94689
+4 Pulse of Murasa (PIO) 94430
+4 Purphoros's Emissary (PIO) 94386
+4 Pyromancer's Assault (PIO) 94536
+4 Rapid Hybridization (PIO) 94299
+4 Reckless Bushwhacker (PIO) 94581
+4 Reprisal (PIO) 94600
+4 Rescue from the Underworld (PIO) 94338
+4 Rogue's Passage (PIO) 94512
+4 Sage's Reverie (PIO) 94563
+4 Scion of Ugin (PIO) 94224
+4 Scytheclaw Raptor (PIO) 94391
+4 Seed Guardian (PIO) 94432
+4 Sejiri Shelter (PIO) 94257
+4 Selesnya Charm (PIO) 94479
+4 Sight Beyond Sight (PIO) 94302
+4 Silkwrap (PIO) 94260
+4 Silumgar Sorcerer (PIO) 94524
+4 Silundi Vision (PIO) 94303
+4 Sin Collector (PIO) 94480
+4 Skyreaping (PIO) 94588
+4 Skyrider Elf (PIO) 94482
+4 Spawning Bed (PIO) 94516
+4 Sphere of Safety (PIO) 94261
+4 Sphinx's Tutelage (PIO) 94526
+4 Stab Wound (PIO) 94344
+4 Stasis Snare (PIO) 94264
+4 Steward of Solidarity (PIO) 94265
+4 Stoneshock Giant (PIO) 94537
+4 Stormchaser Mage (PIO) 94484
+4 Swift Reckoning (PIO) 94266
+4 Swift Warkite (PIO) 94485
+4 Tenth District Legionnaire (PIO) 94486
+4 Thopter Engineer (PIO) 94583
+4 Thunderclap Wyvern (PIO) 94487
+4 Toil (PIO) 94692
+4 Tomebound Lich (PIO) 94488
+================================================================================
+Deck
+4 Tormented Hero (PIO) 94347
+4 Turn (PIO) 94695
+4 Ultimate Price (PIO) 94349
+4 Undead Butler (PIO) 94350
+4 Unflinching Courage (PIO) 94489
+4 Unravel the Aether (PIO) 94437
+4 Urban Evolution (PIO) 94490
+4 War Oracle (PIO) 94269
+4 Wear (PIO) 94698
+4 Wild Slash (PIO) 94395
+4 Windrider Patrol (PIO) 94310
+4 Zendikar Incarnate (PIO) 94491
+4 Zulaport Cutthroat (PIO) 94354

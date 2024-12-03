@@ -1,5 +1,93 @@
 Deck
+4 Akroan Crusader (PIO) 94357
+4 Aqueous Form (PIO) 94272
+4 Archaeomancer (PIO) 94523
+4 Ardenvale Tactician (PIO) 94228
+4 Artful Maneuver (PIO) 94230
+4 Aspect of Hydra (PIO) 94399
+4 Azorius Guildgate (PIO) 94497
+4 Baleful Eidolon (PIO) 94312
+4 Basilica Screecher (PIO) 94313
+4 Boros Guildgate (PIO) 94498
+4 Boulder Salvo (PIO) 94359
+4 Cavern Lampad (PIO) 94572
+4 Cloudfin Raptor (PIO) 94277
+4 Clutch of Currents (PIO) 94565
+4 Commune with the Gods (PIO) 94406
+4 Compulsory Rest (PIO) 94233
+4 Consider (PIO) 94278
+4 Crypt Incursion (PIO) 94319
+4 Devour Flesh (PIO) 94321
+4 Dimir Guildgate (PIO) 94499
+4 Disciple of Phenax (PIO) 94529
+4 Dragon Mantle (PIO) 94365
+4 Dramatic Reversal (PIO) 94603
+4 Essence Scatter (PIO) 94281
+4 Evolving Wilds (PIO) 94500
+4 Expedite (PIO) 94613
+4 Fall of the Hammer (PIO) 94368
+4 Fallaji Archaeologist (PIO) 94282
+4 Fog (PIO) 94585
+4 Frostburn Weird (PIO) 94545
+4 Gateway Plaza (PIO) 94501
+4 Ghirapur Gearcrafter (PIO) 94372
 4 Gladecover Scout (PIO) 94412
+4 Goblin Heelcutter (PIO) 94580
+4 Golgari Guildgate (PIO) 94502
+4 Gruul Guildgate (PIO) 94503
 4 Gurmag Angler (PIO) 94325
+4 Gust of Wind (PIO) 94284
+4 Halo Scarab (PIO) 94495
+4 Heliod's Pilgrim (PIO) 94239
+4 Hopeful Eidolon (PIO) 94241
+4 Imperious Oligarch (PIO) 94466
+4 Ingenious Skaab (PIO) 94286
+4 Izzet Guildgate (PIO) 94506
+4 Keening Apparition (PIO) 94245
+4 Knightly Valor (PIO) 94247
+4 Lagonna-Band Trailblazer (PIO) 94250
+4 Leafcrown Dryad (PIO) 94421
+4 Makindi Sliderunner (PIO) 94379
+4 Martial Glory (PIO) 94471
+4 Mizzium Skin (PIO) 94293
+4 Nantuko Husk (PIO) 94329
+4 Natural State (PIO) 94622
+4 Nessian Asp (PIO) 94424
+4 Nimbus Naiad (PIO) 94296
+4 Nissa's Pilgrimage (PIO) 94587
+4 Nivix Cyclops (PIO) 94473
+4 Nylea's Disciple (PIO) 94541
+4 Ob Nixilis's Cruelty (PIO) 94332
+4 Opal Lake Gatekeepers (PIO) 94297
+4 Orzhov Guildgate (PIO) 94510
+4 Pilgrim's Eye (PIO) 94496
+================================================================================
+Deck
+4 Rakdos Guildgate (PIO) 94511
+4 Read the Bones (PIO) 94337
+4 Retraction Helix (PIO) 94571
+4 Returned Centaur (PIO) 94339
+4 Rimrock Knight (PIO) 94387
+4 Sanitarium Skeleton (PIO) 94340
+4 Savage Punch (PIO) 94431
+4 Seismic Stomp (PIO) 94617
+4 Selesnya Guildgate (PIO) 94513
+4 Shoulder to Shoulder (PIO) 94601
+4 Silumgar Butcher (PIO) 94342
+4 Simic Guildgate (PIO) 94515
+4 Smash to Smithereens (PIO) 94582
+4 Stampeding Elk Herd (PIO) 94589
+4 Sungrace Pegasus (PIO) 94564
+4 Supernatural Stamina (PIO) 94345
+4 Syndicate Messenger (PIO) 94267
+4 Tah-Crop Skirmisher (PIO) 94306
+4 Tome Scour (PIO) 94606
+4 Touch of Moonglove (PIO) 94611
+4 Treasure Cruise (PIO) 94309
+4 Triplicate Spirits (PIO) 94268
+4 Ubul Sar Gatekeepers (PIO) 94348
 4 Void Shatter (PIO) 94607
 4 Voyaging Satyr (PIO) 94438
+4 Wingsteed Rider (PIO) 94522
+4 Witch's Mark (PIO) 94396
+4 Zephyr Winder (PIO) 94311
