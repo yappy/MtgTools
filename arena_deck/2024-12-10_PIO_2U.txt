@@ -1,142 +1,165 @@
 Deck
-4 Akoum Warrior (PIO) 94355
-4 Alive (PIO) 94671
-4 Alpha Authority (PIO) 94398
-4 Anchor to the Aether (PIO) 94271
-4 Archway Angel (PIO) 94227
-4 Armed (PIO) 94674
-4 Audacity (PIO) 94400
-4 Azorius Charm (PIO) 94444
-4 Bala Ged Recovery (PIO) 94401
-4 Bane of Bala Ged (PIO) 94223
-4 Bassara Tower Archer (PIO) 94403
-4 Bile Blight (PIO) 94608
-4 Blackbloom Rogue (PIO) 94315
-4 Bloodfire Enforcers (PIO) 94358
-4 Bloodtithe Harvester (PIO) 94446
-4 Boundary Lands Ranger (PIO) 94360
-4 Bounding Krasis (PIO) 94539
-4 Brineborn Cutthroat (PIO) 94275
-4 Brood Monitor (PIO) 94584
-4 Burning Anger (PIO) 94361
-4 Cartel Aristocrat (PIO) 94449
-4 Catacomb Sifter (PIO) 94450
-4 Clear Shot (PIO) 94405
-4 Conclave Naturalists (PIO) 94407
-4 Coordinated Assault (PIO) 94363
-4 Courier's Briefcase (PIO) 94408
-4 Crackdown Construct (PIO) 94492
-4 Cruel Revival (PIO) 94318
-4 Crumble to Dust (PIO) 94579
-4 Dark Betrayal (PIO) 94609
-4 Dark Deal (PIO) 94320
-4 Darksteel Ingot (PIO) 94493
-4 Destructive Revelry (PIO) 94453
-4 Dinrova Horror (PIO) 94454
-4 District Guide (PIO) 94409
-4 Down (PIO) 94677
-4 Draconic Roar (PIO) 94364
-4 Dreadhound (PIO) 94323
-4 Dreg Mangler (PIO) 94461
-4 Eidolon of Rhetoric (PIO) 94518
-4 Evangel of Heliod (PIO) 94519
-4 Experiment One (PIO) 94410
-4 Extricator of Sin (PIO) 94235
-4 Fanatic of Mogis (PIO) 94534
-4 Far (PIO) 94680
-4 Fell Stinger (PIO) 94324
-4 Fight with Fire (PIO) 94369
-4 Flitterstep Eidolon (PIO) 94566
-4 Furious Rise (PIO) 94370
-4 Gate Colossus (PIO) 94494
-4 Gatebreaker Ram (PIO) 94411
-4 Gates Ablaze (PIO) 94371
-4 Gather the Pack (PIO) 94618
-4 Ghor-Clan Rampager (PIO) 94465
-4 Ghostblade Eidolon (PIO) 94237
-4 Gift of Orzhova (PIO) 94546
-4 Give (PIO) 94683
-4 Gnarlback Rhino (PIO) 94413
-4 Guild Summit (PIO) 94283
-4 Hidden Strings (PIO) 94567
-4 Humble Defector (PIO) 94375
-4 Illness in the Ranks (PIO) 94531
+4 Abhorrent Overlord (PIO) 289
+4 Alive (PIO) 384
+4 Alpha Authority (PIO) 162
+4 Anax and Cymede (PIO) 202
+4 Anchor to the Aether (PIO) 44
+4 Aqueous Form (PIO) 45
+4 Archway Angel (PIO) 5
+4 Armed (PIO) 385
+4 Artisan of Forms (PIO) 46
+4 Ash Zealot (PIO) 294
+4 Aspect of Hydra (PIO) 163
+4 Avatar of the Resolute (PIO) 299
+4 Azorius Charm (PIO) 205
+4 Bala Ged Recovery (PIO) 165
+4 Bane of Bala Ged (PIO) 1
+4 Bassara Tower Archer (PIO) 166
+4 Blackbloom Rogue (PIO) 85
+4 Blood Scrivener (PIO) 86
+4 Bloodtithe Harvester (PIO) 207
+4 Boon Satyr (PIO) 167
+4 Bounding Krasis (PIO) 304
+4 Brineborn Cutthroat (PIO) 48
+4 Brood Monitor (PIO) 345
+4 Call the Gatewatch (PIO) 320
+4 Cartel Aristocrat (PIO) 210
+4 Catacomb Sifter (PIO) 211
+4 Celestial Archon (PIO) 8
+4 Clear Shot (PIO) 168
+4 Conclave Naturalists (PIO) 170
+4 Coordinated Assault (PIO) 129
+4 Crackdown Construct (PIO) 253
+4 Cruel Revival (PIO) 87
+4 Crumble to Dust (PIO) 340
+4 Crypt Incursion (PIO) 88
+4 Dark Betrayal (PIO) 370
+4 Dark Deal (PIO) 89
+4 Destructive Revelry (PIO) 214
+4 Dinrova Horror (PIO) 215
+4 Down (PIO) 387
+4 Draconic Roar (PIO) 130
+4 Dragon-Style Twins (PIO) 132
+4 Dramatic Reversal (PIO) 364
+4 Dreadhound (PIO) 92
+4 Eidolon of Rhetoric (PIO) 279
+4 Evangel of Heliod (PIO) 280
+4 Experiment One (PIO) 173
+4 Extricator of Sin (PIO) 12
+4 Fanatic of Mogis (PIO) 295
+4 Far (PIO) 388
+4 Fell Stinger (PIO) 93
+4 Fiendslayer Paladin (PIO) 281
+4 Fight with Fire (PIO) 135
+4 Flitterstep Eidolon (PIO) 327
+4 Fog (PIO) 346
+4 Frostburn Weird (PIO) 306
+4 Furious Rise (PIO) 136
+4 Gate Colossus (PIO) 255
+4 Gatebreaker Ram (PIO) 174
+4 Gates Ablaze (PIO) 137
+4 Gather the Pack (PIO) 379
+4 Ghor-Clan Rampager (PIO) 226
+4 Gift of Orzhova (PIO) 307
 ================================================================================
 Deck
-4 Illusory Angel (PIO) 94285
-4 Jhessian Thief (PIO) 94289
-4 Jwari Disruption (PIO) 94290
-4 Kabira Takedown (PIO) 94243
-4 Keepsake Gorgon (PIO) 94532
-4 Khalni Ambush (PIO) 94418
-4 Kiora's Follower (PIO) 94467
-4 Kraul Harpooner (PIO) 94420
-4 Limits of Solidarity (PIO) 94614
-4 Lotus-Eye Mystics (PIO) 94252
-4 Lyev Skyknight (PIO) 94470
-4 Miming Slime (PIO) 94621
-4 Mogis's Warhound (PIO) 94380
-4 Monastery Swiftspear (PIO) 94381
-4 Murmuring Mystic (PIO) 94294
-4 Nemesis of Mortals (PIO) 94423
-4 Nyx Weaver (PIO) 94475
-4 Open the Armory (PIO) 94599
-4 Ordeal of Purphoros (PIO) 94383
-4 Ovalchase Daredevil (PIO) 94576
-4 Pelakka Predation (PIO) 94334
-4 Phalanx Leader (PIO) 94254
-4 Phalanx Tactics (PIO) 94255
-4 Possessed Skaab (PIO) 94476
-4 Profit (PIO) 94686
-4 Protect (PIO) 94689
-4 Pulse of Murasa (PIO) 94430
-4 Purphoros's Emissary (PIO) 94386
-4 Pyromancer's Assault (PIO) 94536
-4 Rapid Hybridization (PIO) 94299
-4 Reckless Bushwhacker (PIO) 94581
-4 Reprisal (PIO) 94600
-4 Rescue from the Underworld (PIO) 94338
-4 Rogue's Passage (PIO) 94512
-4 Sage's Reverie (PIO) 94563
-4 Scion of Ugin (PIO) 94224
-4 Scytheclaw Raptor (PIO) 94391
-4 Seed Guardian (PIO) 94432
-4 Sejiri Shelter (PIO) 94257
-4 Selesnya Charm (PIO) 94479
-4 Sight Beyond Sight (PIO) 94302
-4 Silkwrap (PIO) 94260
-4 Silumgar Sorcerer (PIO) 94524
-4 Silundi Vision (PIO) 94303
-4 Sin Collector (PIO) 94480
-4 Skyreaping (PIO) 94588
-4 Skyrider Elf (PIO) 94482
-4 Spawning Bed (PIO) 94516
-4 Sphere of Safety (PIO) 94261
-4 Sphinx's Tutelage (PIO) 94526
-4 Stab Wound (PIO) 94344
-4 Stasis Snare (PIO) 94264
-4 Steward of Solidarity (PIO) 94265
-4 Stoneshock Giant (PIO) 94537
-4 Stormchaser Mage (PIO) 94484
-4 Swift Reckoning (PIO) 94266
-4 Swift Warkite (PIO) 94485
-4 Tenth District Legionnaire (PIO) 94486
-4 Thopter Engineer (PIO) 94583
-4 Thunderclap Wyvern (PIO) 94487
-4 Toil (PIO) 94692
-4 Tomebound Lich (PIO) 94488
+4 Give (PIO) 389
+4 Goreclaw, Terror of Qal Sisma (PIO) 177
+4 Growing Ranks (PIO) 308
+4 Guild Summit (PIO) 56
+4 Heart-Piercer Manticore (PIO) 140
+4 Hero of Leina Tower (PIO) 178
+4 Hidden Strings (PIO) 328
+4 Honored Hydra (PIO) 179
+4 Hopeful Eidolon (PIO) 17
+4 Humble Defector (PIO) 141
+4 Hushwing Gryff (PIO) 322
+4 Illness in the Ranks (PIO) 292
+4 Illusory Angel (PIO) 58
+4 Imposing Sovereign (PIO) 18
+4 Jhessian Thief (PIO) 61
+4 Jwari Disruption (PIO) 62
+4 Kabira Takedown (PIO) 19
+4 Keepsake Gorgon (PIO) 293
+4 Kiora's Follower (PIO) 228
+4 Kraul Harpooner (PIO) 182
+4 Labyrinth Champion (PIO) 143
+4 Limits of Solidarity (PIO) 375
+4 Loxodon Smiter (PIO) 230
+4 Mentor of the Meek (PIO) 27
+4 Mogis's Warhound (PIO) 146
+4 Monastery Swiftspear (PIO) 147
+4 Murmuring Mystic (PIO) 65
+4 Natural State (PIO) 383
+4 Nighthowler (PIO) 98
+4 Nightveil Specter (PIO) 314
+4 Nissa's Pilgrimage (PIO) 348
+4 Nyx Weaver (PIO) 236
+4 Oath of Gideon (PIO) 323
+4 Oath of Jace (PIO) 331
+4 Oath of Liliana (PIO) 336
+4 Open the Armory (PIO) 360
+4 Ordeal of Purphoros (PIO) 149
+4 Ovalchase Daredevil (PIO) 337
+4 Phalanx Leader (PIO) 28
+4 Phalanx Tactics (PIO) 29
+4 Priest of the Blood Rite (PIO) 103
+4 Profit (PIO) 391
+4 Protect (PIO) 392
+4 Pulse of Murasa (PIO) 191
+4 Pyromancer's Assault (PIO) 297
+4 Quicken (PIO) 69
+4 Rapid Hybridization (PIO) 70
+4 Reckless Bushwhacker (PIO) 342
+4 Reprisal (PIO) 361
+4 Rescue from the Underworld (PIO) 105
+4 Retraction Helix (PIO) 332
+4 Reverent Hunter (PIO) 302
+4 Rogue's Passage (PIO) 273
+4 Rubblebelt Raiders (PIO) 317
+4 Ruinous Path (PIO) 338
+4 Sage's Reverie (PIO) 324
+4 Scab-Clan Berserker (PIO) 154
+4 Scatter to the Winds (PIO) 71
+4 Scytheclaw Raptor (PIO) 156
+4 Seed Guardian (PIO) 193
+4 Seismic Stomp (PIO) 378
+4 Shipbreaker Kraken (PIO) 72
 ================================================================================
 Deck
-4 Tormented Hero (PIO) 94347
-4 Turn (PIO) 94695
-4 Ultimate Price (PIO) 94349
-4 Undead Butler (PIO) 94350
-4 Unflinching Courage (PIO) 94489
-4 Unravel the Aether (PIO) 94437
-4 Urban Evolution (PIO) 94490
-4 War Oracle (PIO) 94269
-4 Wear (PIO) 94698
-4 Wild Slash (PIO) 94395
-4 Windrider Patrol (PIO) 94310
-4 Zendikar Incarnate (PIO) 94491
-4 Zulaport Cutthroat (PIO) 94354
+4 Sight Beyond Sight (PIO) 73
+4 Silkwrap (PIO) 33
+4 Silumgar Sorcerer (PIO) 285
+4 Sin Collector (PIO) 241
+4 Skyreaping (PIO) 349
+4 Smash to Smithereens (PIO) 343
+4 Spawning Bed (PIO) 277
+4 Sphere of Safety (PIO) 34
+4 Sphinx of Magosi (PIO) 286
+4 Sphinx's Tutelage (PIO) 287
+4 Stab Wound (PIO) 111
+4 Stain the Mind (PIO) 339
+4 Stasis Snare (PIO) 37
+4 Steam Augury (PIO) 244
+4 Steward of Solidarity (PIO) 38
+4 Stormchaser Mage (PIO) 245
+4 Swift Warkite (PIO) 246
+4 Tenth District Legionnaire (PIO) 247
+4 Thopter Engineer (PIO) 344
+4 Thunderclap Wyvern (PIO) 248
+4 Toil (PIO) 395
+4 Tome Scour (PIO) 367
+4 Tomebound Lich (PIO) 249
+4 Tormented Hero (PIO) 114
+4 Touch of Moonglove (PIO) 372
+4 Triplicate Spirits (PIO) 41
+4 Turn (PIO) 396
+4 Ubul Sar Gatekeepers (PIO) 115
+4 Ultimate Price (PIO) 116
+4 Unflinching Courage (PIO) 250
+4 Urban Evolution (PIO) 251
+4 Valakut Awakening (PIO) 158
+4 War Oracle (PIO) 42
+4 Wear (PIO) 398
+4 Zephyr Winder (PIO) 81
+4 Zulaport Cutthroat (PIO) 121

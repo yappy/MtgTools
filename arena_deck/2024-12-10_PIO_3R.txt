@@ -1,104 +1,73 @@
 Deck
-4 Abhorrent Overlord (PIO) 94528
-4 Aetherling (PIO) 94270
-4 Anax and Cymede (PIO) 94441
-4 Artisan of Forms (PIO) 94273
-4 Ash Zealot (PIO) 94533
-4 Assemble the Legion (PIO) 94443
-4 Avatar of the Resolute (PIO) 94538
-4 Bident of Thassa (PIO) 94274
-4 Blood Scrivener (PIO) 94317
-4 Boon Satyr (PIO) 94404
-4 Boros Reckoner (PIO) 94447
-4 Bring to Light (PIO) 94448
-4 Call the Gatewatch (PIO) 94559
-4 Celestial Archon (PIO) 94231
-4 Chained to the Rocks (PIO) 94232
-4 Chasm Skulker (PIO) 94276
-4 Counterflux (PIO) 94452
-4 Dark Petition (PIO) 94610
-4 Dictate of Erebos (PIO) 94322
-4 Dictate of Heliod (PIO) 94234
-4 Dragon-Style Twins (PIO) 94366
-4 Dreadbore (PIO) 94460
-4 Exquisite Firecraft (PIO) 94367
-4 Fiendslayer Paladin (PIO) 94520
-4 Fleecemane Lion (PIO) 94463
-4 Goblin Rabblemaster (PIO) 94373
-4 Goreclaw, Terror of Qal Sisma (PIO) 94414
-4 Growing Ranks (PIO) 94547
-4 Hallowed Moonlight (PIO) 94598
-4 Haven of the Spirit Dragon (PIO) 94504
-4 Heart-Piercer Manticore (PIO) 94374
-4 Hero of Iroas (PIO) 94240
-4 Hero of Leina Tower (PIO) 94415
-4 Hissing Quagmire (PIO) 94505
-4 Honored Hydra (PIO) 94416
-4 Hornet Nest (PIO) 94417
-4 Hunter's Prowess (PIO) 94620
-4 Hushwing Gryff (PIO) 94561
-4 Imposing Sovereign (PIO) 94242
-4 Jarad's Orders (PIO) 94624
-4 Knight of the White Orchid (PIO) 94246
-4 Labyrinth Champion (PIO) 94377
-4 Legion Loyalist (PIO) 94378
-4 Lifebane Zombie (PIO) 94326
-4 Liliana Vess (PIO) 94574
-4 Lotleth Troll (PIO) 94468
-4 Loxodon Smiter (PIO) 94469
-4 Lumbering Falls (PIO) 94507
-4 Mentor of the Meek (PIO) 94253
-4 Mistcutter Hydra (PIO) 94422
-4 Mizzium Mortars (PIO) 94615
-4 Needle Spires (PIO) 94509
-4 Niblis of Frost (PIO) 94295
-4 Nighthowler (PIO) 94330
-4 Nightveil Specter (PIO) 94553
-4 Notion Thief (PIO) 94474
-4 Oath of Chandra (PIO) 94382
-4 Oath of Gideon (PIO) 94562
-4 Oath of Jace (PIO) 94570
-4 Oath of Liliana (PIO) 94575
-4 Oath of Nissa (PIO) 94428
-4 Outpost Siege (PIO) 94384
+4 Aetherling (PIO) 43
+4 Ashen Rider (PIO) 203
+4 Aurelia's Fury (PIO) 386
+4 Bident of Thassa (PIO) 47
+4 Boros Reckoner (PIO) 208
+4 Bring to Light (PIO) 209
+4 Burning Anger (PIO) 127
+4 Chained to the Rocks (PIO) 9
+4 Chasm Skulker (PIO) 49
+4 Chromanticore (PIO) 212
+4 Counterflux (PIO) 213
+4 Crush of Tentacles (PIO) 52
+4 Dark Petition (PIO) 371
+4 Dictate of Erebos (PIO) 91
+4 Dictate of Heliod (PIO) 11
+4 Exquisite Firecraft (PIO) 133
+4 Fleecemane Lion (PIO) 224
+4 Goblin Rabblemaster (PIO) 139
+4 Hallowed Moonlight (PIO) 359
+4 Haven of the Spirit Dragon (PIO) 265
+4 Hissing Quagmire (PIO) 266
+4 Hornet Nest (PIO) 180
+4 Hunter's Prowess (PIO) 381
+4 Jarad's Orders (PIO) 390
+4 Knight of the White Orchid (PIO) 21
+4 Legion Loyalist (PIO) 144
+4 Lifebane Zombie (PIO) 95
+4 Linvala, the Preserver (PIO) 25
+4 Lotleth Troll (PIO) 229
+4 Lumbering Falls (PIO) 268
+4 Master of Waves (PIO) 63
+4 Medomai the Ageless (PIO) 233
+4 Mistcutter Hydra (PIO) 184
+4 Needle Spires (PIO) 270
+4 Niblis of Frost (PIO) 66
+4 Notion Thief (PIO) 235
+4 Oath of Chandra (PIO) 148
+4 Oath of Nissa (PIO) 189
+4 Outpost Siege (PIO) 150
+4 Painful Truths (PIO) 101
+4 Part the Waterveil (PIO) 366
+4 Pia and Kiran Nalaar (PIO) 151
+4 Polukranos, World Eater (PIO) 190
+4 Radiant Flames (PIO) 377
+4 Rakdos's Return (PIO) 393
+4 Render Silent (PIO) 394
+4 Ruric Thar, the Unbowed (PIO) 239
+4 Scourge of Valkas (PIO) 155
+4 Secure the Wastes (PIO) 30
+4 Shamanic Revelation (PIO) 194
+4 Shambling Vent (PIO) 275
+4 Sidisi, Undead Vizier (PIO) 108
+4 Silence (PIO) 32
+4 Sire of Insanity (PIO) 242
+4 Skylasher (PIO) 195
+4 Soulflayer (PIO) 110
+4 Spirit of the Labyrinth (PIO) 35
+4 Starfield of Nyx (PIO) 36
+4 Stormtide Leviathan (PIO) 75
+4 Sylvan Caryatid (PIO) 196
+4 Sylvan Primordial (PIO) 197
+4 Tasigur, the Golden Fang (PIO) 113
 ================================================================================
 Deck
-4 Painful Truths (PIO) 94333
-4 Pia and Kiran Nalaar (PIO) 94385
-4 Priest of the Blood Rite (PIO) 94336
-4 Quicken (PIO) 94298
-4 Radiant Flames (PIO) 94616
-4 Render Silent (PIO) 94626
-4 Reverent Hunter (PIO) 94542
-4 Rubblebelt Raiders (PIO) 94556
-4 Ruinous Path (PIO) 94577
-4 Ruric Thar, the Unbowed (PIO) 94478
-4 Scab-Clan Berserker (PIO) 94389
-4 Scatter to the Winds (PIO) 94300
-4 Secure the Wastes (PIO) 94256
-4 Shamanic Revelation (PIO) 94433
-4 Shambling Vent (PIO) 94514
-4 Shipbreaker Kraken (PIO) 94301
-4 Sidisi, Undead Vizier (PIO) 94341
-4 Silence (PIO) 94259
-4 Sire of Insanity (PIO) 94481
-4 Skylasher (PIO) 94434
-4 Soulflayer (PIO) 94343
-4 Sphinx of Magosi (PIO) 94525
-4 Spirit of the Labyrinth (PIO) 94262
-4 Stain the Mind (PIO) 94578
-4 Steam Augury (PIO) 94483
-4 Stormtide Leviathan (PIO) 94305
-4 Sylvan Caryatid (PIO) 94435
-4 Sylvan Primordial (PIO) 94436
-4 Tasigur, the Golden Fang (PIO) 94346
-4 Tidebinder Mage (PIO) 94308
-4 Tragic Arrogance (PIO) 94602
-4 Unexpected Results (PIO) 94627
-4 Urborg, Tomb of Yawgmoth (PIO) 94351
-4 Valakut Awakening (PIO) 94393
-4 Wandering Fumarole (PIO) 94517
-4 Whip of Erebos (PIO) 94352
-4 Woodland Wanderer (PIO) 94440
-4 Xathrid Necromancer (PIO) 94353
-4 Zurgo Bellstriker (PIO) 94397
+4 Tidebinder Mage (PIO) 78
+4 Unexpected Results (PIO) 397
+4 Urborg, Tomb of Yawgmoth (PIO) 118
+4 Wandering Fumarole (PIO) 278
+4 Whip of Erebos (PIO) 119
+4 Woodland Wanderer (PIO) 201
+4 Xathrid Necromancer (PIO) 120
+4 Zurgo Bellstriker (PIO) 161
