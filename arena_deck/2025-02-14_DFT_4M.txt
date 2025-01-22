@@ -1,2 +1,45 @@
 Deck
 4 Brightglass Gearhulk (DFT) 191
+4 Brightglass Gearhulk (DFT) 348
+4 Brightglass Gearhulk (DFT) 474
+4 Brightglass Gearhulk (DFT) 547
+4 Chandra, Spark Hunter (DFT) 116
+4 Chandra, Spark Hunter (DFT) 401
+4 Chandra, Spark Hunter (DFT) 411
+4 Chandra, Spark Hunter (DFT) 456
+4 Hazoret, Godseeker (DFT) 133
+4 Hazoret, Godseeker (DFT) 347
+4 Hazoret, Godseeker (DFT) 462
+4 Hazoret, Godseeker (DFT) 546
+4 Loot, the Pathfinder (DFT) 212
+4 Loot, the Pathfinder (DFT) 391
+4 Loot, the Pathfinder (DFT) 404
+4 Loot, the Pathfinder (DFT) 414
+4 Loot, the Pathfinder (DFT) 484
+4 Oildeep Gearhulk (DFT) 215
+4 Oildeep Gearhulk (DFT) 351
+4 Oildeep Gearhulk (DFT) 487
+4 Oildeep Gearhulk (DFT) 550
+4 Pyrewood Gearhulk (DFT) 216
+4 Pyrewood Gearhulk (DFT) 352
+4 Pyrewood Gearhulk (DFT) 488
+4 Pyrewood Gearhulk (DFT) 551
+4 Sab-Sunen, Luxa Embodied (DFT) 221
+4 Sab-Sunen, Luxa Embodied (DFT) 354
+4 Sab-Sunen, Luxa Embodied (DFT) 491
+4 Sab-Sunen, Luxa Embodied (DFT) 553
+4 The Aetherspark (DFT) 231
+4 The Aetherspark (DFT) 376
+4 The Aetherspark (DFT) 496
+4 The Last Ride (DFT) 94
+4 The Last Ride (DFT) 308
+4 The Last Ride (DFT) 451
+4 The Last Ride (DFT) 525
+4 Thunderous Velocipede (DFT) 183
+4 Thunderous Velocipede (DFT) 317
+4 Thunderous Velocipede (DFT) 471
+4 Thunderous Velocipede (DFT) 529
+4 Valor's Flagship (DFT) 35
+4 Valor's Flagship (DFT) 298
+4 Valor's Flagship (DFT) 434
+4 Valor's Flagship (DFT) 519

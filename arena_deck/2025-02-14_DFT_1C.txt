@@ -1,1 +1,23 @@
 Deck
+4 Avishkar Raceway (DFT) 249
+4 Avishkar Raceway (DFT) 425
+4 Bloodfell Caves (DFT) 251
+4 Blossoming Sands (DFT) 252
+4 Dismal Backwater (DFT) 254
+4 Hulldrifter (DFT) 47
+4 Hulldrifter (DFT) 300
+4 Jungle Hollow (DFT) 256
+4 Lightshield Parry (DFT) 19
+4 Midnight Mangler (DFT) 50
+4 Midnight Mangler (DFT) 301
+4 Night Market (DFT) 258
+4 Prowcatcher Specialist (DFT) 142
+4 Rugged Highlands (DFT) 262
+4 Scoured Barrens (DFT) 263
+4 Starting Column (DFT) 244
+4 Streaking Oilgorger (DFT) 107
+4 Swiftwater Cliffs (DFT) 265
+4 Thornwood Falls (DFT) 266
+4 Tranquil Cove (DFT) 267
+4 Venomsac Lagac (DFT) 185
+4 Wind-Scarred Crag (DFT) 271
