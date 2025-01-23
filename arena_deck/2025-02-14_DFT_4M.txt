@@ -11,6 +11,7 @@ Deck
 4 Hazoret, Godseeker (DFT) 347
 4 Hazoret, Godseeker (DFT) 462
 4 Hazoret, Godseeker (DFT) 546
+4 Ketramose, the New Dawn (DFT) 209
 4 Loot, the Pathfinder (DFT) 212
 4 Loot, the Pathfinder (DFT) 391
 4 Loot, the Pathfinder (DFT) 404

@@ -3,6 +3,7 @@ Deck
 4 Avishkar Raceway (DFT) 425
 4 Bloodfell Caves (DFT) 251
 4 Blossoming Sands (DFT) 252
+4 Brightfield Mustang (DFT) 5
 4 Dismal Backwater (DFT) 254
 4 Hulldrifter (DFT) 47
 4 Hulldrifter (DFT) 300

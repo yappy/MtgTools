@@ -30,6 +30,9 @@ Deck
 4 Caradora, Heart of Alacria (DFT) 195
 4 Caradora, Heart of Alacria (DFT) 362
 4 Caradora, Heart of Alacria (DFT) 476
+4 Count on Luck (DFT) 118
+4 Count on Luck (DFT) 395
+4 Count on Luck (DFT) 457
 4 Cryptcaller Chariot (DFT) 80
 4 Cryptcaller Chariot (DFT) 306
 4 Cryptcaller Chariot (DFT) 446
@@ -44,6 +47,8 @@ Deck
 4 Far Fortune, End Boss (DFT) 203
 4 Far Fortune, End Boss (DFT) 363
 4 Far Fortune, End Boss (DFT) 480
+4 Fearless Swashbuckler (DFT) 204
+4 Full Throttle (DFT) 127
 4 Kolodin, Triumph Caster (DFT) 210
 4 Kolodin, Triumph Caster (DFT) 364
 4 Kolodin, Triumph Caster (DFT) 483
@@ -51,8 +56,13 @@ Deck
 4 Lifecraft Engine (DFT) 329
 4 Lifecraft Engine (DFT) 423
 4 Lifecraft Engine (DFT) 497
+4 Marketback Walker (DFT) 235
+4 Marketback Walker (DFT) 393
+4 Marketback Walker (DFT) 498
 4 Mendicant Core, Guidelight (DFT) 213
 4 Mendicant Core, Guidelight (DFT) 365
+================================================================================
+Deck
 4 Mendicant Core, Guidelight (DFT) 485
 4 Muraganda Raceway (DFT) 257
 4 Muraganda Raceway (DFT) 396
@@ -61,8 +71,6 @@ Deck
 4 Quag Feast (DFT) 100
 4 Quag Feast (DFT) 384
 4 Quag Feast (DFT) 452
-================================================================================
-Deck
 4 Redshift, Rocketeer Chief (DFT) 218
 4 Redshift, Rocketeer Chief (DFT) 366
 4 Redshift, Rocketeer Chief (DFT) 489
@@ -72,15 +80,25 @@ Deck
 4 Riverpyre Verge (DFT) 260
 4 Riverpyre Verge (DFT) 372
 4 Riverpyre Verge (DFT) 503
+4 Samut, the Driving Force (DFT) 222
+4 Samut, the Driving Force (DFT) 367
+4 Samut, the Driving Force (DFT) 492
 4 Sita Varma, Masked Racer (DFT) 223
 4 Sita Varma, Masked Racer (DFT) 368
 4 Sita Varma, Masked Racer (DFT) 493
 4 Sunbillow Verge (DFT) 264
 4 Sunbillow Verge (DFT) 373
 4 Sunbillow Verge (DFT) 504
+4 Thopter Fabricator (DFT) 68
+4 Thopter Fabricator (DFT) 304
+4 Thopter Fabricator (DFT) 441
+4 Thopter Fabricator (DFT) 522
 4 Vnwxt, Verbose Host (DFT) 73
 4 Vnwxt, Verbose Host (DFT) 356
 4 Vnwxt, Verbose Host (DFT) 443
+4 Voyager Glidecar (DFT) 36
+4 Voyager Glidecar (DFT) 299
+4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
 4 Wastewood Verge (DFT) 505

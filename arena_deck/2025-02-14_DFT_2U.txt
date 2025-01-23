@@ -7,6 +7,7 @@ Deck
 4 Apocalypse Runner (DFT) 319
 4 Boosted Sloop (DFT) 190
 4 Boosted Sloop (DFT) 320
+4 Cloudspire Coordinator (DFT) 196
 4 Cloudspire Skycycle (DFT) 197
 4 Cloudspire Skycycle (DFT) 321
 4 Country Roads (DFT) 253
@@ -16,7 +17,10 @@ Deck
 4 Foul Roads (DFT) 255
 4 Guidelight Pathmaker (DFT) 206
 4 Guidelight Pathmaker (DFT) 324
+4 Hour of Victory (DFT) 91
 4 Lagorin, Soul of Alacria (DFT) 211
+4 Marauding Mako (DFT) 138
+4 Marauding Mako (DFT) 419
 4 Rangers' Aetherhive (DFT) 217
 4 Rangers' Aetherhive (DFT) 326
 4 Reef Roads (DFT) 259
