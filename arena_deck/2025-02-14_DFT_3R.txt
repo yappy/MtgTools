@@ -31,12 +31,16 @@ Deck
 4 Caradora, Heart of Alacria (DFT) 362
 4 Caradora, Heart of Alacria (DFT) 476
 4 Count on Luck (DFT) 118
+4 Count on Luck (DFT) 385
 4 Count on Luck (DFT) 395
 4 Count on Luck (DFT) 457
 4 Cryptcaller Chariot (DFT) 80
 4 Cryptcaller Chariot (DFT) 306
 4 Cryptcaller Chariot (DFT) 446
 4 Cryptcaller Chariot (DFT) 523
+4 Cursecloth Wrappings (DFT) 81
+4 Cursecloth Wrappings (DFT) 383
+4 Cursecloth Wrappings (DFT) 447
 4 Daretti, Rocketeer Engineer (DFT) 120
 4 Daretti, Rocketeer Engineer (DFT) 358
 4 Daretti, Rocketeer Engineer (DFT) 458
@@ -48,10 +52,17 @@ Deck
 4 Far Fortune, End Boss (DFT) 363
 4 Far Fortune, End Boss (DFT) 480
 4 Fearless Swashbuckler (DFT) 204
+4 Fearless Swashbuckler (DFT) 346
+4 Fearless Swashbuckler (DFT) 481
+4 Fearless Swashbuckler (DFT) 545
 4 Full Throttle (DFT) 127
+4 Full Throttle (DFT) 386
+4 Full Throttle (DFT) 460
 4 Kolodin, Triumph Caster (DFT) 210
 4 Kolodin, Triumph Caster (DFT) 364
 4 Kolodin, Triumph Caster (DFT) 483
+================================================================================
+Deck
 4 Lifecraft Engine (DFT) 234
 4 Lifecraft Engine (DFT) 329
 4 Lifecraft Engine (DFT) 423
@@ -61,13 +72,19 @@ Deck
 4 Marketback Walker (DFT) 498
 4 Mendicant Core, Guidelight (DFT) 213
 4 Mendicant Core, Guidelight (DFT) 365
-================================================================================
-Deck
 4 Mendicant Core, Guidelight (DFT) 485
+4 Mindspring Merfolk (DFT) 51
+4 Mindspring Merfolk (DFT) 335
+4 Mindspring Merfolk (DFT) 436
+4 Mindspring Merfolk (DFT) 534
 4 Muraganda Raceway (DFT) 257
 4 Muraganda Raceway (DFT) 396
 4 Muraganda Raceway (DFT) 426
 4 Muraganda Raceway (DFT) 502
+4 Possession Engine (DFT) 54
+4 Possession Engine (DFT) 302
+4 Possession Engine (DFT) 438
+4 Possession Engine (DFT) 521
 4 Quag Feast (DFT) 100
 4 Quag Feast (DFT) 384
 4 Quag Feast (DFT) 452
@@ -98,6 +115,7 @@ Deck
 4 Vnwxt, Verbose Host (DFT) 443
 4 Voyager Glidecar (DFT) 36
 4 Voyager Glidecar (DFT) 299
+4 Voyager Glidecar (DFT) 435
 4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
@@ -107,6 +125,8 @@ Deck
 4 Willowrush Verge (DFT) 506
 4 Winter, Cursed Rider (DFT) 228
 4 Winter, Cursed Rider (DFT) 369
+================================================================================
+Deck
 4 Winter, Cursed Rider (DFT) 494
 4 Zahur, Glory's Past (DFT) 229
 4 Zahur, Glory's Past (DFT) 370

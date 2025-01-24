@@ -1,30 +1,45 @@
 Deck
+4 "Intimidation Tactics" (DFT) 92
+4 Aether Syphon (DFT) 38
 4 Air Response Unit (DFT) 1
 4 Air Response Unit (DFT) 292
 4 Amonkhet Raceway (DFT) 248
 4 Amonkhet Raceway (DFT) 424
 4 Apocalypse Runner (DFT) 188
 4 Apocalypse Runner (DFT) 319
+4 Autarch Mammoth (DFT) 153
+4 Boom Scholar (DFT) 189
 4 Boosted Sloop (DFT) 190
 4 Boosted Sloop (DFT) 320
+4 Canyon Vaulter (DFT) 8
+4 Cloudspire Captain (DFT) 9
 4 Cloudspire Coordinator (DFT) 196
 4 Cloudspire Skycycle (DFT) 197
 4 Cloudspire Skycycle (DFT) 321
 4 Country Roads (DFT) 253
+4 Defend the Rider (DFT) 157
 4 Earthrumbler (DFT) 160
 4 Earthrumbler (DFT) 315
 4 Elvish Refueler (DFT) 161
 4 Foul Roads (DFT) 255
+4 Gloryheath Lynx (DFT) 14
+4 Greasewrench Goblin (DFT) 132
 4 Guidelight Pathmaker (DFT) 206
 4 Guidelight Pathmaker (DFT) 324
 4 Hour of Victory (DFT) 91
 4 Lagorin, Soul of Alacria (DFT) 211
 4 Marauding Mako (DFT) 138
 4 Marauding Mako (DFT) 419
+4 Marshals' Pathcruiser (DFT) 236
+4 Marshals' Pathcruiser (DFT) 330
+4 Molt Tender (DFT) 171
+4 Momentum Breaker (DFT) 97
 4 Rangers' Aetherhive (DFT) 217
 4 Rangers' Aetherhive (DFT) 326
 4 Reef Roads (DFT) 259
 4 Rocketeer Boostbuggy (DFT) 220
 4 Rocketeer Boostbuggy (DFT) 327
 4 Rocky Roads (DFT) 261
+4 Unswerving Sloth (DFT) 34
+4 Wickerfolk Indomitable (DFT) 109
 4 Wild Roads (DFT) 269

@@ -7,16 +7,22 @@ Deck
 4 Chandra, Spark Hunter (DFT) 401
 4 Chandra, Spark Hunter (DFT) 411
 4 Chandra, Spark Hunter (DFT) 456
+4 Cursecloth Wrappings (DFT) 400
+4 Cursecloth Wrappings (DFT) 410
 4 Hazoret, Godseeker (DFT) 133
 4 Hazoret, Godseeker (DFT) 347
 4 Hazoret, Godseeker (DFT) 462
 4 Hazoret, Godseeker (DFT) 546
 4 Ketramose, the New Dawn (DFT) 209
+4 Ketramose, the New Dawn (DFT) 350
+4 Ketramose, the New Dawn (DFT) 482
+4 Ketramose, the New Dawn (DFT) 549
 4 Loot, the Pathfinder (DFT) 212
 4 Loot, the Pathfinder (DFT) 391
 4 Loot, the Pathfinder (DFT) 404
 4 Loot, the Pathfinder (DFT) 414
 4 Loot, the Pathfinder (DFT) 484
+4 March of the World Ooze (DFT) 169
 4 Oildeep Gearhulk (DFT) 215
 4 Oildeep Gearhulk (DFT) 351
 4 Oildeep Gearhulk (DFT) 487
