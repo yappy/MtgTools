@@ -44,14 +44,25 @@ Deck
 4 Daretti, Rocketeer Engineer (DFT) 120
 4 Daretti, Rocketeer Engineer (DFT) 358
 4 Daretti, Rocketeer Engineer (DFT) 458
+4 Demonic Junker (DFT) 83
+4 District Mascot (DFT) 158
+4 District Mascot (DFT) 344
+4 District Mascot (DFT) 466
+4 District Mascot (DFT) 543
 4 Draconautics Engineer (DFT) 121
 4 Draconautics Engineer (DFT) 341
 4 Draconautics Engineer (DFT) 459
 4 Draconautics Engineer (DFT) 540
+4 Explosive Getaway (DFT) 202
+4 Explosive Getaway (DFT) 390
+4 Explosive Getaway (DFT) 403
+4 Explosive Getaway (DFT) 479
 4 Far Fortune, End Boss (DFT) 203
 4 Far Fortune, End Boss (DFT) 363
 4 Far Fortune, End Boss (DFT) 480
 4 Fearless Swashbuckler (DFT) 204
+================================================================================
+Deck
 4 Fearless Swashbuckler (DFT) 346
 4 Fearless Swashbuckler (DFT) 481
 4 Fearless Swashbuckler (DFT) 545
@@ -61,8 +72,6 @@ Deck
 4 Kolodin, Triumph Caster (DFT) 210
 4 Kolodin, Triumph Caster (DFT) 364
 4 Kolodin, Triumph Caster (DFT) 483
-================================================================================
-Deck
 4 Lifecraft Engine (DFT) 234
 4 Lifecraft Engine (DFT) 329
 4 Lifecraft Engine (DFT) 423
@@ -81,6 +90,7 @@ Deck
 4 Muraganda Raceway (DFT) 396
 4 Muraganda Raceway (DFT) 426
 4 Muraganda Raceway (DFT) 502
+4 Perilous Snare (DFT) 23
 4 Possession Engine (DFT) 54
 4 Possession Engine (DFT) 302
 4 Possession Engine (DFT) 438
@@ -115,6 +125,8 @@ Deck
 4 Vnwxt, Verbose Host (DFT) 443
 4 Voyager Glidecar (DFT) 36
 4 Voyager Glidecar (DFT) 299
+================================================================================
+Deck
 4 Voyager Glidecar (DFT) 435
 4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
@@ -125,8 +137,6 @@ Deck
 4 Willowrush Verge (DFT) 506
 4 Winter, Cursed Rider (DFT) 228
 4 Winter, Cursed Rider (DFT) 369
-================================================================================
-Deck
 4 Winter, Cursed Rider (DFT) 494
 4 Zahur, Glory's Past (DFT) 229
 4 Zahur, Glory's Past (DFT) 370

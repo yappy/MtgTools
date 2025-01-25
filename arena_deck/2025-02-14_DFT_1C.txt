@@ -1,10 +1,17 @@
 Deck
 4 Avishkar Raceway (DFT) 249
 4 Avishkar Raceway (DFT) 425
+4 Beastrider Vanguard (DFT) 154
+4 Bestow Greatness (DFT) 155
 4 Bloodfell Caves (DFT) 251
 4 Blossoming Sands (DFT) 252
+4 Brightfield Glider (DFT) 4
 4 Brightfield Mustang (DFT) 5
+4 Clamorous Ironclad (DFT) 117
+4 Clamorous Ironclad (DFT) 312
 4 Dismal Backwater (DFT) 254
+4 Endrider Catalyzer (DFT) 124
+4 Gilded Ghoda (DFT) 130
 4 Goblin Surveyor (DFT) 131
 4 Hulldrifter (DFT) 47
 4 Hulldrifter (DFT) 300
@@ -25,6 +32,8 @@ Deck
 4 Swiftwater Cliffs (DFT) 265
 4 Thornwood Falls (DFT) 266
 4 Tranquil Cove (DFT) 267
+4 Veloheart Bike (DFT) 184
+4 Veloheart Bike (DFT) 318
 4 Venomsac Lagac (DFT) 185
 4 Wind-Scarred Crag (DFT) 271
 4 Wreck Remover (DFT) 247

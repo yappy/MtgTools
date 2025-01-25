@@ -8,10 +8,13 @@ Deck
 4 Apocalypse Runner (DFT) 188
 4 Apocalypse Runner (DFT) 319
 4 Autarch Mammoth (DFT) 153
+4 Back on Track (DFT) 76
 4 Boom Scholar (DFT) 189
 4 Boosted Sloop (DFT) 190
 4 Boosted Sloop (DFT) 320
 4 Canyon Vaulter (DFT) 8
+4 Carrion Cruiser (DFT) 78
+4 Carrion Cruiser (DFT) 305
 4 Cloudspire Captain (DFT) 9
 4 Cloudspire Coordinator (DFT) 196
 4 Cloudspire Skycycle (DFT) 197
@@ -26,6 +29,7 @@ Deck
 4 Greasewrench Goblin (DFT) 132
 4 Guidelight Pathmaker (DFT) 206
 4 Guidelight Pathmaker (DFT) 324
+4 Haunt the Network (DFT) 207
 4 Hour of Victory (DFT) 91
 4 Lagorin, Soul of Alacria (DFT) 211
 4 Marauding Mako (DFT) 138
@@ -34,12 +38,17 @@ Deck
 4 Marshals' Pathcruiser (DFT) 330
 4 Molt Tender (DFT) 171
 4 Momentum Breaker (DFT) 97
+4 Nesting Bot (DFT) 22
+4 Pacesetter Paragon (DFT) 140
 4 Rangers' Aetherhive (DFT) 217
 4 Rangers' Aetherhive (DFT) 326
 4 Reef Roads (DFT) 259
+4 Roadside Blowout (DFT) 58
 4 Rocketeer Boostbuggy (DFT) 220
 4 Rocketeer Boostbuggy (DFT) 327
 4 Rocky Roads (DFT) 261
+4 Stock Up (DFT) 67
+4 Tune Up (DFT) 33
 4 Unswerving Sloth (DFT) 34
 4 Wickerfolk Indomitable (DFT) 109
 4 Wild Roads (DFT) 269
