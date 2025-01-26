@@ -23,11 +23,15 @@ Deck
 4 Loot, the Pathfinder (DFT) 414
 4 Loot, the Pathfinder (DFT) 484
 4 March of the World Ooze (DFT) 169
+4 March of the World Ooze (DFT) 388
 4 March of the World Ooze (DFT) 402
 4 March of the World Ooze (DFT) 412
+4 March of the World Ooze (DFT) 468
 4 Mu Yanling, Wind Rider (DFT) 52
+4 Mu Yanling, Wind Rider (DFT) 379
 4 Mu Yanling, Wind Rider (DFT) 399
 4 Mu Yanling, Wind Rider (DFT) 409
+4 Mu Yanling, Wind Rider (DFT) 437
 4 Oildeep Gearhulk (DFT) 215
 4 Oildeep Gearhulk (DFT) 351
 4 Oildeep Gearhulk (DFT) 487

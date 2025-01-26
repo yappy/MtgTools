@@ -1,5 +1,4 @@
 Deck
-4 "Intimidation Tactics" (DFT) 92
 4 Aether Syphon (DFT) 38
 4 Air Response Unit (DFT) 1
 4 Air Response Unit (DFT) 292
@@ -21,16 +20,20 @@ Deck
 4 Cloudspire Skycycle (DFT) 321
 4 Country Roads (DFT) 253
 4 Defend the Rider (DFT) 157
+4 Dredger's Insight (DFT) 159
 4 Earthrumbler (DFT) 160
 4 Earthrumbler (DFT) 315
 4 Elvish Refueler (DFT) 161
+4 Embalmed Ascendant (DFT) 201
 4 Foul Roads (DFT) 255
 4 Gloryheath Lynx (DFT) 14
 4 Greasewrench Goblin (DFT) 132
 4 Guidelight Pathmaker (DFT) 206
 4 Guidelight Pathmaker (DFT) 324
 4 Haunt the Network (DFT) 207
+4 Haunted Hellride (DFT) 208
 4 Hour of Victory (DFT) 91
+4 Intimidation Tactics (DFT) 92
 4 Lagorin, Soul of Alacria (DFT) 211
 4 Marauding Mako (DFT) 138
 4 Marauding Mako (DFT) 419
@@ -42,6 +45,7 @@ Deck
 4 Pacesetter Paragon (DFT) 140
 4 Rangers' Aetherhive (DFT) 217
 4 Rangers' Aetherhive (DFT) 326
+4 Rangers' Refueler (DFT) 55
 4 Reef Roads (DFT) 259
 4 Roadside Blowout (DFT) 58
 4 Rocketeer Boostbuggy (DFT) 220

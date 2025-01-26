@@ -32,7 +32,6 @@ Deck
 4 Caradora, Heart of Alacria (DFT) 476
 4 Count on Luck (DFT) 118
 4 Count on Luck (DFT) 385
-4 Count on Luck (DFT) 395
 4 Count on Luck (DFT) 457
 4 Cryptcaller Chariot (DFT) 80
 4 Cryptcaller Chariot (DFT) 306
@@ -61,9 +60,9 @@ Deck
 4 Far Fortune, End Boss (DFT) 363
 4 Far Fortune, End Boss (DFT) 480
 4 Fearless Swashbuckler (DFT) 204
+4 Fearless Swashbuckler (DFT) 346
 ================================================================================
 Deck
-4 Fearless Swashbuckler (DFT) 346
 4 Fearless Swashbuckler (DFT) 481
 4 Fearless Swashbuckler (DFT) 545
 4 Full Throttle (DFT) 127
@@ -125,9 +124,9 @@ Deck
 4 Vnwxt, Verbose Host (DFT) 443
 4 Voyager Glidecar (DFT) 36
 4 Voyager Glidecar (DFT) 299
+4 Voyager Glidecar (DFT) 435
 ================================================================================
 Deck
-4 Voyager Glidecar (DFT) 435
 4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
