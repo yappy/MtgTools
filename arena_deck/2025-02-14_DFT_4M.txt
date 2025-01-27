@@ -9,6 +9,7 @@ Deck
 4 Chandra, Spark Hunter (DFT) 456
 4 Cursecloth Wrappings (DFT) 400
 4 Cursecloth Wrappings (DFT) 410
+4 Explosive Getaway (DFT) 403
 4 Hazoret, Godseeker (DFT) 133
 4 Hazoret, Godseeker (DFT) 347
 4 Hazoret, Godseeker (DFT) 462

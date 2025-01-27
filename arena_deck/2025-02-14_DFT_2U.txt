@@ -47,6 +47,7 @@ Deck
 4 Rangers' Aetherhive (DFT) 326
 4 Rangers' Refueler (DFT) 55
 4 Reef Roads (DFT) 259
+4 Roadside Assistance (DFT) 26
 4 Roadside Blowout (DFT) 58
 4 Rocketeer Boostbuggy (DFT) 220
 4 Rocketeer Boostbuggy (DFT) 327

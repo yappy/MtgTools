@@ -54,16 +54,15 @@ Deck
 4 Draconautics Engineer (DFT) 540
 4 Explosive Getaway (DFT) 202
 4 Explosive Getaway (DFT) 390
-4 Explosive Getaway (DFT) 403
 4 Explosive Getaway (DFT) 479
 4 Far Fortune, End Boss (DFT) 203
 4 Far Fortune, End Boss (DFT) 363
 4 Far Fortune, End Boss (DFT) 480
 4 Fearless Swashbuckler (DFT) 204
 4 Fearless Swashbuckler (DFT) 346
+4 Fearless Swashbuckler (DFT) 481
 ================================================================================
 Deck
-4 Fearless Swashbuckler (DFT) 481
 4 Fearless Swashbuckler (DFT) 545
 4 Full Throttle (DFT) 127
 4 Full Throttle (DFT) 386
@@ -125,9 +124,9 @@ Deck
 4 Voyager Glidecar (DFT) 36
 4 Voyager Glidecar (DFT) 299
 4 Voyager Glidecar (DFT) 435
+4 Voyager Glidecar (DFT) 520
 ================================================================================
 Deck
-4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
 4 Wastewood Verge (DFT) 505
