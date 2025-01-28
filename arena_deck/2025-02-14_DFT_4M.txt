@@ -41,6 +41,8 @@ Deck
 4 Pyrewood Gearhulk (DFT) 352
 4 Pyrewood Gearhulk (DFT) 488
 4 Pyrewood Gearhulk (DFT) 551
+4 Riptide Gearhulk (DFT) 219
+4 Riptide Gearhulk (DFT) 490
 4 Sab-Sunen, Luxa Embodied (DFT) 221
 4 Sab-Sunen, Luxa Embodied (DFT) 354
 4 Sab-Sunen, Luxa Embodied (DFT) 491
@@ -52,9 +54,15 @@ Deck
 4 The Last Ride (DFT) 308
 4 The Last Ride (DFT) 451
 4 The Last Ride (DFT) 525
+4 The Speed Demon (DFT) 105
+4 The Speed Demon (DFT) 339
+4 The Speed Demon (DFT) 453
+4 The Speed Demon (DFT) 538
 4 Thunderous Velocipede (DFT) 183
 4 Thunderous Velocipede (DFT) 317
 4 Thunderous Velocipede (DFT) 471
+================================================================================
+Deck
 4 Thunderous Velocipede (DFT) 529
 4 Valor's Flagship (DFT) 35
 4 Valor's Flagship (DFT) 298

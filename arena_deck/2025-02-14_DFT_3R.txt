@@ -2,6 +2,8 @@ Deck
 4 Aatchik, Emerald Radian (DFT) 187
 4 Aatchik, Emerald Radian (DFT) 360
 4 Aatchik, Emerald Radian (DFT) 473
+4 Afterburner Expert (DFT) 150
+4 Afterburner Expert (DFT) 387
 4 Agonasaur Rex (DFT) 151
 4 Agonasaur Rex (DFT) 343
 4 Agonasaur Rex (DFT) 465
@@ -44,6 +46,9 @@ Deck
 4 Daretti, Rocketeer Engineer (DFT) 358
 4 Daretti, Rocketeer Engineer (DFT) 458
 4 Demonic Junker (DFT) 83
+4 Demonic Junker (DFT) 307
+4 Demonic Junker (DFT) 448
+4 Demonic Junker (DFT) 524
 4 District Mascot (DFT) 158
 4 District Mascot (DFT) 344
 4 District Mascot (DFT) 466
@@ -54,19 +59,24 @@ Deck
 4 Draconautics Engineer (DFT) 540
 4 Explosive Getaway (DFT) 202
 4 Explosive Getaway (DFT) 390
+4 Explosive Getaway (DFT) 413
 4 Explosive Getaway (DFT) 479
+================================================================================
+Deck
 4 Far Fortune, End Boss (DFT) 203
 4 Far Fortune, End Boss (DFT) 363
 4 Far Fortune, End Boss (DFT) 480
 4 Fearless Swashbuckler (DFT) 204
 4 Fearless Swashbuckler (DFT) 346
 4 Fearless Swashbuckler (DFT) 481
-================================================================================
-Deck
 4 Fearless Swashbuckler (DFT) 545
 4 Full Throttle (DFT) 127
 4 Full Throttle (DFT) 386
 4 Full Throttle (DFT) 460
+4 Gas Guzzler (DFT) 85
+4 Gas Guzzler (DFT) 338
+4 Gas Guzzler (DFT) 449
+4 Gas Guzzler (DFT) 537
 4 Kolodin, Triumph Caster (DFT) 210
 4 Kolodin, Triumph Caster (DFT) 364
 4 Kolodin, Triumph Caster (DFT) 483
@@ -89,6 +99,8 @@ Deck
 4 Muraganda Raceway (DFT) 426
 4 Muraganda Raceway (DFT) 502
 4 Perilous Snare (DFT) 23
+4 Perilous Snare (DFT) 377
+4 Perilous Snare (DFT) 430
 4 Possession Engine (DFT) 54
 4 Possession Engine (DFT) 302
 4 Possession Engine (DFT) 438
@@ -102,6 +114,9 @@ Deck
 4 Repurposing Bay (DFT) 56
 4 Repurposing Bay (DFT) 380
 4 Repurposing Bay (DFT) 439
+4 Riverchurn Monument (DFT) 57
+4 Riverchurn Monument (DFT) 381
+4 Riverchurn Monument (DFT) 440
 4 Riverpyre Verge (DFT) 260
 4 Riverpyre Verge (DFT) 372
 4 Riverpyre Verge (DFT) 503
@@ -110,6 +125,8 @@ Deck
 4 Samut, the Driving Force (DFT) 492
 4 Sita Varma, Masked Racer (DFT) 223
 4 Sita Varma, Masked Racer (DFT) 368
+================================================================================
+Deck
 4 Sita Varma, Masked Racer (DFT) 493
 4 Sunbillow Verge (DFT) 264
 4 Sunbillow Verge (DFT) 373
@@ -125,8 +142,6 @@ Deck
 4 Voyager Glidecar (DFT) 299
 4 Voyager Glidecar (DFT) 435
 4 Voyager Glidecar (DFT) 520
-================================================================================
-Deck
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
 4 Wastewood Verge (DFT) 505
