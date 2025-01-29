@@ -1,5 +1,5 @@
 Deck
-4 "Roaring Croozer" (DFT) 172
+4 "Adrenalinotaur" (DFT) 112
 4 Aether Syphon (DFT) 38
 4 Air Response Unit (DFT) 1
 4 Air Response Unit (DFT) 292
@@ -12,6 +12,7 @@ Deck
 4 Boom Scholar (DFT) 189
 4 Boosted Sloop (DFT) 190
 4 Boosted Sloop (DFT) 320
+4 Caelorna, Coral Tyrant (DFT) 40
 4 Canyon Vaulter (DFT) 8
 4 Carrion Cruiser (DFT) 78
 4 Carrion Cruiser (DFT) 305
@@ -26,14 +27,18 @@ Deck
 4 Diversion Unit (DFT) 41
 4 Dredger's Insight (DFT) 159
 4 Dune Drifter (DFT) 200
+4 Dune Drifter (DFT) 323
 4 Earthrumbler (DFT) 160
 4 Earthrumbler (DFT) 315
 4 Elvish Refueler (DFT) 161
 4 Embalmed Ascendant (DFT) 201
+4 Fang-Druid Summoner (DFT) 163
 4 Foul Roads (DFT) 255
 4 Gastal Raider (DFT) 86
+4 Gastal Raider (DFT) 418
 4 Gloryheath Lynx (DFT) 14
 4 Greasewrench Goblin (DFT) 132
+4 Greenbelt Guardian (DFT) 164
 4 Guidelight Pathmaker (DFT) 206
 4 Guidelight Pathmaker (DFT) 324
 4 Haunt the Network (DFT) 207
@@ -41,6 +46,7 @@ Deck
 4 Haunted Hellride (DFT) 325
 4 Hour of Victory (DFT) 91
 4 Intimidation Tactics (DFT) 92
+4 Kalakscion, Hunger Tyrant (DFT) 93
 4 Lagorin, Soul of Alacria (DFT) 211
 4 Marauding Mako (DFT) 138
 4 Marauding Mako (DFT) 419
@@ -49,34 +55,45 @@ Deck
 4 Molt Tender (DFT) 171
 4 Momentum Breaker (DFT) 97
 4 Nesting Bot (DFT) 22
+4 Ooze Patrol (DFT) 172
 4 Pacesetter Paragon (DFT) 140
+4 Pit Automaton (DFT) 238
 4 Pride of the Road (DFT) 24
 4 Racers' Scoreboard (DFT) 239
 4 Rangers' Aetherhive (DFT) 217
+================================================================================
+Deck
 4 Rangers' Aetherhive (DFT) 326
 4 Rangers' Refueler (DFT) 55
 4 Rangers' Refueler (DFT) 303
 4 Reckless Velocitaur (DFT) 144
 4 Reef Roads (DFT) 259
+4 Rise from the Wreck (DFT) 178
 4 Risen Necroregent (DFT) 102
 4 Roadside Assistance (DFT) 26
 4 Roadside Blowout (DFT) 58
-================================================================================
-Deck
 4 Rocketeer Boostbuggy (DFT) 220
 4 Rocketeer Boostbuggy (DFT) 327
 4 Rocky Roads (DFT) 261
+4 Shefet Archfiend (DFT) 998?
+4 Skyserpent Seeker (DFT) 224
+4 Skyserpent Seeker (DFT) 420
 4 Slick Imitator (DFT) 62
 4 Spikeshell Harrier (DFT) 65
 4 Spire Mechcycle (DFT) 147
 4 Spire Mechcycle (DFT) 314
 4 Stock Up (DFT) 67
+4 Terrian, World Tyrant (DFT) 182
 4 Thundering Broodwagon (DFT) 225
+4 Thundering Broodwagon (DFT) 328
 4 Trade the Helm (DFT) 69
 4 Transit Mage (DFT) 70
 4 Tune Up (DFT) 33
+4 Tune Up (DFT) 417
+4 Tyrox, Saurid Tyrant (DFT) 149
 4 Unswerving Sloth (DFT) 34
 4 Veteran Beastrider (DFT) 226
 4 Voyage Home (DFT) 227
+4 Voyage Home (DFT) 421
 4 Wickerfolk Indomitable (DFT) 109
 4 Wild Roads (DFT) 269

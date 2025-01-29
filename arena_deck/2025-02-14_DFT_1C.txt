@@ -14,6 +14,7 @@ Deck
 4 Daring Mechanic (DFT) 11
 4 Dismal Backwater (DFT) 254
 4 Endrider Catalyzer (DFT) 124
+4 Flood the Engine (DFT) 42
 4 Gastal Blockbuster (DFT) 128
 4 Gilded Ghoda (DFT) 130
 4 Goblin Surveyor (DFT) 131
@@ -25,9 +26,14 @@ Deck
 4 Loxodon Surveyor (DFT) 167
 4 Midnight Mangler (DFT) 50
 4 Midnight Mangler (DFT) 301
+4 Monument to Endurance (DFT) 999?
 4 Night Market (DFT) 258
+4 Pactdoll Terror (DFT) 99
 4 Pedal to the Metal (DFT) 141
 4 Prowcatcher Specialist (DFT) 142
+4 Ride's End (DFT) 25
+4 Ripclaw Wrangler (DFT) 101
+4 Ripclaw Wrangler (DFT) 309
 4 Rugged Highlands (DFT) 262
 4 Scoured Barrens (DFT) 263
 4 Scrap Compactor (DFT) 242

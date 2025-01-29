@@ -1,4 +1,5 @@
 Deck
+4 "Spectacular Pileup" (DFT) 398
 4 Brightglass Gearhulk (DFT) 191
 4 Brightglass Gearhulk (DFT) 348
 4 Brightglass Gearhulk (DFT) 474
@@ -28,6 +29,10 @@ Deck
 4 March of the World Ooze (DFT) 402
 4 March of the World Ooze (DFT) 412
 4 March of the World Ooze (DFT) 468
+4 Mimeoplasm, Revered One (DFT) 214
+4 Mimeoplasm, Revered One (DFT) 392
+4 Mimeoplasm, Revered One (DFT) 405
+4 Mimeoplasm, Revered One (DFT) 486
 4 Mu Yanling, Wind Rider (DFT) 52
 4 Mu Yanling, Wind Rider (DFT) 379
 4 Mu Yanling, Wind Rider (DFT) 399
@@ -41,14 +46,23 @@ Deck
 4 Pyrewood Gearhulk (DFT) 352
 4 Pyrewood Gearhulk (DFT) 488
 4 Pyrewood Gearhulk (DFT) 551
+4 Radiant Lotus (DFT) 240
+4 Radiant Lotus (DFT) 395
+4 Radiant Lotus (DFT) 406
+4 Radiant Lotus (DFT) 416
+4 Radiant Lotus (DFT) 500
 4 Riptide Gearhulk (DFT) 219
+4 Riptide Gearhulk (DFT) 353
 4 Riptide Gearhulk (DFT) 490
+4 Riptide Gearhulk (DFT) 552
 4 Sab-Sunen, Luxa Embodied (DFT) 221
 4 Sab-Sunen, Luxa Embodied (DFT) 354
 4 Sab-Sunen, Luxa Embodied (DFT) 491
 4 Sab-Sunen, Luxa Embodied (DFT) 553
 4 The Aetherspark (DFT) 231
 4 The Aetherspark (DFT) 376
+================================================================================
+Deck
 4 The Aetherspark (DFT) 496
 4 The Last Ride (DFT) 94
 4 The Last Ride (DFT) 308
@@ -61,8 +75,6 @@ Deck
 4 Thunderous Velocipede (DFT) 183
 4 Thunderous Velocipede (DFT) 317
 4 Thunderous Velocipede (DFT) 471
-================================================================================
-Deck
 4 Thunderous Velocipede (DFT) 529
 4 Valor's Flagship (DFT) 35
 4 Valor's Flagship (DFT) 298
