@@ -12,6 +12,7 @@ Deck
 4 Boom Scholar (DFT) 189
 4 Boosted Sloop (DFT) 190
 4 Boosted Sloop (DFT) 320
+4 Broodheart Engine (DFT) 193
 4 Caelorna, Coral Tyrant (DFT) 40
 4 Canyon Vaulter (DFT) 8
 4 Carrion Cruiser (DFT) 78
@@ -25,6 +26,7 @@ Deck
 4 Detention Chariot (DFT) 12
 4 Detention Chariot (DFT) 294
 4 Diversion Unit (DFT) 41
+4 Dracosaur Auxiliary (DFT) 122
 4 Dredger's Insight (DFT) 159
 4 Dune Drifter (DFT) 200
 4 Dune Drifter (DFT) 323
@@ -34,6 +36,7 @@ Deck
 4 Embalmed Ascendant (DFT) 201
 4 Fang-Druid Summoner (DFT) 163
 4 Foul Roads (DFT) 255
+4 Fuel the Flames (DFT) 126
 4 Gastal Raider (DFT) 86
 4 Gastal Raider (DFT) 418
 4 Gloryheath Lynx (DFT) 14
@@ -58,11 +61,12 @@ Deck
 4 Ooze Patrol (DFT) 172
 4 Pacesetter Paragon (DFT) 140
 4 Pit Automaton (DFT) 238
+================================================================================
+Deck
+4 Point the Way (DFT) 175
 4 Pride of the Road (DFT) 24
 4 Racers' Scoreboard (DFT) 239
 4 Rangers' Aetherhive (DFT) 217
-================================================================================
-Deck
 4 Rangers' Aetherhive (DFT) 326
 4 Rangers' Refueler (DFT) 55
 4 Rangers' Refueler (DFT) 303
@@ -75,7 +79,9 @@ Deck
 4 Rocketeer Boostbuggy (DFT) 220
 4 Rocketeer Boostbuggy (DFT) 327
 4 Rocky Roads (DFT) 261
-4 Shefet Archfiend (DFT) 998?
+4 Rover Blades (DFT) 241
+4 Rover Blades (DFT) 331
+4 Shefet Archfiend (DFT) 104
 4 Skyserpent Seeker (DFT) 224
 4 Skyserpent Seeker (DFT) 420
 4 Slick Imitator (DFT) 62
@@ -97,3 +103,4 @@ Deck
 4 Voyage Home (DFT) 421
 4 Wickerfolk Indomitable (DFT) 109
 4 Wild Roads (DFT) 269
+4 Wretched Doll (DFT) 111

@@ -1,6 +1,6 @@
 Deck
-4 "Siege Renault" (DFT) 199
-4 "Spectacular Pileup" (DFT) 29
+4 "Cyclone" (DFT) 74
+4 "Cyclone" (DFT) 336
 4 Aatchik, Emerald Radian (DFT) 187
 4 Aatchik, Emerald Radian (DFT) 360
 4 Aatchik, Emerald Radian (DFT) 473
@@ -52,17 +52,21 @@ Deck
 4 Daretti, Rocketeer Engineer (DFT) 120
 4 Daretti, Rocketeer Engineer (DFT) 358
 4 Daretti, Rocketeer Engineer (DFT) 458
+4 Debris Beetle (DFT) 199
+4 Debris Beetle (DFT) 322
+4 Debris Beetle (DFT) 478
+4 Debris Beetle (DFT) 530
 4 Demonic Junker (DFT) 83
 4 Demonic Junker (DFT) 307
 4 Demonic Junker (DFT) 448
 4 Demonic Junker (DFT) 524
 4 District Mascot (DFT) 158
+================================================================================
+Deck
 4 District Mascot (DFT) 344
 4 District Mascot (DFT) 466
 4 District Mascot (DFT) 543
 4 Draconautics Engineer (DFT) 121
-================================================================================
-Deck
 4 Draconautics Engineer (DFT) 341
 4 Draconautics Engineer (DFT) 459
 4 Draconautics Engineer (DFT) 540
@@ -84,9 +88,17 @@ Deck
 4 Gas Guzzler (DFT) 338
 4 Gas Guzzler (DFT) 449
 4 Gas Guzzler (DFT) 537
+4 Gastal Thrillroller (DFT) 129
+4 Gastal Thrillroller (DFT) 313
+4 Gastal Thrillroller (DFT) 461
+4 Gastal Thrillroller (DFT) 527
 4 Gonti, Night Minister (DFT) 87
 4 Gonti, Night Minister (DFT) 357
 4 Gonti, Night Minister (DFT) 450
+4 Guardian Sunmare (DFT) 15
+4 Guardian Sunmare (DFT) 334
+4 Guardian Sunmare (DFT) 429
+4 Guardian Sunmare (DFT) 533
 4 Kolodin, Triumph Caster (DFT) 210
 4 Kolodin, Triumph Caster (DFT) 364
 4 Kolodin, Triumph Caster (DFT) 483
@@ -95,6 +107,10 @@ Deck
 4 Lifecraft Engine (DFT) 423
 4 Lifecraft Engine (DFT) 497
 4 Lumbering Worldwagon (DFT) 168
+4 Lumbering Worldwagon (DFT) 316
+4 Lumbering Worldwagon (DFT) 422
+4 Lumbering Worldwagon (DFT) 467
+4 Lumbering Worldwagon (DFT) 528
 4 Marketback Walker (DFT) 235
 4 Marketback Walker (DFT) 393
 4 Marketback Walker (DFT) 498
@@ -105,10 +121,18 @@ Deck
 4 Mindspring Merfolk (DFT) 335
 4 Mindspring Merfolk (DFT) 436
 4 Mindspring Merfolk (DFT) 534
+4 Monument to Endurance (DFT) 237
+4 Monument to Endurance (DFT) 394
+4 Monument to Endurance (DFT) 499
 4 Muraganda Raceway (DFT) 257
+================================================================================
+Deck
 4 Muraganda Raceway (DFT) 396
 4 Muraganda Raceway (DFT) 426
 4 Muraganda Raceway (DFT) 502
+4 Oviya, Automech Artisan (DFT) 173
+4 Oviya, Automech Artisan (DFT) 359
+4 Oviya, Automech Artisan (DFT) 469
 4 Perilous Snare (DFT) 23
 4 Perilous Snare (DFT) 377
 4 Perilous Snare (DFT) 430
@@ -123,10 +147,10 @@ Deck
 4 Redshift, Rocketeer Chief (DFT) 366
 4 Redshift, Rocketeer Chief (DFT) 489
 4 Regal Imperiosaur (DFT) 177
+4 Regal Imperiosaur (DFT) 389
+4 Regal Imperiosaur (DFT) 470
 4 Repurposing Bay (DFT) 56
 4 Repurposing Bay (DFT) 380
-================================================================================
-Deck
 4 Repurposing Bay (DFT) 439
 4 Riverchurn Monument (DFT) 57
 4 Riverchurn Monument (DFT) 381
@@ -140,6 +164,14 @@ Deck
 4 Sita Varma, Masked Racer (DFT) 223
 4 Sita Varma, Masked Racer (DFT) 368
 4 Sita Varma, Masked Racer (DFT) 493
+4 Skyseer's Chariot (DFT) 28
+4 Skyseer's Chariot (DFT) 296
+4 Skyseer's Chariot (DFT) 432
+4 Skyseer's Chariot (DFT) 518
+4 Spectacular Pileup (DFT) 29
+4 Spectacular Pileup (DFT) 378
+4 Spectacular Pileup (DFT) 408
+4 Spectacular Pileup (DFT) 433
 4 Sunbillow Verge (DFT) 264
 4 Sunbillow Verge (DFT) 373
 4 Sunbillow Verge (DFT) 504
@@ -157,9 +189,12 @@ Deck
 4 Voyager Glidecar (DFT) 299
 4 Voyager Glidecar (DFT) 435
 4 Voyager Glidecar (DFT) 520
+================================================================================
+Deck
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
 4 Wastewood Verge (DFT) 505
+4 Webstrike Elite (DFT) 186
 4 Willowrush Verge (DFT) 270
 4 Willowrush Verge (DFT) 375
 4 Willowrush Verge (DFT) 506
