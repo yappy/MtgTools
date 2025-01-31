@@ -1,4 +1,6 @@
 Deck
+4 "Coalheart Gearhulk" (DFT) 198
+4 "Coalheart Gearhulk" (DFT) 349
 4 Brightglass Gearhulk (DFT) 191
 4 Brightglass Gearhulk (DFT) 348
 4 Brightglass Gearhulk (DFT) 474
@@ -59,10 +61,15 @@ Deck
 4 Sab-Sunen, Luxa Embodied (DFT) 354
 4 Sab-Sunen, Luxa Embodied (DFT) 491
 4 Sab-Sunen, Luxa Embodied (DFT) 553
-4 Salvation Engine (DFT) 27
-4 Spectacular Pileup (DFT) 398
 ================================================================================
 Deck
+4 Salvation Engine (DFT) 27
+4 Salvation Engine (DFT) 295
+4 Salvation Engine (DFT) 397
+4 Salvation Engine (DFT) 407
+4 Salvation Engine (DFT) 431
+4 Salvation Engine (DFT) 517
+4 Spectacular Pileup (DFT) 398
 4 The Aetherspark (DFT) 231
 4 The Aetherspark (DFT) 376
 4 The Aetherspark (DFT) 496

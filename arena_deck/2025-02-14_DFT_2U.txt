@@ -1,8 +1,9 @@
 Deck
-4 "Adrenalinotaur" (DFT) 112
+4 Adrenaline Jockey (DFT) 112
 4 Aether Syphon (DFT) 38
 4 Air Response Unit (DFT) 1
 4 Air Response Unit (DFT) 292
+4 Alacrian Armory (DFT) 2
 4 Amonkhet Raceway (DFT) 248
 4 Amonkhet Raceway (DFT) 424
 4 Apocalypse Runner (DFT) 188
@@ -59,12 +60,14 @@ Deck
 4 Momentum Breaker (DFT) 97
 4 Nesting Bot (DFT) 22
 4 Ooze Patrol (DFT) 172
-4 Pacesetter Paragon (DFT) 140
-4 Pit Automaton (DFT) 238
+4 Outpace Oblivion (DFT) 139
 ================================================================================
 Deck
+4 Pacesetter Paragon (DFT) 140
+4 Pit Automaton (DFT) 238
 4 Point the Way (DFT) 175
 4 Pride of the Road (DFT) 24
+4 Push the Limit (DFT) 143
 4 Racers' Scoreboard (DFT) 239
 4 Rangers' Aetherhive (DFT) 217
 4 Rangers' Aetherhive (DFT) 326
@@ -85,6 +88,7 @@ Deck
 4 Skyserpent Seeker (DFT) 224
 4 Skyserpent Seeker (DFT) 420
 4 Slick Imitator (DFT) 62
+4 Spell Pierce (DFT) 64
 4 Spikeshell Harrier (DFT) 65
 4 Spire Mechcycle (DFT) 147
 4 Spire Mechcycle (DFT) 314

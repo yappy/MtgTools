@@ -1,6 +1,4 @@
 Deck
-4 "Cyclone" (DFT) 74
-4 "Cyclone" (DFT) 336
 4 Aatchik, Emerald Radian (DFT) 187
 4 Aatchik, Emerald Radian (DFT) 360
 4 Aatchik, Emerald Radian (DFT) 473
@@ -61,10 +59,10 @@ Deck
 4 Demonic Junker (DFT) 448
 4 Demonic Junker (DFT) 524
 4 District Mascot (DFT) 158
-================================================================================
-Deck
 4 District Mascot (DFT) 344
 4 District Mascot (DFT) 466
+================================================================================
+Deck
 4 District Mascot (DFT) 543
 4 Draconautics Engineer (DFT) 121
 4 Draconautics Engineer (DFT) 341
@@ -99,6 +97,8 @@ Deck
 4 Guardian Sunmare (DFT) 334
 4 Guardian Sunmare (DFT) 429
 4 Guardian Sunmare (DFT) 533
+4 Howlsquad Heavy (DFT) 134
+4 Howlsquad Heavy (DFT) 342
 4 Kolodin, Triumph Caster (DFT) 210
 4 Kolodin, Triumph Caster (DFT) 364
 4 Kolodin, Triumph Caster (DFT) 483
@@ -106,6 +106,7 @@ Deck
 4 Lifecraft Engine (DFT) 329
 4 Lifecraft Engine (DFT) 423
 4 Lifecraft Engine (DFT) 497
+4 Lifecraft Engine (DFT) 531
 4 Lumbering Worldwagon (DFT) 168
 4 Lumbering Worldwagon (DFT) 316
 4 Lumbering Worldwagon (DFT) 422
@@ -124,9 +125,9 @@ Deck
 4 Monument to Endurance (DFT) 237
 4 Monument to Endurance (DFT) 394
 4 Monument to Endurance (DFT) 499
-4 Muraganda Raceway (DFT) 257
 ================================================================================
 Deck
+4 Muraganda Raceway (DFT) 257
 4 Muraganda Raceway (DFT) 396
 4 Muraganda Raceway (DFT) 426
 4 Muraganda Raceway (DFT) 502
@@ -188,13 +189,20 @@ Deck
 4 Voyager Glidecar (DFT) 36
 4 Voyager Glidecar (DFT) 299
 4 Voyager Glidecar (DFT) 435
-4 Voyager Glidecar (DFT) 520
 ================================================================================
 Deck
+4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
 4 Wastewood Verge (DFT) 505
+4 Waxen Shapethief (DFT) 74
+4 Waxen Shapethief (DFT) 336
+4 Waxen Shapethief (DFT) 444
+4 Waxen Shapethief (DFT) 535
 4 Webstrike Elite (DFT) 186
+4 Webstrike Elite (DFT) 345
+4 Webstrike Elite (DFT) 472
+4 Webstrike Elite (DFT) 544
 4 Willowrush Verge (DFT) 270
 4 Willowrush Verge (DFT) 375
 4 Willowrush Verge (DFT) 506

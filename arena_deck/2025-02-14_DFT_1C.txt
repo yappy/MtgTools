@@ -14,17 +14,23 @@ Deck
 4 Collision Course (DFT) 10
 4 Crash and Burn (DFT) 119
 4 Daring Mechanic (DFT) 11
+4 Deathless Pilot (DFT) 82
 4 Dismal Backwater (DFT) 254
 4 Endrider Catalyzer (DFT) 124
 4 Flood the Engine (DFT) 42
 4 Gastal Blockbuster (DFT) 128
 4 Gilded Ghoda (DFT) 130
 4 Goblin Surveyor (DFT) 131
+4 Grim Bauble (DFT) 88
+4 Howler's Heavy (DFT) 46
 4 Hulldrifter (DFT) 47
 4 Hulldrifter (DFT) 300
 4 Interface Ace (DFT) 17
 4 Jungle Hollow (DFT) 256
+4 Kickoff Celebrations (DFT) 135
+4 Lightning Strike (DFT) 136
 4 Lightshield Parry (DFT) 19
+4 Lightwheel Enhancements (DFT) 20
 4 Loxodon Surveyor (DFT) 167
 4 Maximum Overdrive (DFT) 96
 4 Midnight Mangler (DFT) 50
