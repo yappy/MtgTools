@@ -6,6 +6,7 @@ Deck
 4 Alacrian Armory (DFT) 2
 4 Amonkhet Raceway (DFT) 248
 4 Amonkhet Raceway (DFT) 424
+4 Ancient Vendetta (DFT) 75
 4 Apocalypse Runner (DFT) 188
 4 Apocalypse Runner (DFT) 319
 4 Autarch Mammoth (DFT) 153
@@ -13,6 +14,8 @@ Deck
 4 Boom Scholar (DFT) 189
 4 Boosted Sloop (DFT) 190
 4 Boosted Sloop (DFT) 320
+4 Broadcast Rambler (DFT) 293
+4 Broadside Barrage (DFT) 192
 4 Broodheart Engine (DFT) 193
 4 Caelorna, Coral Tyrant (DFT) 40
 4 Canyon Vaulter (DFT) 8
@@ -35,36 +38,45 @@ Deck
 4 Earthrumbler (DFT) 315
 4 Elvish Refueler (DFT) 161
 4 Embalmed Ascendant (DFT) 201
+4 Endrider Spikespitter (DFT) 125
+4 Fang Guardian (DFT) 162
 4 Fang-Druid Summoner (DFT) 163
 4 Foul Roads (DFT) 255
 4 Fuel the Flames (DFT) 126
+4 Gallant Strike (DFT) 13
 4 Gastal Raider (DFT) 86
 4 Gastal Raider (DFT) 418
+4 Gastal Thrillseeker (DFT) 205
 4 Gloryheath Lynx (DFT) 14
 4 Greasewrench Goblin (DFT) 132
 4 Greenbelt Guardian (DFT) 164
 4 Guidelight Pathmaker (DFT) 206
 4 Guidelight Pathmaker (DFT) 324
+4 Guidelight Synergist (DFT) 16
 4 Haunt the Network (DFT) 207
 4 Haunted Hellride (DFT) 208
 4 Haunted Hellride (DFT) 325
+4 Hellish Sideswipe (DFT) 90
 4 Hour of Victory (DFT) 91
 4 Intimidation Tactics (DFT) 92
 4 Kalakscion, Hunger Tyrant (DFT) 93
 4 Lagorin, Soul of Alacria (DFT) 211
+================================================================================
+Deck
+4 Locust Spray (DFT) 95
 4 Marauding Mako (DFT) 138
 4 Marauding Mako (DFT) 419
 4 Marshals' Pathcruiser (DFT) 236
 4 Marshals' Pathcruiser (DFT) 330
+4 Memory Guardian (DFT) 49
 4 Molt Tender (DFT) 171
 4 Momentum Breaker (DFT) 97
 4 Nesting Bot (DFT) 22
 4 Ooze Patrol (DFT) 172
 4 Outpace Oblivion (DFT) 139
-================================================================================
-Deck
 4 Pacesetter Paragon (DFT) 140
 4 Pit Automaton (DFT) 238
+4 Plow Through (DFT) 174
 4 Point the Way (DFT) 175
 4 Pride of the Road (DFT) 24
 4 Push the Limit (DFT) 143
@@ -77,6 +89,7 @@ Deck
 4 Reef Roads (DFT) 259
 4 Rise from the Wreck (DFT) 178
 4 Risen Necroregent (DFT) 102
+4 Road Rage (DFT) 145
 4 Roadside Assistance (DFT) 26
 4 Roadside Blowout (DFT) 58
 4 Rocketeer Boostbuggy (DFT) 220
@@ -84,7 +97,10 @@ Deck
 4 Rocky Roads (DFT) 261
 4 Rover Blades (DFT) 241
 4 Rover Blades (DFT) 331
+4 Sabotage Strategist (DFT) 59
+4 Scrounging Skyray (DFT) 60
 4 Shefet Archfiend (DFT) 104
+4 Skycrash (DFT) 146
 4 Skyserpent Seeker (DFT) 224
 4 Skyserpent Seeker (DFT) 420
 4 Slick Imitator (DFT) 62
@@ -93,6 +109,7 @@ Deck
 4 Spire Mechcycle (DFT) 147
 4 Spire Mechcycle (DFT) 314
 4 Stock Up (DFT) 67
+4 Sundial, Dawn Tyrant (DFT) 31
 4 Terrian, World Tyrant (DFT) 182
 4 Thundering Broodwagon (DFT) 225
 4 Thundering Broodwagon (DFT) 328

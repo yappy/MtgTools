@@ -99,6 +99,8 @@ Deck
 4 Guardian Sunmare (DFT) 533
 4 Howlsquad Heavy (DFT) 134
 4 Howlsquad Heavy (DFT) 342
+4 Howlsquad Heavy (DFT) 463
+4 Howlsquad Heavy (DFT) 541
 4 Kolodin, Triumph Caster (DFT) 210
 4 Kolodin, Triumph Caster (DFT) 364
 4 Kolodin, Triumph Caster (DFT) 483
@@ -123,10 +125,10 @@ Deck
 4 Mindspring Merfolk (DFT) 436
 4 Mindspring Merfolk (DFT) 534
 4 Monument to Endurance (DFT) 237
-4 Monument to Endurance (DFT) 394
-4 Monument to Endurance (DFT) 499
 ================================================================================
 Deck
+4 Monument to Endurance (DFT) 394
+4 Monument to Endurance (DFT) 499
 4 Muraganda Raceway (DFT) 257
 4 Muraganda Raceway (DFT) 396
 4 Muraganda Raceway (DFT) 426
@@ -187,10 +189,10 @@ Deck
 4 Vnwxt, Verbose Host (DFT) 356
 4 Vnwxt, Verbose Host (DFT) 443
 4 Voyager Glidecar (DFT) 36
-4 Voyager Glidecar (DFT) 299
-4 Voyager Glidecar (DFT) 435
 ================================================================================
 Deck
+4 Voyager Glidecar (DFT) 299
+4 Voyager Glidecar (DFT) 435
 4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374

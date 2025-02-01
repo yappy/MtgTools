@@ -1,6 +1,4 @@
 Deck
-4 "Coalheart Gearhulk" (DFT) 198
-4 "Coalheart Gearhulk" (DFT) 349
 4 Brightglass Gearhulk (DFT) 191
 4 Brightglass Gearhulk (DFT) 348
 4 Brightglass Gearhulk (DFT) 474
@@ -9,6 +7,10 @@ Deck
 4 Chandra, Spark Hunter (DFT) 401
 4 Chandra, Spark Hunter (DFT) 411
 4 Chandra, Spark Hunter (DFT) 456
+4 Coalstoke Gearhulk (DFT) 198
+4 Coalstoke Gearhulk (DFT) 349
+4 Coalstoke Gearhulk (DFT) 477
+4 Coalstoke Gearhulk (DFT) 548
 4 Cursecloth Wrappings (DFT) 400
 4 Cursecloth Wrappings (DFT) 410
 4 Explosive Getaway (DFT) 403
@@ -59,10 +61,10 @@ Deck
 4 Riptide Gearhulk (DFT) 552
 4 Sab-Sunen, Luxa Embodied (DFT) 221
 4 Sab-Sunen, Luxa Embodied (DFT) 354
-4 Sab-Sunen, Luxa Embodied (DFT) 491
-4 Sab-Sunen, Luxa Embodied (DFT) 553
 ================================================================================
 Deck
+4 Sab-Sunen, Luxa Embodied (DFT) 491
+4 Sab-Sunen, Luxa Embodied (DFT) 553
 4 Salvation Engine (DFT) 27
 4 Salvation Engine (DFT) 295
 4 Salvation Engine (DFT) 397
