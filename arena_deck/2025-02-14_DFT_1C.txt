@@ -11,6 +11,7 @@ Deck
 4 Brightfield Glider (DFT) 4
 4 Brightfield Mustang (DFT) 5
 4 Broadcast Rambler (DFT) 6
+4 Broadcast Rambler (DFT) 293
 4 Broken Wings (DFT) 156
 4 Burner Rocket (DFT) 114
 4 Burner Rocket (DFT) 311
@@ -60,9 +61,9 @@ Deck
 4 Night Market (DFT) 258
 4 Nimble Thopterist (DFT) 53
 4 Pactdoll Terror (DFT) 99
-4 Pedal to the Metal (DFT) 141
 ================================================================================
 Deck
+4 Pedal to the Metal (DFT) 141
 4 Pothole Mole (DFT) 176
 4 Prowcatcher Specialist (DFT) 142
 4 Ride's End (DFT) 25

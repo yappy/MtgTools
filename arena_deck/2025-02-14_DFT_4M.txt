@@ -14,6 +14,7 @@ Deck
 4 Cursecloth Wrappings (DFT) 400
 4 Cursecloth Wrappings (DFT) 410
 4 Explosive Getaway (DFT) 403
+4 Explosive Getaway (DFT) 413
 4 Hazoret, Godseeker (DFT) 133
 4 Hazoret, Godseeker (DFT) 347
 4 Hazoret, Godseeker (DFT) 462
@@ -60,9 +61,9 @@ Deck
 4 Riptide Gearhulk (DFT) 490
 4 Riptide Gearhulk (DFT) 552
 4 Sab-Sunen, Luxa Embodied (DFT) 221
-4 Sab-Sunen, Luxa Embodied (DFT) 354
 ================================================================================
 Deck
+4 Sab-Sunen, Luxa Embodied (DFT) 354
 4 Sab-Sunen, Luxa Embodied (DFT) 491
 4 Sab-Sunen, Luxa Embodied (DFT) 553
 4 Salvation Engine (DFT) 27
@@ -72,6 +73,7 @@ Deck
 4 Salvation Engine (DFT) 431
 4 Salvation Engine (DFT) 517
 4 Spectacular Pileup (DFT) 398
+4 Spectacular Pileup (DFT) 408
 4 The Aetherspark (DFT) 231
 4 The Aetherspark (DFT) 376
 4 The Aetherspark (DFT) 496

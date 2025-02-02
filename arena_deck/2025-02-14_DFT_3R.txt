@@ -70,7 +70,6 @@ Deck
 4 Draconautics Engineer (DFT) 540
 4 Explosive Getaway (DFT) 202
 4 Explosive Getaway (DFT) 390
-4 Explosive Getaway (DFT) 413
 4 Explosive Getaway (DFT) 479
 4 Far Fortune, End Boss (DFT) 203
 4 Far Fortune, End Boss (DFT) 363
@@ -125,9 +124,9 @@ Deck
 4 Mindspring Merfolk (DFT) 436
 4 Mindspring Merfolk (DFT) 534
 4 Monument to Endurance (DFT) 237
+4 Monument to Endurance (DFT) 394
 ================================================================================
 Deck
-4 Monument to Endurance (DFT) 394
 4 Monument to Endurance (DFT) 499
 4 Muraganda Raceway (DFT) 257
 4 Muraganda Raceway (DFT) 396
@@ -173,7 +172,6 @@ Deck
 4 Skyseer's Chariot (DFT) 518
 4 Spectacular Pileup (DFT) 29
 4 Spectacular Pileup (DFT) 378
-4 Spectacular Pileup (DFT) 408
 4 Spectacular Pileup (DFT) 433
 4 Sunbillow Verge (DFT) 264
 4 Sunbillow Verge (DFT) 373
@@ -189,10 +187,10 @@ Deck
 4 Vnwxt, Verbose Host (DFT) 356
 4 Vnwxt, Verbose Host (DFT) 443
 4 Voyager Glidecar (DFT) 36
-================================================================================
-Deck
 4 Voyager Glidecar (DFT) 299
 4 Voyager Glidecar (DFT) 435
+================================================================================
+Deck
 4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374

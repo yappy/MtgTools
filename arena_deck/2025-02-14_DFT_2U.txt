@@ -14,7 +14,6 @@ Deck
 4 Boom Scholar (DFT) 189
 4 Boosted Sloop (DFT) 190
 4 Boosted Sloop (DFT) 320
-4 Broadcast Rambler (DFT) 293
 4 Broadside Barrage (DFT) 192
 4 Broodheart Engine (DFT) 193
 4 Caelorna, Coral Tyrant (DFT) 40
@@ -61,9 +60,9 @@ Deck
 4 Intimidation Tactics (DFT) 92
 4 Kalakscion, Hunger Tyrant (DFT) 93
 4 Lagorin, Soul of Alacria (DFT) 211
+4 Locust Spray (DFT) 95
 ================================================================================
 Deck
-4 Locust Spray (DFT) 95
 4 Marauding Mako (DFT) 138
 4 Marauding Mako (DFT) 419
 4 Marshals' Pathcruiser (DFT) 236
