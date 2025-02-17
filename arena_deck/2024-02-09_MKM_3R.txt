@@ -120,13 +120,14 @@ Deck
 4 Steamcore Scholar (MKM) 71
 4 Steamcore Scholar (MKM) 397
 4 Tenth District Hero (MKM) 34
+4 Tenth District Hero (MKM) 34
 4 Tenth District Hero (MKM) 391
 4 Teysa, Opulent Oligarch (MKM) 234
 4 Teysa, Opulent Oligarch (MKM) 321
 4 Teysa, Opulent Oligarch (MKM) 370
-4 Teysa, Opulent Oligarch (MKM) 321z
 ================================================================================
 Deck
+4 Teysa, Opulent Oligarch (MKM) 321z
 4 Thundering Falls (MKM) 269
 4 Thundering Falls (MKM) 331
 4 Tolsimir, Midnight's Light (MKM) 236
