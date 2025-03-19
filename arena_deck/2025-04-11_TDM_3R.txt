@@ -1,8 +1,33 @@
 Deck
+4 Anafenza, Unyielding Lineage (TDM) 2
+4 Anafenza, Unyielding Lineage (TDM) 327
 4 Barrensteppe Siege (TDM) 171
 4 Barrensteppe Siege (TDM) 384
+4 Bloomvine Regent (TDM) 136
+4 Bloomvine Regent (TDM) 381
+4 Frostcliff Siege (TDM) 187
+4 Frostcliff Siege (TDM) 385
 4 Inevitable Defeat (TDM) 194
+4 Kotis, the Fangkeeper (TDM) 202
+4 Kotis, the Fangkeeper (TDM) 362
+4 Maelstrom of the Spirit Dragon (TDM) 260
+4 Maelstrom of the Spirit Dragon (TDM) 326
+4 Marang River Regent (TDM) 51
+4 Marang River Regent (TDM) 378
 4 Narset, Jeskai Waymaster (TDM) 209
+4 Qarsi Revenant (TDM) 86
+4 Qarsi Revenant (TDM) 338
+4 Qarsi Revenant (TDM) 426
+4 Rediscover the Way (TDM) 215
+4 Rediscover the Way (TDM) 388
 4 Sarkhan, Dragon Ascendant (TDM) 118
 4 Sarkhan, Dragon Ascendant (TDM) 302
+4 Sidisi, Regent of the Mire (TDM) 92
+4 Sidisi, Regent of the Mire (TDM) 341
+4 Temur Battlecrier (TDM) 228
+4 Temur Battlecrier (TDM) 372
+4 Temur Battlecrier (TDM) 425
 4 United Battlefront (TDM) 32
+4 United Battlefront (TDM) 330
+4 Voice of Victory (TDM) 33
+4 Voice of Victory (TDM) 331
