@@ -12,6 +12,9 @@ Deck
 4 Craterhoof Behemoth (TDM) 414
 4 Dracogenesis (TDM) 105
 4 Dracogenesis (TDM) 300
+4 Dracogenesis (TDM) 402
+4 Dracogenesis (TDM) 412
+4 Dragonback Assault (TDM) 179
 4 Elspeth, Storm Slayer (TDM) 11
 4 Elspeth, Storm Slayer (TDM) 398
 4 Elspeth, Storm Slayer (TDM) 401
