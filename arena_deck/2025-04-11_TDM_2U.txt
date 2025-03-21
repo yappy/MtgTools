@@ -1,16 +1,28 @@
 Deck
+4 "Descendant of Storms" (TDM) 8
 4 Abzan Monument (TDM) 238
 4 Aegis Sculptor (TDM) 35
+4 Attuned Hunter (TDM) 135
 4 Auroral Procession (TDM) 169
 4 Channeled Dragonfire (TDM) 423
 4 Corroding Dragonstorm (TDM) 75
 4 Corroding Dragonstorm (TDM) 297
+4 Dalkovan Packbeasts (TDM) 7
+4 Desperate Measures (TDM) 78
+4 Disruptive Stormbrood (TDM) 178
+4 Dragonbroods' Relic (TDM) 140
 4 Duty Beyond Death (TDM) 10
 4 Encroaching Dragonstorm (TDM) 424
 4 Equilibrium Adept (TDM) 106
+4 Frontier Bivouac (TDM) 256
 4 Jeskai Monument (TDM) 244
+4 Krumar Initiate (TDM) 84
+4 Lie in Wait (TDM) 203
 4 Mardu Monument (TDM) 245
 4 Marshal of the Lost (TDM) 207
+4 Mystic Monastery (TDM) 262
+4 Nomad Outpost (TDM) 263
+4 Opulent Palace (TDM) 264
 4 Purging Stormbrood (TDM) 213
 4 Purging Stormbrood (TDM) 315
 4 Rakshasa's Bargain (TDM) 214
@@ -20,11 +32,18 @@ Deck
 4 Roiling Dragonstorm (TDM) 296
 4 Roiling Dragonstorm (TDM) 421
 4 Runescale Stormbrood (TDM) 221
+4 Runescale Stormbrood (TDM) 316
+4 Sandsteppe Citadel (TDM) 266
 4 Skirmish Rhino (TDM) 224
+4 Spectral Denial (TDM) 58
 4 Stalwart Successor (TDM) 227
+4 Static Snare (TDM) 420
 4 Strategic Betrayal (TDM) 422
 4 Sultai Monument (TDM) 247
 4 Sunset Strikemaster (TDM) 126
 4 Temur Monument (TDM) 248
+4 Unrooted Ancestor (TDM) 96
 4 Ureni's Rebuff (TDM) 63
+4 Venerated Stormsinger (TDM) 97
+4 Whirlwing Stormbrood (TDM) 234
 4 Yathan Tombguard (TDM) 100

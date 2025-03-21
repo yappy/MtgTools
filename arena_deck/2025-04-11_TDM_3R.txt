@@ -1,4 +1,5 @@
 Deck
+4 "The Future Way" (TDM) 211
 4 Anafenza, Unyielding Lineage (TDM) 2
 4 Anafenza, Unyielding Lineage (TDM) 327
 4 Awaken the Honored Dead (TDM) 170
@@ -7,14 +8,19 @@ Deck
 4 Barrensteppe Siege (TDM) 384
 4 Bloomvine Regent (TDM) 136
 4 Bloomvine Regent (TDM) 381
+4 Cori Mountain Monastery (TDM) 252
 4 Cori Mountain Monastery (TDM) 393
 4 Dalkovan Encampment (TDM) 394
 4 Eshki Dragonclaw (TDM) 182
 4 Eshki Dragonclaw (TDM) 356
+4 Fangkeeper's Familiar (TDM) 183
 4 Frostcliff Siege (TDM) 187
 4 Frostcliff Siege (TDM) 385
+4 Glacierwood Siege (TDM) 189
+4 Great Arashin City (TDM) 257
 4 Great Arashin City (TDM) 395
 4 Inevitable Defeat (TDM) 194
+4 Kishla Village (TDM) 259
 4 Kishla Village (TDM) 396
 4 Kotis, the Fangkeeper (TDM) 202
 4 Kotis, the Fangkeeper (TDM) 362
@@ -25,6 +31,7 @@ Deck
 4 Magmatic Hellkite (TDM) 380
 4 Marang River Regent (TDM) 51
 4 Marang River Regent (TDM) 378
+4 Mistrise Village (TDM) 261
 4 Mistrise Village (TDM) 397
 4 Narset, Jeskai Waymaster (TDM) 209
 4 Qarsi Revenant (TDM) 86
@@ -44,8 +51,12 @@ Deck
 4 Temur Battlecrier (TDM) 372
 4 Temur Battlecrier (TDM) 425
 4 The Sibsig Ceremony (TDM) 91
+4 The Sibsig Ceremony (TDM) 340
 4 United Battlefront (TDM) 32
 4 United Battlefront (TDM) 330
 4 Voice of Victory (TDM) 33
 4 Voice of Victory (TDM) 331
 4 Winternight Stories (TDM) 67
+4 Winternight Stories (TDM) 336
+4 Zurgo, Thunder's Decree (TDM) 237
+4 Zurgo, Thunder's Decree (TDM) 376

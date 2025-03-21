@@ -15,6 +15,7 @@ Deck
 4 Dracogenesis (TDM) 402
 4 Dracogenesis (TDM) 412
 4 Dragonback Assault (TDM) 179
+4 Dragonback Assault (TDM) 355
 4 Elspeth, Storm Slayer (TDM) 11
 4 Elspeth, Storm Slayer (TDM) 398
 4 Elspeth, Storm Slayer (TDM) 401
@@ -25,6 +26,7 @@ Deck
 4 Neriv, Heart of the Storm (TDM) 210
 4 Neriv, Heart of the Storm (TDM) 314
 4 Neriv, Heart of the Storm (TDM) 366
+4 Perennation (TDM) 212
 4 Sarkhan, Dragon Ascendant (TDM) 403
 4 Sarkhan, Dragon Ascendant (TDM) 413
 4 Shiko, Paragon of the Way (TDM) 223

@@ -1,4 +1,5 @@
 Deck
+4 "Dawnglare Predator" (TDM) 21
 4 Abzan Devotee (TDM) 68
 4 Agent of Kotis (TDM) 36
 4 Bearer of Glory (TDM) 4
@@ -8,12 +9,14 @@ Deck
 4 Boulderborn Dragon (TDM) 323
 4 Caustic Exhale (TDM) 74
 4 Cruel Truths (TDM) 76
+4 Dalkovan Encampment (TDM) 253
 4 Devoted Duelist (TDM) 104
 4 Dirgur Island Dragon (TDM) 40
 4 Dirgur Island Dragon (TDM) 294
 4 Dismal Backwater (TDM) 254
 4 Dragonback Lancer (TDM) 9
 4 Dusyut Earthcarver (TDM) 141
+4 Embermouth Sentinel (TDM) 242
 4 Evolving Wilds (TDM) 255
 4 Fortress Kin-Guard (TDM) 12
 4 Gurmag Nightwatch (TDM) 190
@@ -21,16 +24,18 @@ Deck
 4 Jeskai Devotee (TDM) 110
 4 Jungle Hollow (TDM) 258
 4 Mardu Devotee (TDM) 16
-4 Mystic Monastery (TDM) 262
 4 Reigning Victor (TDM) 216
 4 Ringing Strike Mastery (TDM) 53
 4 Roamer's Routine (TDM) 154
 4 Rugged Highlands (TDM) 265
+4 Sagu Wildling (TDM) 157
+4 Sagu Wildling (TDM) 306
 4 Salt Road Packbeast (TDM) 23
 4 Sarkhan's Resolve (TDM) 158
 4 Scoured Barrens (TDM) 267
 4 Seize Opportunity (TDM) 119
-4 Static Snare (TDM) 420
+4 Shock Brigade (TDM) 120
+4 Snowmelt Stag (TDM) 57
 4 Stormplain Detainment (TDM) 28
 4 Sultai Devotee (TDM) 160
 4 Summit Intimidator (TDM) 125
@@ -39,6 +44,7 @@ Deck
 4 Temur Devotee (TDM) 61
 4 Thornwood Falls (TDM) 269
 4 Tranquil Cove (TDM) 270
+4 Underfoot Underdogs (TDM) 129
 4 Undergrowth Leopard (TDM) 165
 4 Watcher of the Wayside (TDM) 249
 4 Wind-Scarred Crag (TDM) 271
