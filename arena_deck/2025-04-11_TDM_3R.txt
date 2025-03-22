@@ -1,7 +1,10 @@
 Deck
-4 "The Future Way" (TDM) 211
+4 "Deafening Dragon" (TDM) 5
+4 "Deafening Dragon" (TDM) 377
 4 Anafenza, Unyielding Lineage (TDM) 2
 4 Anafenza, Unyielding Lineage (TDM) 327
+4 Avenger of the Fallen (TDM) 73
+4 Avenger of the Fallen (TDM) 337
 4 Awaken the Honored Dead (TDM) 170
 4 Awaken the Honored Dead (TDM) 383
 4 Barrensteppe Siege (TDM) 171
@@ -10,15 +13,24 @@ Deck
 4 Bloomvine Regent (TDM) 381
 4 Cori Mountain Monastery (TDM) 252
 4 Cori Mountain Monastery (TDM) 393
+4 Dalkovan Encampment (TDM) 253
 4 Dalkovan Encampment (TDM) 394
+4 Dragonologist (TDM) 42
+4 Dragonologist (TDM) 295
 4 Eshki Dragonclaw (TDM) 182
 4 Eshki Dragonclaw (TDM) 356
 4 Fangkeeper's Familiar (TDM) 183
+4 Fangkeeper's Familiar (TDM) 357
+4 Flamehold Grappler (TDM) 185
+4 Flamehold Grappler (TDM) 359
 4 Frostcliff Siege (TDM) 187
 4 Frostcliff Siege (TDM) 385
 4 Glacierwood Siege (TDM) 189
+4 Glacierwood Siege (TDM) 386
 4 Great Arashin City (TDM) 257
 4 Great Arashin City (TDM) 395
+4 Herd Heirloom (TDM) 144
+4 Hollowmurk Siege (TDM) 192
 4 Inevitable Defeat (TDM) 194
 4 Kishla Village (TDM) 259
 4 Kishla Village (TDM) 396
@@ -34,6 +46,8 @@ Deck
 4 Mistrise Village (TDM) 261
 4 Mistrise Village (TDM) 397
 4 Narset, Jeskai Waymaster (TDM) 209
+4 New Way Forward (TDM) 211
+4 New Way Forward (TDM) 367
 4 Qarsi Revenant (TDM) 86
 4 Qarsi Revenant (TDM) 338
 4 Qarsi Revenant (TDM) 426
@@ -47,9 +61,13 @@ Deck
 4 Sidisi, Regent of the Mire (TDM) 341
 4 Surrak, Elusive Hunter (TDM) 161
 4 Surrak, Elusive Hunter (TDM) 350
+================================================================================
+Deck
 4 Temur Battlecrier (TDM) 228
 4 Temur Battlecrier (TDM) 372
 4 Temur Battlecrier (TDM) 425
+4 Tersa Lightshatter (TDM) 127
+4 Tersa Lightshatter (TDM) 345
 4 The Sibsig Ceremony (TDM) 91
 4 The Sibsig Ceremony (TDM) 340
 4 United Battlefront (TDM) 32
@@ -58,5 +76,7 @@ Deck
 4 Voice of Victory (TDM) 331
 4 Winternight Stories (TDM) 67
 4 Winternight Stories (TDM) 336
+4 Yathan Roadwatcher (TDM) 236
+4 Yathan Roadwatcher (TDM) 375
 4 Zurgo, Thunder's Decree (TDM) 237
 4 Zurgo, Thunder's Decree (TDM) 376

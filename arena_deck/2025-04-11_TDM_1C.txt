@@ -1,30 +1,37 @@
 Deck
-4 "Dawnglare Predator" (TDM) 21
 4 Abzan Devotee (TDM) 68
 4 Agent of Kotis (TDM) 36
+4 Alesha's Legacy (TDM) 72
 4 Bearer of Glory (TDM) 4
 4 Bloodfell Caves (TDM) 250
 4 Blossoming Sands (TDM) 251
 4 Boulderborn Dragon (TDM) 239
 4 Boulderborn Dragon (TDM) 323
 4 Caustic Exhale (TDM) 74
+4 Coordinated Maneuver (TDM) 6
 4 Cruel Truths (TDM) 76
-4 Dalkovan Encampment (TDM) 253
 4 Devoted Duelist (TDM) 104
 4 Dirgur Island Dragon (TDM) 40
 4 Dirgur Island Dragon (TDM) 294
 4 Dismal Backwater (TDM) 254
 4 Dragonback Lancer (TDM) 9
+4 Dragonstorm Globe (TDM) 241
 4 Dusyut Earthcarver (TDM) 141
 4 Embermouth Sentinel (TDM) 242
 4 Evolving Wilds (TDM) 255
 4 Fortress Kin-Guard (TDM) 12
 4 Gurmag Nightwatch (TDM) 190
+4 Heritage Reclamation (TDM) 145
 4 Jade-Cast Sentinel (TDM) 243
 4 Jeskai Devotee (TDM) 110
 4 Jungle Hollow (TDM) 258
 4 Mardu Devotee (TDM) 16
+4 Monastery Messenger (TDM) 208
+4 Narset's Rebuke (TDM) 114
+4 Rebellious Strike (TDM) 20
 4 Reigning Victor (TDM) 216
+4 Riling Dawnbreaker (TDM) 21
+4 Riling Dawnbreaker (TDM) 292
 4 Ringing Strike Mastery (TDM) 53
 4 Roamer's Routine (TDM) 154
 4 Rugged Highlands (TDM) 265
@@ -35,6 +42,7 @@ Deck
 4 Scoured Barrens (TDM) 267
 4 Seize Opportunity (TDM) 119
 4 Shock Brigade (TDM) 120
+4 Snakeskin Veil (TDM) 159
 4 Snowmelt Stag (TDM) 57
 4 Stormplain Detainment (TDM) 28
 4 Sultai Devotee (TDM) 160
