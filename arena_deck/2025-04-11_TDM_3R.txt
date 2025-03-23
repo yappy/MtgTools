@@ -45,6 +45,8 @@ Deck
 4 Marang River Regent (TDM) 378
 4 Mistrise Village (TDM) 261
 4 Mistrise Village (TDM) 397
+4 Naga Fleshcrafter (TDM) 52
+4 Naga Fleshcrafter (TDM) 333
 4 Narset, Jeskai Waymaster (TDM) 209
 4 New Way Forward (TDM) 211
 4 New Way Forward (TDM) 367
@@ -59,10 +61,10 @@ Deck
 4 Severance Priest (TDM) 369
 4 Sidisi, Regent of the Mire (TDM) 92
 4 Sidisi, Regent of the Mire (TDM) 341
-4 Surrak, Elusive Hunter (TDM) 161
-4 Surrak, Elusive Hunter (TDM) 350
 ================================================================================
 Deck
+4 Surrak, Elusive Hunter (TDM) 161
+4 Surrak, Elusive Hunter (TDM) 350
 4 Temur Battlecrier (TDM) 228
 4 Temur Battlecrier (TDM) 372
 4 Temur Battlecrier (TDM) 425

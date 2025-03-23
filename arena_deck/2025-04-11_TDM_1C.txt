@@ -19,6 +19,7 @@ Deck
 4 Dusyut Earthcarver (TDM) 141
 4 Embermouth Sentinel (TDM) 242
 4 Evolving Wilds (TDM) 255
+4 Feral Deathgorger (TDM) 80
 4 Fortress Kin-Guard (TDM) 12
 4 Gurmag Nightwatch (TDM) 190
 4 Heritage Reclamation (TDM) 145
