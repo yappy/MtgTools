@@ -31,6 +31,8 @@ Deck
 4 Neriv, Heart of the Storm (TDM) 366
 4 Perennation (TDM) 212
 4 Perennation (TDM) 368
+4 Rot-Curse Rakshasa (TDM) 87
+4 Rot-Curse Rakshasa (TDM) 339
 4 Sarkhan, Dragon Ascendant (TDM) 403
 4 Sarkhan, Dragon Ascendant (TDM) 413
 4 Shiko, Paragon of the Way (TDM) 223
