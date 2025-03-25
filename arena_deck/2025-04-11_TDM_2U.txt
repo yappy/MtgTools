@@ -1,8 +1,10 @@
 Deck
+4 "Vanisher Kirin" (TDM) 29
 4 Abzan Monument (TDM) 238
 4 Aegis Sculptor (TDM) 35
 4 Attuned Hunter (TDM) 135
 4 Auroral Procession (TDM) 169
+4 Bewildering Blizzard (TDM) 38
 4 Bone-Cairn Butcher (TDM) 173
 4 Breaching Dragonstorm (TDM) 101
 4 Channeled Dragonfire (TDM) 423
@@ -23,11 +25,14 @@ Deck
 4 Essence Anchor (TDM) 44
 4 Fresh Start (TDM) 46
 4 Frontier Bivouac (TDM) 256
+4 Glacial Dragonhunt (TDM) 188
 4 Host of the Hereafter (TDM) 193
 4 Jeskai Monument (TDM) 244
 4 Kishla Skimmer (TDM) 201
+4 Kishla Trawlers (TDM) 50
 4 Krumar Initiate (TDM) 84
 4 Lie in Wait (TDM) 203
+4 Loxodon Battle Priest (TDM) 15
 4 Mardu Monument (TDM) 245
 4 Marshal of the Lost (TDM) 207
 4 Mystic Monastery (TDM) 262
@@ -56,13 +61,13 @@ Deck
 4 Sultai Monument (TDM) 247
 4 Sunset Strikemaster (TDM) 126
 4 Teeming Dragonstorm (TDM) 30
+================================================================================
+Deck
 4 Temur Monument (TDM) 248
 4 Twinmaw Stormbrood (TDM) 232
 4 Twinmaw Stormbrood (TDM) 320
 4 Unrooted Ancestor (TDM) 96
 4 Ureni's Rebuff (TDM) 63
-================================================================================
-Deck
 4 Venerated Stormsinger (TDM) 97
 4 War Effort (TDM) 131
 4 Whirlwing Stormbrood (TDM) 234
