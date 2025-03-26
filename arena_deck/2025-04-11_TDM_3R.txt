@@ -1,6 +1,4 @@
 Deck
-4 "Deafening Dragon" (TDM) 5
-4 "Deafening Dragon" (TDM) 377
 4 Anafenza, Unyielding Lineage (TDM) 2
 4 Anafenza, Unyielding Lineage (TDM) 327
 4 Avenger of the Fallen (TDM) 73
@@ -11,9 +9,12 @@ Deck
 4 Barrensteppe Siege (TDM) 384
 4 Bloomvine Regent (TDM) 136
 4 Bloomvine Regent (TDM) 381
+4 Clarion Conqueror (TDM) 5
+4 Clarion Conqueror (TDM) 377
 4 Cori Mountain Monastery (TDM) 252
 4 Cori Mountain Monastery (TDM) 393
 4 Cori-Steel Cutter (TDM) 103
+4 Cori-Steel Cutter (TDM) 343
 4 Dalkovan Encampment (TDM) 253
 4 Dalkovan Encampment (TDM) 394
 4 Dragonfire Blade (TDM) 240
@@ -24,6 +25,8 @@ Deck
 4 Eshki Dragonclaw (TDM) 356
 4 Fangkeeper's Familiar (TDM) 183
 4 Fangkeeper's Familiar (TDM) 357
+4 Felothar, Dawn of the Abzan (TDM) 184
+4 Felothar, Dawn of the Abzan (TDM) 358
 4 Flamehold Grappler (TDM) 185
 4 Flamehold Grappler (TDM) 359
 4 Frostcliff Siege (TDM) 187
@@ -33,7 +36,9 @@ Deck
 4 Great Arashin City (TDM) 257
 4 Great Arashin City (TDM) 395
 4 Herd Heirloom (TDM) 144
+4 Herd Heirloom (TDM) 347
 4 Hollowmurk Siege (TDM) 192
+4 Hollowmurk Siege (TDM) 387
 4 Inevitable Defeat (TDM) 194
 4 Kishla Village (TDM) 259
 4 Kishla Village (TDM) 396
@@ -56,15 +61,18 @@ Deck
 4 Nature's Rhythm (TDM) 150
 4 Nature's Rhythm (TDM) 349
 4 New Way Forward (TDM) 211
+================================================================================
+Deck
 4 New Way Forward (TDM) 367
 4 Qarsi Revenant (TDM) 86
 4 Qarsi Revenant (TDM) 338
 4 Qarsi Revenant (TDM) 426
 4 Rediscover the Way (TDM) 215
-================================================================================
-Deck
 4 Rediscover the Way (TDM) 388
 4 Revival of the Ancestors (TDM) 218
+4 Revival of the Ancestors (TDM) 389
+4 Sage of the Skies (TDM) 22
+4 Sage of the Skies (TDM) 328
 4 Sarkhan, Dragon Ascendant (TDM) 118
 4 Sarkhan, Dragon Ascendant (TDM) 302
 4 Scavenger Regent (TDM) 90
@@ -84,11 +92,14 @@ Deck
 4 Tersa Lightshatter (TDM) 345
 4 The Sibsig Ceremony (TDM) 91
 4 The Sibsig Ceremony (TDM) 340
+4 Thunder of Unity (TDM) 231
+4 Thunder of Unity (TDM) 391
 4 United Battlefront (TDM) 32
 4 United Battlefront (TDM) 330
 4 Voice of Victory (TDM) 33
 4 Voice of Victory (TDM) 331
 4 Windcrag Siege (TDM) 235
+4 Windcrag Siege (TDM) 392
 4 Winternight Stories (TDM) 67
 4 Winternight Stories (TDM) 336
 4 Yathan Roadwatcher (TDM) 236

@@ -1,12 +1,14 @@
 Deck
-4 "Vanisher Kirin" (TDM) 29
 4 Abzan Monument (TDM) 238
 4 Aegis Sculptor (TDM) 35
+4 Armament Dragon (TDM) 168
 4 Attuned Hunter (TDM) 135
 4 Auroral Procession (TDM) 169
 4 Bewildering Blizzard (TDM) 38
 4 Bone-Cairn Butcher (TDM) 173
 4 Breaching Dragonstorm (TDM) 101
+4 Breaching Dragonstorm (TDM) 299
+4 Channeled Dragonfire (TDM) 102
 4 Channeled Dragonfire (TDM) 423
 4 Cori Mountain Stalwart (TDM) 175
 4 Corroding Dragonstorm (TDM) 75
@@ -20,14 +22,21 @@ Deck
 4 Dragonstorm Forecaster (TDM) 43
 4 Duty Beyond Death (TDM) 10
 4 Effortless Master (TDM) 181
+4 Encroaching Dragonstorm (TDM) 142
+4 Encroaching Dragonstorm (TDM) 305
 4 Encroaching Dragonstorm (TDM) 424
 4 Equilibrium Adept (TDM) 106
 4 Essence Anchor (TDM) 44
 4 Fresh Start (TDM) 46
 4 Frontier Bivouac (TDM) 256
+4 Frontline Rush (TDM) 186
 4 Glacial Dragonhunt (TDM) 188
 4 Host of the Hereafter (TDM) 193
 4 Jeskai Monument (TDM) 244
+4 Jeskai Shrinekeeper (TDM) 197
+4 Jeskai Shrinekeeper (TDM) 311
+4 Karakyk Guardian (TDM) 198
+4 Kin-Tree Severance (TDM) 200
 4 Kishla Skimmer (TDM) 201
 4 Kishla Trawlers (TDM) 50
 4 Krumar Initiate (TDM) 84
@@ -42,6 +51,7 @@ Deck
 4 Purging Stormbrood (TDM) 315
 4 Rakshasa's Bargain (TDM) 214
 4 Rally the Monastery (TDM) 19
+4 Reverberating Summons (TDM) 117
 4 Rite of Renewal (TDM) 153
 4 Riverwheel Sweep (TDM) 219
 4 Roiling Dragonstorm (TDM) 55
@@ -51,6 +61,8 @@ Deck
 4 Runescale Stormbrood (TDM) 316
 4 Sandsteppe Citadel (TDM) 266
 4 Skirmish Rhino (TDM) 224
+================================================================================
+Deck
 4 Sonic Shrieker (TDM) 226
 4 Sonic Shrieker (TDM) 318
 4 Spectral Denial (TDM) 58
@@ -59,10 +71,9 @@ Deck
 4 Static Snare (TDM) 420
 4 Strategic Betrayal (TDM) 422
 4 Sultai Monument (TDM) 247
+4 Sunpearl Kirin (TDM) 29
 4 Sunset Strikemaster (TDM) 126
 4 Teeming Dragonstorm (TDM) 30
-================================================================================
-Deck
 4 Temur Monument (TDM) 248
 4 Twinmaw Stormbrood (TDM) 232
 4 Twinmaw Stormbrood (TDM) 320

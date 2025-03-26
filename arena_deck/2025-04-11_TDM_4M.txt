@@ -1,5 +1,4 @@
 Deck
-4 "Deafening Dragon" (TDM) 400
 4 All-Out Assault (TDM) 167
 4 All-Out Assault (TDM) 352
 4 All-Out Assault (TDM) 405
@@ -9,12 +8,16 @@ Deck
 4 Betor, Kin to All (TDM) 353
 4 Call the Spirit Dragons (TDM) 174
 4 Call the Spirit Dragons (TDM) 309
+4 Clarion Conqueror (TDM) 400
+4 Clarion Conqueror (TDM) 410
 4 Craterhoof Behemoth (TDM) 138
 4 Craterhoof Behemoth (TDM) 346
 4 Craterhoof Behemoth (TDM) 404
 4 Craterhoof Behemoth (TDM) 414
 4 Death Begets Life (TDM) 176
 4 Death Begets Life (TDM) 354
+4 Death Begets Life (TDM) 406
+4 Death Begets Life (TDM) 416
 4 Dracogenesis (TDM) 105
 4 Dracogenesis (TDM) 300
 4 Dracogenesis (TDM) 402
@@ -25,6 +28,8 @@ Deck
 4 Elspeth, Storm Slayer (TDM) 398
 4 Elspeth, Storm Slayer (TDM) 401
 4 Elspeth, Storm Slayer (TDM) 411
+4 Jeskai Revelation (TDM) 196
+4 Jeskai Revelation (TDM) 361
 4 Mox Jasper (TDM) 246
 4 Mox Jasper (TDM) 325
 4 Mox Jasper (TDM) 419
