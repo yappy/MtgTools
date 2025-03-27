@@ -14,6 +14,7 @@ Deck
 4 Dirgur Island Dragon (TDM) 40
 4 Dirgur Island Dragon (TDM) 294
 4 Dismal Backwater (TDM) 254
+4 Dispelling Exhale (TDM) 41
 4 Dragon's Prey (TDM) 79
 4 Dragonback Lancer (TDM) 9
 4 Dragonstorm Globe (TDM) 241
@@ -21,6 +22,7 @@ Deck
 4 Embermouth Sentinel (TDM) 242
 4 Evolving Wilds (TDM) 255
 4 Feral Deathgorger (TDM) 80
+4 Fire-Rim Form (TDM) 107
 4 Fortress Kin-Guard (TDM) 12
 4 Gurmag Nightwatch (TDM) 190
 4 Heritage Reclamation (TDM) 145
@@ -28,10 +30,15 @@ Deck
 4 Jade-Cast Sentinel (TDM) 243
 4 Jeskai Devotee (TDM) 110
 4 Jungle Hollow (TDM) 258
+4 Krotiq Nestguard (TDM) 148
 4 Lightfoot Technique (TDM) 14
 4 Mardu Devotee (TDM) 16
+4 Meticulous Artisan (TDM) 112
+4 Molten Exhale (TDM) 113
 4 Monastery Messenger (TDM) 208
 4 Narset's Rebuke (TDM) 114
+4 Osseous Exhale (TDM) 17
+4 Piercing Exhale (TDM) 151
 4 Rebellious Strike (TDM) 20
 4 Reigning Victor (TDM) 216
 4 Riling Dawnbreaker (TDM) 21
@@ -54,6 +61,8 @@ Deck
 4 Sultai Devotee (TDM) 160
 4 Summit Intimidator (TDM) 125
 4 Swiftwater Cliffs (TDM) 268
+================================================================================
+Deck
 4 Tempest Hawk (TDM) 31
 4 Temur Devotee (TDM) 61
 4 Temur Tawnyback (TDM) 229
@@ -61,8 +70,8 @@ Deck
 4 Tranquil Cove (TDM) 270
 4 Underfoot Underdogs (TDM) 129
 4 Undergrowth Leopard (TDM) 165
-================================================================================
-Deck
 4 Unending Whisper (TDM) 62
 4 Watcher of the Wayside (TDM) 249
 4 Wind-Scarred Crag (TDM) 271
+4 Wingspan Stride (TDM) 66
+4 Worthy Cost (TDM) 99

@@ -1,4 +1,5 @@
 Deck
+4 Ambling Stormshell (TDM) 37
 4 Anafenza, Unyielding Lineage (TDM) 2
 4 Anafenza, Unyielding Lineage (TDM) 327
 4 Avenger of the Fallen (TDM) 73
@@ -60,9 +61,9 @@ Deck
 4 Narset, Jeskai Waymaster (TDM) 209
 4 Nature's Rhythm (TDM) 150
 4 Nature's Rhythm (TDM) 349
-4 New Way Forward (TDM) 211
 ================================================================================
 Deck
+4 New Way Forward (TDM) 211
 4 New Way Forward (TDM) 367
 4 Qarsi Revenant (TDM) 86
 4 Qarsi Revenant (TDM) 338
@@ -71,6 +72,7 @@ Deck
 4 Rediscover the Way (TDM) 388
 4 Revival of the Ancestors (TDM) 218
 4 Revival of the Ancestors (TDM) 389
+4 Roar of Endless Song (TDM) 220
 4 Sage of the Skies (TDM) 22
 4 Sage of the Skies (TDM) 328
 4 Sarkhan, Dragon Ascendant (TDM) 118
@@ -81,8 +83,12 @@ Deck
 4 Severance Priest (TDM) 369
 4 Sidisi, Regent of the Mire (TDM) 92
 4 Sidisi, Regent of the Mire (TDM) 341
+4 Sinkhole Surveyor (TDM) 93
+4 Sinkhole Surveyor (TDM) 342
 4 Songcrafter Mage (TDM) 225
 4 Songcrafter Mage (TDM) 371
+4 Stillness in Motion (TDM) 59
+4 Stillness in Motion (TDM) 334
 4 Surrak, Elusive Hunter (TDM) 161
 4 Surrak, Elusive Hunter (TDM) 350
 4 Temur Battlecrier (TDM) 228
@@ -98,6 +104,8 @@ Deck
 4 United Battlefront (TDM) 330
 4 Voice of Victory (TDM) 33
 4 Voice of Victory (TDM) 331
+4 Warden of the Grove (TDM) 166
+4 Warden of the Grove (TDM) 351
 4 Windcrag Siege (TDM) 235
 4 Windcrag Siege (TDM) 392
 4 Winternight Stories (TDM) 67

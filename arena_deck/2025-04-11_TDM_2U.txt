@@ -31,11 +31,14 @@ Deck
 4 Frontier Bivouac (TDM) 256
 4 Frontline Rush (TDM) 186
 4 Glacial Dragonhunt (TDM) 188
+4 Hardened Tactician (TDM) 191
 4 Host of the Hereafter (TDM) 193
+4 Jeskai Brushmaster (TDM) 195
 4 Jeskai Monument (TDM) 244
 4 Jeskai Shrinekeeper (TDM) 197
 4 Jeskai Shrinekeeper (TDM) 311
 4 Karakyk Guardian (TDM) 198
+4 Kheru Goldkeeper (TDM) 199
 4 Kin-Tree Severance (TDM) 200
 4 Kishla Skimmer (TDM) 201
 4 Kishla Trawlers (TDM) 50
@@ -58,21 +61,23 @@ Deck
 4 Roiling Dragonstorm (TDM) 296
 4 Roiling Dragonstorm (TDM) 421
 4 Runescale Stormbrood (TDM) 221
+================================================================================
+Deck
 4 Runescale Stormbrood (TDM) 316
 4 Sandsteppe Citadel (TDM) 266
 4 Skirmish Rhino (TDM) 224
-================================================================================
-Deck
 4 Sonic Shrieker (TDM) 226
 4 Sonic Shrieker (TDM) 318
 4 Spectral Denial (TDM) 58
 4 Stalwart Successor (TDM) 227
+4 Starry-Eyed Skyrider (TDM) 25
 4 Static Snare (TDM) 26
 4 Static Snare (TDM) 420
 4 Strategic Betrayal (TDM) 422
 4 Sultai Monument (TDM) 247
 4 Sunpearl Kirin (TDM) 29
 4 Sunset Strikemaster (TDM) 126
+4 Synchronized Charge (TDM) 162
 4 Teeming Dragonstorm (TDM) 30
 4 Temur Monument (TDM) 248
 4 Twinmaw Stormbrood (TDM) 232
@@ -80,6 +85,7 @@ Deck
 4 Unrooted Ancestor (TDM) 96
 4 Ureni's Rebuff (TDM) 63
 4 Venerated Stormsinger (TDM) 97
+4 Wail of War (TDM) 98
 4 War Effort (TDM) 131
 4 Whirlwing Stormbrood (TDM) 234
 4 Whirlwing Stormbrood (TDM) 322
