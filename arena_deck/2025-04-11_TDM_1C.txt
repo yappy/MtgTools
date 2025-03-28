@@ -10,6 +10,7 @@ Deck
 4 Caustic Exhale (TDM) 74
 4 Coordinated Maneuver (TDM) 6
 4 Cruel Truths (TDM) 76
+4 Delta Bloodflies (TDM) 77
 4 Devoted Duelist (TDM) 104
 4 Dirgur Island Dragon (TDM) 40
 4 Dirgur Island Dragon (TDM) 294
@@ -22,10 +23,12 @@ Deck
 4 Embermouth Sentinel (TDM) 242
 4 Evolving Wilds (TDM) 255
 4 Feral Deathgorger (TDM) 80
+4 Feral Deathgorger (TDM) 298
 4 Fire-Rim Form (TDM) 107
 4 Fortress Kin-Guard (TDM) 12
 4 Gurmag Nightwatch (TDM) 190
 4 Heritage Reclamation (TDM) 145
+4 Highspire Bell-Ringer (TDM) 47
 4 Humbling Elder (TDM) 48
 4 Jade-Cast Sentinel (TDM) 243
 4 Jeskai Devotee (TDM) 110
@@ -58,11 +61,11 @@ Deck
 4 Stormplain Detainment (TDM) 28
 4 Stormshriek Feral (TDM) 124
 4 Stormshriek Feral (TDM) 304
+================================================================================
+Deck
 4 Sultai Devotee (TDM) 160
 4 Summit Intimidator (TDM) 125
 4 Swiftwater Cliffs (TDM) 268
-================================================================================
-Deck
 4 Tempest Hawk (TDM) 31
 4 Temur Devotee (TDM) 61
 4 Temur Tawnyback (TDM) 229

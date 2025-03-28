@@ -1,4 +1,6 @@
 Deck
+4 "Star of the Arena" (TDM) 122
+4 "Star of the Arena" (TDM) 344
 4 Ambling Stormshell (TDM) 37
 4 Anafenza, Unyielding Lineage (TDM) 2
 4 Anafenza, Unyielding Lineage (TDM) 327
@@ -47,6 +49,8 @@ Deck
 4 Kotis, the Fangkeeper (TDM) 362
 4 Lasyd Prowler (TDM) 149
 4 Lasyd Prowler (TDM) 348
+4 Lotuslight Dancers (TDM) 204
+4 Lotuslight Dancers (TDM) 363
 4 Maelstrom of the Spirit Dragon (TDM) 260
 4 Maelstrom of the Spirit Dragon (TDM) 326
 4 Magmatic Hellkite (TDM) 111
@@ -54,15 +58,17 @@ Deck
 4 Magmatic Hellkite (TDM) 380
 4 Marang River Regent (TDM) 51
 4 Marang River Regent (TDM) 378
+4 Mardu Siegebreaker (TDM) 206
+4 Mardu Siegebreaker (TDM) 364
 4 Mistrise Village (TDM) 261
+================================================================================
+Deck
 4 Mistrise Village (TDM) 397
 4 Naga Fleshcrafter (TDM) 52
 4 Naga Fleshcrafter (TDM) 333
 4 Narset, Jeskai Waymaster (TDM) 209
 4 Nature's Rhythm (TDM) 150
 4 Nature's Rhythm (TDM) 349
-================================================================================
-Deck
 4 New Way Forward (TDM) 211
 4 New Way Forward (TDM) 367
 4 Qarsi Revenant (TDM) 86

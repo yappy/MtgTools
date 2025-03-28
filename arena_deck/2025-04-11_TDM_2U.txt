@@ -14,6 +14,7 @@ Deck
 4 Corroding Dragonstorm (TDM) 75
 4 Corroding Dragonstorm (TDM) 297
 4 Dalkovan Packbeasts (TDM) 7
+4 Defibrillating Current (TDM) 177
 4 Descendant of Storms (TDM) 8
 4 Desperate Measures (TDM) 78
 4 Disruptive Stormbrood (TDM) 178
@@ -33,6 +34,7 @@ Deck
 4 Glacial Dragonhunt (TDM) 188
 4 Hardened Tactician (TDM) 191
 4 Host of the Hereafter (TDM) 193
+4 Hundred-Battle Veteran (TDM) 82
 4 Jeskai Brushmaster (TDM) 195
 4 Jeskai Monument (TDM) 244
 4 Jeskai Shrinekeeper (TDM) 197
@@ -45,6 +47,7 @@ Deck
 4 Krumar Initiate (TDM) 84
 4 Lie in Wait (TDM) 203
 4 Loxodon Battle Priest (TDM) 15
+4 Mammoth Bellow (TDM) 205
 4 Mardu Monument (TDM) 245
 4 Marshal of the Lost (TDM) 207
 4 Mystic Monastery (TDM) 262
@@ -58,13 +61,14 @@ Deck
 4 Rite of Renewal (TDM) 153
 4 Riverwheel Sweep (TDM) 219
 4 Roiling Dragonstorm (TDM) 55
+================================================================================
+Deck
 4 Roiling Dragonstorm (TDM) 296
 4 Roiling Dragonstorm (TDM) 421
 4 Runescale Stormbrood (TDM) 221
-================================================================================
-Deck
 4 Runescale Stormbrood (TDM) 316
 4 Sandsteppe Citadel (TDM) 266
+4 Shocking Sharpshooter (TDM) 121
 4 Skirmish Rhino (TDM) 224
 4 Sonic Shrieker (TDM) 226
 4 Sonic Shrieker (TDM) 318
@@ -79,14 +83,19 @@ Deck
 4 Sunset Strikemaster (TDM) 126
 4 Synchronized Charge (TDM) 162
 4 Teeming Dragonstorm (TDM) 30
+4 Teeming Dragonstorm (TDM) 293
 4 Temur Monument (TDM) 248
+4 Traveling Botanist (TDM) 164
 4 Twinmaw Stormbrood (TDM) 232
 4 Twinmaw Stormbrood (TDM) 320
 4 Unrooted Ancestor (TDM) 96
+4 Unsparing Boltcaster (TDM) 130
 4 Ureni's Rebuff (TDM) 63
 4 Venerated Stormsinger (TDM) 97
 4 Wail of War (TDM) 98
 4 War Effort (TDM) 131
+4 Wayspeaker Bodyguard (TDM) 34
 4 Whirlwing Stormbrood (TDM) 234
 4 Whirlwing Stormbrood (TDM) 322
 4 Yathan Tombguard (TDM) 100
+4 Zurgo's Vanguard (TDM) 133
