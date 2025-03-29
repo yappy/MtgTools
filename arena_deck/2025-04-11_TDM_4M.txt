@@ -33,6 +33,8 @@ Deck
 4 Mox Jasper (TDM) 246
 4 Mox Jasper (TDM) 325
 4 Mox Jasper (TDM) 419
+4 Narset, Jeskai Waymaster (TDM) 407
+4 Narset, Jeskai Waymaster (TDM) 417
 4 Neriv, Heart of the Storm (TDM) 210
 4 Neriv, Heart of the Storm (TDM) 314
 4 Neriv, Heart of the Storm (TDM) 366
@@ -43,9 +45,12 @@ Deck
 4 Sarkhan, Dragon Ascendant (TDM) 403
 4 Sarkhan, Dragon Ascendant (TDM) 413
 4 Shiko, Paragon of the Way (TDM) 223
+4 Shiko, Paragon of the Way (TDM) 317
+4 Shiko, Paragon of the Way (TDM) 370
 4 Skirmish Rhino (TDM) 408
 4 Skirmish Rhino (TDM) 418
 4 Smile at Death (TDM) 24
+4 Smile at Death (TDM) 329
 4 Stormscale Scion (TDM) 123
 4 Stormscale Scion (TDM) 303
 4 Taigam, Master Opportunist (TDM) 60
@@ -54,9 +59,11 @@ Deck
 4 Teval, Arbiter of Virtue (TDM) 319
 4 Teval, Arbiter of Virtue (TDM) 373
 4 Ugin, Eye of the Storms (TDM) 1
-4 Ugin, Eye of the Storms (TDM) 382
 4 Ugin, Eye of the Storms (TDM) 399
 4 Ugin, Eye of the Storms (TDM) 409
+================================================================================
+Deck
+4 Ugin, Eye of the Storms (TDM) 382
 4 Ureni, the Song Unending (TDM) 233
 4 Ureni, the Song Unending (TDM) 321
 4 Ureni, the Song Unending (TDM) 374

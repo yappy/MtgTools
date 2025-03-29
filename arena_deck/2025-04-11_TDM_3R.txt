@@ -1,7 +1,6 @@
 Deck
-4 "Star of the Arena" (TDM) 122
-4 "Star of the Arena" (TDM) 344
 4 Ambling Stormshell (TDM) 37
+4 Ambling Stormshell (TDM) 332
 4 Anafenza, Unyielding Lineage (TDM) 2
 4 Anafenza, Unyielding Lineage (TDM) 327
 4 Avenger of the Fallen (TDM) 73
@@ -43,6 +42,7 @@ Deck
 4 Hollowmurk Siege (TDM) 192
 4 Hollowmurk Siege (TDM) 387
 4 Inevitable Defeat (TDM) 194
+4 Inevitable Defeat (TDM) 360
 4 Kishla Village (TDM) 259
 4 Kishla Village (TDM) 396
 4 Kotis, the Fangkeeper (TDM) 202
@@ -67,6 +67,7 @@ Deck
 4 Naga Fleshcrafter (TDM) 52
 4 Naga Fleshcrafter (TDM) 333
 4 Narset, Jeskai Waymaster (TDM) 209
+4 Narset, Jeskai Waymaster (TDM) 365
 4 Nature's Rhythm (TDM) 150
 4 Nature's Rhythm (TDM) 349
 4 New Way Forward (TDM) 211
@@ -79,6 +80,7 @@ Deck
 4 Revival of the Ancestors (TDM) 218
 4 Revival of the Ancestors (TDM) 389
 4 Roar of Endless Song (TDM) 220
+4 Roar of Endless Song (TDM) 390
 4 Sage of the Skies (TDM) 22
 4 Sage of the Skies (TDM) 328
 4 Sarkhan, Dragon Ascendant (TDM) 118
@@ -93,6 +95,8 @@ Deck
 4 Sinkhole Surveyor (TDM) 342
 4 Songcrafter Mage (TDM) 225
 4 Songcrafter Mage (TDM) 371
+4 Stadium Headliner (TDM) 122
+4 Stadium Headliner (TDM) 344
 4 Stillness in Motion (TDM) 59
 4 Stillness in Motion (TDM) 334
 4 Surrak, Elusive Hunter (TDM) 161
