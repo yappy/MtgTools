@@ -1,6 +1,7 @@
 Deck
 4 Garland, Knight of Cornelia (FIN) 221
 4 Garland, Knight of Cornelia (FIN) 486
+4 Gladiolus Amicitia (FIN) 224
 4 Sazh's Chocobo (FIN) 200
 4 Sidequest: Catch a Fish (FIN) 31
 4 Summon: Shiva (FIN) 78
