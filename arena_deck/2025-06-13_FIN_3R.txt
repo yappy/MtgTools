@@ -12,3 +12,5 @@ Deck
 4 Stiltzkin, Moogle Merchant (FIN) 34
 4 Stiltzkin, Moogle Merchant (FIN) 327
 4 Zell Dincht (FIN) 170
+4 Zenos yae Galvus (FIN) 127
+4 Zenos yae Galvus (FIN) 384
