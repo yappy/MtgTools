@@ -1,9 +1,9 @@
 Deck
-4 "Shantotto" (FIN) 241
 4 Garland, Knight of Cornelia (FIN) 221
 4 Garland, Knight of Cornelia (FIN) 486
 4 Gladiolus Amicitia (FIN) 224
 4 Sazh's Chocobo (FIN) 200
+4 Shantotto, Tactician Magician (FIN) 241
 4 Sidequest: Catch a Fish (FIN) 31
 4 Summon: Shiva (FIN) 78
 4 Summon: Shiva (FIN) 362
