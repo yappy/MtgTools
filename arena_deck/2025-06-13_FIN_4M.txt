@@ -1,9 +1,59 @@
 Deck
+4 Absolute Virtue (FIN) 212
+4 Absolute Virtue (FIN) 476
+4 Clive, Ifrit's Dominant (FIN) 133
+4 Clive, Ifrit's Dominant (FIN) 318
+4 Clive, Ifrit's Dominant (FIN) 385
+4 Clive, Ifrit's Dominant (FIN) 458
+4 Clive, Ifrit's Dominant (FIN) 530
+4 Cloud, Midgar Mercenary (FIN) 10
+4 Cloud, Midgar Mercenary (FIN) 375
+4 Cloud, Midgar Mercenary (FIN) 427
+4 Cloud, Midgar Mercenary (FIN) 520
+4 Cloud, Planet's Champion (FIN) 482
 4 Cloud, Planet's Champion (FIN) 552
 4 Dark Confidant (FIN) 94
 4 Dark Confidant (FIN) 334
 4 Emet-Selch, Unsundered (FIN) 218
 4 Emet-Selch, Unsundered (FIN) 394
 4 Emet-Selch, Unsundered (FIN) 483
+4 Emet-Selch, Unsundered (FIN) 539
+4 Kefka, Court Mage (FIN) 231
+4 Kefka, Court Mage (FIN) 322
+4 Kefka, Court Mage (FIN) 398
+4 Kefka, Court Mage (FIN) 496
+4 Kefka, Court Mage (FIN) 543
+4 Lightning, Army of One (FIN) 233
+4 Lightning, Army of One (FIN) 320
+4 Lightning, Army of One (FIN) 400
+4 Lightning, Army of One (FIN) 498
+4 Lightning, Army of One (FIN) 545
+4 Sephiroth, Fabled SOLDIER (FIN) 115
+4 Sephiroth, Fabled SOLDIER (FIN) 317
+4 Sephiroth, Fabled SOLDIER (FIN) 382
+4 Sephiroth, Fabled SOLDIER (FIN) 451
+4 Sephiroth, Fabled SOLDIER (FIN) 527
+4 Sephiroth, Planet's Heir (FIN) 505
 4 Sephiroth, Planet's Heir (FIN) 553
+4 Summon: Bahamut (FIN) 1
+4 Summon: Bahamut (FIN) 356
+4 Terra, Magical Adept (FIN) 245
+4 Terra, Magical Adept (FIN) 323
+4 Terra, Magical Adept (FIN) 511
+4 Traveling Chocobo (FIN) 210
+4 Traveling Chocobo (FIN) 406
+4 Traveling Chocobo (FIN) 551
+4 Traveling Chocobo (FIN) 551a
+4 Traveling Chocobo (FIN) 551b
+4 Traveling Chocobo (FIN) 551c
+4 Traveling Chocobo (FIN) 551d
+4 Traveling Chocobo (FIN) 551f
+4 Vivi Ornitier (FIN) 248
+4 Vivi Ornitier (FIN) 514
+4 Y'shtola Rhul (FIN) 86
+4 Y'shtola Rhul (FIN) 443
 4 Y'shtola Rhul (FIN) 577
+4 Yuna, Hope of Spira (FIN) 250
+4 Yuna, Hope of Spira (FIN) 404
+4 Yuna, Hope of Spira (FIN) 517
+4 Yuna, Hope of Spira (FIN) 549

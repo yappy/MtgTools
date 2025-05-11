@@ -1,1 +1,9 @@
 Deck
+4 Adventurer's Inn (FIN) 271
+4 Black Mage's Rod (FIN) 90
+4 Commune with Beavers (FIN) 182
+4 Dragoon's Wyvern (FIN) 49
+4 Ice Magic (FIN) 56
+4 Malboro (FIN) 106
+4 Town Greeter (FIN) 209
+4 White Mage's Staff (FIN) 42

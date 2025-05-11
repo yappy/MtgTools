@@ -1,10 +1,51 @@
 Deck
+4 Cid, Timeless Artificer (FIN) 216
+4 Cid, Timeless Artificer (FIN) 407
+4 Cid, Timeless Artificer (FIN) 408
+4 Cid, Timeless Artificer (FIN) 409
+4 Cid, Timeless Artificer (FIN) 410
+4 Cid, Timeless Artificer (FIN) 411
+4 Cid, Timeless Artificer (FIN) 412
+4 Cid, Timeless Artificer (FIN) 413
+4 Cid, Timeless Artificer (FIN) 414
+4 Cid, Timeless Artificer (FIN) 415
+4 Cid, Timeless Artificer (FIN) 416
+4 Cid, Timeless Artificer (FIN) 417
+4 Cid, Timeless Artificer (FIN) 418
+4 Cid, Timeless Artificer (FIN) 419
+4 Cid, Timeless Artificer (FIN) 420
+4 Cid, Timeless Artificer (FIN) 480
+4 Dragoon's Lance (FIN) 17
+4 Fang, Fearless l'Cie (FIN) 99
+4 Fang, Fearless l'Cie (FIN) 381
+4 Fang, Fearless l'Cie (FIN) 446
+4 Fang, Fearless l'Cie (FIN) 526
+4 Fire Magic (FIN) 136
 4 Garland, Knight of Cornelia (FIN) 221
 4 Garland, Knight of Cornelia (FIN) 486
 4 Gladiolus Amicitia (FIN) 224
+4 Gladiolus Amicitia (FIN) 489
+4 Ragnarok, Divine Deliverance (FIN) 99b
+4 Ragnarok, Divine Deliverance (FIN) 381b
+4 Ragnarok, Divine Deliverance (FIN) 446b
+4 Ragnarok, Divine Deliverance (FIN) 526b
+4 Rinoa Heartilly (FIN) 237
+4 Rinoa Heartilly (FIN) 502
 4 Sazh's Chocobo (FIN) 200
 4 Shantotto, Tactician Magician (FIN) 241
+4 Shantotto, Tactician Magician (FIN) 507
 4 Sidequest: Catch a Fish (FIN) 31
+4 Summon: Fenrir (FIN) 203
+4 Summon: Fenrir (FIN) 372
 4 Summon: Shiva (FIN) 78
 4 Summon: Shiva (FIN) 362
+4 The Crystal's Chosen (FIN) 14
+4 The Emperor of Palamecia (FIN) 219
+4 The Emperor of Palamecia (FIN) 484
 4 Tonberry (FIN) 122
+4 Ultimecia, Time Sorceress (FIN) 247
+4 Ultimecia, Time Sorceress (FIN) 513
+4 Vanille, Cheerful l'Cie (FIN) 211
+4 Vanille, Cheerful l'Cie (FIN) 392
+4 Vanille, Cheerful l'Cie (FIN) 475
+4 Vanille, Cheerful l'Cie (FIN) 537
