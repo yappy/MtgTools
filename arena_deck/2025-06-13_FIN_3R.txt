@@ -10,6 +10,8 @@ Deck
 4 Ardyn, the Usurper (FIN) 379
 4 Ardyn, the Usurper (FIN) 444
 4 Ardyn, the Usurper (FIN) 524
+4 Astrologian's Planisphere (FIN) 46
+4 Astrologian's Planisphere (FIN) 581
 4 Balthier and Fran (FIN) 213
 4 Balthier and Fran (FIN) 319
 4 Balthier and Fran (FIN) 393
@@ -21,6 +23,8 @@ Deck
 4 Cecil, Dark Knight (FIN) 380
 4 Cecil, Dark Knight (FIN) 445
 4 Cecil, Dark Knight (FIN) 525
+4 Esper Origins (FIN) 185
+4 Esper Origins (FIN) 370
 4 Firion, Wild Rose Warrior (FIN) 137
 4 Firion, Wild Rose Warrior (FIN) 386
 4 Firion, Wild Rose Warrior (FIN) 459
@@ -28,6 +32,8 @@ Deck
 4 Gilgamesh, Master-at-Arms (FIN) 139
 4 Gilgamesh, Master-at-Arms (FIN) 338
 4 Gilgamesh, Master-at-Arms (FIN) 461
+4 Ishgard, the Holy See (FIN) 283
+4 Ishgard, the Holy See (FIN) 310
 4 Jidoor, Aristocratic Capital (FIN) 284
 4 Jidoor, Aristocratic Capital (FIN) 311
 4 Jill, Shiva's Dominant (FIN) 58
@@ -42,6 +48,8 @@ Deck
 4 Kuja, Genome Sorcerer (FIN) 399
 4 Kuja, Genome Sorcerer (FIN) 497
 4 Kuja, Genome Sorcerer (FIN) 544
+4 Matoya, Archon Elder (FIN) 62
+4 Matoya, Archon Elder (FIN) 439
 4 Noctis, Prince of Lucis (FIN) 235
 4 Noctis, Prince of Lucis (FIN) 401
 4 Noctis, Prince of Lucis (FIN) 500
@@ -53,6 +61,8 @@ Deck
 4 Squall, SeeD Mercenary (FIN) 402
 4 Squall, SeeD Mercenary (FIN) 509
 4 Squall, SeeD Mercenary (FIN) 547
+================================================================================
+Deck
 4 Starting Town (FIN) 289
 4 Stiltzkin, Moogle Merchant (FIN) 34
 4 Stiltzkin, Moogle Merchant (FIN) 327
@@ -61,8 +71,6 @@ Deck
 4 Summon: Primal Odin (FIN) 121
 4 Summon: Primal Odin (FIN) 365
 4 Summoner's Grimoire (FIN) 205
-================================================================================
-Deck
 4 The Darkness Crystal (FIN) 96
 4 The Darkness Crystal (FIN) 335
 4 Tifa Lockhart (FIN) 206

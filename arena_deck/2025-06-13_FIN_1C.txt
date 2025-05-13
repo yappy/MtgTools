@@ -4,6 +4,12 @@ Deck
 4 Commune with Beavers (FIN) 182
 4 Dragoon's Wyvern (FIN) 49
 4 Ice Magic (FIN) 56
+4 Laughing Mad (FIN) 143
+4 Laughing Mad (FIN) 585
 4 Malboro (FIN) 106
+4 Sage's Nouliths (FIN) 70
+4 Sage's Nouliths (FIN) 582
 4 Town Greeter (FIN) 209
+4 White Auracite (FIN) 41
+4 White Auracite (FIN) 579
 4 White Mage's Staff (FIN) 42

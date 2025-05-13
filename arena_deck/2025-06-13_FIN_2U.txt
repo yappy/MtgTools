@@ -1,4 +1,6 @@
 Deck
+4 Barret Wallace (FIN) 129
+4 Barret Wallace (FIN) 584
 4 Cid, Timeless Artificer (FIN) 216
 4 Cid, Timeless Artificer (FIN) 407
 4 Cid, Timeless Artificer (FIN) 408
@@ -15,6 +17,8 @@ Deck
 4 Cid, Timeless Artificer (FIN) 419
 4 Cid, Timeless Artificer (FIN) 420
 4 Cid, Timeless Artificer (FIN) 480
+4 Circle of Power (FIN) 92
+4 Circle of Power (FIN) 583
 4 Dragoon's Lance (FIN) 17
 4 Fang, Fearless l'Cie (FIN) 99
 4 Fang, Fearless l'Cie (FIN) 381
@@ -25,6 +29,8 @@ Deck
 4 Garland, Knight of Cornelia (FIN) 486
 4 Gladiolus Amicitia (FIN) 224
 4 Gladiolus Amicitia (FIN) 489
+4 Phoenix Down (FIN) 29
+4 Phoenix Down (FIN) 578
 4 Ragnarok, Divine Deliverance (FIN) 99b
 4 Ragnarok, Divine Deliverance (FIN) 381b
 4 Ragnarok, Divine Deliverance (FIN) 446b
@@ -45,7 +51,10 @@ Deck
 4 Tonberry (FIN) 122
 4 Ultimecia, Time Sorceress (FIN) 247
 4 Ultimecia, Time Sorceress (FIN) 513
+4 Valkyrie Aerial Unit (FIN) 84
 4 Vanille, Cheerful l'Cie (FIN) 211
 4 Vanille, Cheerful l'Cie (FIN) 392
 4 Vanille, Cheerful l'Cie (FIN) 475
 4 Vanille, Cheerful l'Cie (FIN) 537
+4 Zack Fair (FIN) 45
+4 Zack Fair (FIN) 580
