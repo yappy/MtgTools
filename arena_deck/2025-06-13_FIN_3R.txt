@@ -19,10 +19,13 @@ Deck
 4 Balthier and Fran (FIN) 538
 4 Bartz and Boko (FIN) 175
 4 Bartz and Boko (FIN) 469
+4 Beatrix, Loyal General (FIN) 426
+4 Beatrix, Loyal General (FIN) 554
 4 Cecil, Dark Knight (FIN) 91
 4 Cecil, Dark Knight (FIN) 380
 4 Cecil, Dark Knight (FIN) 445
 4 Cecil, Dark Knight (FIN) 525
+4 Deadly Embrace (FIN) 557
 4 Esper Origins (FIN) 185
 4 Esper Origins (FIN) 370
 4 Firion, Wild Rose Warrior (FIN) 137
@@ -40,6 +43,7 @@ Deck
 4 Jill, Shiva's Dominant (FIN) 378
 4 Jill, Shiva's Dominant (FIN) 438
 4 Jill, Shiva's Dominant (FIN) 523
+4 Judgment Bolt (FIN) 559
 4 Jumbo Cactuar (FIN) 191
 4 Jumbo Cactuar (FIN) 343
 4 Kain, Traitorous Dragoon (FIN) 105
@@ -48,12 +52,21 @@ Deck
 4 Kuja, Genome Sorcerer (FIN) 399
 4 Kuja, Genome Sorcerer (FIN) 497
 4 Kuja, Genome Sorcerer (FIN) 544
+4 Lightning, Security Sergeant (FIN) 462
+4 Lightning, Security Sergeant (FIN) 560
+4 Magitek Scythe (FIN) 562
 4 Matoya, Archon Elder (FIN) 62
 4 Matoya, Archon Elder (FIN) 439
 4 Noctis, Prince of Lucis (FIN) 235
 4 Noctis, Prince of Lucis (FIN) 401
 4 Noctis, Prince of Lucis (FIN) 500
 4 Noctis, Prince of Lucis (FIN) 546
+================================================================================
+Deck
+4 Rosa, Resolute White Mage (FIN) 431
+4 Rosa, Resolute White Mage (FIN) 555
+4 Seymour Flux (FIN) 452
+4 Seymour Flux (FIN) 558
 4 Sin, Spira's Punishment (FIN) 242
 4 Sin, Spira's Punishment (FIN) 348
 4 Sin, Spira's Punishment (FIN) 508
@@ -61,8 +74,6 @@ Deck
 4 Squall, SeeD Mercenary (FIN) 402
 4 Squall, SeeD Mercenary (FIN) 509
 4 Squall, SeeD Mercenary (FIN) 547
-================================================================================
-Deck
 4 Starting Town (FIN) 289
 4 Stiltzkin, Moogle Merchant (FIN) 34
 4 Stiltzkin, Moogle Merchant (FIN) 327
@@ -77,6 +88,14 @@ Deck
 4 Tifa Lockhart (FIN) 391
 4 Tifa Lockhart (FIN) 473
 4 Tifa Lockhart (FIN) 536
+4 Ultima Weapon (FIN) 563
+4 Ultima, Origin of Oblivion (FIN) 2
+4 Ultima, Origin of Oblivion (FIN) 324
+4 Ultima, Origin of Oblivion (FIN) 421
+4 Ultimecia, Temporal Threat (FIN) 441
+4 Ultimecia, Temporal Threat (FIN) 556
+4 Xande, Dark Mage (FIN) 516
+4 Xande, Dark Mage (FIN) 561
 4 Zanarkand, Ancient Metropolis (FIN) 293
 4 Zanarkand, Ancient Metropolis (FIN) 314
 4 Zell Dincht (FIN) 170

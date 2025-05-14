@@ -1,4 +1,7 @@
 Deck
+4 "M.S. Prima Vista" (FIN) 64
+4 "Zidane, Cheerful Ransomer" (FIN) 251
+4 "Zidane, Cheerful Ransomer" (FIN) 405
 4 Barret Wallace (FIN) 129
 4 Barret Wallace (FIN) 584
 4 Cid, Timeless Artificer (FIN) 216
