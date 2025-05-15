@@ -49,6 +49,7 @@ Deck
 4 Traveling Chocobo (FIN) 551d
 4 Traveling Chocobo (FIN) 551f
 4 Vivi Ornitier (FIN) 248
+4 Vivi Ornitier (FIN) 321
 4 Vivi Ornitier (FIN) 514
 4 Y'shtola Rhul (FIN) 86
 4 Y'shtola Rhul (FIN) 443

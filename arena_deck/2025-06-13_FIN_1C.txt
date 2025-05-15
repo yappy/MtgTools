@@ -1,16 +1,28 @@
 Deck
 4 Adventurer's Inn (FIN) 271
 4 Black Mage's Rod (FIN) 90
+4 Cloudbound Moogle (FIN) 11
+4 Coeurl (FIN) 12
 4 Commune with Beavers (FIN) 182
 4 Dragoon's Wyvern (FIN) 49
+4 Dreams of Laguna (FIN) 50
+4 Fate of the Sun-Cryst (FIN) 19
 4 Ice Magic (FIN) 56
+4 Item Shopkeep (FIN) 142
 4 Laughing Mad (FIN) 143
 4 Laughing Mad (FIN) 585
 4 Malboro (FIN) 106
 4 Namazu Trader (FIN) 107
+4 Rabanastre, Royal City (FIN) 287
+4 Retrieve the Esper (FIN) 68
 4 Sage's Nouliths (FIN) 70
 4 Sage's Nouliths (FIN) 582
+4 Sahagin (FIN) 71
+4 Sephiroth's Intervention (FIN) 116
+4 Shinra Reinforcements (FIN) 118
 4 Town Greeter (FIN) 209
+4 Undercity Dire Rat (FIN) 123
+4 Warrior's Sword (FIN) 169
 4 White Auracite (FIN) 41
 4 White Auracite (FIN) 579
 4 White Mage's Staff (FIN) 42

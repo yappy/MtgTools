@@ -25,6 +25,8 @@ Deck
 4 Cecil, Dark Knight (FIN) 380
 4 Cecil, Dark Knight (FIN) 445
 4 Cecil, Dark Knight (FIN) 525
+4 Choco, Seeker of Paradise (FIN) 215
+4 Choco, Seeker of Paradise (FIN) 479
 4 Deadly Embrace (FIN) 557
 4 Esper Origins (FIN) 185
 4 Esper Origins (FIN) 370
@@ -37,6 +39,9 @@ Deck
 4 Gilgamesh, Master-at-Arms (FIN) 461
 4 Ishgard, the Holy See (FIN) 283
 4 Ishgard, the Holy See (FIN) 310
+4 Jecht, Reluctant Guardian (FIN) 104
+4 Jecht, Reluctant Guardian (FIN) 363
+4 Jecht, Reluctant Guardian (FIN) 448
 4 Jidoor, Aristocratic Capital (FIN) 284
 4 Jidoor, Aristocratic Capital (FIN) 311
 4 Jill, Shiva's Dominant (FIN) 58
@@ -56,13 +61,15 @@ Deck
 4 Lightning, Security Sergeant (FIN) 560
 4 Magitek Scythe (FIN) 562
 4 Matoya, Archon Elder (FIN) 62
+================================================================================
+Deck
 4 Matoya, Archon Elder (FIN) 439
+4 Moogles' Valor (FIN) 27
+4 Moogles' Valor (FIN) 326
 4 Noctis, Prince of Lucis (FIN) 235
 4 Noctis, Prince of Lucis (FIN) 401
 4 Noctis, Prince of Lucis (FIN) 500
 4 Noctis, Prince of Lucis (FIN) 546
-================================================================================
-Deck
 4 Rosa, Resolute White Mage (FIN) 431
 4 Rosa, Resolute White Mage (FIN) 555
 4 Seymour Flux (FIN) 452
@@ -78,6 +85,7 @@ Deck
 4 Stiltzkin, Moogle Merchant (FIN) 34
 4 Stiltzkin, Moogle Merchant (FIN) 327
 4 Stiltzkin, Moogle Merchant (FIN) 433
+4 Summon: Leviathan (FIN) 77
 4 Summon: Leviathan (FIN) 361
 4 Summon: Primal Odin (FIN) 121
 4 Summon: Primal Odin (FIN) 365
@@ -94,6 +102,8 @@ Deck
 4 Ultima, Origin of Oblivion (FIN) 421
 4 Ultimecia, Temporal Threat (FIN) 441
 4 Ultimecia, Temporal Threat (FIN) 556
+4 Vincent Valentine (FIN) 125
+4 Vincent Valentine (FIN) 383
 4 Xande, Dark Mage (FIN) 516
 4 Xande, Dark Mage (FIN) 561
 4 Zanarkand, Ancient Metropolis (FIN) 293

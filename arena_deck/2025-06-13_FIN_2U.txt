@@ -1,7 +1,5 @@
 Deck
-4 "M.S. Prima Vista" (FIN) 64
-4 "Zidane, Cheerful Ransomer" (FIN) 251
-4 "Zidane, Cheerful Ransomer" (FIN) 405
+4 Al Bhed Salvagers (FIN) 88
 4 Barret Wallace (FIN) 129
 4 Barret Wallace (FIN) 584
 4 Cid, Timeless Artificer (FIN) 216
@@ -23,27 +21,37 @@ Deck
 4 Circle of Power (FIN) 92
 4 Circle of Power (FIN) 583
 4 Dragoon's Lance (FIN) 17
+4 Evil Reawakened (FIN) 98
 4 Fang, Fearless l'Cie (FIN) 99
 4 Fang, Fearless l'Cie (FIN) 381
 4 Fang, Fearless l'Cie (FIN) 446
 4 Fang, Fearless l'Cie (FIN) 526
 4 Fire Magic (FIN) 136
+4 Freya Crescent (FIN) 138
+4 Freya Crescent (FIN) 460
+4 Galuf's Final Act (FIN) 186
 4 Garland, Knight of Cornelia (FIN) 221
 4 Garland, Knight of Cornelia (FIN) 486
 4 Gladiolus Amicitia (FIN) 224
 4 Gladiolus Amicitia (FIN) 489
 4 Phoenix Down (FIN) 29
 4 Phoenix Down (FIN) 578
+4 Quistis Trepe (FIN) 66
 4 Ragnarok, Divine Deliverance (FIN) 99b
 4 Ragnarok, Divine Deliverance (FIN) 381b
 4 Ragnarok, Divine Deliverance (FIN) 446b
 4 Ragnarok, Divine Deliverance (FIN) 526b
 4 Rinoa Heartilly (FIN) 237
 4 Rinoa Heartilly (FIN) 502
+4 Samurai's Katana (FIN) 154
 4 Sazh's Chocobo (FIN) 200
+4 Self-Destruct (FIN) 157
+4 Shambling Cie'th (FIN) 117
 4 Shantotto, Tactician Magician (FIN) 241
 4 Shantotto, Tactician Magician (FIN) 507
 4 Sidequest: Catch a Fish (FIN) 31
+4 Summon: Esper Ramuh (FIN) 161
+4 Summon: Esper Ramuh (FIN) 367
 4 Summon: Fenrir (FIN) 203
 4 Summon: Fenrir (FIN) 372
 4 Summon: Shiva (FIN) 78
@@ -51,7 +59,10 @@ Deck
 4 The Crystal's Chosen (FIN) 14
 4 The Emperor of Palamecia (FIN) 219
 4 The Emperor of Palamecia (FIN) 484
+4 The Prima Vista (FIN) 64
 4 Tonberry (FIN) 122
+================================================================================
+Deck
 4 Ultimecia, Time Sorceress (FIN) 247
 4 Ultimecia, Time Sorceress (FIN) 513
 4 Valkyrie Aerial Unit (FIN) 84
@@ -61,3 +72,7 @@ Deck
 4 Vanille, Cheerful l'Cie (FIN) 537
 4 Zack Fair (FIN) 45
 4 Zack Fair (FIN) 580
+4 Zidane, Tantalus Thief (FIN) 251
+4 Zidane, Tantalus Thief (FIN) 405
+4 Zidane, Tantalus Thief (FIN) 518
+4 Zidane, Tantalus Thief (FIN) 550
