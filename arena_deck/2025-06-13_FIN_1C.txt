@@ -20,6 +20,7 @@ Deck
 4 Sahagin (FIN) 71
 4 Sephiroth's Intervention (FIN) 116
 4 Shinra Reinforcements (FIN) 118
+4 Suplex (FIN) 164
 4 Town Greeter (FIN) 209
 4 Undercity Dire Rat (FIN) 123
 4 Warrior's Sword (FIN) 169

@@ -52,6 +52,7 @@ Deck
 4 Jumbo Cactuar (FIN) 191
 4 Jumbo Cactuar (FIN) 343
 4 Kain, Traitorous Dragoon (FIN) 105
+4 Kain, Traitorous Dragoon (FIN) 316
 4 Kain, Traitorous Dragoon (FIN) 449
 4 Kuja, Genome Sorcerer (FIN) 232
 4 Kuja, Genome Sorcerer (FIN) 399
@@ -60,9 +61,9 @@ Deck
 4 Lightning, Security Sergeant (FIN) 462
 4 Lightning, Security Sergeant (FIN) 560
 4 Magitek Scythe (FIN) 562
-4 Matoya, Archon Elder (FIN) 62
 ================================================================================
 Deck
+4 Matoya, Archon Elder (FIN) 62
 4 Matoya, Archon Elder (FIN) 439
 4 Moogles' Valor (FIN) 27
 4 Moogles' Valor (FIN) 326
@@ -96,6 +97,8 @@ Deck
 4 Tifa Lockhart (FIN) 391
 4 Tifa Lockhart (FIN) 473
 4 Tifa Lockhart (FIN) 536
+4 Triple Triad (FIN) 166
+4 Triple Triad (FIN) 340
 4 Ultima Weapon (FIN) 563
 4 Ultima, Origin of Oblivion (FIN) 2
 4 Ultima, Origin of Oblivion (FIN) 324
@@ -104,6 +107,8 @@ Deck
 4 Ultimecia, Temporal Threat (FIN) 556
 4 Vincent Valentine (FIN) 125
 4 Vincent Valentine (FIN) 383
+4 Vincent Valentine (FIN) 454
+4 Vincent Valentine (FIN) 528
 4 Xande, Dark Mage (FIN) 516
 4 Xande, Dark Mage (FIN) 561
 4 Zanarkand, Ancient Metropolis (FIN) 293
