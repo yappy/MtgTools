@@ -1,5 +1,4 @@
 Deck
-4 "Quistis Trepe" (FIN) 66
 4 Al Bhed Salvagers (FIN) 88
 4 Auron's Inspiration (FIN) 8
 4 Barret Wallace (FIN) 129
@@ -41,11 +40,14 @@ Deck
 4 Phoenix Down (FIN) 29
 4 Phoenix Down (FIN) 578
 4 Poison the Waters (FIN) 111
+4 Quistis Trepe (FIN) 66
+4 Quistis Trepe (FIN) 440
 4 Ragnarok, Divine Deliverance (FIN) 99b
 4 Ragnarok, Divine Deliverance (FIN) 381b
 4 Ragnarok, Divine Deliverance (FIN) 446b
 4 Ragnarok, Divine Deliverance (FIN) 526b
 4 Relm's Sketching (FIN) 67
+4 Reno and Rude (FIN) 113
 4 Rinoa Heartilly (FIN) 237
 4 Rinoa Heartilly (FIN) 502
 4 Samurai's Katana (FIN) 154
@@ -55,14 +57,18 @@ Deck
 4 Shantotto, Tactician Magician (FIN) 241
 4 Shantotto, Tactician Magician (FIN) 507
 4 Sidequest: Catch a Fish (FIN) 31
+4 Summon: Anima (FIN) 120
+4 Summon: Anima (FIN) 364
 4 Summon: Esper Ramuh (FIN) 161
 4 Summon: Esper Ramuh (FIN) 367
-4 Summon: Fenrir (FIN) 203
-4 Summon: Fenrir (FIN) 372
-4 Summon: Shiva (FIN) 78
-4 Summon: Shiva (FIN) 362
 ================================================================================
 Deck
+4 Summon: Fenrir (FIN) 203
+4 Summon: Fenrir (FIN) 372
+4 Summon: Primal Garuda (FIN) 37
+4 Summon: Primal Garuda (FIN) 360
+4 Summon: Shiva (FIN) 78
+4 Summon: Shiva (FIN) 362
 4 The Crystal's Chosen (FIN) 14
 4 The Emperor of Palamecia (FIN) 219
 4 The Emperor of Palamecia (FIN) 484

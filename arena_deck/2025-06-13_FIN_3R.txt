@@ -60,9 +60,10 @@ Deck
 4 Kuja, Genome Sorcerer (FIN) 544
 4 Lightning, Security Sergeant (FIN) 462
 4 Lightning, Security Sergeant (FIN) 560
-4 Magitek Scythe (FIN) 562
+4 Machinist's Arsenal (FIN) 23
 ================================================================================
 Deck
+4 Magitek Scythe (FIN) 562
 4 Matoya, Archon Elder (FIN) 62
 4 Matoya, Archon Elder (FIN) 439
 4 Moogles' Valor (FIN) 27
@@ -73,6 +74,10 @@ Deck
 4 Noctis, Prince of Lucis (FIN) 546
 4 Rosa, Resolute White Mage (FIN) 431
 4 Rosa, Resolute White Mage (FIN) 555
+4 Sazh Katzroy (FIN) 199
+4 Sazh Katzroy (FIN) 472
+4 Serah Farron (FIN) 240
+4 Serah Farron (FIN) 506
 4 Seymour Flux (FIN) 452
 4 Seymour Flux (FIN) 558
 4 Sin, Spira's Punishment (FIN) 242
@@ -120,5 +125,7 @@ Deck
 4 Zenos yae Galvus (FIN) 455
 4 Zenos yae Galvus (FIN) 529
 4 Zodiark, Umbral God (FIN) 128
+================================================================================
+Deck
 4 Zodiark, Umbral God (FIN) 336
 4 Zodiark, Umbral God (FIN) 456

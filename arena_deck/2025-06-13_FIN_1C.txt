@@ -8,11 +8,13 @@ Deck
 4 Dreams of Laguna (FIN) 50
 4 Fate of the Sun-Cryst (FIN) 19
 4 Ice Magic (FIN) 56
+4 Instant Ramen (FIN) 259
 4 Item Shopkeep (FIN) 142
 4 Laughing Mad (FIN) 143
 4 Laughing Mad (FIN) 585
 4 Malboro (FIN) 106
 4 Namazu Trader (FIN) 107
+4 Paladin's Arms (FIN) 28
 4 Rabanastre, Royal City (FIN) 287
 4 Retrieve the Esper (FIN) 68
 4 Sage's Nouliths (FIN) 70

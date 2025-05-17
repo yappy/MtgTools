@@ -1,6 +1,8 @@
 Deck
 4 Absolute Virtue (FIN) 212
 4 Absolute Virtue (FIN) 476
+4 Buster Sword (FIN) 255
+4 Buster Sword (FIN) 351
 4 Clive, Ifrit's Dominant (FIN) 133
 4 Clive, Ifrit's Dominant (FIN) 318
 4 Clive, Ifrit's Dominant (FIN) 385
@@ -28,6 +30,8 @@ Deck
 4 Lightning, Army of One (FIN) 400
 4 Lightning, Army of One (FIN) 498
 4 Lightning, Army of One (FIN) 545
+4 Nibelheim Aflame (FIN) 146
+4 Nibelheim Aflame (FIN) 339
 4 Sephiroth, Fabled SOLDIER (FIN) 115
 4 Sephiroth, Fabled SOLDIER (FIN) 317
 4 Sephiroth, Fabled SOLDIER (FIN) 382
@@ -37,6 +41,8 @@ Deck
 4 Sephiroth, Planet's Heir (FIN) 553
 4 Summon: Bahamut (FIN) 1
 4 Summon: Bahamut (FIN) 356
+4 Summon: Knights of Round (FIN) 36
+4 Summon: Knights of Round (FIN) 359
 4 Terra, Magical Adept (FIN) 245
 4 Terra, Magical Adept (FIN) 323
 4 Terra, Magical Adept (FIN) 511
@@ -55,6 +61,8 @@ Deck
 4 Y'shtola Rhul (FIN) 443
 4 Y'shtola Rhul (FIN) 577
 4 Yuna, Hope of Spira (FIN) 250
+================================================================================
+Deck
 4 Yuna, Hope of Spira (FIN) 404
 4 Yuna, Hope of Spira (FIN) 517
 4 Yuna, Hope of Spira (FIN) 549
