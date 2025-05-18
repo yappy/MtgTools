@@ -40,6 +40,7 @@ Deck
 4 Phoenix Down (FIN) 29
 4 Phoenix Down (FIN) 578
 4 Poison the Waters (FIN) 111
+4 PuPu UFO (FIN) 266
 4 Quistis Trepe (FIN) 66
 4 Quistis Trepe (FIN) 440
 4 Ragnarok, Divine Deliverance (FIN) 99b
@@ -60,9 +61,9 @@ Deck
 4 Summon: Anima (FIN) 120
 4 Summon: Anima (FIN) 364
 4 Summon: Esper Ramuh (FIN) 161
-4 Summon: Esper Ramuh (FIN) 367
 ================================================================================
 Deck
+4 Summon: Esper Ramuh (FIN) 367
 4 Summon: Fenrir (FIN) 203
 4 Summon: Fenrir (FIN) 372
 4 Summon: Primal Garuda (FIN) 37
