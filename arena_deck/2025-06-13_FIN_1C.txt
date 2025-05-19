@@ -7,6 +7,7 @@ Deck
 4 Dragoon's Wyvern (FIN) 49
 4 Dreams of Laguna (FIN) 50
 4 Fate of the Sun-Cryst (FIN) 19
+4 Ice Flan (FIN) 55
 4 Ice Magic (FIN) 56
 4 Instant Ramen (FIN) 259
 4 Item Shopkeep (FIN) 142
@@ -29,3 +30,4 @@ Deck
 4 White Auracite (FIN) 41
 4 White Auracite (FIN) 579
 4 White Mage's Staff (FIN) 42
+4 You're Not Alone (FIN) 44
