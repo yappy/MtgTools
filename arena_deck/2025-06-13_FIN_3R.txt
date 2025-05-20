@@ -60,9 +60,11 @@ Deck
 4 Kuja, Genome Sorcerer (FIN) 544
 4 Lightning, Security Sergeant (FIN) 462
 4 Lightning, Security Sergeant (FIN) 560
-4 Machinist's Arsenal (FIN) 23
+4 Lindblum, Industrial Regency (FIN) 285
 ================================================================================
 Deck
+4 Lindblum, Industrial Regency (FIN) 312
+4 Machinist's Arsenal (FIN) 23
 4 Magitek Scythe (FIN) 562
 4 Matoya, Archon Elder (FIN) 62
 4 Matoya, Archon Elder (FIN) 439
@@ -123,9 +125,9 @@ Deck
 4 Zenos yae Galvus (FIN) 127
 4 Zenos yae Galvus (FIN) 384
 4 Zenos yae Galvus (FIN) 455
-4 Zenos yae Galvus (FIN) 529
-4 Zodiark, Umbral God (FIN) 128
 ================================================================================
 Deck
+4 Zenos yae Galvus (FIN) 529
+4 Zodiark, Umbral God (FIN) 128
 4 Zodiark, Umbral God (FIN) 336
 4 Zodiark, Umbral God (FIN) 456

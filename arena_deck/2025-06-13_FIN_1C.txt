@@ -1,12 +1,16 @@
 Deck
+4 "Jenova, Ancient Calamity" (FIN) 228
+4 "Jenova, Ancient Calamity" (FIN) 346
 4 Adventurer's Inn (FIN) 271
 4 Black Mage's Rod (FIN) 90
+4 Blitzball Shot (FIN) 176
 4 Cloudbound Moogle (FIN) 11
 4 Coeurl (FIN) 12
 4 Commune with Beavers (FIN) 182
 4 Dragoon's Wyvern (FIN) 49
 4 Dreams of Laguna (FIN) 50
 4 Fate of the Sun-Cryst (FIN) 19
+4 Haste Magic (FIN) 140
 4 Ice Flan (FIN) 55
 4 Ice Magic (FIN) 56
 4 Instant Ramen (FIN) 259
@@ -24,6 +28,7 @@ Deck
 4 Sephiroth's Intervention (FIN) 116
 4 Shinra Reinforcements (FIN) 118
 4 Suplex (FIN) 164
+4 Syncopate (FIN) 80
 4 Town Greeter (FIN) 209
 4 Undercity Dire Rat (FIN) 123
 4 Warrior's Sword (FIN) 169

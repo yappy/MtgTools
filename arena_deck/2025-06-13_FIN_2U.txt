@@ -1,4 +1,5 @@
 Deck
+4 Adelbert Steiner (FIN) 422
 4 Al Bhed Salvagers (FIN) 88
 4 Auron's Inspiration (FIN) 8
 4 Barret Wallace (FIN) 129
@@ -22,6 +23,7 @@ Deck
 4 Cid, Timeless Artificer (FIN) 480
 4 Circle of Power (FIN) 92
 4 Circle of Power (FIN) 583
+4 Coral Sword (FIN) 134
 4 Dragoon's Lance (FIN) 17
 4 Evil Reawakened (FIN) 98
 4 Fang, Fearless l'Cie (FIN) 99
@@ -41,6 +43,8 @@ Deck
 4 Phoenix Down (FIN) 578
 4 Poison the Waters (FIN) 111
 4 PuPu UFO (FIN) 266
+4 Queen Brahne (FIN) 149
+4 Queen Brahne (FIN) 464
 4 Quina, Qu Gourmet (FIN) 194
 4 Quina, Qu Gourmet (FIN) 471
 4 Quistis Trepe (FIN) 66
@@ -51,18 +55,20 @@ Deck
 4 Ragnarok, Divine Deliverance (FIN) 526b
 4 Relm's Sketching (FIN) 67
 4 Reno and Rude (FIN) 113
+4 Reno and Rude (FIN) 450
 4 Rinoa Heartilly (FIN) 237
 4 Rinoa Heartilly (FIN) 502
 4 Samurai's Katana (FIN) 154
 4 Sazh's Chocobo (FIN) 200
 4 Self-Destruct (FIN) 157
+================================================================================
+Deck
 4 Shambling Cie'th (FIN) 117
 4 Shantotto, Tactician Magician (FIN) 241
 4 Shantotto, Tactician Magician (FIN) 507
 4 Sidequest: Catch a Fish (FIN) 31
+4 Sidequest: Play Blitzball (FIN) 158
 4 Summon: Anima (FIN) 120
-================================================================================
-Deck
 4 Summon: Anima (FIN) 364
 4 Summon: Esper Ramuh (FIN) 161
 4 Summon: Esper Ramuh (FIN) 367
@@ -76,6 +82,7 @@ Deck
 4 The Emperor of Palamecia (FIN) 219
 4 The Emperor of Palamecia (FIN) 484
 4 The Prima Vista (FIN) 64
+4 Tidus, Blitzball Star (FIN) 512
 4 Tonberry (FIN) 122
 4 Ultimecia, Time Sorceress (FIN) 247
 4 Ultimecia, Time Sorceress (FIN) 513
