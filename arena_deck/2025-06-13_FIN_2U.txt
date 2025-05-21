@@ -1,6 +1,10 @@
 Deck
+4 Adelbert Steiner (FIN) 3
 4 Adelbert Steiner (FIN) 422
 4 Al Bhed Salvagers (FIN) 88
+4 Ambrosia Whiteheart (FIN) 6
+4 Ambrosia Whiteheart (FIN) 325
+4 Ambrosia Whiteheart (FIN) 424
 4 Auron's Inspiration (FIN) 8
 4 Barret Wallace (FIN) 129
 4 Barret Wallace (FIN) 584
@@ -24,6 +28,8 @@ Deck
 4 Circle of Power (FIN) 92
 4 Circle of Power (FIN) 583
 4 Coral Sword (FIN) 134
+4 Crystal Fragments (FIN) 13
+4 Crystal Fragments (FIN) 357
 4 Dragoon's Lance (FIN) 17
 4 Evil Reawakened (FIN) 98
 4 Fang, Fearless l'Cie (FIN) 99
@@ -33,11 +39,15 @@ Deck
 4 Fire Magic (FIN) 136
 4 Freya Crescent (FIN) 138
 4 Freya Crescent (FIN) 460
+4 Gaius van Baelsar (FIN) 102
+4 Gaius van Baelsar (FIN) 447
 4 Galuf's Final Act (FIN) 186
 4 Garland, Knight of Cornelia (FIN) 221
 4 Garland, Knight of Cornelia (FIN) 486
 4 Gladiolus Amicitia (FIN) 224
 4 Gladiolus Amicitia (FIN) 489
+4 Lion heart (FIN) 999?
+4 Magitek Armor (FIN) 24
 4 Phantom Train (FIN) 110
 4 Phoenix Down (FIN) 29
 4 Phoenix Down (FIN) 578
@@ -51,6 +61,8 @@ Deck
 4 Quistis Trepe (FIN) 440
 4 Ragnarok, Divine Deliverance (FIN) 99b
 4 Ragnarok, Divine Deliverance (FIN) 381b
+================================================================================
+Deck
 4 Ragnarok, Divine Deliverance (FIN) 446b
 4 Ragnarok, Divine Deliverance (FIN) 526b
 4 Relm's Sketching (FIN) 67
@@ -61,8 +73,6 @@ Deck
 4 Samurai's Katana (FIN) 154
 4 Sazh's Chocobo (FIN) 200
 4 Self-Destruct (FIN) 157
-================================================================================
-Deck
 4 Shambling Cie'th (FIN) 117
 4 Shantotto, Tactician Magician (FIN) 241
 4 Shantotto, Tactician Magician (FIN) 507
@@ -82,8 +92,12 @@ Deck
 4 The Emperor of Palamecia (FIN) 219
 4 The Emperor of Palamecia (FIN) 484
 4 The Prima Vista (FIN) 64
+4 Tidus, Blitzball Star (FIN) 246
 4 Tidus, Blitzball Star (FIN) 512
 4 Tonberry (FIN) 122
+4 Torgal, A Fine Hound (FIN) 208
+4 Torgal, A Fine Hound (FIN) 345
+4 Torgal, A Fine Hound (FIN) 474
 4 Ultimecia, Time Sorceress (FIN) 247
 4 Ultimecia, Time Sorceress (FIN) 513
 4 Valkyrie Aerial Unit (FIN) 84

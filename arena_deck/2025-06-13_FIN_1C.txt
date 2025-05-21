@@ -1,7 +1,6 @@
 Deck
-4 "Jenova, Ancient Calamity" (FIN) 228
-4 "Jenova, Ancient Calamity" (FIN) 346
 4 Adventurer's Inn (FIN) 271
+4 Balamb T-Rexaur (FIN) 173
 4 Black Mage's Rod (FIN) 90
 4 Blitzball Shot (FIN) 176
 4 Cloudbound Moogle (FIN) 11
@@ -9,6 +8,7 @@ Deck
 4 Commune with Beavers (FIN) 182
 4 Dragoon's Wyvern (FIN) 49
 4 Dreams of Laguna (FIN) 50
+4 Dwarven Castle Guard (FIN) 18
 4 Fate of the Sun-Cryst (FIN) 19
 4 Haste Magic (FIN) 140
 4 Ice Flan (FIN) 55

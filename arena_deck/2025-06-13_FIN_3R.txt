@@ -1,4 +1,6 @@
 Deck
+4 "Jenova, Ancient Calamity" (FIN) 228
+4 "Jenova, Ancient Calamity" (FIN) 346
 4 A Realm Reborn (FIN) 196
 4 A Realm Reborn (FIN) 344
 4 Aerith Gainsborough (FIN) 4
@@ -28,12 +30,14 @@ Deck
 4 Choco, Seeker of Paradise (FIN) 215
 4 Choco, Seeker of Paradise (FIN) 479
 4 Deadly Embrace (FIN) 557
+4 Edgar, King of Figaro (FIN) 51
 4 Esper Origins (FIN) 185
 4 Esper Origins (FIN) 370
 4 Firion, Wild Rose Warrior (FIN) 137
 4 Firion, Wild Rose Warrior (FIN) 386
 4 Firion, Wild Rose Warrior (FIN) 459
 4 Firion, Wild Rose Warrior (FIN) 531
+4 From Father to Son (FIN) 20
 4 Gilgamesh, Master-at-Arms (FIN) 139
 4 Gilgamesh, Master-at-Arms (FIN) 338
 4 Gilgamesh, Master-at-Arms (FIN) 461
@@ -48,6 +52,8 @@ Deck
 4 Jill, Shiva's Dominant (FIN) 378
 4 Jill, Shiva's Dominant (FIN) 438
 4 Jill, Shiva's Dominant (FIN) 523
+4 Joshua, Phoenix's Dominant (FIN) 229
+4 Joshua, Phoenix's Dominant (FIN) 494
 4 Judgment Bolt (FIN) 559
 4 Jumbo Cactuar (FIN) 191
 4 Jumbo Cactuar (FIN) 343
@@ -55,14 +61,14 @@ Deck
 4 Kain, Traitorous Dragoon (FIN) 316
 4 Kain, Traitorous Dragoon (FIN) 449
 4 Kuja, Genome Sorcerer (FIN) 232
+================================================================================
+Deck
 4 Kuja, Genome Sorcerer (FIN) 399
 4 Kuja, Genome Sorcerer (FIN) 497
 4 Kuja, Genome Sorcerer (FIN) 544
 4 Lightning, Security Sergeant (FIN) 462
 4 Lightning, Security Sergeant (FIN) 560
 4 Lindblum, Industrial Regency (FIN) 285
-================================================================================
-Deck
 4 Lindblum, Industrial Regency (FIN) 312
 4 Machinist's Arsenal (FIN) 23
 4 Magitek Scythe (FIN) 562
@@ -97,9 +103,18 @@ Deck
 4 Summon: Leviathan (FIN) 361
 4 Summon: Primal Odin (FIN) 121
 4 Summon: Primal Odin (FIN) 365
+4 Summon: Titan (FIN) 204
 4 Summoner's Grimoire (FIN) 205
 4 The Darkness Crystal (FIN) 96
 4 The Darkness Crystal (FIN) 335
+4 The Earth Crystal (FIN) 184
+4 The Earth Crystal (FIN) 342
+4 The Fire Crystal (FIN) 135
+4 The Fire Crystal (FIN) 337
+4 The Water Crystal (FIN) 85
+4 The Water Crystal (FIN) 333
+4 The Wind Crystal (FIN) 43
+4 The Wind Crystal (FIN) 330
 4 Tifa Lockhart (FIN) 206
 4 Tifa Lockhart (FIN) 391
 4 Tifa Lockhart (FIN) 473
@@ -110,6 +125,8 @@ Deck
 4 Ultima, Origin of Oblivion (FIN) 2
 4 Ultima, Origin of Oblivion (FIN) 324
 4 Ultima, Origin of Oblivion (FIN) 421
+================================================================================
+Deck
 4 Ultimecia, Temporal Threat (FIN) 441
 4 Ultimecia, Temporal Threat (FIN) 556
 4 Vincent Valentine (FIN) 125
@@ -125,8 +142,6 @@ Deck
 4 Zenos yae Galvus (FIN) 127
 4 Zenos yae Galvus (FIN) 384
 4 Zenos yae Galvus (FIN) 455
-================================================================================
-Deck
 4 Zenos yae Galvus (FIN) 529
 4 Zodiark, Umbral God (FIN) 128
 4 Zodiark, Umbral God (FIN) 336
