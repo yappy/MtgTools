@@ -1,6 +1,9 @@
 Deck
 4 Absolute Virtue (FIN) 212
 4 Absolute Virtue (FIN) 476
+4 Aettir and Priwen (FIN) 253
+4 Aettir and Priwen (FIN) 350
+4 Ancient Adamantoise (FIN) 172
 4 Buster Sword (FIN) 255
 4 Buster Sword (FIN) 351
 4 Clive, Ifrit's Dominant (FIN) 133
@@ -58,11 +61,11 @@ Deck
 4 Vivi Ornitier (FIN) 321
 4 Vivi Ornitier (FIN) 514
 4 Y'shtola Rhul (FIN) 86
+================================================================================
+Deck
 4 Y'shtola Rhul (FIN) 443
 4 Y'shtola Rhul (FIN) 577
 4 Yuna, Hope of Spira (FIN) 250
-================================================================================
-Deck
 4 Yuna, Hope of Spira (FIN) 404
 4 Yuna, Hope of Spira (FIN) 517
 4 Yuna, Hope of Spira (FIN) 549

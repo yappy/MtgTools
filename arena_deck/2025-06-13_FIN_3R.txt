@@ -1,6 +1,4 @@
 Deck
-4 "Jenova, Ancient Calamity" (FIN) 228
-4 "Jenova, Ancient Calamity" (FIN) 346
 4 A Realm Reborn (FIN) 196
 4 A Realm Reborn (FIN) 344
 4 Aerith Gainsborough (FIN) 4
@@ -31,6 +29,7 @@ Deck
 4 Choco, Seeker of Paradise (FIN) 479
 4 Deadly Embrace (FIN) 557
 4 Edgar, King of Figaro (FIN) 51
+4 Edgar, King of Figaro (FIN) 436
 4 Esper Origins (FIN) 185
 4 Esper Origins (FIN) 370
 4 Firion, Wild Rose Warrior (FIN) 137
@@ -46,6 +45,9 @@ Deck
 4 Jecht, Reluctant Guardian (FIN) 104
 4 Jecht, Reluctant Guardian (FIN) 363
 4 Jecht, Reluctant Guardian (FIN) 448
+4 Jenova, Ancient Calamity (FIN) 228
+4 Jenova, Ancient Calamity (FIN) 346
+4 Jenova, Ancient Calamity (FIN) 493
 4 Jidoor, Aristocratic Capital (FIN) 284
 4 Jidoor, Aristocratic Capital (FIN) 311
 4 Jill, Shiva's Dominant (FIN) 58
@@ -53,16 +55,18 @@ Deck
 4 Jill, Shiva's Dominant (FIN) 438
 4 Jill, Shiva's Dominant (FIN) 523
 4 Joshua, Phoenix's Dominant (FIN) 229
+4 Joshua, Phoenix's Dominant (FIN) 397
 4 Joshua, Phoenix's Dominant (FIN) 494
+4 Joshua, Phoenix's Dominant (FIN) 542
 4 Judgment Bolt (FIN) 559
 4 Jumbo Cactuar (FIN) 191
 4 Jumbo Cactuar (FIN) 343
+================================================================================
+Deck
 4 Kain, Traitorous Dragoon (FIN) 105
 4 Kain, Traitorous Dragoon (FIN) 316
 4 Kain, Traitorous Dragoon (FIN) 449
 4 Kuja, Genome Sorcerer (FIN) 232
-================================================================================
-Deck
 4 Kuja, Genome Sorcerer (FIN) 399
 4 Kuja, Genome Sorcerer (FIN) 497
 4 Kuja, Genome Sorcerer (FIN) 544
@@ -104,6 +108,7 @@ Deck
 4 Summon: Primal Odin (FIN) 121
 4 Summon: Primal Odin (FIN) 365
 4 Summon: Titan (FIN) 204
+4 Summon: Titan (FIN) 373
 4 Summoner's Grimoire (FIN) 205
 4 The Darkness Crystal (FIN) 96
 4 The Darkness Crystal (FIN) 335
@@ -120,13 +125,13 @@ Deck
 4 Tifa Lockhart (FIN) 473
 4 Tifa Lockhart (FIN) 536
 4 Triple Triad (FIN) 166
+================================================================================
+Deck
 4 Triple Triad (FIN) 340
 4 Ultima Weapon (FIN) 563
 4 Ultima, Origin of Oblivion (FIN) 2
 4 Ultima, Origin of Oblivion (FIN) 324
 4 Ultima, Origin of Oblivion (FIN) 421
-================================================================================
-Deck
 4 Ultimecia, Temporal Threat (FIN) 441
 4 Ultimecia, Temporal Threat (FIN) 556
 4 Vincent Valentine (FIN) 125
