@@ -28,6 +28,7 @@ Deck
 4 Circle of Power (FIN) 92
 4 Circle of Power (FIN) 583
 4 Clash of the Eikons (FIN) 180
+4 Clash of the Eikons (FIN) 341
 4 Coral Sword (FIN) 134
 4 Crystal Fragments (FIN) 13
 4 Crystal Fragments (FIN) 357
@@ -47,27 +48,38 @@ Deck
 4 Garland, Knight of Cornelia (FIN) 221
 4 Garland, Knight of Cornelia (FIN) 486
 4 Garnet, Princess of Alexandria (FIN) 222
+4 Garnet, Princess of Alexandria (FIN) 487
 4 Gladiolus Amicitia (FIN) 224
 4 Gladiolus Amicitia (FIN) 489
+4 Ignis Scientia (FIN) 227
 4 Lion Heart (FIN) 261
+4 Locke Cole (FIN) 234
+4 Locke Cole (FIN) 499
 4 Magitek Armor (FIN) 24
+4 Omega, Heartless Evolution (FIN) 236
+4 Omega, Heartless Evolution (FIN) 347
+4 Omega, Heartless Evolution (FIN) 501
 4 Phantom Train (FIN) 110
 4 Phoenix Down (FIN) 29
+================================================================================
+Deck
 4 Phoenix Down (FIN) 578
 4 Poison the Waters (FIN) 111
+4 Prompto Argentum (FIN) 148
+4 Prompto Argentum (FIN) 387
+4 Prompto Argentum (FIN) 463
 4 PuPu UFO (FIN) 266
 4 Queen Brahne (FIN) 149
 4 Queen Brahne (FIN) 464
 4 Quina, Qu Gourmet (FIN) 194
 4 Quina, Qu Gourmet (FIN) 471
 4 Quistis Trepe (FIN) 66
-================================================================================
-Deck
 4 Quistis Trepe (FIN) 440
 4 Ragnarok, Divine Deliverance (FIN) 99b
 4 Ragnarok, Divine Deliverance (FIN) 381b
 4 Ragnarok, Divine Deliverance (FIN) 446b
 4 Ragnarok, Divine Deliverance (FIN) 526b
+4 Reach the Horizon (FIN) 195
 4 Relm's Sketching (FIN) 67
 4 Reno and Rude (FIN) 113
 4 Reno and Rude (FIN) 450
@@ -80,9 +92,13 @@ Deck
 4 Shantotto, Tactician Magician (FIN) 241
 4 Shantotto, Tactician Magician (FIN) 507
 4 Sidequest: Catch a Fish (FIN) 31
+4 Sidequest: Hunt the Mark (FIN) 119
+4 Sidequest: Hunt the Mark (FIN) 453
 4 Sidequest: Play Blitzball (FIN) 158
 4 Snow Villiers (FIN) 33
 4 Snow Villiers (FIN) 432
+4 Stolen Uniform (FIN) 75
+4 Stolen Uniform (FIN) 332
 4 Summon: Anima (FIN) 120
 4 Summon: Anima (FIN) 364
 4 Summon: Esper Ramuh (FIN) 161
@@ -96,6 +112,7 @@ Deck
 4 The Crystal's Chosen (FIN) 14
 4 The Emperor of Palamecia (FIN) 219
 4 The Emperor of Palamecia (FIN) 484
+4 The Gold Saucer (FIN) 279
 4 The Prima Vista (FIN) 64
 4 Tidus, Blitzball Star (FIN) 246
 4 Tidus, Blitzball Star (FIN) 512
@@ -108,6 +125,8 @@ Deck
 4 Valkyrie Aerial Unit (FIN) 84
 4 Vanille, Cheerful l'Cie (FIN) 211
 4 Vanille, Cheerful l'Cie (FIN) 392
+================================================================================
+Deck
 4 Vanille, Cheerful l'Cie (FIN) 475
 4 Vanille, Cheerful l'Cie (FIN) 537
 4 Zack Fair (FIN) 45

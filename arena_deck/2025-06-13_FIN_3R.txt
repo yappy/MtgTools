@@ -116,6 +116,8 @@ Deck
 4 The Earth Crystal (FIN) 342
 4 The Fire Crystal (FIN) 135
 4 The Fire Crystal (FIN) 337
+4 The Lunar Whale (FIN) 60
+4 The Regalia (FIN) 267
 4 The Water Crystal (FIN) 85
 4 The Water Crystal (FIN) 333
 4 The Wind Crystal (FIN) 43
@@ -123,10 +125,10 @@ Deck
 4 Tifa Lockhart (FIN) 206
 4 Tifa Lockhart (FIN) 391
 4 Tifa Lockhart (FIN) 473
-4 Tifa Lockhart (FIN) 536
-4 Triple Triad (FIN) 166
 ================================================================================
 Deck
+4 Tifa Lockhart (FIN) 536
+4 Triple Triad (FIN) 166
 4 Triple Triad (FIN) 340
 4 Ultima Weapon (FIN) 563
 4 Ultima, Origin of Oblivion (FIN) 2
