@@ -12,6 +12,7 @@ Deck
 4 Ardyn, the Usurper (FIN) 524
 4 Astrologian's Planisphere (FIN) 46
 4 Astrologian's Planisphere (FIN) 581
+4 Balamb Garden, SeeD Academy (FIN) 272
 4 Balthier and Fran (FIN) 213
 4 Balthier and Fran (FIN) 319
 4 Balthier and Fran (FIN) 393
@@ -27,6 +28,7 @@ Deck
 4 Cecil, Dark Knight (FIN) 525
 4 Choco, Seeker of Paradise (FIN) 215
 4 Choco, Seeker of Paradise (FIN) 479
+4 Clive's Hideaway (FIN) 275
 4 Deadly Embrace (FIN) 557
 4 Edgar, King of Figaro (FIN) 51
 4 Edgar, King of Figaro (FIN) 436
@@ -40,6 +42,10 @@ Deck
 4 Gilgamesh, Master-at-Arms (FIN) 139
 4 Gilgamesh, Master-at-Arms (FIN) 338
 4 Gilgamesh, Master-at-Arms (FIN) 461
+4 Hope Estheim (FIN) 226
+4 Hope Estheim (FIN) 396
+4 Hope Estheim (FIN) 491
+4 Hope Estheim (FIN) 541
 4 Ishgard, the Holy See (FIN) 283
 4 Ishgard, the Holy See (FIN) 310
 4 Jecht, Reluctant Guardian (FIN) 104
@@ -55,14 +61,14 @@ Deck
 4 Jill, Shiva's Dominant (FIN) 438
 4 Jill, Shiva's Dominant (FIN) 523
 4 Joshua, Phoenix's Dominant (FIN) 229
+================================================================================
+Deck
 4 Joshua, Phoenix's Dominant (FIN) 397
 4 Joshua, Phoenix's Dominant (FIN) 494
 4 Joshua, Phoenix's Dominant (FIN) 542
 4 Judgment Bolt (FIN) 559
 4 Jumbo Cactuar (FIN) 191
 4 Jumbo Cactuar (FIN) 343
-================================================================================
-Deck
 4 Kain, Traitorous Dragoon (FIN) 105
 4 Kain, Traitorous Dragoon (FIN) 316
 4 Kain, Traitorous Dragoon (FIN) 449
@@ -80,10 +86,14 @@ Deck
 4 Matoya, Archon Elder (FIN) 439
 4 Moogles' Valor (FIN) 27
 4 Moogles' Valor (FIN) 326
+4 Ninja's Blades (FIN) 108
 4 Noctis, Prince of Lucis (FIN) 235
 4 Noctis, Prince of Lucis (FIN) 401
 4 Noctis, Prince of Lucis (FIN) 500
 4 Noctis, Prince of Lucis (FIN) 546
+4 Raubahn, Bull of Ala Mhigo (FIN) 151
+4 Raubahn, Bull of Ala Mhigo (FIN) 388
+4 Raubahn, Bull of Ala Mhigo (FIN) 465
 4 Rosa, Resolute White Mage (FIN) 431
 4 Rosa, Resolute White Mage (FIN) 555
 4 Sazh Katzroy (FIN) 199
@@ -110,8 +120,13 @@ Deck
 4 Summon: Titan (FIN) 204
 4 Summon: Titan (FIN) 373
 4 Summoner's Grimoire (FIN) 205
+4 Tellah, Great Sage (FIN) 244
+4 Tellah, Great Sage (FIN) 349
+4 Tellah, Great Sage (FIN) 510
 4 The Darkness Crystal (FIN) 96
 4 The Darkness Crystal (FIN) 335
+================================================================================
+Deck
 4 The Earth Crystal (FIN) 184
 4 The Earth Crystal (FIN) 342
 4 The Fire Crystal (FIN) 135
@@ -125,17 +140,21 @@ Deck
 4 Tifa Lockhart (FIN) 206
 4 Tifa Lockhart (FIN) 391
 4 Tifa Lockhart (FIN) 473
-================================================================================
-Deck
 4 Tifa Lockhart (FIN) 536
 4 Triple Triad (FIN) 166
 4 Triple Triad (FIN) 340
+4 Ultima (FIN) 38
+4 Ultima (FIN) 328
 4 Ultima Weapon (FIN) 563
 4 Ultima, Origin of Oblivion (FIN) 2
 4 Ultima, Origin of Oblivion (FIN) 324
 4 Ultima, Origin of Oblivion (FIN) 421
 4 Ultimecia, Temporal Threat (FIN) 441
 4 Ultimecia, Temporal Threat (FIN) 556
+4 Vaan, Street Thief (FIN) 168
+4 Vaan, Street Thief (FIN) 390
+4 Vaan, Street Thief (FIN) 467
+4 Vaan, Street Thief (FIN) 535
 4 Vincent Valentine (FIN) 125
 4 Vincent Valentine (FIN) 383
 4 Vincent Valentine (FIN) 454

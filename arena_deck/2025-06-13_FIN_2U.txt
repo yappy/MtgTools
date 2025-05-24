@@ -8,7 +8,10 @@ Deck
 4 Auron's Inspiration (FIN) 8
 4 Barret Wallace (FIN) 129
 4 Barret Wallace (FIN) 584
+4 Black Waltz No. 3 (FIN) 214
+4 Black Waltz No. 3 (FIN) 478
 4 Capital City (FIN) 274
+4 Cargo Ship (FIN) 47
 4 Cid, Timeless Artificer (FIN) 216
 4 Cid, Timeless Artificer (FIN) 407
 4 Cid, Timeless Artificer (FIN) 408
@@ -52,17 +55,19 @@ Deck
 4 Gladiolus Amicitia (FIN) 224
 4 Gladiolus Amicitia (FIN) 489
 4 Ignis Scientia (FIN) 227
+4 Ignis Scientia (FIN) 492
 4 Lion Heart (FIN) 261
 4 Locke Cole (FIN) 234
 4 Locke Cole (FIN) 499
 4 Magitek Armor (FIN) 24
 4 Omega, Heartless Evolution (FIN) 236
-4 Omega, Heartless Evolution (FIN) 347
-4 Omega, Heartless Evolution (FIN) 501
-4 Phantom Train (FIN) 110
-4 Phoenix Down (FIN) 29
 ================================================================================
 Deck
+4 Omega, Heartless Evolution (FIN) 347
+4 Omega, Heartless Evolution (FIN) 501
+4 Overkill (FIN) 109
+4 Phantom Train (FIN) 110
+4 Phoenix Down (FIN) 29
 4 Phoenix Down (FIN) 578
 4 Poison the Waters (FIN) 111
 4 Prompto Argentum (FIN) 148
@@ -83,6 +88,7 @@ Deck
 4 Relm's Sketching (FIN) 67
 4 Reno and Rude (FIN) 113
 4 Reno and Rude (FIN) 450
+4 Ride the Shoopuf (FIN) 197
 4 Rinoa Heartilly (FIN) 237
 4 Rinoa Heartilly (FIN) 502
 4 Samurai's Katana (FIN) 154
@@ -95,6 +101,7 @@ Deck
 4 Sidequest: Hunt the Mark (FIN) 119
 4 Sidequest: Hunt the Mark (FIN) 453
 4 Sidequest: Play Blitzball (FIN) 158
+4 Sleep Magic (FIN) 74
 4 Snow Villiers (FIN) 33
 4 Snow Villiers (FIN) 432
 4 Stolen Uniform (FIN) 75
@@ -118,15 +125,17 @@ Deck
 4 Tidus, Blitzball Star (FIN) 512
 4 Tonberry (FIN) 122
 4 Torgal, A Fine Hound (FIN) 208
+================================================================================
+Deck
 4 Torgal, A Fine Hound (FIN) 345
 4 Torgal, A Fine Hound (FIN) 474
 4 Ultimecia, Time Sorceress (FIN) 247
 4 Ultimecia, Time Sorceress (FIN) 513
+4 Ultros, Obnoxious Octopus (FIN) 83
+4 Ultros, Obnoxious Octopus (FIN) 442
 4 Valkyrie Aerial Unit (FIN) 84
 4 Vanille, Cheerful l'Cie (FIN) 211
 4 Vanille, Cheerful l'Cie (FIN) 392
-================================================================================
-Deck
 4 Vanille, Cheerful l'Cie (FIN) 475
 4 Vanille, Cheerful l'Cie (FIN) 537
 4 Zack Fair (FIN) 45

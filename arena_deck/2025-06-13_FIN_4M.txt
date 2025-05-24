@@ -1,6 +1,4 @@
 Deck
-4 "Gogo" (FIN) 54
-4 "Gogo" (FIN) 377
 4 Absolute Virtue (FIN) 212
 4 Absolute Virtue (FIN) 476
 4 Aettir and Priwen (FIN) 253
@@ -25,6 +23,8 @@ Deck
 4 Emet-Selch, Unsundered (FIN) 394
 4 Emet-Selch, Unsundered (FIN) 483
 4 Emet-Selch, Unsundered (FIN) 539
+4 Gogo, Master of Mimicry (FIN) 54
+4 Gogo, Master of Mimicry (FIN) 377
 4 Kefka, Court Mage (FIN) 231
 4 Kefka, Court Mage (FIN) 322
 4 Kefka, Court Mage (FIN) 398
