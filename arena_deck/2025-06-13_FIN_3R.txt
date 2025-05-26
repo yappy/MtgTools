@@ -30,6 +30,9 @@ Deck
 4 Choco, Seeker of Paradise (FIN) 479
 4 Clive's Hideaway (FIN) 275
 4 Deadly Embrace (FIN) 557
+4 Dion, Bahamut's Dominant (FIN) 16
+4 Dion, Bahamut's Dominant (FIN) 376
+4 Dion, Bahamut's Dominant (FIN) 428
 4 Edgar, King of Figaro (FIN) 51
 4 Edgar, King of Figaro (FIN) 436
 4 Esper Origins (FIN) 185
@@ -58,11 +61,11 @@ Deck
 4 Jidoor, Aristocratic Capital (FIN) 311
 4 Jill, Shiva's Dominant (FIN) 58
 4 Jill, Shiva's Dominant (FIN) 378
+================================================================================
+Deck
 4 Jill, Shiva's Dominant (FIN) 438
 4 Jill, Shiva's Dominant (FIN) 523
 4 Joshua, Phoenix's Dominant (FIN) 229
-================================================================================
-Deck
 4 Joshua, Phoenix's Dominant (FIN) 397
 4 Joshua, Phoenix's Dominant (FIN) 494
 4 Joshua, Phoenix's Dominant (FIN) 542
@@ -122,11 +125,11 @@ Deck
 4 Summoner's Grimoire (FIN) 205
 4 Tellah, Great Sage (FIN) 244
 4 Tellah, Great Sage (FIN) 349
+================================================================================
+Deck
 4 Tellah, Great Sage (FIN) 510
 4 The Darkness Crystal (FIN) 96
 4 The Darkness Crystal (FIN) 335
-================================================================================
-Deck
 4 The Earth Crystal (FIN) 184
 4 The Earth Crystal (FIN) 342
 4 The Fire Crystal (FIN) 135
