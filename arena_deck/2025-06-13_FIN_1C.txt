@@ -6,11 +6,13 @@ Deck
 4 Blitzball Shot (FIN) 176
 4 Cloudbound Moogle (FIN) 11
 4 Coeurl (FIN) 12
+4 Combat Tutorial (FIN) 48
 4 Commune with Beavers (FIN) 182
 4 Dragoon's Wyvern (FIN) 49
 4 Dreams of Laguna (FIN) 50
 4 Dwarven Castle Guard (FIN) 18
 4 Fate of the Sun-Cryst (FIN) 19
+4 Fight On! (FIN) 100
 4 Gohn, Town of Ruin (FIN) 278
 4 Gongaga, Reactor Town (FIN) 280
 4 Guadosalam, Farplane Gateway (FIN) 281
@@ -22,6 +24,8 @@ Deck
 4 Item Shopkeep (FIN) 142
 4 Laughing Mad (FIN) 143
 4 Laughing Mad (FIN) 585
+4 Light of Judgment (FIN) 144
+4 Magitek Infantry (FIN) 25
 4 Malboro (FIN) 106
 4 Namazu Trader (FIN) 107
 4 Paladin's Arms (FIN) 28

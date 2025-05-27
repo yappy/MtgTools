@@ -83,10 +83,13 @@ Deck
 4 Lightning, Security Sergeant (FIN) 560
 4 Lindblum, Industrial Regency (FIN) 285
 4 Lindblum, Industrial Regency (FIN) 312
+4 Louisoix's Sacrifice (FIN) 59
 4 Machinist's Arsenal (FIN) 23
 4 Magitek Scythe (FIN) 562
 4 Matoya, Archon Elder (FIN) 62
 4 Matoya, Archon Elder (FIN) 439
+4 Midgar, City of Mako (FIN) 286
+4 Midgar, City of Mako (FIN) 313
 4 Moogles' Valor (FIN) 27
 4 Moogles' Valor (FIN) 326
 4 Ninja's Blades (FIN) 108
@@ -122,11 +125,11 @@ Deck
 4 Summon: Primal Odin (FIN) 365
 4 Summon: Titan (FIN) 204
 4 Summon: Titan (FIN) 373
+================================================================================
+Deck
 4 Summoner's Grimoire (FIN) 205
 4 Tellah, Great Sage (FIN) 244
 4 Tellah, Great Sage (FIN) 349
-================================================================================
-Deck
 4 Tellah, Great Sage (FIN) 510
 4 The Darkness Crystal (FIN) 96
 4 The Darkness Crystal (FIN) 335
