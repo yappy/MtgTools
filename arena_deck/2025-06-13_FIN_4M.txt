@@ -25,6 +25,8 @@ Deck
 4 Emet-Selch, Unsundered (FIN) 539
 4 Gogo, Master of Mimicry (FIN) 54
 4 Gogo, Master of Mimicry (FIN) 377
+4 Gogo, Master of Mimicry (FIN) 437
+4 Gogo, Master of Mimicry (FIN) 522
 4 Kefka, Court Mage (FIN) 231
 4 Kefka, Court Mage (FIN) 322
 4 Kefka, Court Mage (FIN) 398
@@ -59,10 +61,10 @@ Deck
 4 Traveling Chocobo (FIN) 551c
 4 Traveling Chocobo (FIN) 551d
 4 Traveling Chocobo (FIN) 551f
-4 Vivi Ornitier (FIN) 248
-4 Vivi Ornitier (FIN) 321
 ================================================================================
 Deck
+4 Vivi Ornitier (FIN) 248
+4 Vivi Ornitier (FIN) 321
 4 Vivi Ornitier (FIN) 514
 4 Y'shtola Rhul (FIN) 86
 4 Y'shtola Rhul (FIN) 443

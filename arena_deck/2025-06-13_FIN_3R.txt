@@ -13,6 +13,7 @@ Deck
 4 Astrologian's Planisphere (FIN) 46
 4 Astrologian's Planisphere (FIN) 581
 4 Balamb Garden, SeeD Academy (FIN) 272
+4 Balamb Garden, SeeD Academy (FIN) 354
 4 Balthier and Fran (FIN) 213
 4 Balthier and Fran (FIN) 319
 4 Balthier and Fran (FIN) 393
@@ -33,6 +34,7 @@ Deck
 4 Dion, Bahamut's Dominant (FIN) 16
 4 Dion, Bahamut's Dominant (FIN) 376
 4 Dion, Bahamut's Dominant (FIN) 428
+4 Dion, Bahamut's Dominant (FIN) 521
 4 Edgar, King of Figaro (FIN) 51
 4 Edgar, King of Figaro (FIN) 436
 4 Esper Origins (FIN) 185
@@ -59,10 +61,10 @@ Deck
 4 Jenova, Ancient Calamity (FIN) 493
 4 Jidoor, Aristocratic Capital (FIN) 284
 4 Jidoor, Aristocratic Capital (FIN) 311
-4 Jill, Shiva's Dominant (FIN) 58
-4 Jill, Shiva's Dominant (FIN) 378
 ================================================================================
 Deck
+4 Jill, Shiva's Dominant (FIN) 58
+4 Jill, Shiva's Dominant (FIN) 378
 4 Jill, Shiva's Dominant (FIN) 438
 4 Jill, Shiva's Dominant (FIN) 523
 4 Joshua, Phoenix's Dominant (FIN) 229
@@ -88,8 +90,11 @@ Deck
 4 Magitek Scythe (FIN) 562
 4 Matoya, Archon Elder (FIN) 62
 4 Matoya, Archon Elder (FIN) 439
+4 Memories Returning (FIN) 63
 4 Midgar, City of Mako (FIN) 286
 4 Midgar, City of Mako (FIN) 313
+4 Minwu, White Mage (FIN) 26
+4 Minwu, White Mage (FIN) 430
 4 Moogles' Valor (FIN) 27
 4 Moogles' Valor (FIN) 326
 4 Ninja's Blades (FIN) 108
@@ -100,10 +105,12 @@ Deck
 4 Raubahn, Bull of Ala Mhigo (FIN) 151
 4 Raubahn, Bull of Ala Mhigo (FIN) 388
 4 Raubahn, Bull of Ala Mhigo (FIN) 465
+4 Raubahn, Bull of Ala Mhigo (FIN) 533
 4 Rosa, Resolute White Mage (FIN) 431
 4 Rosa, Resolute White Mage (FIN) 555
 4 Sazh Katzroy (FIN) 199
 4 Sazh Katzroy (FIN) 472
+4 Seifer Almasy (FIN) 156
 4 Serah Farron (FIN) 240
 4 Serah Farron (FIN) 506
 4 Seymour Flux (FIN) 452
@@ -118,6 +125,8 @@ Deck
 4 Starting Town (FIN) 289
 4 Stiltzkin, Moogle Merchant (FIN) 34
 4 Stiltzkin, Moogle Merchant (FIN) 327
+================================================================================
+Deck
 4 Stiltzkin, Moogle Merchant (FIN) 433
 4 Summon: Leviathan (FIN) 77
 4 Summon: Leviathan (FIN) 361
@@ -125,8 +134,6 @@ Deck
 4 Summon: Primal Odin (FIN) 365
 4 Summon: Titan (FIN) 204
 4 Summon: Titan (FIN) 373
-================================================================================
-Deck
 4 Summoner's Grimoire (FIN) 205
 4 Tellah, Great Sage (FIN) 244
 4 Tellah, Great Sage (FIN) 349
