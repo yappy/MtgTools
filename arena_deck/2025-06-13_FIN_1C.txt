@@ -46,6 +46,7 @@ Deck
 4 Loporrit Scout (FIN) 192
 4 Lunatic Pandora (FIN) 262
 4 Magic Damper (FIN) 61
+4 Magic Pot (FIN) 263
 4 Magitek Infantry (FIN) 25
 4 Malboro (FIN) 106
 4 Monk's Fist (FIN) 265
@@ -60,9 +61,9 @@ Deck
 4 Resentful Revelation (FIN) 114
 4 Retrieve the Esper (FIN) 68
 4 Rook Turret (FIN) 69
-4 Sabotender (FIN) 153
 ================================================================================
 Deck
+4 Sabotender (FIN) 153
 4 Sage's Nouliths (FIN) 70
 4 Sage's Nouliths (FIN) 582
 4 Sahagin (FIN) 71
@@ -72,6 +73,10 @@ Deck
 4 Shinra Reinforcements (FIN) 118
 4 Slash of Light (FIN) 32
 4 Stuck in Summoner's Sanctum (FIN) 76
+4 Summon: Choco/Mog (FIN) 35
+4 Summon: Choco/Mog (FIN) 358
+4 Summon: Fat Chocobo (FIN) 202
+4 Summon: Fat Chocobo (FIN) 371
 4 Suplex (FIN) 164
 4 Syncopate (FIN) 80
 4 Thunder Magic (FIN) 165

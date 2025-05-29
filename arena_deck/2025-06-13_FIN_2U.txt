@@ -1,6 +1,4 @@
 Deck
-4 "Exploring the World" (FIN) 82
-4 "Surveilie Pixie" (FIN) 57
 4 Adelbert Steiner (FIN) 3
 4 Adelbert Steiner (FIN) 422
 4 Al Bhed Salvagers (FIN) 88
@@ -41,6 +39,7 @@ Deck
 4 Clash of the Eikons (FIN) 180
 4 Clash of the Eikons (FIN) 341
 4 Cloud of Darkness (FIN) 217
+4 Cloud of Darkness (FIN) 481
 4 Coliseum Behemoth (FIN) 181
 4 Coral Sword (FIN) 134
 4 Crystal Fragments (FIN) 13
@@ -49,8 +48,10 @@ Deck
 4 Delivery Moogle (FIN) 15
 4 Demon Wall (FIN) 97
 4 Diamond Weapon (FIN) 183
+4 Diamond Weapon (FIN) 470
 4 Dragoon's Lance (FIN) 17
 4 Eden, Seat of the Sanctum (FIN) 277
+4 Eden, Seat of the Sanctum (FIN) 355
 4 Eject (FIN) 52
 4 Elixir (FIN) 256
 4 Ether (FIN) 53
@@ -60,11 +61,12 @@ Deck
 4 Fang, Fearless l'Cie (FIN) 446
 4 Fang, Fearless l'Cie (FIN) 526
 4 Fire Magic (FIN) 136
-4 Freya Crescent (FIN) 138
 ================================================================================
 Deck
+4 Freya Crescent (FIN) 138
 4 Freya Crescent (FIN) 460
 4 G'raha Tia (FIN) 21
+4 G'raha Tia (FIN) 429
 4 Gaius van Baelsar (FIN) 102
 4 Gaius van Baelsar (FIN) 447
 4 Galuf's Final Act (FIN) 186
@@ -73,10 +75,12 @@ Deck
 4 Garnet, Princess of Alexandria (FIN) 222
 4 Garnet, Princess of Alexandria (FIN) 487
 4 Giott, King of the Dwarves (FIN) 223
+4 Giott, King of the Dwarves (FIN) 488
 4 Gladiolus Amicitia (FIN) 224
 4 Gladiolus Amicitia (FIN) 489
 4 Ignis Scientia (FIN) 227
 4 Ignis Scientia (FIN) 492
+4 Il Mheg Pixie (FIN) 57
 4 Judge Magister Gabranth (FIN) 230
 4 Judge Magister Gabranth (FIN) 495
 4 Lion Heart (FIN) 261
@@ -109,6 +113,7 @@ Deck
 4 Ragnarok, Divine Deliverance (FIN) 526b
 4 Random Encounter (FIN) 150
 4 Reach the Horizon (FIN) 195
+4 Relentless X-ATM092 (FIN) 268
 4 Relm's Sketching (FIN) 67
 4 Reno and Rude (FIN) 113
 4 Reno and Rude (FIN) 450
@@ -118,15 +123,16 @@ Deck
 4 Rinoa Heartilly (FIN) 237
 4 Rinoa Heartilly (FIN) 502
 4 Rufus Shinra (FIN) 238
+4 Rufus Shinra (FIN) 503
 4 Samurai's Katana (FIN) 154
+================================================================================
+Deck
 4 Sandworm (FIN) 155
 4 Sazh's Chocobo (FIN) 200
 4 Self-Destruct (FIN) 157
 4 Shambling Cie'th (FIN) 117
 4 Shantotto, Tactician Magician (FIN) 241
 4 Shantotto, Tactician Magician (FIN) 507
-================================================================================
-Deck
 4 Sidequest: Catch a Fish (FIN) 31
 4 Sidequest: Hunt the Mark (FIN) 119
 4 Sidequest: Hunt the Mark (FIN) 453
@@ -162,6 +168,7 @@ Deck
 4 Torgal, A Fine Hound (FIN) 208
 4 Torgal, A Fine Hound (FIN) 345
 4 Torgal, A Fine Hound (FIN) 474
+4 Travel the Overworld (FIN) 82
 4 Ultimecia, Time Sorceress (FIN) 247
 4 Ultimecia, Time Sorceress (FIN) 513
 4 Ultros, Obnoxious Octopus (FIN) 83

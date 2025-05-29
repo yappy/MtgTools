@@ -1,4 +1,6 @@
 Deck
+4 "Wandering Minstrel" (FIN) 249
+4 "Wandering Minstrel" (FIN) 403
 4 A Realm Reborn (FIN) 196
 4 A Realm Reborn (FIN) 344
 4 Aerith Gainsborough (FIN) 4
@@ -39,14 +41,18 @@ Deck
 4 Edgar, King of Figaro (FIN) 436
 4 Esper Origins (FIN) 185
 4 Esper Origins (FIN) 370
+4 Excalibur II (FIN) 257
+4 Excalibur II (FIN) 352
 4 Firion, Wild Rose Warrior (FIN) 137
 4 Firion, Wild Rose Warrior (FIN) 386
 4 Firion, Wild Rose Warrior (FIN) 459
 4 Firion, Wild Rose Warrior (FIN) 531
 4 From Father to Son (FIN) 20
+4 Genji Glove (FIN) 258
 4 Gilgamesh, Master-at-Arms (FIN) 139
 4 Gilgamesh, Master-at-Arms (FIN) 338
 4 Gilgamesh, Master-at-Arms (FIN) 461
+4 Golbez, Crystal Collector (FIN) 225
 4 Hope Estheim (FIN) 226
 4 Hope Estheim (FIN) 396
 4 Hope Estheim (FIN) 491
@@ -55,14 +61,14 @@ Deck
 4 Ishgard, the Holy See (FIN) 310
 4 Jecht, Reluctant Guardian (FIN) 104
 4 Jecht, Reluctant Guardian (FIN) 363
+================================================================================
+Deck
 4 Jecht, Reluctant Guardian (FIN) 448
 4 Jenova, Ancient Calamity (FIN) 228
 4 Jenova, Ancient Calamity (FIN) 346
 4 Jenova, Ancient Calamity (FIN) 493
 4 Jidoor, Aristocratic Capital (FIN) 284
 4 Jidoor, Aristocratic Capital (FIN) 311
-================================================================================
-Deck
 4 Jill, Shiva's Dominant (FIN) 58
 4 Jill, Shiva's Dominant (FIN) 378
 4 Jill, Shiva's Dominant (FIN) 438
@@ -91,6 +97,7 @@ Deck
 4 Matoya, Archon Elder (FIN) 62
 4 Matoya, Archon Elder (FIN) 439
 4 Memories Returning (FIN) 63
+4 Memories Returning (FIN) 331
 4 Midgar, City of Mako (FIN) 286
 4 Midgar, City of Mako (FIN) 313
 4 Minwu, White Mage (FIN) 26
@@ -111,10 +118,15 @@ Deck
 4 Sazh Katzroy (FIN) 199
 4 Sazh Katzroy (FIN) 472
 4 Seifer Almasy (FIN) 156
+4 Seifer Almasy (FIN) 389
+4 Seifer Almasy (FIN) 466
+4 Seifer Almasy (FIN) 534
 4 Serah Farron (FIN) 240
 4 Serah Farron (FIN) 506
 4 Seymour Flux (FIN) 452
 4 Seymour Flux (FIN) 558
+================================================================================
+Deck
 4 Sin, Spira's Punishment (FIN) 242
 4 Sin, Spira's Punishment (FIN) 348
 4 Sin, Spira's Punishment (FIN) 508
@@ -125,9 +137,10 @@ Deck
 4 Starting Town (FIN) 289
 4 Stiltzkin, Moogle Merchant (FIN) 34
 4 Stiltzkin, Moogle Merchant (FIN) 327
-================================================================================
-Deck
 4 Stiltzkin, Moogle Merchant (FIN) 433
+4 Summon: Brynhildr (FIN) 160
+4 Summon: G.F. Cerberus (FIN) 162
+4 Summon: G.F. Cerberus (FIN) 368
 4 Summon: Leviathan (FIN) 77
 4 Summon: Leviathan (FIN) 361
 4 Summon: Primal Odin (FIN) 121
@@ -145,6 +158,8 @@ Deck
 4 The Fire Crystal (FIN) 135
 4 The Fire Crystal (FIN) 337
 4 The Lunar Whale (FIN) 60
+4 The Masamune (FIN) 264
+4 The Masamune (FIN) 353
 4 The Regalia (FIN) 267
 4 The Water Crystal (FIN) 85
 4 The Water Crystal (FIN) 333
@@ -174,6 +189,8 @@ Deck
 4 Vincent Valentine (FIN) 528
 4 Xande, Dark Mage (FIN) 516
 4 Xande, Dark Mage (FIN) 561
+================================================================================
+Deck
 4 Zanarkand, Ancient Metropolis (FIN) 293
 4 Zanarkand, Ancient Metropolis (FIN) 314
 4 Zell Dincht (FIN) 170
