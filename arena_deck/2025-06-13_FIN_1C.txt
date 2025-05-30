@@ -77,6 +77,8 @@ Deck
 4 Summon: Choco/Mog (FIN) 358
 4 Summon: Fat Chocobo (FIN) 202
 4 Summon: Fat Chocobo (FIN) 371
+4 Summon: G.F. Ifrit (FIN) 163
+4 Summon: G.F. Ifrit (FIN) 369
 4 Suplex (FIN) 164
 4 Syncopate (FIN) 80
 4 Thunder Magic (FIN) 165
@@ -85,6 +87,7 @@ Deck
 4 Undercity Dire Rat (FIN) 123
 4 Vayne's Treachery (FIN) 124
 4 Vector, Imperial Capital (FIN) 291
+4 Vincent's Limit Break (FIN) 126
 4 Warrior's Sword (FIN) 169
 4 Weapons Vendor (FIN) 40
 4 White Auracite (FIN) 41

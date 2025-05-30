@@ -56,13 +56,14 @@ Deck
 4 Elixir (FIN) 256
 4 Ether (FIN) 53
 4 Evil Reawakened (FIN) 98
+4 Exdeath, Void Warlock (FIN) 220
 4 Fang, Fearless l'Cie (FIN) 99
 4 Fang, Fearless l'Cie (FIN) 381
 4 Fang, Fearless l'Cie (FIN) 446
 4 Fang, Fearless l'Cie (FIN) 526
-4 Fire Magic (FIN) 136
 ================================================================================
 Deck
+4 Fire Magic (FIN) 136
 4 Freya Crescent (FIN) 138
 4 Freya Crescent (FIN) 460
 4 G'raha Tia (FIN) 21
@@ -124,15 +125,16 @@ Deck
 4 Rinoa Heartilly (FIN) 502
 4 Rufus Shinra (FIN) 238
 4 Rufus Shinra (FIN) 503
-4 Samurai's Katana (FIN) 154
 ================================================================================
 Deck
+4 Samurai's Katana (FIN) 154
 4 Sandworm (FIN) 155
 4 Sazh's Chocobo (FIN) 200
 4 Self-Destruct (FIN) 157
 4 Shambling Cie'th (FIN) 117
 4 Shantotto, Tactician Magician (FIN) 241
 4 Shantotto, Tactician Magician (FIN) 507
+4 Sidequest: Card Collection (FIN) 73
 4 Sidequest: Catch a Fish (FIN) 31
 4 Sidequest: Hunt the Mark (FIN) 119
 4 Sidequest: Hunt the Mark (FIN) 453
@@ -164,6 +166,7 @@ Deck
 4 Thief's Knife (FIN) 81
 4 Tidus, Blitzball Star (FIN) 246
 4 Tidus, Blitzball Star (FIN) 512
+4 Tifa's Limit Break (FIN) 207
 4 Tonberry (FIN) 122
 4 Torgal, A Fine Hound (FIN) 208
 4 Torgal, A Fine Hound (FIN) 345

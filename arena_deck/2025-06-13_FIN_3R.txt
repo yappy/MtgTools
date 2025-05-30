@@ -1,6 +1,6 @@
 Deck
-4 "Wandering Minstrel" (FIN) 249
-4 "Wandering Minstrel" (FIN) 403
+4 "Venat, Lady of the Light" (FIN) 39
+4 "Venat, Lady of the Light" (FIN) 329
 4 A Realm Reborn (FIN) 196
 4 A Realm Reborn (FIN) 344
 4 Aerith Gainsborough (FIN) 4
@@ -53,16 +53,19 @@ Deck
 4 Gilgamesh, Master-at-Arms (FIN) 338
 4 Gilgamesh, Master-at-Arms (FIN) 461
 4 Golbez, Crystal Collector (FIN) 225
+4 Golbez, Crystal Collector (FIN) 395
+4 Golbez, Crystal Collector (FIN) 490
+4 Golbez, Crystal Collector (FIN) 540
 4 Hope Estheim (FIN) 226
 4 Hope Estheim (FIN) 396
 4 Hope Estheim (FIN) 491
 4 Hope Estheim (FIN) 541
 4 Ishgard, the Holy See (FIN) 283
+================================================================================
+Deck
 4 Ishgard, the Holy See (FIN) 310
 4 Jecht, Reluctant Guardian (FIN) 104
 4 Jecht, Reluctant Guardian (FIN) 363
-================================================================================
-Deck
 4 Jecht, Reluctant Guardian (FIN) 448
 4 Jenova, Ancient Calamity (FIN) 228
 4 Jenova, Ancient Calamity (FIN) 346
@@ -122,11 +125,11 @@ Deck
 4 Seifer Almasy (FIN) 466
 4 Seifer Almasy (FIN) 534
 4 Serah Farron (FIN) 240
+================================================================================
+Deck
 4 Serah Farron (FIN) 506
 4 Seymour Flux (FIN) 452
 4 Seymour Flux (FIN) 558
-================================================================================
-Deck
 4 Sin, Spira's Punishment (FIN) 242
 4 Sin, Spira's Punishment (FIN) 348
 4 Sin, Spira's Punishment (FIN) 508
@@ -139,6 +142,7 @@ Deck
 4 Stiltzkin, Moogle Merchant (FIN) 327
 4 Stiltzkin, Moogle Merchant (FIN) 433
 4 Summon: Brynhildr (FIN) 160
+4 Summon: Brynhildr (FIN) 366
 4 Summon: G.F. Cerberus (FIN) 162
 4 Summon: G.F. Cerberus (FIN) 368
 4 Summon: Leviathan (FIN) 77
@@ -161,6 +165,10 @@ Deck
 4 The Masamune (FIN) 264
 4 The Masamune (FIN) 353
 4 The Regalia (FIN) 267
+4 The Wandering Minstrel (FIN) 249
+4 The Wandering Minstrel (FIN) 403
+4 The Wandering Minstrel (FIN) 515
+4 The Wandering Minstrel (FIN) 548
 4 The Water Crystal (FIN) 85
 4 The Water Crystal (FIN) 333
 4 The Wind Crystal (FIN) 43
@@ -181,6 +189,8 @@ Deck
 4 Ultimecia, Temporal Threat (FIN) 556
 4 Vaan, Street Thief (FIN) 168
 4 Vaan, Street Thief (FIN) 390
+================================================================================
+Deck
 4 Vaan, Street Thief (FIN) 467
 4 Vaan, Street Thief (FIN) 535
 4 Vincent Valentine (FIN) 125
@@ -189,8 +199,6 @@ Deck
 4 Vincent Valentine (FIN) 528
 4 Xande, Dark Mage (FIN) 516
 4 Xande, Dark Mage (FIN) 561
-================================================================================
-Deck
 4 Zanarkand, Ancient Metropolis (FIN) 293
 4 Zanarkand, Ancient Metropolis (FIN) 314
 4 Zell Dincht (FIN) 170
