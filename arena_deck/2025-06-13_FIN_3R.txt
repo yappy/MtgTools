@@ -1,6 +1,4 @@
 Deck
-4 "Venat, Lady of the Light" (FIN) 39
-4 "Venat, Lady of the Light" (FIN) 329
 4 A Realm Reborn (FIN) 196
 4 A Realm Reborn (FIN) 344
 4 Aerith Gainsborough (FIN) 4
@@ -61,10 +59,10 @@ Deck
 4 Hope Estheim (FIN) 491
 4 Hope Estheim (FIN) 541
 4 Ishgard, the Holy See (FIN) 283
-================================================================================
-Deck
 4 Ishgard, the Holy See (FIN) 310
 4 Jecht, Reluctant Guardian (FIN) 104
+================================================================================
+Deck
 4 Jecht, Reluctant Guardian (FIN) 363
 4 Jecht, Reluctant Guardian (FIN) 448
 4 Jenova, Ancient Calamity (FIN) 228
@@ -125,10 +123,10 @@ Deck
 4 Seifer Almasy (FIN) 466
 4 Seifer Almasy (FIN) 534
 4 Serah Farron (FIN) 240
-================================================================================
-Deck
 4 Serah Farron (FIN) 506
 4 Seymour Flux (FIN) 452
+================================================================================
+Deck
 4 Seymour Flux (FIN) 558
 4 Sin, Spira's Punishment (FIN) 242
 4 Sin, Spira's Punishment (FIN) 348
@@ -189,10 +187,13 @@ Deck
 4 Ultimecia, Temporal Threat (FIN) 556
 4 Vaan, Street Thief (FIN) 168
 4 Vaan, Street Thief (FIN) 390
-================================================================================
-Deck
 4 Vaan, Street Thief (FIN) 467
 4 Vaan, Street Thief (FIN) 535
+================================================================================
+Deck
+4 Venat, Heart of Hydaelyn (FIN) 39
+4 Venat, Heart of Hydaelyn (FIN) 329
+4 Venat, Heart of Hydaelyn (FIN) 434
 4 Vincent Valentine (FIN) 125
 4 Vincent Valentine (FIN) 383
 4 Vincent Valentine (FIN) 454

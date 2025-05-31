@@ -9,6 +9,7 @@ Deck
 4 Ashe, Princess of Dalmasca (FIN) 425
 4 Auron's Inspiration (FIN) 8
 4 Barret Wallace (FIN) 129
+4 Barret Wallace (FIN) 457
 4 Barret Wallace (FIN) 584
 4 Battle Menu (FIN) 9
 4 Black Waltz No. 3 (FIN) 214
@@ -57,12 +58,13 @@ Deck
 4 Ether (FIN) 53
 4 Evil Reawakened (FIN) 98
 4 Exdeath, Void Warlock (FIN) 220
+4 Exdeath, Void Warlock (FIN) 485
 4 Fang, Fearless l'Cie (FIN) 99
 4 Fang, Fearless l'Cie (FIN) 381
-4 Fang, Fearless l'Cie (FIN) 446
-4 Fang, Fearless l'Cie (FIN) 526
 ================================================================================
 Deck
+4 Fang, Fearless l'Cie (FIN) 446
+4 Fang, Fearless l'Cie (FIN) 526
 4 Fire Magic (FIN) 136
 4 Freya Crescent (FIN) 138
 4 Freya Crescent (FIN) 460
@@ -123,10 +125,13 @@ Deck
 4 Ring of the Lucii (FIN) 269
 4 Rinoa Heartilly (FIN) 237
 4 Rinoa Heartilly (FIN) 502
-4 Rufus Shinra (FIN) 238
-4 Rufus Shinra (FIN) 503
 ================================================================================
 Deck
+4 Rufus Shinra (FIN) 238
+4 Rufus Shinra (FIN) 503
+4 Rydia's Return (FIN) 198
+4 Rydia, Summoner of Mist (FIN) 239
+4 Rydia, Summoner of Mist (FIN) 504
 4 Samurai's Katana (FIN) 154
 4 Sandworm (FIN) 155
 4 Sazh's Chocobo (FIN) 200
@@ -183,6 +188,9 @@ Deck
 4 Vanille, Cheerful l'Cie (FIN) 475
 4 Vanille, Cheerful l'Cie (FIN) 537
 4 Zack Fair (FIN) 45
+4 Zack Fair (FIN) 435
+================================================================================
+Deck
 4 Zack Fair (FIN) 580
 4 Zidane, Tantalus Thief (FIN) 251
 4 Zidane, Tantalus Thief (FIN) 405
