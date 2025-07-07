@@ -111,7 +111,7 @@ Deck
 4 Terisian Mindbreaker (BRO) 322
 4 Terror Ballista (BRO) 290
 4 Terror Ballista (BRO) 375
-4 The Mightstone and Weakstone (BRO) 238a
+4 The Mightstone and Weakstone (BRO) 238
 4 The Stasis Coffin (BRO) 245
 4 The Stasis Coffin (BRO) 366
 4 The Stone Brain (BRO) 247
