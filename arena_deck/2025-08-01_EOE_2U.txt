@@ -1,5 +1,16 @@
 Deck
 4 Alpharael, Dreaming Acolyte (EOE) 212
+4 Bygone Colossus (EOE) 235
+4 Emergency Eject (EOE) 14
+4 Eusocial Engineering (EOE) 181
 4 Harmonious Grovestrider (EOE) 189
 4 Sami, Ship's Engineer (EOE) 225
+4 Seedship Impact (EOE) 205
+4 Starfield Shepherd (EOE) 37
+4 Syr Vondam, the Lucent (EOE) 232
 4 Tannuk, Memorial Ensign (EOE) 233
+4 Timeline Culler (EOE) 121
+4 Tragic Trajectory (EOE) 122
+4 Virulent Silencer (EOE) 248
+4 Voidforged Titan (EOE) 125
+4 Weftstalker Ardent (EOE) 169

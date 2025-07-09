@@ -1,7 +1,31 @@
 Deck
+4 Anticausal Vestige (EOE) 357
+4 Exalted Sunborn (EOE) 15
+4 Exalted Sunborn (EOE) 318
+4 Exalted Sunborn (EOE) 358
+4 Exalted Sunborn (EOE) 384
+4 Mutinous Massacre (EOE) 363
+4 Mutinous Massacre (EOE) 389
+4 Ouroboroid (EOE) 201
+4 Ouroboroid (EOE) 345
+4 Quantum Riddler (EOE) 72
+4 Quantum Riddler (EOE) 305
+4 Sami, Wildcat Captain (EOE) 226
+4 Sami, Wildcat Captain (EOE) 301
 4 Sothera, the Supervoid (EOE) 115
 4 Sothera, the Supervoid (EOE) 360
 4 Sothera, the Supervoid (EOE) 382
 4 Sothera, the Supervoid (EOE) 386
+4 Starfield Vocalist (EOE) 359
+4 Susur Secundi, Void Altar (EOE) 259
+4 Susur Secundi, Void Altar (EOE) 284
+4 Susur Secundi, Void Altar (EOE) 379
 4 Tezzeret, Cruel Captain (EOE) 2
 4 Tezzeret, Cruel Captain (EOE) 287
+4 The Endstone (EOE) 240
+4 The Endstone (EOE) 353
+4 The Endstone (EOE) 365
+4 The Endstone (EOE) 391
+4 Uthros, Titanic Godcore (EOE) 260
+4 Uthros, Titanic Godcore (EOE) 285
+4 Uthros, Titanic Godcore (EOE) 380

@@ -1,8 +1,71 @@
 Deck
+4 Anticausal Vestige (EOE) 1
+4 Anticausal Vestige (EOE) 317
+4 Anticausal Vestige (EOE) 383
+4 Archenemy's Charm (EOE) 88
+4 Archenemy's Charm (EOE) 307
+4 Astelli Reclaimer (EOE) 4
+4 Astelli Reclaimer (EOE) 288
+4 Biotech Specialist (EOE) 214
+4 Biotech Specialist (EOE) 347
 4 Breeding Pool (EOE) 251
+4 Breeding Pool (EOE) 278
+4 Breeding Pool (EOE) 373
+4 Cosmogoyf (EOE) 215
+4 Cosmogoyf (EOE) 313
+4 Elegy Acolyte (EOE) 97
+4 Elegy Acolyte (EOE) 293
+4 Emissary Escort (EOE) 56
+4 Emissary Escort (EOE) 326
+4 Emissary Escort (EOE) 399
+4 Extinguisher Battleship (EOE) 242
+4 Extinguisher Battleship (EOE) 355
+4 Frenzied Baloth (EOE) 183
+4 Frenzied Baloth (EOE) 342
+4 Genemorph Imago (EOE) 217
+4 Genemorph Imago (EOE) 299
 4 Godless Shrine (EOE) 254
+4 Godless Shrine (EOE) 280
+4 Godless Shrine (EOE) 375
+4 Haliya, Guided by Light (EOE) 19
+4 Haliya, Guided by Light (EOE) 289
+4 Infinite Guideline Station (EOE) 219
+4 Infinite Guideline Station (EOE) 348
+4 Mutinous Massacre (EOE) 222
+4 Mutinous Massacre (EOE) 314
+4 Nova Hellkite (EOE) 148
+4 Nova Hellkite (EOE) 309
+4 Ragost, Deft Gastronaut (EOE) 224
+4 Ragost, Deft Gastronaut (EOE) 300
+4 Rust Harvester (EOE) 159
+4 Rust Harvester (EOE) 310
 4 Sacred Foundry (EOE) 256
+4 Sacred Foundry (EOE) 282
+4 Sacred Foundry (EOE) 377
+4 Singularity Rupture (EOE) 228
+4 Singularity Rupture (EOE) 350
+4 Singularity Rupture (EOE) 398
+4 Starfield Vocalist (EOE) 78
+4 Starfield Vocalist (EOE) 328
+4 Starfield Vocalist (EOE) 385
 4 Stomping Ground (EOE) 258
+4 Stomping Ground (EOE) 283
+4 Stomping Ground (EOE) 378
+4 Sunset Saboteur (EOE) 116
+4 Sunset Saboteur (EOE) 334
+4 Terminal Velocity (EOE) 338
+4 Terrasymbiosis (EOE) 210
+4 Terrasymbiosis (EOE) 312
+4 The Eternity Elevator (EOE) 241
+4 The Eternity Elevator (EOE) 354
 4 The Seriema (EOE) 35
 4 The Seriema (EOE) 323
+4 Thrumming Hivepool (EOE) 247
+================================================================================
+Deck
+4 Thrumming Hivepool (EOE) 356
 4 Watery Grave (EOE) 261
+4 Watery Grave (EOE) 286
+4 Watery Grave (EOE) 381
+4 Weapons Manufacturing (EOE) 168
+4 Weapons Manufacturing (EOE) 311
