@@ -1,9 +1,14 @@
 Deck
+4 Adagia, Windswept Bastion (EOE) 250
 4 Anticausal Vestige (EOE) 357
+4 Anticausal Vestige (EOE) 383
+4 Cosmogrand Zenith (EOE) 9
+4 Dawnsire, Sunstar Dreadnought (EOE) 238
 4 Exalted Sunborn (EOE) 15
 4 Exalted Sunborn (EOE) 318
 4 Exalted Sunborn (EOE) 358
 4 Exalted Sunborn (EOE) 384
+4 Kavaron, Memorial World (EOE) 255
 4 Mutinous Massacre (EOE) 363
 4 Mutinous Massacre (EOE) 389
 4 Ouroboroid (EOE) 201
@@ -17,6 +22,7 @@ Deck
 4 Sothera, the Supervoid (EOE) 382
 4 Sothera, the Supervoid (EOE) 386
 4 Starfield Vocalist (EOE) 359
+4 Starfield Vocalist (EOE) 385
 4 Susur Secundi, Void Altar (EOE) 259
 4 Susur Secundi, Void Altar (EOE) 284
 4 Susur Secundi, Void Altar (EOE) 379

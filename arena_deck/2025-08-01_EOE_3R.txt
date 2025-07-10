@@ -1,7 +1,6 @@
 Deck
 4 Anticausal Vestige (EOE) 1
 4 Anticausal Vestige (EOE) 317
-4 Anticausal Vestige (EOE) 383
 4 Archenemy's Charm (EOE) 88
 4 Archenemy's Charm (EOE) 307
 4 Astelli Reclaimer (EOE) 4
@@ -11,6 +10,8 @@ Deck
 4 Breeding Pool (EOE) 251
 4 Breeding Pool (EOE) 278
 4 Breeding Pool (EOE) 373
+4 Consult the Star Charts (EOE) 51
+4 Consult the Star Charts (EOE) 325
 4 Cosmogoyf (EOE) 215
 4 Cosmogoyf (EOE) 313
 4 Elegy Acolyte (EOE) 97
@@ -47,7 +48,6 @@ Deck
 4 Singularity Rupture (EOE) 398
 4 Starfield Vocalist (EOE) 78
 4 Starfield Vocalist (EOE) 328
-4 Starfield Vocalist (EOE) 385
 4 Stomping Ground (EOE) 258
 4 Stomping Ground (EOE) 283
 4 Stomping Ground (EOE) 378
@@ -64,6 +64,8 @@ Deck
 ================================================================================
 Deck
 4 Thrumming Hivepool (EOE) 356
+4 Warmaker Gunship (EOE) 167
+4 Warmaker Gunship (EOE) 339
 4 Watery Grave (EOE) 261
 4 Watery Grave (EOE) 286
 4 Watery Grave (EOE) 381
