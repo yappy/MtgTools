@@ -5,15 +5,18 @@ Deck
 4 Decode Transmissions (EOE) 94
 4 Embrace Oblivion (EOE) 98
 4 Galactic Wayfarer (EOE) 185
+4 Gravkill (EOE) 103
 4 Hullcarver (EOE) 105
 4 Illvoi Galeblade (EOE) 58
 4 Insatiable Skittermaw (EOE) 108
 4 Kav Landseeker (EOE) 138
 4 Mechanozoa (EOE) 66
 4 Nutrient Block (EOE) 243
+4 Plasma Bolt (EOE) 152
 4 Red Tiger Mechan (EOE) 154
 4 Shattered Wings (EOE) 206
 4 Starbreach Whale (EOE) 77
 4 Starfighter Pilot (EOE) 38
+4 Starport Security (EOE) 39
 4 Temporal Intervention (EOE) 120
 4 Wurmwall Sweeper (EOE) 249

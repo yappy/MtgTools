@@ -1,13 +1,21 @@
 Deck
 4 Alpharael, Dreaming Acolyte (EOE) 212
+4 Annul (EOE) 46
+4 Annul (EOE) 394
 4 Broodguard Elite (EOE) 175
 4 Bygone Colossus (EOE) 235
 4 Debris Field Crusher (EOE) 131
 4 Emergency Eject (EOE) 14
 4 Eusocial Engineering (EOE) 181
+4 Fell Gravship (EOE) 101
+4 Galvanizing Sawship (EOE) 136
 4 Harmonious Grovestrider (EOE) 189
+4 Hemosymbic Mite (EOE) 190
+4 Interceptor Mechan (EOE) 220
 4 Mouth of the Storm (EOE) 70
+4 Ruinous Rampage (EOE) 158
 4 Sami, Ship's Engineer (EOE) 225
+4 Scout for Survivors (EOE) 33
 4 Seedship Impact (EOE) 205
 4 Starfield Shepherd (EOE) 37
 4 Starfield Shepherd (EOE) 393
@@ -18,6 +26,8 @@ Deck
 4 Terrapact Intimidator (EOE) 164
 4 Timeline Culler (EOE) 121
 4 Tragic Trajectory (EOE) 122
+4 Umbral Collar Zealot (EOE) 123
+4 Umbral Collar Zealot (EOE) 395
 4 Unravel (EOE) 83
 4 Virulent Silencer (EOE) 248
 4 Voidforged Titan (EOE) 125

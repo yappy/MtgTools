@@ -5,6 +5,7 @@ Deck
 4 Archenemy's Charm (EOE) 307
 4 Astelli Reclaimer (EOE) 4
 4 Astelli Reclaimer (EOE) 288
+4 Bioengineered Future (EOE) 340
 4 Biotech Specialist (EOE) 214
 4 Biotech Specialist (EOE) 347
 4 Breeding Pool (EOE) 251
@@ -36,6 +37,9 @@ Deck
 4 Mutinous Massacre (EOE) 314
 4 Nova Hellkite (EOE) 148
 4 Nova Hellkite (EOE) 309
+4 Pain for All (EOE) 337
+4 Possibility Technician (EOE) 153
+4 Possibility Technician (EOE) 295
 4 Ragost, Deft Gastronaut (EOE) 224
 4 Ragost, Deft Gastronaut (EOE) 300
 4 Rust Harvester (EOE) 159
@@ -43,6 +47,7 @@ Deck
 4 Sacred Foundry (EOE) 256
 4 Sacred Foundry (EOE) 282
 4 Sacred Foundry (EOE) 377
+4 Scavenger Grounds (EOE) 82
 4 Singularity Rupture (EOE) 228
 4 Singularity Rupture (EOE) 350
 4 Singularity Rupture (EOE) 398
@@ -56,13 +61,13 @@ Deck
 4 Terminal Velocity (EOE) 338
 4 Terrasymbiosis (EOE) 210
 4 Terrasymbiosis (EOE) 312
+================================================================================
+Deck
 4 The Eternity Elevator (EOE) 241
 4 The Eternity Elevator (EOE) 354
 4 The Seriema (EOE) 35
 4 The Seriema (EOE) 323
 4 Thrumming Hivepool (EOE) 247
-================================================================================
-Deck
 4 Thrumming Hivepool (EOE) 356
 4 Warmaker Gunship (EOE) 167
 4 Warmaker Gunship (EOE) 339
@@ -71,3 +76,4 @@ Deck
 4 Watery Grave (EOE) 381
 4 Weapons Manufacturing (EOE) 168
 4 Weapons Manufacturing (EOE) 311
+4 Zero Point Ballad (EOE) 335

@@ -1,14 +1,24 @@
 Deck
 4 Adagia, Windswept Bastion (EOE) 250
+4 Adagia, Windswept Bastion (EOE) 277
+4 Adagia, Windswept Bastion (EOE) 372
+4 Alpharael, Stonechosen (EOE) 87
+4 Alpharael, Stonechosen (EOE) 292
 4 Anticausal Vestige (EOE) 357
 4 Anticausal Vestige (EOE) 383
 4 Cosmogrand Zenith (EOE) 9
+4 Cosmogrand Zenith (EOE) 304
 4 Dawnsire, Sunstar Dreadnought (EOE) 238
+4 Dawnsire, Sunstar Dreadnought (EOE) 351
 4 Exalted Sunborn (EOE) 15
 4 Exalted Sunborn (EOE) 318
 4 Exalted Sunborn (EOE) 358
 4 Exalted Sunborn (EOE) 384
+4 Famished Worldsire (EOE) 182
+4 Famished Worldsire (EOE) 341
 4 Kavaron, Memorial World (EOE) 255
+4 Kavaron, Memorial World (EOE) 281
+4 Kavaron, Memorial World (EOE) 376
 4 Mutinous Massacre (EOE) 363
 4 Mutinous Massacre (EOE) 389
 4 Ouroboroid (EOE) 201
@@ -28,6 +38,10 @@ Deck
 4 Susur Secundi, Void Altar (EOE) 379
 4 Tezzeret, Cruel Captain (EOE) 2
 4 Tezzeret, Cruel Captain (EOE) 287
+4 The Dominion Bracelet (EOE) 239
+4 The Dominion Bracelet (EOE) 352
+4 The Dominion Bracelet (EOE) 364
+4 The Dominion Bracelet (EOE) 390
 4 The Endstone (EOE) 240
 4 The Endstone (EOE) 353
 4 The Endstone (EOE) 365
