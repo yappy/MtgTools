@@ -5,16 +5,21 @@ Deck
 4 Archenemy's Charm (EOE) 307
 4 Astelli Reclaimer (EOE) 4
 4 Astelli Reclaimer (EOE) 288
+4 Bioengineered Future (EOE) 172
 4 Bioengineered Future (EOE) 340
 4 Biotech Specialist (EOE) 214
 4 Biotech Specialist (EOE) 347
 4 Breeding Pool (EOE) 251
 4 Breeding Pool (EOE) 278
 4 Breeding Pool (EOE) 373
+4 Chorale of the Void (EOE) 91
+4 Chorale of the Void (EOE) 331
 4 Consult the Star Charts (EOE) 51
 4 Consult the Star Charts (EOE) 325
 4 Cosmogoyf (EOE) 215
 4 Cosmogoyf (EOE) 313
+4 Dyadrine, Synthesis Amalgam (EOE) 216
+4 Dyadrine, Synthesis Amalgam (EOE) 298
 4 Elegy Acolyte (EOE) 97
 4 Elegy Acolyte (EOE) 293
 4 Emissary Escort (EOE) 56
@@ -33,10 +38,14 @@ Deck
 4 Haliya, Guided by Light (EOE) 289
 4 Infinite Guideline Station (EOE) 219
 4 Infinite Guideline Station (EOE) 348
+4 Mightform Harmonizer (EOE) 200
+4 Mm'menon, the Right Hand (EOE) 68
+4 Mm'menon, the Right Hand (EOE) 290
 4 Mutinous Massacre (EOE) 222
 4 Mutinous Massacre (EOE) 314
 4 Nova Hellkite (EOE) 148
 4 Nova Hellkite (EOE) 309
+4 Pain for All (EOE) 151
 4 Pain for All (EOE) 337
 4 Possibility Technician (EOE) 153
 4 Possibility Technician (EOE) 295
@@ -47,22 +56,23 @@ Deck
 4 Sacred Foundry (EOE) 256
 4 Sacred Foundry (EOE) 282
 4 Sacred Foundry (EOE) 377
-4 Scavenger Grounds (EOE) 82
 4 Singularity Rupture (EOE) 228
 4 Singularity Rupture (EOE) 350
 4 Singularity Rupture (EOE) 398
 4 Starfield Vocalist (EOE) 78
 4 Starfield Vocalist (EOE) 328
+================================================================================
+Deck
 4 Stomping Ground (EOE) 258
 4 Stomping Ground (EOE) 283
 4 Stomping Ground (EOE) 378
 4 Sunset Saboteur (EOE) 116
 4 Sunset Saboteur (EOE) 334
+4 Sunstar Chaplain (EOE) 40
+4 Sunstar Chaplain (EOE) 324
 4 Terminal Velocity (EOE) 338
 4 Terrasymbiosis (EOE) 210
 4 Terrasymbiosis (EOE) 312
-================================================================================
-Deck
 4 The Eternity Elevator (EOE) 241
 4 The Eternity Elevator (EOE) 354
 4 The Seriema (EOE) 35

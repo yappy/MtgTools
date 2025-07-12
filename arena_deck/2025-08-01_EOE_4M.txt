@@ -10,6 +10,9 @@ Deck
 4 Cosmogrand Zenith (EOE) 304
 4 Dawnsire, Sunstar Dreadnought (EOE) 238
 4 Dawnsire, Sunstar Dreadnought (EOE) 351
+4 Evendo, Waking Haven (EOE) 253
+4 Evendo, Waking Haven (EOE) 279
+4 Evendo, Waking Haven (EOE) 374
 4 Exalted Sunborn (EOE) 15
 4 Exalted Sunborn (EOE) 318
 4 Exalted Sunborn (EOE) 358
@@ -49,3 +52,4 @@ Deck
 4 Uthros, Titanic Godcore (EOE) 260
 4 Uthros, Titanic Godcore (EOE) 285
 4 Uthros, Titanic Godcore (EOE) 380
+4 Weftwalking (EOE) 86

@@ -1,7 +1,11 @@
 Deck
+4 "Cut the Fuel Line" (EOE) 130
+4 All-Fates Scroll (EOE) 234
+4 All-Fates Stalker (EOE) 3
 4 Alpharael, Dreaming Acolyte (EOE) 212
 4 Annul (EOE) 46
 4 Annul (EOE) 394
+4 Biomechan Engineer (EOE) 213
 4 Broodguard Elite (EOE) 175
 4 Bygone Colossus (EOE) 235
 4 Debris Field Crusher (EOE) 131
@@ -12,13 +16,25 @@ Deck
 4 Harmonious Grovestrider (EOE) 189
 4 Hemosymbic Mite (EOE) 190
 4 Interceptor Mechan (EOE) 220
+4 Kavaron Harrier (EOE) 139
+4 Memorial Team Leader (EOE) 144
+4 Monoist Circuit-Feeder (EOE) 110
 4 Mouth of the Storm (EOE) 70
+4 Pulsar Squadron Ace (EOE) 28
+4 Remnant Elemental (EOE) 155
+4 Reroute Systems (EOE) 31
+4 Rescue Skiff (EOE) 32
+4 Roving Actuator (EOE) 157
 4 Ruinous Rampage (EOE) 158
 4 Sami, Ship's Engineer (EOE) 225
 4 Scout for Survivors (EOE) 33
+4 Seedship Broodtender (EOE) 227
 4 Seedship Impact (EOE) 205
+4 Specimen Freighter (EOE) 76
 4 Starfield Shepherd (EOE) 37
 4 Starfield Shepherd (EOE) 393
+4 Sunstar Expansionist (EOE) 41
+4 Survey Mechan (EOE) 245
 4 Syr Vondam, the Lucent (EOE) 232
 4 Systems Override (EOE) 161
 4 Tannuk, Memorial Ensign (EOE) 233
