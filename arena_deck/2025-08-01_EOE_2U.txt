@@ -1,13 +1,16 @@
 Deck
-4 "Cut the Fuel Line" (EOE) 130
 4 All-Fates Scroll (EOE) 234
 4 All-Fates Stalker (EOE) 3
 4 Alpharael, Dreaming Acolyte (EOE) 212
 4 Annul (EOE) 46
 4 Annul (EOE) 394
+4 Atmospheric Greenhouse (EOE) 171
 4 Biomechan Engineer (EOE) 213
 4 Broodguard Elite (EOE) 175
 4 Bygone Colossus (EOE) 235
+4 Close Encounter (EOE) 176
+4 Cut Propulsion (EOE) 130
+4 Dauntless Scrapbot (EOE) 237
 4 Debris Field Crusher (EOE) 131
 4 Emergency Eject (EOE) 14
 4 Eusocial Engineering (EOE) 181
@@ -15,8 +18,12 @@ Deck
 4 Galvanizing Sawship (EOE) 136
 4 Harmonious Grovestrider (EOE) 189
 4 Hemosymbic Mite (EOE) 190
+4 Honored Knight-Captain (EOE) 22
+4 Hylderblade (EOE) 106
 4 Interceptor Mechan (EOE) 220
 4 Kavaron Harrier (EOE) 139
+4 Kavaron Harrier (EOE) 396
+4 Lightless Evangel (EOE) 109
 4 Memorial Team Leader (EOE) 144
 4 Monoist Circuit-Feeder (EOE) 110
 4 Mouth of the Storm (EOE) 70

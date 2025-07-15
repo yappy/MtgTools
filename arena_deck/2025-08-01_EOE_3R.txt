@@ -1,10 +1,12 @@
 Deck
+4 "Interstellar Gacha Ship" (EOE) 81
 4 Anticausal Vestige (EOE) 1
 4 Anticausal Vestige (EOE) 317
 4 Archenemy's Charm (EOE) 88
 4 Archenemy's Charm (EOE) 307
 4 Astelli Reclaimer (EOE) 4
 4 Astelli Reclaimer (EOE) 288
+4 Beyond the Quiet (EOE) 7
 4 Bioengineered Future (EOE) 172
 4 Bioengineered Future (EOE) 340
 4 Biotech Specialist (EOE) 214
@@ -36,9 +38,13 @@ Deck
 4 Godless Shrine (EOE) 375
 4 Haliya, Guided by Light (EOE) 19
 4 Haliya, Guided by Light (EOE) 289
+4 Hardlight Containment (EOE) 20
 4 Infinite Guideline Station (EOE) 219
 4 Infinite Guideline Station (EOE) 348
+4 Loading Zone (EOE) 196
+4 Lumen-Class Frigate (EOE) 25
 4 Mightform Harmonizer (EOE) 200
+4 Mightform Harmonizer (EOE) 297
 4 Mm'menon, the Right Hand (EOE) 68
 4 Mm'menon, the Right Hand (EOE) 290
 4 Mutinous Massacre (EOE) 222
@@ -55,14 +61,14 @@ Deck
 4 Rust Harvester (EOE) 310
 4 Sacred Foundry (EOE) 256
 4 Sacred Foundry (EOE) 282
+================================================================================
+Deck
 4 Sacred Foundry (EOE) 377
 4 Singularity Rupture (EOE) 228
 4 Singularity Rupture (EOE) 350
 4 Singularity Rupture (EOE) 398
 4 Starfield Vocalist (EOE) 78
 4 Starfield Vocalist (EOE) 328
-================================================================================
-Deck
 4 Stomping Ground (EOE) 258
 4 Stomping Ground (EOE) 283
 4 Stomping Ground (EOE) 378
@@ -70,6 +76,8 @@ Deck
 4 Sunset Saboteur (EOE) 334
 4 Sunstar Chaplain (EOE) 40
 4 Sunstar Chaplain (EOE) 324
+4 Syr Vondam, Sunstar Exemplar (EOE) 231
+4 Syr Vondam, Sunstar Exemplar (EOE) 302
 4 Terminal Velocity (EOE) 338
 4 Terrasymbiosis (EOE) 210
 4 Terrasymbiosis (EOE) 312

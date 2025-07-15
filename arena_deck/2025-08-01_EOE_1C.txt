@@ -2,7 +2,9 @@ Deck
 4 Banishing Light (EOE) 6
 4 Chrome Companion (EOE) 236
 4 Command Bridge (EOE) 252
+4 Cryogen Relic (EOE) 52
 4 Decode Transmissions (EOE) 94
+4 Drix Fatemaker (EOE) 178
 4 Embrace Oblivion (EOE) 98
 4 Fungal Colossus (EOE) 184
 4 Galactic Wayfarer (EOE) 185
@@ -11,9 +13,12 @@ Deck
 4 Illvoi Galeblade (EOE) 58
 4 Insatiable Skittermaw (EOE) 108
 4 Kav Landseeker (EOE) 138
+4 Luxknight Breacher (EOE) 26
 4 Mechanozoa (EOE) 66
+4 Melded Moxite (EOE) 143
 4 Nutrient Block (EOE) 243
 4 Plasma Bolt (EOE) 152
+4 Radiant Strike (EOE) 29
 4 Red Tiger Mechan (EOE) 154
 4 Sami's Curiosity (EOE) 203
 4 Shattered Wings (EOE) 206

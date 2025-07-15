@@ -53,3 +53,4 @@ Deck
 4 Uthros, Titanic Godcore (EOE) 285
 4 Uthros, Titanic Godcore (EOE) 380
 4 Weftwalking (EOE) 86
+4 Weftwalking (EOE) 330
