@@ -1,5 +1,4 @@
 Deck
-4 "Interstellar Gacha Ship" (EOE) 81
 4 Anticausal Vestige (EOE) 1
 4 Anticausal Vestige (EOE) 317
 4 Archenemy's Charm (EOE) 88
@@ -7,6 +6,7 @@ Deck
 4 Astelli Reclaimer (EOE) 4
 4 Astelli Reclaimer (EOE) 288
 4 Beyond the Quiet (EOE) 7
+4 Beyond the Quiet (EOE) 303
 4 Bioengineered Future (EOE) 172
 4 Bioengineered Future (EOE) 340
 4 Biotech Specialist (EOE) 214
@@ -27,6 +27,7 @@ Deck
 4 Emissary Escort (EOE) 56
 4 Emissary Escort (EOE) 326
 4 Emissary Escort (EOE) 399
+4 Entropic Battlecruiser (EOE) 99
 4 Extinguisher Battleship (EOE) 242
 4 Extinguisher Battleship (EOE) 355
 4 Frenzied Baloth (EOE) 183
@@ -43,6 +44,7 @@ Deck
 4 Infinite Guideline Station (EOE) 348
 4 Loading Zone (EOE) 196
 4 Lumen-Class Frigate (EOE) 25
+4 Lumen-Class Frigate (EOE) 321
 4 Mightform Harmonizer (EOE) 200
 4 Mightform Harmonizer (EOE) 297
 4 Mm'menon, the Right Hand (EOE) 68
@@ -53,20 +55,23 @@ Deck
 4 Nova Hellkite (EOE) 309
 4 Pain for All (EOE) 151
 4 Pain for All (EOE) 337
+4 Pinnacle Emissary (EOE) 223
 4 Possibility Technician (EOE) 153
 4 Possibility Technician (EOE) 295
 4 Ragost, Deft Gastronaut (EOE) 224
 4 Ragost, Deft Gastronaut (EOE) 300
 4 Rust Harvester (EOE) 159
+================================================================================
+Deck
 4 Rust Harvester (EOE) 310
 4 Sacred Foundry (EOE) 256
 4 Sacred Foundry (EOE) 282
-================================================================================
-Deck
 4 Sacred Foundry (EOE) 377
 4 Singularity Rupture (EOE) 228
 4 Singularity Rupture (EOE) 350
 4 Singularity Rupture (EOE) 398
+4 Space-Time Anomaly (EOE) 229
+4 Space-Time Anomaly (EOE) 315
 4 Starfield Vocalist (EOE) 78
 4 Starfield Vocalist (EOE) 328
 4 Stomping Ground (EOE) 258
@@ -76,6 +81,8 @@ Deck
 4 Sunset Saboteur (EOE) 334
 4 Sunstar Chaplain (EOE) 40
 4 Sunstar Chaplain (EOE) 324
+4 Synthesizer Labship (EOE) 81
+4 Synthesizer Labship (EOE) 329
 4 Syr Vondam, Sunstar Exemplar (EOE) 231
 4 Syr Vondam, Sunstar Exemplar (EOE) 302
 4 Terminal Velocity (EOE) 338
@@ -94,4 +101,5 @@ Deck
 4 Watery Grave (EOE) 381
 4 Weapons Manufacturing (EOE) 168
 4 Weapons Manufacturing (EOE) 311
+4 Xu-Ifit, Osteoharmonist (EOE) 127
 4 Zero Point Ballad (EOE) 335

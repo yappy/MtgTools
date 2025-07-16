@@ -12,22 +12,29 @@ Deck
 4 Cut Propulsion (EOE) 130
 4 Dauntless Scrapbot (EOE) 237
 4 Debris Field Crusher (EOE) 131
+4 Desculpting Blast (EOE) 54
+4 Dubious Delicacy (EOE) 96
 4 Emergency Eject (EOE) 14
 4 Eusocial Engineering (EOE) 181
 4 Fell Gravship (EOE) 101
 4 Galvanizing Sawship (EOE) 136
+4 Haliya, Ascendant Cadet (EOE) 218
 4 Harmonious Grovestrider (EOE) 189
 4 Hemosymbic Mite (EOE) 190
+4 Honor (EOE) 21
 4 Honored Knight-Captain (EOE) 22
 4 Hylderblade (EOE) 106
 4 Interceptor Mechan (EOE) 220
+4 Invasive Maneuvers (EOE) 137
 4 Kavaron Harrier (EOE) 139
 4 Kavaron Harrier (EOE) 396
 4 Lightless Evangel (EOE) 109
+4 Meltstrider Eulogist (EOE) 197
 4 Memorial Team Leader (EOE) 144
 4 Monoist Circuit-Feeder (EOE) 110
 4 Mouth of the Storm (EOE) 70
 4 Pulsar Squadron Ace (EOE) 28
+4 Rayblade Trooper (EOE) 30
 4 Remnant Elemental (EOE) 155
 4 Reroute Systems (EOE) 31
 4 Rescue Skiff (EOE) 32
@@ -40,6 +47,7 @@ Deck
 4 Specimen Freighter (EOE) 76
 4 Starfield Shepherd (EOE) 37
 4 Starfield Shepherd (EOE) 393
+4 Station Monitor (EOE) 230
 4 Sunstar Expansionist (EOE) 41
 4 Survey Mechan (EOE) 245
 4 Syr Vondam, the Lucent (EOE) 232
@@ -48,10 +56,16 @@ Deck
 4 Tapestry Warden (EOE) 209
 4 Terrapact Intimidator (EOE) 164
 4 Timeline Culler (EOE) 121
+4 Tractor Beam (EOE) 82
 4 Tragic Trajectory (EOE) 122
 4 Umbral Collar Zealot (EOE) 123
 4 Umbral Collar Zealot (EOE) 395
 4 Unravel (EOE) 83
+================================================================================
+Deck
+4 Uthros Psionicist (EOE) 84
+4 Uthros Scanship (EOE) 85
 4 Virulent Silencer (EOE) 248
 4 Voidforged Titan (EOE) 125
+4 Wedgelight Rammer (EOE) 43
 4 Weftstalker Ardent (EOE) 169

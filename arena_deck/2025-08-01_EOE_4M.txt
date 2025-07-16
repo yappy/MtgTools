@@ -10,6 +10,9 @@ Deck
 4 Cosmogrand Zenith (EOE) 304
 4 Dawnsire, Sunstar Dreadnought (EOE) 238
 4 Dawnsire, Sunstar Dreadnought (EOE) 351
+4 Devastating Onslaught (EOE) 132
+4 Devastating Onslaught (EOE) 308
+4 Devastating Onslaught (EOE) 361
 4 Evendo, Waking Haven (EOE) 253
 4 Evendo, Waking Haven (EOE) 279
 4 Evendo, Waking Haven (EOE) 374

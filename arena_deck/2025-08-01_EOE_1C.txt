@@ -6,6 +6,7 @@ Deck
 4 Decode Transmissions (EOE) 94
 4 Drix Fatemaker (EOE) 178
 4 Embrace Oblivion (EOE) 98
+4 Focus Fire (EOE) 18
 4 Fungal Colossus (EOE) 184
 4 Galactic Wayfarer (EOE) 185
 4 Gravkill (EOE) 103
