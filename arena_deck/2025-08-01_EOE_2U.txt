@@ -1,10 +1,14 @@
 Deck
+4 "Astral Epiphany" (EOE) 48
+4 "Exploration Craft" (EOE) 194
+4 "Station Automation" (EOE) 64
 4 All-Fates Scroll (EOE) 234
 4 All-Fates Stalker (EOE) 3
 4 Alpharael, Dreaming Acolyte (EOE) 212
 4 Annul (EOE) 46
 4 Annul (EOE) 394
 4 Atmospheric Greenhouse (EOE) 171
+4 Atomic Microsizer (EOE) 47
 4 Biomechan Engineer (EOE) 213
 4 Broodguard Elite (EOE) 175
 4 Bygone Colossus (EOE) 235
@@ -13,10 +17,13 @@ Deck
 4 Dauntless Scrapbot (EOE) 237
 4 Debris Field Crusher (EOE) 131
 4 Desculpting Blast (EOE) 54
+4 Dual-Sun Technique (EOE) 13
 4 Dubious Delicacy (EOE) 96
+4 Edge Rover (EOE) 179
 4 Emergency Eject (EOE) 14
 4 Eusocial Engineering (EOE) 181
 4 Fell Gravship (EOE) 101
+4 Full Bore (EOE) 135
 4 Galvanizing Sawship (EOE) 136
 4 Haliya, Ascendant Cadet (EOE) 218
 4 Harmonious Grovestrider (EOE) 189
@@ -24,11 +31,14 @@ Deck
 4 Honor (EOE) 21
 4 Honored Knight-Captain (EOE) 22
 4 Hylderblade (EOE) 106
+4 Hymn of the Faller (EOE) 107
 4 Interceptor Mechan (EOE) 220
 4 Invasive Maneuvers (EOE) 137
 4 Kavaron Harrier (EOE) 139
 4 Kavaron Harrier (EOE) 396
 4 Lightless Evangel (EOE) 109
+4 Lithobraking (EOE) 142
+4 Mechan Assembler (EOE) 63
 4 Meltstrider Eulogist (EOE) 197
 4 Memorial Team Leader (EOE) 144
 4 Monoist Circuit-Feeder (EOE) 110
@@ -48,8 +58,11 @@ Deck
 4 Starfield Shepherd (EOE) 37
 4 Starfield Shepherd (EOE) 393
 4 Station Monitor (EOE) 230
+4 Steelswarm Operator (EOE) 80
 4 Sunstar Expansionist (EOE) 41
 4 Survey Mechan (EOE) 245
+================================================================================
+Deck
 4 Syr Vondam, the Lucent (EOE) 232
 4 Systems Override (EOE) 161
 4 Tannuk, Memorial Ensign (EOE) 233
@@ -61,8 +74,6 @@ Deck
 4 Umbral Collar Zealot (EOE) 123
 4 Umbral Collar Zealot (EOE) 395
 4 Unravel (EOE) 83
-================================================================================
-Deck
 4 Uthros Psionicist (EOE) 84
 4 Uthros Scanship (EOE) 85
 4 Virulent Silencer (EOE) 248

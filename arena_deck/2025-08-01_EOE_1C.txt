@@ -18,6 +18,7 @@ Deck
 4 Mechanozoa (EOE) 66
 4 Melded Moxite (EOE) 143
 4 Nutrient Block (EOE) 243
+4 Pinnacle Kill-Ship (EOE) 244
 4 Plasma Bolt (EOE) 152
 4 Radiant Strike (EOE) 29
 4 Red Tiger Mechan (EOE) 154

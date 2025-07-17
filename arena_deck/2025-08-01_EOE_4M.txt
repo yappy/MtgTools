@@ -1,4 +1,5 @@
 Deck
+4 "Splendid Reclaimer" (EOE) 362
 4 Adagia, Windswept Bastion (EOE) 250
 4 Adagia, Windswept Bastion (EOE) 277
 4 Adagia, Windswept Bastion (EOE) 372
@@ -33,6 +34,7 @@ Deck
 4 Quantum Riddler (EOE) 305
 4 Sami, Wildcat Captain (EOE) 226
 4 Sami, Wildcat Captain (EOE) 301
+4 Secluded Starforge (EOE) 392
 4 Sothera, the Supervoid (EOE) 115
 4 Sothera, the Supervoid (EOE) 360
 4 Sothera, the Supervoid (EOE) 382

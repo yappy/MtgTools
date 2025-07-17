@@ -1,4 +1,7 @@
 Deck
+4 "Splendid Reclaimer" (EOE) 192
+4 "Splendid Reclaimer" (EOE) 343
+4 "Summoner Ship" (EOE) 208
 4 Anticausal Vestige (EOE) 1
 4 Anticausal Vestige (EOE) 317
 4 Archenemy's Charm (EOE) 88
@@ -28,6 +31,7 @@ Deck
 4 Emissary Escort (EOE) 326
 4 Emissary Escort (EOE) 399
 4 Entropic Battlecruiser (EOE) 99
+4 Entropic Battlecruiser (EOE) 332
 4 Extinguisher Battleship (EOE) 242
 4 Extinguisher Battleship (EOE) 355
 4 Frenzied Baloth (EOE) 183
@@ -40,8 +44,10 @@ Deck
 4 Haliya, Guided by Light (EOE) 19
 4 Haliya, Guided by Light (EOE) 289
 4 Hardlight Containment (EOE) 20
+4 Hardlight Containment (EOE) 319
 4 Infinite Guideline Station (EOE) 219
 4 Infinite Guideline Station (EOE) 348
+4 Lightstall Inquisitor (EOE) 24
 4 Loading Zone (EOE) 196
 4 Lumen-Class Frigate (EOE) 25
 4 Lumen-Class Frigate (EOE) 321
@@ -49,24 +55,32 @@ Deck
 4 Mightform Harmonizer (EOE) 297
 4 Mm'menon, the Right Hand (EOE) 68
 4 Mm'menon, the Right Hand (EOE) 290
+4 Moonlit Meditation (EOE) 69
+4 Moonlit Meditation (EOE) 327
 4 Mutinous Massacre (EOE) 222
 4 Mutinous Massacre (EOE) 314
 4 Nova Hellkite (EOE) 148
 4 Nova Hellkite (EOE) 309
+================================================================================
+Deck
 4 Pain for All (EOE) 151
 4 Pain for All (EOE) 337
 4 Pinnacle Emissary (EOE) 223
+4 Pinnacle Emissary (EOE) 349
+4 Pinnacle Starcage (EOE) 27
 4 Possibility Technician (EOE) 153
 4 Possibility Technician (EOE) 295
 4 Ragost, Deft Gastronaut (EOE) 224
 4 Ragost, Deft Gastronaut (EOE) 300
+4 Requiem Monolith (EOE) 113
+4 Requiem Monolith (EOE) 333
 4 Rust Harvester (EOE) 159
-================================================================================
-Deck
 4 Rust Harvester (EOE) 310
 4 Sacred Foundry (EOE) 256
 4 Sacred Foundry (EOE) 282
 4 Sacred Foundry (EOE) 377
+4 Secluded Starforge (EOE) 257
+4 Secluded Starforge (EOE) 316
 4 Singularity Rupture (EOE) 228
 4 Singularity Rupture (EOE) 350
 4 Singularity Rupture (EOE) 398
@@ -74,6 +88,9 @@ Deck
 4 Space-Time Anomaly (EOE) 315
 4 Starfield Vocalist (EOE) 78
 4 Starfield Vocalist (EOE) 328
+4 Starwinder (EOE) 79
+4 Starwinder (EOE) 291
+4 Starwinder (EOE) 306
 4 Stomping Ground (EOE) 258
 4 Stomping Ground (EOE) 283
 4 Stomping Ground (EOE) 378
@@ -102,4 +119,5 @@ Deck
 4 Weapons Manufacturing (EOE) 168
 4 Weapons Manufacturing (EOE) 311
 4 Xu-Ifit, Osteoharmonist (EOE) 127
+4 Xu-Ifit, Osteoharmonist (EOE) 294
 4 Zero Point Ballad (EOE) 335
