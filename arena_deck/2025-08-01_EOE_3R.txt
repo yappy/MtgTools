@@ -1,7 +1,5 @@
 Deck
-4 "Splendid Reclaimer" (EOE) 192
-4 "Splendid Reclaimer" (EOE) 343
-4 "Summoner Ship" (EOE) 208
+4 "Forgotten Sock Closet" (EOE) 145
 4 Anticausal Vestige (EOE) 1
 4 Anticausal Vestige (EOE) 317
 4 Archenemy's Charm (EOE) 88
@@ -45,6 +43,8 @@ Deck
 4 Haliya, Guided by Light (EOE) 289
 4 Hardlight Containment (EOE) 20
 4 Hardlight Containment (EOE) 319
+4 Icetill Explorer (EOE) 192
+4 Icetill Explorer (EOE) 343
 4 Infinite Guideline Station (EOE) 219
 4 Infinite Guideline Station (EOE) 348
 4 Lightstall Inquisitor (EOE) 24
@@ -68,6 +68,7 @@ Deck
 4 Pinnacle Emissary (EOE) 223
 4 Pinnacle Emissary (EOE) 349
 4 Pinnacle Starcage (EOE) 27
+4 Pinnacle Starcage (EOE) 322
 4 Possibility Technician (EOE) 153
 4 Possibility Technician (EOE) 295
 4 Ragost, Deft Gastronaut (EOE) 224
@@ -84,6 +85,8 @@ Deck
 4 Singularity Rupture (EOE) 228
 4 Singularity Rupture (EOE) 350
 4 Singularity Rupture (EOE) 398
+4 Sledge-Class Seedship (EOE) 208
+4 Sledge-Class Seedship (EOE) 346
 4 Space-Time Anomaly (EOE) 229
 4 Space-Time Anomaly (EOE) 315
 4 Starfield Vocalist (EOE) 78

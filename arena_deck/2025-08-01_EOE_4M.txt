@@ -1,5 +1,4 @@
 Deck
-4 "Splendid Reclaimer" (EOE) 362
 4 Adagia, Windswept Bastion (EOE) 250
 4 Adagia, Windswept Bastion (EOE) 277
 4 Adagia, Windswept Bastion (EOE) 372
@@ -23,6 +22,8 @@ Deck
 4 Exalted Sunborn (EOE) 384
 4 Famished Worldsire (EOE) 182
 4 Famished Worldsire (EOE) 341
+4 Icetill Explorer (EOE) 362
+4 Icetill Explorer (EOE) 388
 4 Kavaron, Memorial World (EOE) 255
 4 Kavaron, Memorial World (EOE) 281
 4 Kavaron, Memorial World (EOE) 376
@@ -34,6 +35,7 @@ Deck
 4 Quantum Riddler (EOE) 305
 4 Sami, Wildcat Captain (EOE) 226
 4 Sami, Wildcat Captain (EOE) 301
+4 Secluded Starforge (EOE) 366
 4 Secluded Starforge (EOE) 392
 4 Sothera, the Supervoid (EOE) 115
 4 Sothera, the Supervoid (EOE) 360
@@ -44,6 +46,8 @@ Deck
 4 Susur Secundi, Void Altar (EOE) 259
 4 Susur Secundi, Void Altar (EOE) 284
 4 Susur Secundi, Void Altar (EOE) 379
+4 Tannuk, Steadfast Second (EOE) 162
+4 Tannuk, Steadfast Second (EOE) 296
 4 Tezzeret, Cruel Captain (EOE) 2
 4 Tezzeret, Cruel Captain (EOE) 287
 4 The Dominion Bracelet (EOE) 239
@@ -57,5 +61,7 @@ Deck
 4 Uthros, Titanic Godcore (EOE) 260
 4 Uthros, Titanic Godcore (EOE) 285
 4 Uthros, Titanic Godcore (EOE) 380
+================================================================================
+Deck
 4 Weftwalking (EOE) 86
 4 Weftwalking (EOE) 330
