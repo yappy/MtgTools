@@ -13,6 +13,7 @@ Deck
 4 Devastating Onslaught (EOE) 132
 4 Devastating Onslaught (EOE) 308
 4 Devastating Onslaught (EOE) 361
+4 Devastating Onslaught (EOE) 387
 4 Evendo, Waking Haven (EOE) 253
 4 Evendo, Waking Haven (EOE) 279
 4 Evendo, Waking Haven (EOE) 374
@@ -60,8 +61,8 @@ Deck
 4 The Endstone (EOE) 391
 4 Uthros, Titanic Godcore (EOE) 260
 4 Uthros, Titanic Godcore (EOE) 285
-4 Uthros, Titanic Godcore (EOE) 380
 ================================================================================
 Deck
+4 Uthros, Titanic Godcore (EOE) 380
 4 Weftwalking (EOE) 86
 4 Weftwalking (EOE) 330

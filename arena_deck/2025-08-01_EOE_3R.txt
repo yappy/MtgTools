@@ -1,5 +1,4 @@
 Deck
-4 "Forgotten Sock Closet" (EOE) 145
 4 Anticausal Vestige (EOE) 1
 4 Anticausal Vestige (EOE) 317
 4 Archenemy's Charm (EOE) 88
@@ -48,9 +47,13 @@ Deck
 4 Infinite Guideline Station (EOE) 219
 4 Infinite Guideline Station (EOE) 348
 4 Lightstall Inquisitor (EOE) 24
+4 Lightstall Inquisitor (EOE) 320
 4 Loading Zone (EOE) 196
+4 Loading Zone (EOE) 344
 4 Lumen-Class Frigate (EOE) 25
 4 Lumen-Class Frigate (EOE) 321
+4 Memorial Vault (EOE) 145
+4 Memorial Vault (EOE) 336
 4 Mightform Harmonizer (EOE) 200
 4 Mightform Harmonizer (EOE) 297
 4 Mm'menon, the Right Hand (EOE) 68
@@ -58,11 +61,11 @@ Deck
 4 Moonlit Meditation (EOE) 69
 4 Moonlit Meditation (EOE) 327
 4 Mutinous Massacre (EOE) 222
+================================================================================
+Deck
 4 Mutinous Massacre (EOE) 314
 4 Nova Hellkite (EOE) 148
 4 Nova Hellkite (EOE) 309
-================================================================================
-Deck
 4 Pain for All (EOE) 151
 4 Pain for All (EOE) 337
 4 Pinnacle Emissary (EOE) 223
@@ -105,6 +108,7 @@ Deck
 4 Synthesizer Labship (EOE) 329
 4 Syr Vondam, Sunstar Exemplar (EOE) 231
 4 Syr Vondam, Sunstar Exemplar (EOE) 302
+4 Terminal Velocity (EOE) 163
 4 Terminal Velocity (EOE) 338
 4 Terrasymbiosis (EOE) 210
 4 Terrasymbiosis (EOE) 312
@@ -121,6 +125,9 @@ Deck
 4 Watery Grave (EOE) 381
 4 Weapons Manufacturing (EOE) 168
 4 Weapons Manufacturing (EOE) 311
+================================================================================
+Deck
 4 Xu-Ifit, Osteoharmonist (EOE) 127
 4 Xu-Ifit, Osteoharmonist (EOE) 294
+4 Zero Point Ballad (EOE) 128
 4 Zero Point Ballad (EOE) 335
