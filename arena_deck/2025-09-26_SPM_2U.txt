@@ -1,9 +1,13 @@
 Deck
 4 Aunt May (SPM) 3
 4 Flying Octobot (SPM) 31
+4 Green Goblin, Revenant (SPM) 130
 4 SP//dr, Piloted by Peni (SPM) 147
 4 Scorpion, Seething Striker (SPM) 64
 4 Shocker, Unshakable (SPM) 89
 4 Spider-Byte, Web Warden (SPM) 44
 4 Spider-Man Noir (SPM) 67
+4 Spider-Man Noir (SPM) 204
 4 Tombstone, Career Criminal (SPM) 70
+4 Web-Warriors (SPM) 159
+4 Web-Warriors (SPM) 203
