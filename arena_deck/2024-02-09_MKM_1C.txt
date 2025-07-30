@@ -27,6 +27,7 @@ Deck
 4 Faerie Snoop (MKM) 203
 4 Fanatical Strength (MKM) 159
 4 Fanatical Strength (MKM) 310
+4 Fanatical Strength (MKM) 310†
 4 Felonious Rage (MKM) 125
 4 Gadget Technician (MKM) 204
 4 Galvanize (MKM) 128
@@ -60,9 +61,9 @@ Deck
 4 Pick Your Poison (MKM) 170
 4 Projektor Inspector (MKM) 68
 4 Public Thoroughfare (MKM) 265
-4 Rakish Scoundrel (MKM) 225
 ================================================================================
 Deck
+4 Rakish Scoundrel (MKM) 225
 4 Reasonable Doubt (MKM) 69
 4 Red Herring (MKM) 142
 4 Repeat Offender (MKM) 101
