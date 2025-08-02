@@ -13,3 +13,6 @@ Deck
 4 Peter Parker (SPM) 10
 4 Peter Parker (SPM) 208
 4 Peter Parker (SPM) 232
+4 The Soul Stone (SPM) 66
+4 The Soul Stone (SPM) 242
+4 The Soul Stone (SPM) 243
