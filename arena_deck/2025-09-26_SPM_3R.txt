@@ -1,5 +1,5 @@
 Deck
-4 Carnage, Crimson Chaos (SPM) 99999
+4 Carnage, Crimson Chaos (SPM) 9999
 4 Iron Spider, Stark Upgrade (SPM) 166
 4 Iron Spider, Stark Upgrade (SPM) 279
 4 Kraven's Last Hunt (SPM) 105
