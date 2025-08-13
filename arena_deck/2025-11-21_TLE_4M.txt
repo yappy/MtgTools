@@ -1,0 +1,6 @@
+Deck
+4 Aang, Airbending Master (TLE) 74
+4 Fire Lord Ozai (TLE) 104
+4 Force of Negation (TLE) 13
+4 Katara, Waterbending Master (TLE) 93
+4 The Great Henge (TLE) 41
