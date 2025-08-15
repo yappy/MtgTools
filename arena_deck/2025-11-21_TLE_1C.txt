@@ -1,1 +1,32 @@
 Deck
+4 Aang's Defense (TLE) 211
+4 Aardvark Sloth (TLE) 212
+4 Capital Guard (TLE) 234
+4 Deny Entry (TLE) 222
+4 Dragon Moose (TLE) 235
+4 Elephant-Rat (TLE) 228
+4 Explore (TLE) 259
+4 Explosive Shot (TLE) 236
+4 Feed the Swarm (TLE) 257
+4 Fire Nation Ambushers (TLE) 229
+4 Fire Nation Soldier (TLE) 238
+4 Flying Dolphin-Fish (TLE) 223
+4 Frog-Squirrels (TLE) 251
+4 Gilacorn (TLE) 231
+4 Hippo-Cows (TLE) 252
+4 Komodo Rhino (TLE) 241
+4 Kyoshi Warrior Guard (TLE) 216
+4 Mechanical Glider (TLE) 256
+4 Purple Pentapus (TLE) 233
+4 Run Amok (TLE) 258
+4 Sledding Otter-Penguin (TLE) 218
+4 Thriving Bluff (TLE) 260
+4 Thriving Grove (TLE) 261
+4 Thriving Heath (TLE) 262
+4 Thriving Isle (TLE) 263
+4 Thriving Moor (TLE) 264
+4 Tundra Wall (TLE) 220
+4 Turtle-Seals (TLE) 226
+4 Warship Scout (TLE) 244
+4 Wolf Cove Villager (TLE) 221
+4 Zuko's Offense (TLE) 247

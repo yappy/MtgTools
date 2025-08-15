@@ -1,2 +1,12 @@
 Deck
+4 Aang, Air Nomad (TLE) 210
+4 Allied Teamwork (TLE) 213
+4 Bumi, Eclectic Earthbender (TLE) 248
+4 Fire Nation Archers (TLE) 237
+4 Fire Nation Sentinels (TLE) 230
+4 Lion Vulture (TLE) 232
+4 Seismic Tutelage (TLE) 254
 4 The Cabbage Merchant (TLE) 134
+4 The Terror of Serpent's Pass (TLE) 225
+4 Water Whip (TLE) 227
+4 Zuko, Avatar Hunter (TLE) 246

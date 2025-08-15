@@ -1,4 +1,25 @@
 Deck
+4 Aang, the Last Airbender (TLA) 4
+4 Buzzard-Wasp Colony (TLA) 88
+4 Cat-Gator (TLA) 91
+4 Earth Rumble (TLA) 174
+4 Epic Downfall (TLA) 96
 4 Fire Nation Attacks (TLA) 133
+4 Fire Nation Engineer (TLA) 99
+4 Fire Sages (TLA) 136
+4 Flopsie, Bumi's Buddy (TLA) 179
+4 Haru, Hidden Talent (TLA) 182
+4 Heartless Act (TLA) 103
+4 Hei Bai, Spirit of Balance (TLA) 225
+4 Katara, Bending Prodigy (TLA) 59
+4 Long Feng, Grand Secretariat (TLA) 233
+4 Master Pakku (TLA) 63
+4 Master Piandao (TLA) 28
+4 Ozai's Cruelty (TLA) 113
+4 Serpent of the Pass (TLA) 70
 4 Sokka's Haiku (TLA) 71
+4 Sokka, Lateral Strategist (TLA) 241
 4 Southern Air Temple (TLA) 36
+4 Suki, Kyoshi Warrior (TLA) 243
+4 Toph, the Blind Bandit (TLA) 198
+4 Zuko, Exiled Prince (TLA) 163
