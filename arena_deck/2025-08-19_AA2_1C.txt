@@ -1,0 +1,10 @@
+Deck
+4 Ancient Den (AA2) 23
+4 Empty the Warrens (AA2) 9
+4 Flame Slash (AA2) 11
+4 Great Furnace (AA2) 24
+4 Mana Leak (AA2) 4
+4 Pyrite Spellbomb (AA2) 21
+4 Thought Scour (AA2) 5
+4 Tree of Tales (AA2) 25
+4 Trinket Mage (AA2) 6

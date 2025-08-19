@@ -1,4 +1,5 @@
 Deck
+4 A-Cori-Steel Cutter (TDM) A-103
 4 Ambling Stormshell (TDM) 37
 4 Ambling Stormshell (TDM) 332
 4 Anafenza, Unyielding Lineage (TDM) 2
@@ -60,9 +61,9 @@ Deck
 4 Marang River Regent (TDM) 378
 4 Mardu Siegebreaker (TDM) 206
 4 Mardu Siegebreaker (TDM) 364
-4 Mistrise Village (TDM) 261
 ================================================================================
 Deck
+4 Mistrise Village (TDM) 261
 4 Mistrise Village (TDM) 397
 4 Naga Fleshcrafter (TDM) 52
 4 Naga Fleshcrafter (TDM) 333

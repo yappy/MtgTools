@@ -1,0 +1,9 @@
+Deck
+4 Barrowgoyf (AA2) 7
+4 Currency Converter (AA2) 19
+4 Damn (AA2) 8
+4 Fiery Confluence (AA2) 10
+4 Ignoble Hierarch (AA2) 14
+4 Pyrogoyf (AA2) 12
+4 Rofellos, Llanowar Emissary (AA2) 15
+4 Triplicate Titan (AA2) 22
