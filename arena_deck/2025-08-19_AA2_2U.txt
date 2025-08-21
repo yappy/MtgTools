@@ -1,6 +1,0 @@
-Deck
-4 Control Magic (AA2) 3
-4 Eternal Witness (AA2) 13
-4 Life (AA2) 17
-4 Mother of Runes (AA2) 1
-4 Oust (AA2) 2
