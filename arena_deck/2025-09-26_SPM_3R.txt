@@ -2,6 +2,8 @@ Deck
 4 Carnage, Crimson Chaos (SPM) 9999
 4 Iron Spider, Stark Upgrade (SPM) 166
 4 Iron Spider, Stark Upgrade (SPM) 279
+4 J. Jonah Jameson (SPM) 81
+4 J. Jonah Jameson (SPM) 261
 4 Kraven's Last Hunt (SPM) 105
 4 Kraven's Last Hunt (SPM) 226
 4 Multiversal Passage (SPM) 180
