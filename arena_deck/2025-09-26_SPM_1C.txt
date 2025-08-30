@@ -1,6 +1,7 @@
 Deck
 4 Angry Rabble (SPM) 75
 4 Beetle, Legacy Criminal (SPM) 26
+4 City Pigeon (SPM) 4
 4 Daily Bugle Reporters (SPM) 6
 4 Doc Ock's Henchmen (SPM) 30
 4 Doc Ock, Sinister Scientist (SPM) 29
@@ -8,6 +9,7 @@ Deck
 4 Electro's Bolt (SPM) 77
 4 Grow Extra Arms (SPM) 101
 4 Guy in the Chair (SPM) 102
+4 Gwenom, Remorseless (SPM) 286
 4 Kapow! (SPM) 103
 4 Kraven's Cats (SPM) 104
 4 Lurking Lizards (SPM) 107

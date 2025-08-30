@@ -1,16 +1,24 @@
 Deck
 4 Anti-Venom, Horrifying Healer (SPM) 1
 4 Anti-Venom, Horrifying Healer (SPM) 244
+4 Behold the Sinister Six! (SPM) 51
+4 Behold the Sinister Six! (SPM) 221
 4 Doctor Octopus, Master Planner (SPM) 128
 4 Doctor Octopus, Master Planner (SPM) 228
+4 Eddie Brock (SPM) 55
+4 Eddie Brock (SPM) 224
+4 Eddie Brock (SPM) 233
 4 Gwen Stacy (SPM) 78
 4 Gwen Stacy (SPM) 202
 4 Gwen Stacy (SPM) 209
-4 Gwenom, Remorseless (SPM) 9998
+4 Gwenom, Remorseless (SPM) 56
+4 Gwenom, Remorseless (SPM) 256
 4 Miles Morales (SPM) 108
 4 Miles Morales (SPM) 200
 4 Miles Morales (SPM) 211
 4 Miles Morales (SPM) 234
+4 Norman Osborn (SPM) 39
+4 Norman Osborn (SPM) 220
 4 Peter Parker (SPM) 10
 4 Peter Parker (SPM) 208
 4 Peter Parker (SPM) 232
