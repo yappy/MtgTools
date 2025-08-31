@@ -9,7 +9,6 @@ Deck
 4 Electro's Bolt (SPM) 77
 4 Grow Extra Arms (SPM) 101
 4 Guy in the Chair (SPM) 102
-4 Gwenom, Remorseless (SPM) 286
 4 Kapow! (SPM) 103
 4 Kraven's Cats (SPM) 104
 4 Lurking Lizards (SPM) 107

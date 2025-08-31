@@ -4,6 +4,7 @@ Deck
 4 Daily Bugle Building (SPM) 179
 4 Flying Octobot (SPM) 31
 4 Green Goblin, Revenant (SPM) 130
+4 Pictures of Spider-Man (SPM) 109
 4 Prowler, Clawed Thief (SPM) 138
 4 Raging Goblinoids (SPM) 85
 4 Rhino, Barreling Brute (SPM) 140
