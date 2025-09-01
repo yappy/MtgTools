@@ -30,6 +30,7 @@ Deck
 4 Spider-Man, Web-Slinger (SPM) 16
 4 Spider-Rex, Daring Dino (SPM) 116
 4 Starling, Aerial Ally (SPM) 18
+4 Steel Wrecking Ball (SPM) 177
 4 Stegron the Dinosaur Man (SPM) 95
 4 Taxi Driver (SPM) 97
 4 Thwip! (SPM) 20
