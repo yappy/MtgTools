@@ -1,4 +1,6 @@
 Deck
+4 Agent Venom (SPM) 49
+4 Agent Venom (SPM) 255
 4 Carnage, Crimson Chaos (SPM) 125
 4 Carnage, Crimson Chaos (SPM) 227
 4 Electro, Assaulting Battery (SPM) 76
@@ -17,6 +19,11 @@ Deck
 4 Mysterio, Master of Illusion (SPM) 253
 4 Origin of Spider-Man (SPM) 9
 4 Origin of Spider-Man (SPM) 218
+4 Peter Parker's Camera (SPM) 171
+4 Peter Parker's Camera (SPM) 280
+4 Radioactive Spider (SPM) 213
+4 Radioactive Spider (SPM) 285
+4 Rent Is Due (SPM) 11
 4 Sandman, Shifting Scoundrel (SPM) 112
 4 Sandman, Shifting Scoundrel (SPM) 266
 4 Spectacular Spider-Man (SPM) 14

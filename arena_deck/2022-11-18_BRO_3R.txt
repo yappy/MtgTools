@@ -4,7 +4,7 @@ Deck
 4 A-Thran Spider (BRO) A-254
 4 A-Urza's Command (BRO) A-70
 4 A-Visions of Phyrexia (BRO) A-156
-4 Argoth, Sanctum of Nature (BRO) 256a
+4 Argoth, Sanctum of Nature (BRO) 256
 4 Artificer's Dragon (BRO) 291
 4 Artificer's Dragon (BRO) 376
 4 Ashnod, Flesh Mechanist (BRO) 84
@@ -85,7 +85,7 @@ Deck
 4 Painful Quandary (BRO) 331
 4 Perennial Behemoth (BRO) 202
 4 Perennial Behemoth (BRO) 350
-4 Phyrexian Dragon Engine (BRO) 163a
+4 Phyrexian Dragon Engine (BRO) 163
 4 Queen Kayla bin-Kroog (BRO) 218
 4 Queen Kayla bin-Kroog (BRO) 357
 4 Queen Kayla bin-Kroog (BRO) 379

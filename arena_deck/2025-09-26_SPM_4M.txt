@@ -14,6 +14,7 @@ Deck
 4 Gwenom, Remorseless (SPM) 56
 4 Gwenom, Remorseless (SPM) 256
 4 Gwenom, Remorseless (SPM) 286
+4 Impostor Syndrome (SPM) 34
 4 Miles Morales (SPM) 108
 4 Miles Morales (SPM) 200
 4 Miles Morales (SPM) 211
@@ -26,3 +27,4 @@ Deck
 4 The Soul Stone (SPM) 66
 4 The Soul Stone (SPM) 242
 4 The Soul Stone (SPM) 243
+4 Web of Life and Destiny (SPM) 122

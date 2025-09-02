@@ -2,6 +2,8 @@ Deck
 4 Aunt May (SPM) 3
 4 Costume Closet (SPM) 5
 4 Daily Bugle Building (SPM) 179
+4 Ezekiel Sims, Spider-Totem (SPM) 100
+4 Flash Thompson, Spider-Fan (SPM) 7
 4 Flying Octobot (SPM) 31
 4 Green Goblin, Revenant (SPM) 130
 4 Pictures of Spider-Man (SPM) 109
@@ -16,6 +18,7 @@ Deck
 4 Spider-Man Noir (SPM) 67
 4 Spider-Man Noir (SPM) 204
 4 Spider-Suit (SPM) 176
+4 Spiders-Man, Heroic Horde (SPM) 117
 4 Tombstone, Career Criminal (SPM) 70
 4 Vulture, Scheming Scavenger (SPM) 158
 4 Web-Warriors (SPM) 159

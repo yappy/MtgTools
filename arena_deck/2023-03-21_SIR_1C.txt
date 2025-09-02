@@ -43,7 +43,7 @@ Deck
 4 Ghoulcaller's Accomplice (SIR) 112
 4 Gisa's Bidding (SIR) 113
 4 Gnarlwood Dryad (SIR) 196
-4 Graf Rats (SIR) 115a
+4 Graf Rats (SIR) 115
 4 Grapple with the Past (SIR) 198
 4 Grotesque Mutation (SIR) 116
 4 Guardian of Pilgrims (SIR) 32

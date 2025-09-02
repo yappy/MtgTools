@@ -5,7 +5,7 @@ Deck
 4 Avacyn's Judgment (SIR) 142
 4 Bedlam Reveler (SIR) 143
 4 Bloodhall Priest (SIR) 231
-4 Bruna, the Fading Light (SIR) 17a
+4 Bruna, the Fading Light (SIR) 17
 4 Burn from Within (SIR) 147
 4 Bygone Bishop (SIR) 18
 4 Collective Brutality (SIR) 103
@@ -32,7 +32,7 @@ Deck
 4 Geralf's Masterpiece (SIR) 73
 4 Grim Flayer (SIR) 234
 4 Hanweir Battlements (SIR) 271
-4 Hanweir Garrison (SIR) 161a
+4 Hanweir Garrison (SIR) 161
 4 Hanweir, the Writhing Township (SIR) 161b
 4 Heron's Grace Champion (SIR) 235
 4 Mausoleum Wanderer (SIR) 81
