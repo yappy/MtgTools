@@ -1,5 +1,6 @@
 Deck
 4 Aunt May (SPM) 3
+4 Chameleon, Master of Disguise (SPM) 27
 4 Costume Closet (SPM) 5
 4 Daily Bugle Building (SPM) 179
 4 Ezekiel Sims, Spider-Totem (SPM) 100
@@ -18,6 +19,7 @@ Deck
 4 Spider-Man Noir (SPM) 67
 4 Spider-Man Noir (SPM) 204
 4 Spider-Suit (SPM) 176
+4 Spider-UK (SPM) 17
 4 Spiders-Man, Heroic Horde (SPM) 117
 4 Tombstone, Career Criminal (SPM) 70
 4 Vulture, Scheming Scavenger (SPM) 158

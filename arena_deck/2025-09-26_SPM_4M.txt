@@ -3,6 +3,7 @@ Deck
 4 Anti-Venom, Horrifying Healer (SPM) 244
 4 Behold the Sinister Six! (SPM) 51
 4 Behold the Sinister Six! (SPM) 221
+4 Cosmic Spider-Man (SPM) 127
 4 Doctor Octopus, Master Planner (SPM) 128
 4 Doctor Octopus, Master Planner (SPM) 228
 4 Eddie Brock (SPM) 55
@@ -15,6 +16,7 @@ Deck
 4 Gwenom, Remorseless (SPM) 256
 4 Gwenom, Remorseless (SPM) 286
 4 Impostor Syndrome (SPM) 34
+4 Impostor Syndrome (SPM) 251
 4 Miles Morales (SPM) 108
 4 Miles Morales (SPM) 200
 4 Miles Morales (SPM) 211
@@ -28,3 +30,4 @@ Deck
 4 The Soul Stone (SPM) 242
 4 The Soul Stone (SPM) 243
 4 Web of Life and Destiny (SPM) 122
+4 Web of Life and Destiny (SPM) 268

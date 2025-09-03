@@ -1,10 +1,15 @@
 Deck
 4 Arachnogenesis (MAR) 31
+4 Beast Within (MAR) 33
+4 Counterspell (MAR) 9
 4 Heroic Intervention (MAR) 34
 4 Hunter's Insight (MAR) 35
 4 Lorthos, the Tidemaker (MAR) 10
+4 Mindbreak Trap (MAR) 11
 4 Path to Exile (MAR) 4
 4 Reanimate (MAR) 20
+4 Relentless Assault (MAR) 25
+4 Relentless Assault (MAR) 9999
 4 Shock (MAR) 27
 4 Skithiryx, the Blight Dragon (MAR) 22
 4 Terminate (MAR) 40
