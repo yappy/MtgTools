@@ -4,6 +4,7 @@ Deck
 4 Behold the Sinister Six! (SPM) 51
 4 Behold the Sinister Six! (SPM) 221
 4 Cosmic Spider-Man (SPM) 127
+4 Cosmic Spider-Man (SPM) 271
 4 Doctor Octopus, Master Planner (SPM) 128
 4 Doctor Octopus, Master Planner (SPM) 228
 4 Eddie Brock (SPM) 55
@@ -26,6 +27,7 @@ Deck
 4 Peter Parker (SPM) 10
 4 Peter Parker (SPM) 208
 4 Peter Parker (SPM) 232
+4 Spider-Verse (SPM) 93
 4 The Soul Stone (SPM) 66
 4 The Soul Stone (SPM) 242
 4 The Soul Stone (SPM) 243

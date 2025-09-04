@@ -3,10 +3,20 @@ Deck
 4 Agent Venom (SPM) 255
 4 Araña, Heart of the Spider (SPM) 123
 4 Araña, Heart of the Spider (SPM) 213
+4 Black Cat, Cunning Thief (SPM) 52
+4 Black Cat, Cunning Thief (SPM) 222
 4 Carnage, Crimson Chaos (SPM) 125
 4 Carnage, Crimson Chaos (SPM) 227
+4 Cheering Crowd (SPM) 126
+4 Doc Ock's Tentacles (SPM) 162
+4 Doc Ock's Tentacles (SPM) 277
 4 Electro, Assaulting Battery (SPM) 76
 4 Electro, Assaulting Battery (SPM) 260
+4 Friendly Neighborhood (SPM) 246
+4 Hide on the Ceiling (SPM) 32
+4 Hide on the Ceiling (SPM) 249
+4 Hydro-Man, Fluid Felon (SPM) 33
+4 Hydro-Man, Fluid Felon (SPM) 250
 4 Interdimensional Web Watch (SPM) 165
 4 Interdimensional Web Watch (SPM) 278
 4 Iron Spider, Stark Upgrade (SPM) 166
@@ -17,13 +27,21 @@ Deck
 4 Kraven the Hunter (SPM) 273
 4 Kraven's Last Hunt (SPM) 105
 4 Kraven's Last Hunt (SPM) 226
+4 Lady Octopus, Inspired Inventor (SPM) 35
+4 Lady Octopus, Inspired Inventor (SPM) 252
+4 Lizard, Connors's Curse (SPM) 106
+4 Lizard, Connors's Curse (SPM) 265
+4 Mary Jane Watson (SPM) 134
+4 Mary Jane Watson (SPM) 229
 4 Multiversal Passage (SPM) 180
 4 Multiversal Passage (SPM) 206
 4 Mysterio, Master of Illusion (SPM) 37
 4 Mysterio, Master of Illusion (SPM) 253
 4 Origin of Spider-Man (SPM) 9
 4 Origin of Spider-Man (SPM) 218
+4 Oscorp Industries (SPM) 182
 4 Parker Luck (SPM) 60
+4 Parker Luck (SPM) 258
 4 Peter Parker's Camera (SPM) 171
 4 Peter Parker's Camera (SPM) 280
 4 Radioactive Spider (SPM) 111
@@ -31,13 +49,20 @@ Deck
 4 Radioactive Spider (SPM) 285
 4 Rent Is Due (SPM) 11
 4 Rent Is Due (SPM) 247
+4 Rocket-Powered Goblin Glider (SPM) 172
 4 Sandman, Shifting Scoundrel (SPM) 112
 4 Sandman, Shifting Scoundrel (SPM) 266
+4 Scarlet Spider, Ben Reilly (SPM) 142
+4 Scarlet Spider, Ben Reilly (SPM) 214
+4 Shadow of the Goblin (SPM) 87
+4 Shadow of the Goblin (SPM) 262
 4 Spectacular Spider-Man (SPM) 14
 4 Spectacular Spider-Man (SPM) 235
 4 Spectacular Spider-Man (SPM) 236
 4 Spectacular Spider-Man (SPM) 237
 4 Spectacular Spider-Man (SPM) 238
+================================================================================
+Deck
 4 Spectacular Spider-Man (SPM) 239
 4 Spectacular Spider-Man (SPM) 240
 4 Spectacular Spider-Man (SPM) 241
@@ -49,12 +74,26 @@ Deck
 4 Spider-Punk (SPM) 92
 4 Spider-Punk (SPM) 207
 4 Spider-Punk (SPM) 210
+4 Spider-Sense (SPM) 46
+4 Spider-Sense (SPM) 254
+4 Spider-Sense (SPM) 284
+4 Spider-Woman, Stunning Savior (SPM) 152
+4 Spider-Woman, Stunning Savior (SPM) 230
 4 Spinneret and Spiderling (SPM) 94
+4 Spinneret and Spiderling (SPM) 264
+4 Strength of Will (SPM) 118
+4 Strength of Will (SPM) 267
+4 Superior Spider-Man (SPM) 155
+4 Superior Spider-Man (SPM) 275
 4 Symbiote Spider-Man (SPM) 156
 4 Symbiote Spider-Man (SPM) 217
 4 The Clone Saga (SPM) 28
 4 The Clone Saga (SPM) 219
+4 The Death of Gwen Stacy (SPM) 223
+4 The Spot, Living Portal (SPM) 153
+4 The Spot, Living Portal (SPM) 231
 4 Ultimate Green Goblin (SPM) 157
 4 Ultimate Green Goblin (SPM) 276
+4 Villainous Wrath (SPM) 259
 4 With Great Power... (SPM) 24
 4 With Great Power... (SPM) 248
