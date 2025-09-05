@@ -22,6 +22,7 @@ Deck
 4 Mechanical Mobster (SPM) 168
 4 Merciless Enforcers (SPM) 58
 4 Mob Lookout (SPM) 136
+4 Mysterio's Phantasm (SPM) 38
 4 News Helicopter (SPM) 169
 4 Ominous Asylum (SPM) 181
 4 Oscorp Research Team (SPM) 40
@@ -40,6 +41,7 @@ Deck
 4 Spider-Bot (SPM) 173
 4 Spider-Gwen, Free Spirit (SPM) 90
 4 Spider-Islanders (SPM) 91
+4 Spider-Man No More (SPM) 45
 4 Spider-Man, Brooklyn Visionary (SPM) 115
 4 Spider-Man, Web-Slinger (SPM) 16
 4 Spider-Rex, Daring Dino (SPM) 116
@@ -51,6 +53,7 @@ Deck
 4 Swarm, Being of Bees (SPM) 69
 4 Taxi Driver (SPM) 97
 4 Thwip! (SPM) 20
+4 University Campus (SPM) 186
 4 Unstable Experiment (SPM) 47
 4 Venom's Hunger (SPM) 73
 4 Venom, Evil Unleashed (SPM) 71
@@ -58,4 +61,6 @@ Deck
 4 Vibrant Cityscape (SPM) 188
 4 Web Up (SPM) 21
 4 Whoosh! (SPM) 48
+================================================================================
+Deck
 4 Wild Pack Squad (SPM) 23

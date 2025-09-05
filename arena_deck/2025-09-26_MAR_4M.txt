@@ -4,12 +4,14 @@ Deck
 4 Arasta of the Endless Web (MAR) 32
 4 Beast Within (MAR) 33
 4 Clever Impersonator (MAR) 8
+4 Comeuppance (MAR) 1
 4 Counterspell (MAR) 9
 4 Feed the Swarm (MAR) 16
 4 Goblin Bombardment (MAR) 23
 4 Heroic Intervention (MAR) 34
 4 Hex (MAR) 17
 4 Hunter's Insight (MAR) 35
+4 Infernal Grasp (MAR) 18
 4 Leyline Binding (MAR) 2
 4 Lorthos, the Tidemaker (MAR) 10
 4 Mindbreak Trap (MAR) 11
@@ -23,9 +25,11 @@ Deck
 4 Reanimate (MAR) 20
 4 Relentless Assault (MAR) 25
 4 Relentless Assault (MAR) 9999
+4 Reprieve (MAR) 5
 4 Rest in Peace (MAR) 6
 4 Rite of Replication (MAR) 14
 4 Savage Beating (MAR) 26
+4 Saw in Half (MAR) 21
 4 Shock (MAR) 27
 4 Silkguard (MAR) 37
 4 Skithiryx, the Blight Dragon (MAR) 22

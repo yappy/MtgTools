@@ -22,12 +22,14 @@ Deck
 4 Miles Morales (SPM) 200
 4 Miles Morales (SPM) 211
 4 Miles Morales (SPM) 234
+4 Mr. Negative (SPM) 135
 4 Norman Osborn (SPM) 39
 4 Norman Osborn (SPM) 220
 4 Peter Parker (SPM) 10
 4 Peter Parker (SPM) 208
 4 Peter Parker (SPM) 232
 4 Spider-Verse (SPM) 93
+4 Spider-Verse (SPM) 263
 4 The Soul Stone (SPM) 66
 4 The Soul Stone (SPM) 242
 4 The Soul Stone (SPM) 243
