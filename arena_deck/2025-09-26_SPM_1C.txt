@@ -31,10 +31,12 @@ Deck
 4 Pumpkin Bombardment (SPM) 139
 4 Risky Research (SPM) 62
 4 Romantic Rendezvous (SPM) 86
+4 Savage Mansion (SPM) 183
 4 Scorpion's Sting (SPM) 65
 4 Scout the City (SPM) 113
 4 Selfless Police Captain (SPM) 12
 4 Shock (SPM) 88
+4 Sinister Hideout (SPM) 184
 4 Skyward Spider (SPM) 146
 4 Spectacular Tactics (SPM) 15
 4 Spider Manifestation (SPM) 148
@@ -59,8 +61,8 @@ Deck
 4 Venom, Evil Unleashed (SPM) 71
 4 Venomized Cat (SPM) 72
 4 Vibrant Cityscape (SPM) 188
-4 Web Up (SPM) 21
-4 Whoosh! (SPM) 48
 ================================================================================
 Deck
+4 Web Up (SPM) 21
+4 Whoosh! (SPM) 48
 4 Wild Pack Squad (SPM) 23

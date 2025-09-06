@@ -38,4 +38,5 @@ Deck
 4 Thrill of Possibility (MAR) 28
 4 Traumatize (MAR) 15
 4 Unexpected Windfall (MAR) 29
+4 Wedding Ring (MAR) 7
 4 Winds of Change (MAR) 30

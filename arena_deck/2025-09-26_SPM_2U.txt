@@ -10,6 +10,7 @@ Deck
 4 Flying Octobot (SPM) 31
 4 Green Goblin, Revenant (SPM) 130
 4 Heroes' Hangout (SPM) 79
+4 Hobgoblin, Mantled Marauder (SPM) 80
 4 Kraven, Proud Predator (SPM) 132
 4 Living Brain, Mechanical Marvel (SPM) 167
 4 Madame Web, Clairvoyant (SPM) 36
@@ -23,6 +24,7 @@ Deck
 4 Rhino, Barreling Brute (SPM) 140
 4 Robotics Mastery (SPM) 41
 4 SP//dr, Piloted by Peni (SPM) 147
+4 SP//dr, Piloted by Peni (SPM) 199
 4 Sandman's Quicksand (SPM) 63
 4 Scarlet Spider, Kaine (SPM) 143
 4 School Daze (SPM) 42
@@ -41,6 +43,7 @@ Deck
 4 Spider-Suit (SPM) 176
 4 Spider-UK (SPM) 17
 4 Spiders-Man, Heroic Horde (SPM) 117
+4 Sudden Strike (SPM) 19
 4 Sun-Spider, Nimble Webber (SPM) 154
 4 Superior Foes of Spider-Man (SPM) 96
 4 Supportive Parents (SPM) 119

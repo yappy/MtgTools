@@ -2,6 +2,7 @@ Deck
 4 Agent Venom (SPM) 49
 4 Agent Venom (SPM) 255
 4 Arachne, Psionic Weaver (SPM) 2
+4 Arachne, Psionic Weaver (SPM) 245
 4 Araña, Heart of the Spider (SPM) 123
 4 Araña, Heart of the Spider (SPM) 213
 4 Biorganic Carapace (SPM) 124
@@ -16,6 +17,7 @@ Deck
 4 Doc Ock's Tentacles (SPM) 277
 4 Electro, Assaulting Battery (SPM) 76
 4 Electro, Assaulting Battery (SPM) 260
+4 Friendly Neighborhood (SPM) 8
 4 Friendly Neighborhood (SPM) 246
 4 Hide on the Ceiling (SPM) 32
 4 Hide on the Ceiling (SPM) 249
@@ -50,6 +52,7 @@ Deck
 4 Origin of Spider-Man (SPM) 9
 4 Origin of Spider-Man (SPM) 218
 4 Oscorp Industries (SPM) 182
+4 Oscorp Industries (SPM) 282
 4 Parker Luck (SPM) 60
 4 Parker Luck (SPM) 258
 4 Peter Parker's Camera (SPM) 171
@@ -58,17 +61,19 @@ Deck
 4 Radioactive Spider (SPM) 212
 4 Radioactive Spider (SPM) 285
 4 Rent Is Due (SPM) 11
-4 Rent Is Due (SPM) 247
-4 Rocket-Powered Goblin Glider (SPM) 172
-4 Sandman, Shifting Scoundrel (SPM) 112
 ================================================================================
 Deck
+4 Rent Is Due (SPM) 247
+4 Rocket-Powered Goblin Glider (SPM) 172
+4 Rocket-Powered Goblin Glider (SPM) 281
+4 Sandman, Shifting Scoundrel (SPM) 112
 4 Sandman, Shifting Scoundrel (SPM) 266
 4 Scarlet Spider, Ben Reilly (SPM) 142
 4 Scarlet Spider, Ben Reilly (SPM) 214
 4 Shadow of the Goblin (SPM) 87
 4 Shadow of the Goblin (SPM) 262
-4 Silk the Webspinner (SPM) 145
+4 Silk, Web Weaver (SPM) 145
+4 Silk, Web Weaver (SPM) 215
 4 Spectacular Spider-Man (SPM) 14
 4 Spectacular Spider-Man (SPM) 235
 4 Spectacular Spider-Man (SPM) 236
@@ -107,6 +112,8 @@ Deck
 4 Ultimate Green Goblin (SPM) 157
 4 Ultimate Green Goblin (SPM) 276
 4 Urban Retreat (SPM) 187
+4 Urban Retreat (SPM) 283
+4 Villainous Wrath (SPM) 74
 4 Villainous Wrath (SPM) 259
 4 With Great Power... (SPM) 24
 4 With Great Power... (SPM) 248
