@@ -24,7 +24,6 @@ Deck
 4 Ponder (MAR) 13
 4 Reanimate (MAR) 20
 4 Relentless Assault (MAR) 25
-4 Relentless Assault (MAR) 9999
 4 Reprieve (MAR) 5
 4 Rest in Peace (MAR) 6
 4 Rite of Replication (MAR) 14
