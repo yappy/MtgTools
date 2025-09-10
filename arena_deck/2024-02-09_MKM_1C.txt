@@ -27,7 +27,7 @@ Deck
 4 Faerie Snoop (MKM) 203
 4 Fanatical Strength (MKM) 159
 4 Fanatical Strength (MKM) 310
-4 Fanatical Strength (MKM) 310†
+4 Fanatical Strength (MKM) 310★
 4 Felonious Rage (MKM) 125
 4 Gadget Technician (MKM) 204
 4 Galvanize (MKM) 128
@@ -91,7 +91,7 @@ Deck
 4 Unauthorized Exit (MKM) 74
 4 Unauthorized Exit (MKM) 298
 4 Undercover Crocodelf (MKM) 239
-4 Undercover Crocodelf (MKM) 239†
+4 Undercover Crocodelf (MKM) 239★
 4 Unscrupulous Agent (MKM) 109
 4 Vengeful Creeper (MKM) 182
 4 Vitu-Ghazi Inspector (MKM) 183
