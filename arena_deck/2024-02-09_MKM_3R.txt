@@ -144,7 +144,7 @@ Deck
 4 Wojek Investigator (MKM) 36
 4 Wojek Investigator (MKM) 340
 4 Wojek Investigator (MKM) 429
-4 Wojek Investigator (MKM) 36★
+4 Wojek Investigator (MKM) 36†
 4 Worldsoul's Rage (MKM) 244
 4 Worldsoul's Rage (MKM) 316
 4 Yarus, Roar of the Old Gods (MKM) 245
