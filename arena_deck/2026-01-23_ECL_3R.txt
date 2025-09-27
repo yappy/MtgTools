@@ -1,1 +1,21 @@
 Deck
+4 Ashling's Command (ECL) 205
+4 Ashling's Command (ECL) 330
+4 Ashling, Rekindled (ECL) 124
+4 Ashling, Rekindled (ECL) 290
+4 Blood Crypt (ECL) 262
+4 Blood Crypt (ECL) 349
+4 Figure of Fable (ECL) 224
+4 Figure of Fable (ECL) 372
+4 Hallowed Fountain (ECL) 265
+4 Hallowed Fountain (ECL) 347
+4 Mutable Explorer (ECL) 186
+4 Mutable Explorer (ECL) 327
+4 Overgrown Tomb (ECL) 266
+4 Overgrown Tomb (ECL) 350
+4 Steam Vents (ECL) 267
+4 Steam Vents (ECL) 348
+4 Sygg, Wanderwine Wisdom (ECL) 76
+4 Sygg, Wanderwine Wisdom (ECL) 288
+4 Temple Garden (ECL) 268
+4 Temple Garden (ECL) 351
