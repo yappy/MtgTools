@@ -1,6 +1,7 @@
 Deck
 4 A Realm Reborn (FIN) 196
 4 A Realm Reborn (FIN) 344
+4 A Realm Reborn (FIN) 566
 4 Aerith Gainsborough (FIN) 4
 4 Aerith Gainsborough (FIN) 374
 4 Aerith Gainsborough (FIN) 423
@@ -29,6 +30,7 @@ Deck
 4 Cecil, Dark Knight (FIN) 525
 4 Choco, Seeker of Paradise (FIN) 215
 4 Choco, Seeker of Paradise (FIN) 479
+4 Choco, Seeker of Paradise (FIN) 569
 4 Clive's Hideaway (FIN) 275
 4 Deadly Embrace (FIN) 557
 4 Dion, Bahamut's Dominant (FIN) 16
@@ -59,10 +61,10 @@ Deck
 4 Hope Estheim (FIN) 491
 4 Hope Estheim (FIN) 541
 4 Ishgard, the Holy See (FIN) 283
-4 Ishgard, the Holy See (FIN) 310
-4 Jecht, Reluctant Guardian (FIN) 104
 ================================================================================
 Deck
+4 Ishgard, the Holy See (FIN) 310
+4 Jecht, Reluctant Guardian (FIN) 104
 4 Jecht, Reluctant Guardian (FIN) 363
 4 Jecht, Reluctant Guardian (FIN) 448
 4 Jenova, Ancient Calamity (FIN) 228
@@ -123,10 +125,10 @@ Deck
 4 Seifer Almasy (FIN) 466
 4 Seifer Almasy (FIN) 534
 4 Serah Farron (FIN) 240
-4 Serah Farron (FIN) 506
-4 Seymour Flux (FIN) 452
 ================================================================================
 Deck
+4 Serah Farron (FIN) 506
+4 Seymour Flux (FIN) 452
 4 Seymour Flux (FIN) 558
 4 Sin, Spira's Punishment (FIN) 242
 4 Sin, Spira's Punishment (FIN) 348
@@ -139,6 +141,7 @@ Deck
 4 Stiltzkin, Moogle Merchant (FIN) 34
 4 Stiltzkin, Moogle Merchant (FIN) 327
 4 Stiltzkin, Moogle Merchant (FIN) 433
+4 Stiltzkin, Moogle Merchant (FIN) 565
 4 Summon: Brynhildr (FIN) 160
 4 Summon: Brynhildr (FIN) 366
 4 Summon: G.F. Cerberus (FIN) 162
@@ -175,6 +178,7 @@ Deck
 4 Tifa Lockhart (FIN) 391
 4 Tifa Lockhart (FIN) 473
 4 Tifa Lockhart (FIN) 536
+4 Tifa Lockhart (FIN) 567
 4 Triple Triad (FIN) 166
 4 Triple Triad (FIN) 340
 4 Ultima (FIN) 38
@@ -185,12 +189,12 @@ Deck
 4 Ultima, Origin of Oblivion (FIN) 421
 4 Ultimecia, Temporal Threat (FIN) 441
 4 Ultimecia, Temporal Threat (FIN) 556
+================================================================================
+Deck
 4 Vaan, Street Thief (FIN) 168
 4 Vaan, Street Thief (FIN) 390
 4 Vaan, Street Thief (FIN) 467
 4 Vaan, Street Thief (FIN) 535
-================================================================================
-Deck
 4 Venat, Heart of Hydaelyn (FIN) 39
 4 Venat, Heart of Hydaelyn (FIN) 329
 4 Venat, Heart of Hydaelyn (FIN) 434

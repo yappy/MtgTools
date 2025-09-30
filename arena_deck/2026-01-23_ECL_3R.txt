@@ -7,6 +7,8 @@ Deck
 4 Blood Crypt (ECL) 349
 4 Figure of Fable (ECL) 224
 4 Figure of Fable (ECL) 372
+4 Formidable Speaker (ECL) 176
+4 Formidable Speaker (ECL) 366
 4 Hallowed Fountain (ECL) 265
 4 Hallowed Fountain (ECL) 347
 4 Mutable Explorer (ECL) 186

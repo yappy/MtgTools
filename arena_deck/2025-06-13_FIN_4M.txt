@@ -15,6 +15,7 @@ Deck
 4 Cloud, Midgar Mercenary (FIN) 375
 4 Cloud, Midgar Mercenary (FIN) 427
 4 Cloud, Midgar Mercenary (FIN) 520
+4 Cloud, Midgar Mercenary (FIN) 564
 4 Cloud, Planet's Champion (FIN) 482
 4 Cloud, Planet's Champion (FIN) 552
 4 Dark Confidant (FIN) 94
@@ -56,16 +57,18 @@ Deck
 4 Traveling Chocobo (FIN) 210
 4 Traveling Chocobo (FIN) 406
 4 Traveling Chocobo (FIN) 551
+4 Traveling Chocobo (FIN) 568
 4 Traveling Chocobo (FIN) 551a
 4 Traveling Chocobo (FIN) 551b
 4 Traveling Chocobo (FIN) 551c
-4 Traveling Chocobo (FIN) 551d
-4 Traveling Chocobo (FIN) 551f
 ================================================================================
 Deck
+4 Traveling Chocobo (FIN) 551d
+4 Traveling Chocobo (FIN) 551f
 4 Vivi Ornitier (FIN) 248
 4 Vivi Ornitier (FIN) 321
 4 Vivi Ornitier (FIN) 514
+4 Vivi Ornitier (FIN) 570
 4 Y'shtola Rhul (FIN) 86
 4 Y'shtola Rhul (FIN) 443
 4 Y'shtola Rhul (FIN) 577
@@ -73,3 +76,4 @@ Deck
 4 Yuna, Hope of Spira (FIN) 404
 4 Yuna, Hope of Spira (FIN) 517
 4 Yuna, Hope of Spira (FIN) 549
+4 Yuna, Hope of Spira (FIN) 571
