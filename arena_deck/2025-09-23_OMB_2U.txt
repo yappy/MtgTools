@@ -1,8 +1,0 @@
-Deck
-4 Beast Within (OMB) 33
-4 Hunter's Insight (OMB) 35
-4 Infernal Grasp (OMB) 18
-4 Reprieve (OMB) 5
-4 Tangle (OMB) 38
-4 Terminate (OMB) 40
-4 Winds of Change (OMB) 30
