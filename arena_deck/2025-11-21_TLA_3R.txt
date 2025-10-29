@@ -1,20 +1,56 @@
 Deck
 4 Aang's Iceberg (TLA) 5
 4 Aang's Iceberg (TLA) 336
+4 Aang, at the Crossroads (TLA) 203
+4 Aang, at the Crossroads (TLA) 304
+4 Aang, at the Crossroads (TLA) 346
+4 Airbender Ascension (TLA) 6
+4 Airbender Ascension (TLA) 364
+4 Azula, Cunning Usurper (TLA) 208
+4 Azula, Cunning Usurper (TLA) 303
+4 Boiling Rock Rioter (TLA) 87
+4 Boiling Rock Rioter (TLA) 372
+4 Day of Black Sun (TLA) 94
+4 Day of Black Sun (TLA) 373
+4 Earth King's Lieutenant (TLA) 217
+4 Earth King's Lieutenant (TLA) 380
+4 Fire Lord Azula (TLA) 220
+4 Fire Lord Azula (TLA) 313
+4 Fire Lord Azula (TLA) 334
 4 Fire Lord Zuko (TLA) 221
+4 Fire Lord Zuko (TLA) 315
 4 Fire Lord Zuko (TLA) 360
+4 Firebending Student (TLA) 139
+4 Firebending Student (TLA) 342
+4 Firebending Student (TLA) 393
 4 Hakoda, Selfless Commander (TLA) 366
+4 Iroh, Grand Lotus (TLA) 227
+4 Iroh, Grand Lotus (TLA) 349
 4 Katara, Water Tribe's Hope (TLA) 231
 4 Katara, Water Tribe's Hope (TLA) 351
 4 Katara, the Fearless (TLA) 230
+4 Katara, the Fearless (TLA) 305
 4 Katara, the Fearless (TLA) 350
 4 Katara, the Fearless (TLA) 361
 4 Momo, Friendly Flier (TLA) 29
 4 Momo, Friendly Flier (TLA) 317
+4 Momo, Friendly Flier (TLA) 394
+4 Ran and Shaw (TLA) 150
+4 Ran and Shaw (TLA) 325
 4 Redirect Lightning (TLA) 151
 4 Redirect Lightning (TLA) 343
 4 Sokka, Bold Boomeranger (TLA) 240
 4 Sokka, Bold Boomeranger (TLA) 383
+4 Sokka, Tenacious Tactician (TLA) 242
+4 Sokka, Tenacious Tactician (TLA) 352
+4 The Fire Nation Drill (TLA) 98
+4 The Fire Nation Drill (TLA) 321
+4 The Last Agni Kai (TLA) 144
+4 The Last Agni Kai (TLA) 314
+4 The Lion-Turtle (TLA) 232
+4 The Lion-Turtle (TLA) 328
+4 Tiger-Seal (TLA) 75
+4 Tiger-Seal (TLA) 318
 4 Toph, the First Metalbender (TLA) 247
 4 Toph, the First Metalbender (TLA) 353
 4 Toph, the First Metalbender (TLA) 362

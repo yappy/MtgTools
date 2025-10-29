@@ -1,4 +1,5 @@
 Deck
+4 A-Vivi Ornitier (FIN) A-248
 4 Absolute Virtue (FIN) 212
 4 Absolute Virtue (FIN) 476
 4 Aettir and Priwen (FIN) 253
@@ -60,9 +61,9 @@ Deck
 4 Traveling Chocobo (FIN) 568
 4 Traveling Chocobo (FIN) 551a
 4 Traveling Chocobo (FIN) 551b
-4 Traveling Chocobo (FIN) 551c
 ================================================================================
 Deck
+4 Traveling Chocobo (FIN) 551c
 4 Traveling Chocobo (FIN) 551d
 4 Traveling Chocobo (FIN) 551f
 4 Vivi Ornitier (FIN) 248

@@ -10,6 +10,8 @@ Deck
 4 Bender's Waterskin (TLA) 255
 4 Cat-Owl (TLA) 212
 4 Corrupt Court Official (TLA) 92
+4 Cunning Maneuver (TLA) 130
+4 Cycle of Renewal (TLA) 170
 4 Dai Li Indoctrination (TLA) 93
 4 Deserter's Disciple (TLA) 131
 4 Earth Kingdom Soldier (TLA) 216
@@ -45,4 +47,6 @@ Deck
 4 Vindictive Warden (TLA) 249
 4 Waterbending Lesson (TLA) 80
 4 Watery Grasp (TLA) 82
+4 Yip Yip! (TLA) 43
 4 Yuyan Archers (TLA) 161
+4 Zuko's Exile (TLA) 3

@@ -1,5 +1,4 @@
 Deck
-4 A-Fires of Invention (ELD) A-125
 4 Acclaimed Contender (ELD) 1
 4 Acclaimed Contender (ELD) 334
 4 Ayara, First of Locthwain (ELD) 75
@@ -61,9 +60,9 @@ Deck
 4 Hushbringer (ELD) 339
 4 Irencrag Feat (ELD) 127
 4 Irencrag Feat (ELD) 362
+4 Irencrag Pyromancer (ELD) 128
 ================================================================================
 Deck
-4 Irencrag Pyromancer (ELD) 128
 4 Irencrag Pyromancer (ELD) 363
 4 Knights' Charge (ELD) 328
 4 Linden, the Steadfast Queen (ELD) 20

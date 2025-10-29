@@ -2,11 +2,28 @@ Deck
 4 Appa, Steadfast Guardian (TLA) 10
 4 Appa, Steadfast Guardian (TLA) 316
 4 Avatar Aang (TLA) 207
+4 Avatar Aang (TLA) 308
 4 Avatar Aang (TLA) 363
+4 Badgermole Cub (TLA) 167
+4 Badgermole Cub (TLA) 326
 4 Fated Firepower (TLA) 132
+4 Fated Firepower (TLA) 297
 4 Fated Firepower (TLA) 341
+4 Ozai, the Phoenix King (TLA) 235
+4 Ozai, the Phoenix King (TLA) 311
+4 Ozai, the Phoenix King (TLA) 335
+4 Secret of Bloodbending (TLA) 69
+4 Secret of Bloodbending (TLA) 337
 4 Sozin's Comet (TLA) 154
 4 Sozin's Comet (TLA) 309
 4 Sozin's Comet (TLA) 332
+4 The Legend of Kuruk (TLA) 61
+4 The Legend of Kuruk (TLA) 355
+4 The Legend of Roku (TLA) 145
+4 The Legend of Roku (TLA) 357
 4 The Rise of Sozin (TLA) 117
 4 The Rise of Sozin (TLA) 356
+4 Wan Shi Tong, Librarian (TLA) 78
+4 Wan Shi Tong, Librarian (TLA) 320
+4 White Lotus Tile (TLA) 262
+4 White Lotus Tile (TLA) 330

@@ -1,25 +1,50 @@
 Deck
 4 Aang, the Last Airbender (TLA) 4
+4 Allies at Last (TLA) 164
+4 Azula, On the Hunt (TLA) 85
 4 Buzzard-Wasp Colony (TLA) 88
 4 Cat-Gator (TLA) 91
+4 Crescent Island Temple (TLA) 129
+4 Dai Li Agents (TLA) 214
+4 Dai Li Agents (TLA) 306
+4 Dragonfly Swarm (TLA) 215
 4 Earth Rumble (TLA) 174
+4 Energybending (TLA) 2
 4 Epic Downfall (TLA) 96
 4 Fire Nation Attacks (TLA) 133
+4 Fire Nation Attacks (TLA) 299
 4 Fire Nation Engineer (TLA) 99
 4 Fire Sages (TLA) 136
 4 Flopsie, Bumi's Buddy (TLA) 179
+4 Gran-Gran (TLA) 54
+4 Guru Pathik (TLA) 223
+4 Hama, the Bloodbender (TLA) 224
 4 Haru, Hidden Talent (TLA) 182
 4 Heartless Act (TLA) 103
 4 Hei Bai, Spirit of Balance (TLA) 225
+4 Honest Work (TLA) 55
+4 Invasion Tactics (TLA) 183
 4 Katara, Bending Prodigy (TLA) 59
+4 Leaves from the Vine (TLA) 185
 4 Long Feng, Grand Secretariat (TLA) 233
 4 Master Pakku (TLA) 63
 4 Master Piandao (TLA) 28
+4 North Pole Patrol (TLA) 65
 4 Ozai's Cruelty (TLA) 113
+4 Seismic Sense (TLA) 195
 4 Serpent of the Pass (TLA) 70
 4 Sokka's Haiku (TLA) 71
 4 Sokka, Lateral Strategist (TLA) 241
+4 Solstice Revelations (TLA) 153
 4 Southern Air Temple (TLA) 36
+4 Sparring Dummy (TLA) 197
 4 Suki, Kyoshi Warrior (TLA) 243
+4 Sun Warriors (TLA) 244
+4 The Cave of Two Lovers (TLA) 126
 4 Toph, the Blind Bandit (TLA) 198
+4 Trusty Boomerang (TLA) 260
+4 Uncle Iroh (TLA) 248
+4 War Balloon (TLA) 159
+4 Water Tribe Rallier (TLA) 42
+4 White Lotus Reinforcements (TLA) 251
 4 Zuko, Exiled Prince (TLA) 163
