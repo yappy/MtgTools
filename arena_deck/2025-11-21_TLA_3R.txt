@@ -12,6 +12,7 @@ Deck
 4 Boiling Rock Rioter (TLA) 372
 4 Day of Black Sun (TLA) 94
 4 Day of Black Sun (TLA) 373
+4 Diligent Zookeeper (TLA) 171
 4 Earth King's Lieutenant (TLA) 217
 4 Earth King's Lieutenant (TLA) 380
 4 Fire Lord Azula (TLA) 220
@@ -23,6 +24,8 @@ Deck
 4 Firebending Student (TLA) 139
 4 Firebending Student (TLA) 342
 4 Firebending Student (TLA) 393
+4 Foggy Swamp Visions (TLA) 102
+4 Foggy Swamp Visions (TLA) 339
 4 Hakoda, Selfless Commander (TLA) 366
 4 Iroh, Grand Lotus (TLA) 227
 4 Iroh, Grand Lotus (TLA) 349
@@ -49,10 +52,16 @@ Deck
 4 The Last Agni Kai (TLA) 314
 4 The Lion-Turtle (TLA) 232
 4 The Lion-Turtle (TLA) 328
+4 The Mechanist, Aerial Artisan (TLA) 64
+4 The Mechanist, Aerial Artisan (TLA) 369
 4 Tiger-Seal (TLA) 75
 4 Tiger-Seal (TLA) 318
 4 Toph, the First Metalbender (TLA) 247
 4 Toph, the First Metalbender (TLA) 353
 4 Toph, the First Metalbender (TLA) 362
+4 Ty Lee, Chi Blocker (TLA) 76
+4 Ty Lee, Chi Blocker (TLA) 371
+================================================================================
+Deck
 4 Yue, the Moon Spirit (TLA) 83
 4 Yue, the Moon Spirit (TLA) 338
