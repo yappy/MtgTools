@@ -11,11 +11,14 @@ Deck
 4 Earth Rumble (TLA) 174
 4 Energybending (TLA) 2
 4 Epic Downfall (TLA) 96
+4 Fancy Footwork (TLA) 19
 4 Fire Nation Attacks (TLA) 133
 4 Fire Nation Attacks (TLA) 299
 4 Fire Nation Engineer (TLA) 99
+4 Fire Nation Warship (TLA) 256
 4 Fire Sages (TLA) 136
 4 Flopsie, Bumi's Buddy (TLA) 179
+4 Glider Staff (TLA) 22
 4 Gran-Gran (TLA) 54
 4 Guru Pathik (TLA) 223
 4 Hama, the Bloodbender (TLA) 224
@@ -23,12 +26,14 @@ Deck
 4 Heartless Act (TLA) 103
 4 Hei Bai, Spirit of Balance (TLA) 225
 4 Honest Work (TLA) 55
+4 Invasion Submersible (TLA) 57
 4 Invasion Tactics (TLA) 183
 4 Katara, Bending Prodigy (TLA) 59
 4 Leaves from the Vine (TLA) 185
 4 Long Feng, Grand Secretariat (TLA) 233
 4 Master Pakku (TLA) 63
 4 Master Piandao (TLA) 28
+4 Momo, Playful Pet (TLA) 30
 4 North Pole Patrol (TLA) 65
 4 Northern Air Temple (TLA) 111
 4 Ozai's Cruelty (TLA) 113
@@ -44,11 +49,14 @@ Deck
 4 Teo, Spirited Glider (TLA) 74
 4 The Cave of Two Lovers (TLA) 126
 4 Toph, the Blind Bandit (TLA) 198
+4 True Ancestry (TLA) 199
 4 Trusty Boomerang (TLA) 260
+4 Tundra Tank (TLA) 121
 4 Ty Lee, Artful Acrobat (TLA) 158
 4 Uncle Iroh (TLA) 248
 4 Unlucky Cabbage Merchant (TLA) 201
 4 War Balloon (TLA) 159
 4 Water Tribe Rallier (TLA) 42
+4 White Lotus Hideout (TLA) 281
 4 White Lotus Reinforcements (TLA) 251
 4 Zuko, Exiled Prince (TLA) 163

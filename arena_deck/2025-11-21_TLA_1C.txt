@@ -8,17 +8,23 @@ Deck
 4 Barrels of Blasting Jelly (TLA) 254
 4 Beetle-Headed Merchants (TLA) 86
 4 Bender's Waterskin (TLA) 255
+4 Bumi Bash (TLA) 125
 4 Cat-Owl (TLA) 212
+4 Compassionate Healer (TLA) 13
 4 Corrupt Court Official (TLA) 92
 4 Cunning Maneuver (TLA) 130
 4 Cycle of Renewal (TLA) 170
 4 Dai Li Indoctrination (TLA) 93
+4 Deadly Precision (TLA) 95
 4 Deserter's Disciple (TLA) 131
 4 Earth Kingdom Soldier (TLA) 216
+4 Earth Rumble Wrestlers (TLA) 218
 4 Earth Village Ruffians (TLA) 219
 4 Earthbending Lesson (TLA) 176
+4 Fire Nation Cadets (TLA) 134
 4 First-Time Flyer (TLA) 49
 4 Flexible Waterbender (TLA) 50
+4 Forecasting Fortune Teller (TLA) 51
 4 Geyser Leaper (TLA) 52
 4 Giant Koi (TLA) 53
 4 Glider Kids (TLA) 21
@@ -28,8 +34,11 @@ Deck
 4 It'll Quench Ya! (TLA) 58
 4 Jeong Jeong's Deserters (TLA) 25
 4 Lightning Strike (TLA) 146
+4 Lost Days (TLA) 62
 4 Merchant of Many Hats (TLA) 110
 4 Mongoose Lizard (TLA) 148
+4 Octopus Form (TLA) 66
+4 Origin of Metalbending (TLA) 187
 4 Ostrich-Horse (TLA) 188
 4 Otter-Penguin (TLA) 67
 4 Path to Redemption (TLA) 31
