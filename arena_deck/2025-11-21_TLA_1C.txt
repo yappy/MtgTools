@@ -52,6 +52,7 @@ Deck
 4 Rough Rhino Cavalry (TLA) 152
 4 Rowdy Snowballers (TLA) 68
 4 Saber-Tooth Moose-Lion (TLA) 194
+4 Treetop Freedom Fighters (TLA) 156
 4 Turtle-Duck (TLA) 200
 4 Vindictive Warden (TLA) 249
 4 Waterbending Lesson (TLA) 80

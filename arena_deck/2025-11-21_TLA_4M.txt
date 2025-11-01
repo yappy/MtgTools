@@ -25,8 +25,10 @@ Deck
 4 The Legend of Kuruk (TLA) 355
 4 The Legend of Roku (TLA) 145
 4 The Legend of Roku (TLA) 357
+4 The Legend of Yangchen (TLA) 27
 4 The Rise of Sozin (TLA) 117
 4 The Rise of Sozin (TLA) 356
+4 United Front (TLA) 39
 4 Wan Shi Tong, Librarian (TLA) 78
 4 Wan Shi Tong, Librarian (TLA) 320
 4 White Lotus Tile (TLA) 262

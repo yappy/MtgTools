@@ -1,6 +1,12 @@
 Deck
+4 "Sandy Downvote" (TLA) 12
+4 "Slippery Eel" (TLA) 77
 4 Aang's Iceberg (TLA) 5
 4 Aang's Iceberg (TLA) 336
+4 Aang, Swift Savior (TLA) 204
+4 Aang, Swift Savior (TLA) 298
+4 Aang, Swift Savior (TLA) 347
+4 Aang, Swift Savior (TLA) 359
 4 Aang, at the Crossroads (TLA) 203
 4 Aang, at the Crossroads (TLA) 304
 4 Aang, at the Crossroads (TLA) 346
@@ -30,6 +36,7 @@ Deck
 4 Hakoda, Selfless Commander (TLA) 366
 4 Iroh, Grand Lotus (TLA) 227
 4 Iroh, Grand Lotus (TLA) 349
+4 Iroh, Tea Master (TLA) 381
 4 Katara, Water Tribe's Hope (TLA) 231
 4 Katara, Water Tribe's Hope (TLA) 351
 4 Katara, the Fearless (TLA) 230
@@ -49,8 +56,13 @@ Deck
 4 Sokka, Bold Boomeranger (TLA) 383
 4 Sokka, Tenacious Tactician (TLA) 242
 4 Sokka, Tenacious Tactician (TLA) 352
+4 Spirit Water Revival (TLA) 73
+4 Spirit Water Revival (TLA) 370
+4 Suki, Courageous Rescuer (TLA) 37
 4 The Fire Nation Drill (TLA) 98
 4 The Fire Nation Drill (TLA) 321
+================================================================================
+Deck
 4 The Last Agni Kai (TLA) 144
 4 The Last Agni Kai (TLA) 314
 4 The Lion-Turtle (TLA) 232
@@ -61,8 +73,6 @@ Deck
 4 Tiger-Seal (TLA) 318
 4 Toph, the First Metalbender (TLA) 247
 4 Toph, the First Metalbender (TLA) 353
-================================================================================
-Deck
 4 Toph, the First Metalbender (TLA) 362
 4 Ty Lee, Chi Blocker (TLA) 76
 4 Ty Lee, Chi Blocker (TLA) 371
