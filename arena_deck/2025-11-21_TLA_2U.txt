@@ -20,6 +20,7 @@ Deck
 4 Fire Nation Warship (TLA) 256
 4 Fire Sages (TLA) 136
 4 Flopsie, Bumi's Buddy (TLA) 179
+4 Foggy Swamp Spirit Keeper (TLA) 222
 4 Glider Staff (TLA) 22
 4 Gran-Gran (TLA) 54
 4 Guru Pathik (TLA) 223
@@ -60,9 +61,9 @@ Deck
 4 True Ancestry (TLA) 199
 4 Trusty Boomerang (TLA) 260
 4 Tundra Tank (TLA) 121
-4 Ty Lee, Artful Acrobat (TLA) 158
 ================================================================================
 Deck
+4 Ty Lee, Artful Acrobat (TLA) 158
 4 Uncle Iroh (TLA) 248
 4 Unlucky Cabbage Merchant (TLA) 201
 4 War Balloon (TLA) 159
