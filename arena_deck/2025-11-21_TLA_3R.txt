@@ -1,6 +1,4 @@
 Deck
-4 "Sandy Downvote" (TLA) 12
-4 "Slippery Eel" (TLA) 77
 4 Aang's Iceberg (TLA) 5
 4 Aang's Iceberg (TLA) 336
 4 Aang, Swift Savior (TLA) 204
@@ -12,8 +10,14 @@ Deck
 4 Aang, at the Crossroads (TLA) 346
 4 Airbender Ascension (TLA) 6
 4 Airbender Ascension (TLA) 364
+4 Avatar Destiny (TLA) 165
+4 Avatar Destiny (TLA) 333
+4 Avatar's Wrath (TLA) 12
+4 Avatar's Wrath (TLA) 365
 4 Azula, Cunning Usurper (TLA) 208
 4 Azula, Cunning Usurper (TLA) 303
+4 Beifong's Bounty Hunters (TLA) 209
+4 Beifong's Bounty Hunters (TLA) 379
 4 Boiling Rock Rioter (TLA) 87
 4 Boiling Rock Rioter (TLA) 372
 4 Day of Black Sun (TLA) 94
@@ -22,12 +26,17 @@ Deck
 4 Diligent Zookeeper (TLA) 327
 4 Earth King's Lieutenant (TLA) 217
 4 Earth King's Lieutenant (TLA) 380
+4 Elemental Teachings (TLA) 178
 4 Fire Lord Azula (TLA) 220
 4 Fire Lord Azula (TLA) 313
 4 Fire Lord Azula (TLA) 334
 4 Fire Lord Zuko (TLA) 221
 4 Fire Lord Zuko (TLA) 315
 4 Fire Lord Zuko (TLA) 360
+4 Fire Nation Palace (TLA) 268
+4 Fire Nation Palace (TLA) 389
+4 Firebender Ascension (TLA) 137
+4 Firebender Ascension (TLA) 312
 4 Firebending Student (TLA) 139
 4 Firebending Student (TLA) 342
 4 Firebending Student (TLA) 393
@@ -36,17 +45,24 @@ Deck
 4 Hakoda, Selfless Commander (TLA) 366
 4 Iroh, Grand Lotus (TLA) 227
 4 Iroh, Grand Lotus (TLA) 349
+4 Iroh, Tea Master (TLA) 228
 4 Iroh, Tea Master (TLA) 381
+4 Jasmine Dragon Tea Shop (TLA) 270
+4 Jasmine Dragon Tea Shop (TLA) 390
 4 Katara, Water Tribe's Hope (TLA) 231
 4 Katara, Water Tribe's Hope (TLA) 351
 4 Katara, the Fearless (TLA) 230
 4 Katara, the Fearless (TLA) 305
 4 Katara, the Fearless (TLA) 350
 4 Katara, the Fearless (TLA) 361
+4 Mai, Scornful Striker (TLA) 109
+4 Mai, Scornful Striker (TLA) 374
 4 Momo, Friendly Flier (TLA) 29
 4 Momo, Friendly Flier (TLA) 317
 4 Momo, Friendly Flier (TLA) 394
 4 Ran and Shaw (TLA) 150
+================================================================================
+Deck
 4 Ran and Shaw (TLA) 325
 4 Redirect Lightning (TLA) 151
 4 Redirect Lightning (TLA) 343
@@ -59,16 +75,19 @@ Deck
 4 Spirit Water Revival (TLA) 73
 4 Spirit Water Revival (TLA) 370
 4 Suki, Courageous Rescuer (TLA) 37
+4 Suki, Courageous Rescuer (TLA) 368
+4 The Earth King (TLA) 172
+4 The Earth King (TLA) 344
 4 The Fire Nation Drill (TLA) 98
 4 The Fire Nation Drill (TLA) 321
-================================================================================
-Deck
 4 The Last Agni Kai (TLA) 144
 4 The Last Agni Kai (TLA) 314
 4 The Lion-Turtle (TLA) 232
 4 The Lion-Turtle (TLA) 328
 4 The Mechanist, Aerial Artisan (TLA) 64
 4 The Mechanist, Aerial Artisan (TLA) 369
+4 The Unagi of Kyoshi Island (TLA) 77
+4 The Unagi of Kyoshi Island (TLA) 319
 4 Tiger-Seal (TLA) 75
 4 Tiger-Seal (TLA) 318
 4 Toph, the First Metalbender (TLA) 247

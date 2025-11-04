@@ -2,13 +2,16 @@ Deck
 4 Aang's Journey (TLA) 1
 4 Abandon Attachments (TLA) 205
 4 Airbending Lesson (TLA) 8
+4 Airship Engine Room (TLA) 265
 4 Avatar Enthusiasts (TLA) 11
 4 Azula Always Lies (TLA) 84
 4 Badgermole (TLA) 166
 4 Barrels of Blasting Jelly (TLA) 254
 4 Beetle-Headed Merchants (TLA) 86
 4 Bender's Waterskin (TLA) 255
+4 Boiling Rock Prison (TLA) 267
 4 Bumi Bash (TLA) 125
+4 Callous Inspector (TLA) 89
 4 Cat-Owl (TLA) 212
 4 Compassionate Healer (TLA) 13
 4 Corrupt Court Official (TLA) 92
@@ -24,6 +27,7 @@ Deck
 4 Fire Nation Cadets (TLA) 134
 4 First-Time Flyer (TLA) 49
 4 Flexible Waterbender (TLA) 50
+4 Foggy Bottom Swamp (TLA) 269
 4 Forecasting Fortune Teller (TLA) 51
 4 Geyser Leaper (TLA) 52
 4 Giant Koi (TLA) 53
@@ -33,16 +37,22 @@ Deck
 4 Iguana Parrot (TLA) 56
 4 It'll Quench Ya! (TLA) 58
 4 Jeong Jeong's Deserters (TLA) 25
+4 Kyoshi Village (TLA) 271
 4 Lightning Strike (TLA) 146
 4 Lost Days (TLA) 62
+4 Meditation Pools (TLA) 272
 4 Merchant of Many Hats (TLA) 110
+4 Misty Palms Oasis (TLA) 273
 4 Mongoose Lizard (TLA) 148
+4 North Pole Gates (TLA) 274
 4 Octopus Form (TLA) 66
+4 Omashu City (TLA) 275
 4 Origin of Metalbending (TLA) 187
 4 Ostrich-Horse (TLA) 188
 4 Otter-Penguin (TLA) 67
 4 Path to Redemption (TLA) 31
 4 Pillar Launch (TLA) 189
+4 Platypus-Bear (TLA) 236
 4 Pretending Poxbearers (TLA) 237
 4 Rabaroo Troop (TLA) 32
 4 Raucous Audience (TLA) 190
@@ -51,7 +61,12 @@ Deck
 4 Rocky Rebuke (TLA) 193
 4 Rough Rhino Cavalry (TLA) 152
 4 Rowdy Snowballers (TLA) 68
+================================================================================
+Deck
 4 Saber-Tooth Moose-Lion (TLA) 194
+4 Serpent's Pass (TLA) 279
+4 Sold Out (TLA) 119
+4 Sun-Blessed Peak (TLA) 280
 4 Treetop Freedom Fighters (TLA) 156
 4 Turtle-Duck (TLA) 200
 4 Vindictive Warden (TLA) 249

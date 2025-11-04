@@ -1,17 +1,23 @@
 Deck
-4 "Flaming Hot Jazz Hands" (TLA) 142
+4 "Ember Island Performance" (TLA) 48
 4 Aang, the Last Airbender (TLA) 4
 4 Allies at Last (TLA) 164
 4 Appa, Loyal Sky Bison (TLA) 9
 4 Azula, On the Hunt (TLA) 85
+4 Bitter Work (TLA) 210
+4 Bumi, King of Three Trials (TLA) 169
 4 Buzzard-Wasp Colony (TLA) 88
 4 Cat-Gator (TLA) 91
 4 Crescent Island Temple (TLA) 129
+4 Cruel Administrator (TLA) 213
 4 Dai Li Agents (TLA) 214
 4 Dai Li Agents (TLA) 306
 4 Dragonfly Swarm (TLA) 215
+4 Earth Kingdom General (TLA) 173
+4 Earth Kingdom Jailer (TLA) 16
 4 Earth Rumble (TLA) 174
 4 Energybending (TLA) 2
+4 Enter the Avatar State (TLA) 18
 4 Epic Downfall (TLA) 96
 4 Fancy Footwork (TLA) 19
 4 Fire Nation Attacks (TLA) 133
@@ -21,6 +27,7 @@ Deck
 4 Fire Sages (TLA) 136
 4 Flopsie, Bumi's Buddy (TLA) 179
 4 Foggy Swamp Spirit Keeper (TLA) 222
+4 Gather the White Lotus (TLA) 20
 4 Glider Staff (TLA) 22
 4 Gran-Gran (TLA) 54
 4 Guru Pathik (TLA) 223
@@ -31,6 +38,7 @@ Deck
 4 Honest Work (TLA) 55
 4 Invasion Submersible (TLA) 57
 4 Invasion Tactics (TLA) 183
+4 Jeong Jeong, the Deserter (TLA) 142
 4 Jet's Brainwashing (TLA) 143
 4 Jet, Freedom Fighter (TLA) 229
 4 June, Bounty Hunter (TLA) 106
@@ -47,22 +55,26 @@ Deck
 4 Price of Freedom (TLA) 149
 4 Seismic Sense (TLA) 195
 4 Serpent of the Pass (TLA) 70
+4 Shared Roots (TLA) 196
 4 Sokka's Haiku (TLA) 71
 4 Sokka, Lateral Strategist (TLA) 241
 4 Solstice Revelations (TLA) 153
 4 Southern Air Temple (TLA) 36
 4 Sparring Dummy (TLA) 197
+================================================================================
+Deck
 4 Suki, Kyoshi Warrior (TLA) 243
 4 Sun Warriors (TLA) 244
 4 Teo, Spirited Glider (TLA) 74
 4 The Cave of Two Lovers (TLA) 126
 4 The Spirit Oasis (TLA) 72
+4 Tiger-Dillo (TLA) 155
+4 Tolls of War (TLA) 245
 4 Toph, the Blind Bandit (TLA) 198
 4 True Ancestry (TLA) 199
 4 Trusty Boomerang (TLA) 260
 4 Tundra Tank (TLA) 121
-================================================================================
-Deck
+4 Twin Blades (TLA) 157
 4 Ty Lee, Artful Acrobat (TLA) 158
 4 Uncle Iroh (TLA) 248
 4 Unlucky Cabbage Merchant (TLA) 201
