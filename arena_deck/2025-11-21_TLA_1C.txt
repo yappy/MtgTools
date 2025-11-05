@@ -25,6 +25,7 @@ Deck
 4 Earth Village Ruffians (TLA) 219
 4 Earthbending Lesson (TLA) 176
 4 Fire Nation Cadets (TLA) 134
+4 Fire Nation Raider (TLA) 135
 4 First-Time Flyer (TLA) 49
 4 Flexible Waterbender (TLA) 50
 4 Foggy Bottom Swamp (TLA) 269
@@ -60,10 +61,11 @@ Deck
 4 Rebellious Captives (TLA) 191
 4 Rocky Rebuke (TLA) 193
 4 Rough Rhino Cavalry (TLA) 152
-4 Rowdy Snowballers (TLA) 68
 ================================================================================
 Deck
+4 Rowdy Snowballers (TLA) 68
 4 Saber-Tooth Moose-Lion (TLA) 194
+4 Sandbenders' Storm (TLA) 34
 4 Serpent's Pass (TLA) 279
 4 Sold Out (TLA) 119
 4 Sun-Blessed Peak (TLA) 280

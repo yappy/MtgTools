@@ -1,29 +1,37 @@
 Deck
-4 "Ember Island Performance" (TLA) 48
 4 Aang, the Last Airbender (TLA) 4
 4 Allies at Last (TLA) 164
 4 Appa, Loyal Sky Bison (TLA) 9
 4 Azula, On the Hunt (TLA) 85
 4 Bitter Work (TLA) 210
+4 Boomerang Basics (TLA) 46
 4 Bumi, King of Three Trials (TLA) 169
 4 Buzzard-Wasp Colony (TLA) 88
 4 Cat-Gator (TLA) 91
+4 Combustion Man (TLA) 127
+4 Combustion Technique (TLA) 128
+4 Combustion Technique (TLA) 301
 4 Crescent Island Temple (TLA) 129
 4 Cruel Administrator (TLA) 213
 4 Dai Li Agents (TLA) 214
 4 Dai Li Agents (TLA) 306
+4 Destined Confrontation (TLA) 15
 4 Dragonfly Swarm (TLA) 215
 4 Earth Kingdom General (TLA) 173
 4 Earth Kingdom Jailer (TLA) 16
+4 Earth Kingdom Protectors (TLA) 17
 4 Earth Rumble (TLA) 174
+4 Ember Island Production (TLA) 48
 4 Energybending (TLA) 2
 4 Enter the Avatar State (TLA) 18
 4 Epic Downfall (TLA) 96
 4 Fancy Footwork (TLA) 19
+4 Fatal Fissure (TLA) 97
 4 Fire Nation Attacks (TLA) 133
 4 Fire Nation Attacks (TLA) 299
 4 Fire Nation Engineer (TLA) 99
 4 Fire Nation Warship (TLA) 256
+4 Fire Navy Trebuchet (TLA) 100
 4 Fire Sages (TLA) 136
 4 Flopsie, Bumi's Buddy (TLA) 179
 4 Foggy Swamp Spirit Keeper (TLA) 222
@@ -38,11 +46,13 @@ Deck
 4 Honest Work (TLA) 55
 4 Invasion Submersible (TLA) 57
 4 Invasion Tactics (TLA) 183
+4 Iroh's Demonstration (TLA) 141
 4 Jeong Jeong, the Deserter (TLA) 142
 4 Jet's Brainwashing (TLA) 143
 4 Jet, Freedom Fighter (TLA) 229
 4 June, Bounty Hunter (TLA) 106
 4 Katara, Bending Prodigy (TLA) 59
+4 Kyoshi Island Plaza (TLA) 184
 4 Leaves from the Vine (TLA) 185
 4 Long Feng, Grand Secretariat (TLA) 233
 4 Mai, Jaded Edge (TLA) 147
@@ -51,8 +61,11 @@ Deck
 4 Momo, Playful Pet (TLA) 30
 4 North Pole Patrol (TLA) 65
 4 Northern Air Temple (TLA) 111
+================================================================================
+Deck
 4 Ozai's Cruelty (TLA) 113
 4 Price of Freedom (TLA) 149
+4 Professor Zei, Anthropologist (TLA) 238
 4 Seismic Sense (TLA) 195
 4 Serpent of the Pass (TLA) 70
 4 Shared Roots (TLA) 196
@@ -61,11 +74,10 @@ Deck
 4 Solstice Revelations (TLA) 153
 4 Southern Air Temple (TLA) 36
 4 Sparring Dummy (TLA) 197
-================================================================================
-Deck
 4 Suki, Kyoshi Warrior (TLA) 243
 4 Sun Warriors (TLA) 244
 4 Teo, Spirited Glider (TLA) 74
+4 The Boulder, Ready to Rumble (TLA) 168
 4 The Cave of Two Lovers (TLA) 126
 4 The Spirit Oasis (TLA) 72
 4 Tiger-Dillo (TLA) 155
@@ -82,5 +94,6 @@ Deck
 4 Water Tribe Rallier (TLA) 42
 4 White Lotus Hideout (TLA) 281
 4 White Lotus Reinforcements (TLA) 251
+4 Wolfbat (TLA) 122
 4 Zhao, Ruthless Admiral (TLA) 252
 4 Zuko, Exiled Prince (TLA) 163
