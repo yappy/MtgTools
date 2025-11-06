@@ -23,12 +23,16 @@ Deck
 4 Sozin's Comet (TLA) 332
 4 The Legend of Kuruk (TLA) 61
 4 The Legend of Kuruk (TLA) 355
+4 The Legend of Kyoshi (TLA) 186
+4 The Legend of Kyoshi (TLA) 358
 4 The Legend of Roku (TLA) 145
 4 The Legend of Roku (TLA) 357
 4 The Legend of Yangchen (TLA) 27
 4 The Legend of Yangchen (TLA) 354
 4 The Rise of Sozin (TLA) 117
 4 The Rise of Sozin (TLA) 356
+4 The Walls of Ba Sing Se (TLA) 261
+4 The Walls of Ba Sing Se (TLA) 329
 4 United Front (TLA) 39
 4 United Front (TLA) 331
 4 Wan Shi Tong, Librarian (TLA) 78

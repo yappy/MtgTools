@@ -1,4 +1,5 @@
 Deck
+4 "Abandoned Air Temple" (TLA) 263
 4 Aang's Iceberg (TLA) 5
 4 Aang's Iceberg (TLA) 336
 4 Aang, Swift Savior (TLA) 204
@@ -18,6 +19,8 @@ Deck
 4 Avatar's Wrath (TLA) 365
 4 Azula, Cunning Usurper (TLA) 208
 4 Azula, Cunning Usurper (TLA) 303
+4 Ba Sing Se (TLA) 266
+4 Ba Sing Se (TLA) 388
 4 Beifong's Bounty Hunters (TLA) 209
 4 Beifong's Bounty Hunters (TLA) 379
 4 Boiling Rock Rioter (TLA) 87
@@ -30,6 +33,8 @@ Deck
 4 Earth King's Lieutenant (TLA) 380
 4 Earthbender Ascension (TLA) 175
 4 Earthbender Ascension (TLA) 307
+4 Earthen Ally (TLA) 177
+4 Earthen Ally (TLA) 377
 4 Elemental Teachings (TLA) 178
 4 Elemental Teachings (TLA) 378
 4 Fire Lord Azula (TLA) 220
@@ -47,6 +52,8 @@ Deck
 4 Firebending Student (TLA) 393
 4 Foggy Swamp Visions (TLA) 102
 4 Foggy Swamp Visions (TLA) 339
+4 Great Divide Guide (TLA) 181
+4 Great Divide Guide (TLA) 345
 4 Hakoda, Selfless Commander (TLA) 366
 4 Iroh, Grand Lotus (TLA) 227
 4 Iroh, Grand Lotus (TLA) 349
@@ -54,6 +61,8 @@ Deck
 4 Iroh, Tea Master (TLA) 381
 4 Jasmine Dragon Tea Shop (TLA) 270
 4 Jasmine Dragon Tea Shop (TLA) 390
+================================================================================
+Deck
 4 Katara, Water Tribe's Hope (TLA) 231
 4 Katara, Water Tribe's Hope (TLA) 351
 4 Katara, the Fearless (TLA) 230
@@ -61,12 +70,12 @@ Deck
 4 Katara, the Fearless (TLA) 350
 4 Katara, the Fearless (TLA) 361
 4 Mai, Scornful Striker (TLA) 109
-================================================================================
-Deck
 4 Mai, Scornful Striker (TLA) 374
 4 Momo, Friendly Flier (TLA) 29
 4 Momo, Friendly Flier (TLA) 317
 4 Momo, Friendly Flier (TLA) 394
+4 Obsessive Pursuit (TLA) 112
+4 Obsessive Pursuit (TLA) 340
 4 Ran and Shaw (TLA) 150
 4 Ran and Shaw (TLA) 325
 4 Raven Eagle (TLA) 116
@@ -106,4 +115,5 @@ Deck
 4 Waterbender Ascension (TLA) 310
 4 Yue, the Moon Spirit (TLA) 83
 4 Yue, the Moon Spirit (TLA) 338
+4 Zhao, the Moon Slayer (TLA) 162
 4 Zuko, Conflicted (TLA) 253
