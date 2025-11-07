@@ -80,6 +80,7 @@ Deck
 4 Ran and Shaw (TLA) 325
 4 Raven Eagle (TLA) 116
 4 Raven Eagle (TLA) 324
+4 Realm of Koh (TLA) 391
 4 Redirect Lightning (TLA) 151
 4 Redirect Lightning (TLA) 343
 4 Secret Tunnel (TLA) 278
@@ -88,6 +89,8 @@ Deck
 4 Sokka, Bold Boomeranger (TLA) 383
 4 Sokka, Tenacious Tactician (TLA) 242
 4 Sokka, Tenacious Tactician (TLA) 352
+4 South Pole Voyager (TLA) 35
+4 South Pole Voyager (TLA) 367
 4 Spirit Water Revival (TLA) 73
 4 Spirit Water Revival (TLA) 370
 4 Suki, Courageous Rescuer (TLA) 37
@@ -106,6 +109,8 @@ Deck
 4 The Unagi of Kyoshi Island (TLA) 319
 4 Tiger-Seal (TLA) 75
 4 Tiger-Seal (TLA) 318
+4 Toph, Hardheaded Teacher (TLA) 246
+4 Toph, Hardheaded Teacher (TLA) 384
 4 Toph, the First Metalbender (TLA) 247
 4 Toph, the First Metalbender (TLA) 353
 4 Toph, the First Metalbender (TLA) 362
@@ -116,4 +121,5 @@ Deck
 4 Yue, the Moon Spirit (TLA) 83
 4 Yue, the Moon Spirit (TLA) 338
 4 Zhao, the Moon Slayer (TLA) 162
+4 Zhao, the Moon Slayer (TLA) 376
 4 Zuko, Conflicted (TLA) 253

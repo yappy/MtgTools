@@ -11,9 +11,13 @@ Deck
 4 Fated Firepower (TLA) 132
 4 Fated Firepower (TLA) 297
 4 Fated Firepower (TLA) 341
+4 Koh, the Face Stealer (TLA) 107
+4 Koh, the Face Stealer (TLA) 322
 4 Ozai, the Phoenix King (TLA) 235
 4 Ozai, the Phoenix King (TLA) 311
 4 Ozai, the Phoenix King (TLA) 335
+4 Phoenix Fleet Airship (TLA) 114
+4 Phoenix Fleet Airship (TLA) 323
 4 Planetarium of Wan Shi Tong (TLA) 259
 4 Planetarium of Wan Shi Tong (TLA) 385
 4 Secret of Bloodbending (TLA) 69

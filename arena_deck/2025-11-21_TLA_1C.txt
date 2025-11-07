@@ -9,13 +9,16 @@ Deck
 4 Barrels of Blasting Jelly (TLA) 254
 4 Beetle-Headed Merchants (TLA) 86
 4 Bender's Waterskin (TLA) 255
+4 Boar-q-pine (TLA) 124
 4 Boiling Rock Prison (TLA) 267
 4 Bumi Bash (TLA) 125
 4 Callous Inspector (TLA) 89
+4 Canyon Crawler (TLA) 90
 4 Cat-Owl (TLA) 212
 4 Compassionate Healer (TLA) 13
 4 Corrupt Court Official (TLA) 92
 4 Cunning Maneuver (TLA) 130
+4 Curious Farm Animals (TLA) 14
 4 Cycle of Renewal (TLA) 170
 4 Dai Li Indoctrination (TLA) 93
 4 Deadly Precision (TLA) 95
@@ -30,6 +33,7 @@ Deck
 4 Flexible Waterbender (TLA) 50
 4 Foggy Bottom Swamp (TLA) 269
 4 Foggy Swamp Hunters (TLA) 101
+4 Foggy Swamp Vinebender (TLA) 180
 4 Forecasting Fortune Teller (TLA) 51
 4 Geyser Leaper (TLA) 52
 4 Giant Koi (TLA) 53
@@ -57,17 +61,18 @@ Deck
 4 Otter-Penguin (TLA) 67
 4 Path to Redemption (TLA) 31
 4 Pillar Launch (TLA) 189
+================================================================================
+Deck
 4 Platypus-Bear (TLA) 236
 4 Pretending Poxbearers (TLA) 237
 4 Rabaroo Troop (TLA) 32
 4 Raucous Audience (TLA) 190
-================================================================================
-Deck
 4 Razor Rings (TLA) 33
 4 Rebellious Captives (TLA) 191
 4 Rocky Rebuke (TLA) 193
 4 Rough Rhino Cavalry (TLA) 152
 4 Rowdy Snowballers (TLA) 68
+4 Rumble Arena (TLA) 277
 4 Saber-Tooth Moose-Lion (TLA) 194
 4 Sandbenders' Storm (TLA) 34
 4 Serpent's Pass (TLA) 279
@@ -78,6 +83,7 @@ Deck
 4 Turtle-Duck (TLA) 200
 4 Vindictive Warden (TLA) 249
 4 Walltop Sentries (TLA) 202
+4 Water Tribe Captain (TLA) 41
 4 Waterbending Lesson (TLA) 80
 4 Watery Grasp (TLA) 82
 4 Yip Yip! (TLA) 43
