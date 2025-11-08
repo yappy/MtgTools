@@ -108,8 +108,10 @@ Deck
 4 Vengeful Villagers (TLA) 40
 4 War Balloon (TLA) 159
 4 Water Tribe Rallier (TLA) 42
+4 Waterbending Scroll (TLA) 81
 4 White Lotus Hideout (TLA) 281
 4 White Lotus Reinforcements (TLA) 251
 4 Wolfbat (TLA) 122
 4 Zhao, Ruthless Admiral (TLA) 252
+4 Zuko's Conviction (TLA) 123
 4 Zuko, Exiled Prince (TLA) 163
