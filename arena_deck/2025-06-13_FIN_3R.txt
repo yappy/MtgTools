@@ -90,6 +90,10 @@ Deck
 4 Kuja, Genome Sorcerer (FIN) 399
 4 Kuja, Genome Sorcerer (FIN) 497
 4 Kuja, Genome Sorcerer (FIN) 544
+4 Kuja, Genome Sorcerer (FIN) 232†
+4 Kuja, Genome Sorcerer (FIN) 399†
+4 Kuja, Genome Sorcerer (FIN) 497†
+4 Kuja, Genome Sorcerer (FIN) 544†
 4 Lightning, Security Sergeant (FIN) 462
 4 Lightning, Security Sergeant (FIN) 560
 4 Lindblum, Industrial Regency (FIN) 285
@@ -121,12 +125,12 @@ Deck
 4 Sazh Katzroy (FIN) 199
 4 Sazh Katzroy (FIN) 472
 4 Seifer Almasy (FIN) 156
+================================================================================
+Deck
 4 Seifer Almasy (FIN) 389
 4 Seifer Almasy (FIN) 466
 4 Seifer Almasy (FIN) 534
 4 Serah Farron (FIN) 240
-================================================================================
-Deck
 4 Serah Farron (FIN) 506
 4 Seymour Flux (FIN) 452
 4 Seymour Flux (FIN) 558
@@ -185,12 +189,12 @@ Deck
 4 Ultima (FIN) 328
 4 Ultima Weapon (FIN) 563
 4 Ultima, Origin of Oblivion (FIN) 2
+================================================================================
+Deck
 4 Ultima, Origin of Oblivion (FIN) 324
 4 Ultima, Origin of Oblivion (FIN) 421
 4 Ultimecia, Temporal Threat (FIN) 441
 4 Ultimecia, Temporal Threat (FIN) 556
-================================================================================
-Deck
 4 Vaan, Street Thief (FIN) 168
 4 Vaan, Street Thief (FIN) 390
 4 Vaan, Street Thief (FIN) 467
