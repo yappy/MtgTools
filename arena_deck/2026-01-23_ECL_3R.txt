@@ -11,6 +11,8 @@ Deck
 4 Formidable Speaker (ECL) 366
 4 Hallowed Fountain (ECL) 265
 4 Hallowed Fountain (ECL) 347
+4 High Perfect Morcant (ECL) 229
+4 High Perfect Morcant (ECL) 373
 4 Mutable Explorer (ECL) 186
 4 Mutable Explorer (ECL) 327
 4 Overgrown Tomb (ECL) 266
