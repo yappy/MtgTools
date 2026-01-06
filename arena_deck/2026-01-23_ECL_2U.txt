@@ -1,3 +1,27 @@
 Deck
+4 Blossoming Defense (ECL) 167
+4 Boggart Mischief (ECL) 92
+4 Chomping Changeling (ECL) 172
+4 Dawn-Blessed Pennant (ECL) 254
 4 Dose of Dawnglow (ECL) 100
+4 Explosive Prodigy (ECL) 136
+4 Flock Impostor (ECL) 16
+4 Goatnap (ECL) 142
+4 Iron-Shield Elf (ECL) 108
+4 Iron-Shield Elf (ECL) 404
 4 Perfect Intimidation (ECL) 115
+4 Personify (ECL) 28
+4 Personify (ECL) 402
+4 Sear (ECL) 154
+4 Sear (ECL) 405
+4 Shinestriker (ECL) 68
+4 Silvergill Mentor (ECL) 403
+4 Sizzling Changeling (ECL) 155
+4 Spell Snare (ECL) 71
+4 Thoughtweft Lieutenant (ECL) 246
+4 Thoughtweft Lieutenant (ECL) 343
+4 Vinebred Brawler (ECL) 201
+4 Virulent Emissary (ECL) 202
+4 Virulent Emissary (ECL) 406
+4 Voracious Tome-Skimmer (ECL) 250
+4 Wanderwine Farewell (ECL) 83

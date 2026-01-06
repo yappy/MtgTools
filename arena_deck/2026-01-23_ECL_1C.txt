@@ -1,2 +1,10 @@
 Deck
+4 Appeal to Eirdu (ECL) 5
+4 Crossroads Watcher (ECL) 173
+4 Dream Seizer (ECL) 101
+4 Elder Auntie (ECL) 133
+4 Lys Alana Informant (ECL) 181
+4 Moonglove Extractor (ECL) 109
+4 Sun-Dappled Celebrant (ECL) 37
+4 Tend the Sprigs (ECL) 197
 4 Unexpected Assistance (ECL) 80

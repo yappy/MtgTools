@@ -1,27 +1,73 @@
 Deck
+4 Abigale, Eloquent First-Year (ECL) 204
+4 Abigale, Eloquent First-Year (ECL) 368
 4 Ashling's Command (ECL) 205
 4 Ashling's Command (ECL) 330
 4 Ashling, Rekindled (ECL) 124
 4 Ashling, Rekindled (ECL) 290
 4 Blood Crypt (ECL) 262
 4 Blood Crypt (ECL) 349
+4 Bre of Clan Stoutarm (ECL) 207
+4 Bre of Clan Stoutarm (ECL) 369
+4 Champion of the Clachan (ECL) 9
+4 Champion of the Clachan (ECL) 353
+4 Champion of the Weird (ECL) 95
+4 Champion of the Weird (ECL) 360
+4 Champions of the Perfect (ECL) 171
+4 Champions of the Perfect (ECL) 365
+4 Dawnhand Dissident (ECL) 98
+4 Dawnhand Dissident (ECL) 311
+4 Deepway Navigator (ECL) 214
+4 Deepway Navigator (ECL) 370
+4 Disruptor of Currents (ECL) 47
+4 Disruptor of Currents (ECL) 303
 4 Figure of Fable (ECL) 224
 4 Figure of Fable (ECL) 372
 4 Formidable Speaker (ECL) 176
 4 Formidable Speaker (ECL) 366
+4 Goliath Daydreamer (ECL) 143
+4 Goliath Daydreamer (ECL) 316
+4 Grub's Command (ECL) 228
+4 Grub's Command (ECL) 340
 4 Hallowed Fountain (ECL) 265
 4 Hallowed Fountain (ECL) 347
+4 Harmonized Crescendo (ECL) 54
+4 Harmonized Crescendo (ECL) 357
+4 Harmonized Crescendo (ECL) 408
+4 Hexing Squelcher (ECL) 145
+4 Hexing Squelcher (ECL) 317
 4 High Perfect Morcant (ECL) 229
 4 High Perfect Morcant (ECL) 373
+4 Kinbinding (ECL) 20
+4 Kinbinding (ECL) 299
+4 Kinbinding (ECL) 407
 4 Kirol, Attentive First-Year (ECL) 231
 4 Kirol, Attentive First-Year (ECL) 374
+4 Lavaleaper (ECL) 150
+4 Lavaleaper (ECL) 318
+4 Mirrormind Crown (ECL) 258
+4 Mirrormind Crown (ECL) 381
+4 Mornsong Aria (ECL) 111
+4 Mornsong Aria (ECL) 361
 4 Mutable Explorer (ECL) 186
 4 Mutable Explorer (ECL) 327
 4 Overgrown Tomb (ECL) 266
 4 Overgrown Tomb (ECL) 350
+4 Rhys, the Evermore (ECL) 32
+4 Rhys, the Evermore (ECL) 354
+4 Sanar, Innovative First-Year (ECL) 241
+4 Sanar, Innovative First-Year (ECL) 378
+4 Selfless Safewright (ECL) 193
+4 Selfless Safewright (ECL) 367
 4 Steam Vents (ECL) 267
 4 Steam Vents (ECL) 348
+================================================================================
+Deck
 4 Sygg, Wanderwine Wisdom (ECL) 76
 4 Sygg, Wanderwine Wisdom (ECL) 288
 4 Temple Garden (ECL) 268
 4 Temple Garden (ECL) 351
+4 Trystan, Callous Cultivator (ECL) 199
+4 Trystan, Callous Cultivator (ECL) 291
+4 Winnowing (ECL) 43
+4 Winnowing (ECL) 355
