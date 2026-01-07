@@ -7,20 +7,28 @@ Deck
 4 Ashling, Rekindled (ECL) 290
 4 Blood Crypt (ECL) 262
 4 Blood Crypt (ECL) 349
+4 Bloodline Bidding (ECL) 91
+4 Bloodline Bidding (ECL) 359
 4 Bre of Clan Stoutarm (ECL) 207
 4 Bre of Clan Stoutarm (ECL) 369
+4 Bristlebane Battler (ECL) 168
+4 Bristlebane Battler (ECL) 325
 4 Champion of the Clachan (ECL) 9
 4 Champion of the Clachan (ECL) 353
 4 Champion of the Weird (ECL) 95
 4 Champion of the Weird (ECL) 360
 4 Champions of the Perfect (ECL) 171
 4 Champions of the Perfect (ECL) 365
+4 Collective Inferno (ECL) 132
+4 Collective Inferno (ECL) 363
 4 Dawnhand Dissident (ECL) 98
 4 Dawnhand Dissident (ECL) 311
 4 Deepway Navigator (ECL) 214
 4 Deepway Navigator (ECL) 370
 4 Disruptor of Currents (ECL) 47
 4 Disruptor of Currents (ECL) 303
+4 Doran, Besieged by Time (ECL) 215
+4 Doran, Besieged by Time (ECL) 334
 4 Figure of Fable (ECL) 224
 4 Figure of Fable (ECL) 372
 4 Formidable Speaker (ECL) 176
@@ -29,6 +37,8 @@ Deck
 4 Goliath Daydreamer (ECL) 316
 4 Grub's Command (ECL) 228
 4 Grub's Command (ECL) 340
+4 Grub, Storied Matriarch (ECL) 105
+4 Grub, Storied Matriarch (ECL) 289
 4 Hallowed Fountain (ECL) 265
 4 Hallowed Fountain (ECL) 347
 4 Harmonized Crescendo (ECL) 54
@@ -51,6 +61,8 @@ Deck
 4 Mornsong Aria (ECL) 361
 4 Mutable Explorer (ECL) 186
 4 Mutable Explorer (ECL) 327
+================================================================================
+Deck
 4 Overgrown Tomb (ECL) 266
 4 Overgrown Tomb (ECL) 350
 4 Rhys, the Evermore (ECL) 32
@@ -61,8 +73,8 @@ Deck
 4 Selfless Safewright (ECL) 367
 4 Steam Vents (ECL) 267
 4 Steam Vents (ECL) 348
-================================================================================
-Deck
+4 Sunderflock (ECL) 74
+4 Sunderflock (ECL) 309
 4 Sygg, Wanderwine Wisdom (ECL) 76
 4 Sygg, Wanderwine Wisdom (ECL) 288
 4 Temple Garden (ECL) 268

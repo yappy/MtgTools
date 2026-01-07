@@ -4,12 +4,16 @@ Deck
 4 Bitterbloom Bearer (ECL) 88
 4 Bitterbloom Bearer (ECL) 310
 4 Bitterbloom Bearer (ECL) 352
+4 Bloodline Bidding (ECL) 385
+4 Bloodline Bidding (ECL) 395
 4 Bloom Tender (ECL) 166
 4 Bloom Tender (ECL) 324
 4 Bloom Tender (ECL) 390
 4 Bloom Tender (ECL) 400
 4 Chronicle of Victory (ECL) 253
 4 Chronicle of Victory (ECL) 346
+4 Collective Inferno (ECL) 387
+4 Collective Inferno (ECL) 397
 4 Curious Colossus (ECL) 12
 4 Curious Colossus (ECL) 298
 4 Deceit (ECL) 212
@@ -38,3 +42,5 @@ Deck
 4 Vibrance (ECL) 295
 4 Winnowing (ECL) 382
 4 Winnowing (ECL) 392
+4 Wistfulness (ECL) 252
+4 Wistfulness (ECL) 296

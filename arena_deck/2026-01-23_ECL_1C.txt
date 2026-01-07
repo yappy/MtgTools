@@ -1,10 +1,37 @@
 Deck
 4 Appeal to Eirdu (ECL) 5
+4 Assert Perfection (ECL) 164
+4 Bile-Vial Boggart (ECL) 87
+4 Blossombind (ECL) 45
+4 Boneclub Berserker (ECL) 126
+4 Burning Curiosity (ECL) 129
+4 Chaos Spewer (ECL) 210
 4 Crossroads Watcher (ECL) 173
+4 Dawnhand Eulogist (ECL) 99
 4 Dream Seizer (ECL) 101
 4 Elder Auntie (ECL) 133
+4 Evolving Wilds (ECL) 264
+4 Flame-Chain Mauler (ECL) 138
+4 Gallant Fowlknight (ECL) 17
+4 Gangly Stompling (ECL) 226
+4 Great Forest Druid (ECL) 178
+4 Heirloom Auntie (ECL) 107
+4 Kulrath Mystic (ECL) 56
+4 Liminal Hold (ECL) 24
 4 Lys Alana Informant (ECL) 181
+4 Midnight Tilling (ECL) 182
 4 Moonglove Extractor (ECL) 109
+4 Prideful Feastling (ECL) 238
+4 Rooftop Percher (ECL) 2
+4 Run Away Together (ECL) 67
+4 Shore Lurker (ECL) 34
+4 Silvergill Peddler (ECL) 70
 4 Sun-Dappled Celebrant (ECL) 37
+4 Surly Farrier (ECL) 196
+4 Temporal Cleansing (ECL) 78
 4 Tend the Sprigs (ECL) 197
+4 Tweeze (ECL) 162
 4 Unexpected Assistance (ECL) 80
+4 Wanderbrine Preacher (ECL) 41
+4 Wanderwine Distracter (ECL) 82
+4 Wary Farmer (ECL) 251
