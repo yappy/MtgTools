@@ -11,6 +11,10 @@ Deck
 4 Bloodline Bidding (ECL) 359
 4 Bre of Clan Stoutarm (ECL) 207
 4 Bre of Clan Stoutarm (ECL) 369
+4 Brigid's Command (ECL) 208
+4 Brigid's Command (ECL) 332
+4 Brigid, Clachan's Heart (ECL) 7
+4 Brigid, Clachan's Heart (ECL) 285
 4 Bristlebane Battler (ECL) 168
 4 Bristlebane Battler (ECL) 325
 4 Champion of the Clachan (ECL) 9
@@ -31,6 +35,8 @@ Deck
 4 Doran, Besieged by Time (ECL) 334
 4 Figure of Fable (ECL) 224
 4 Figure of Fable (ECL) 372
+4 Flitterwing Nuisance (ECL) 48
+4 Flitterwing Nuisance (ECL) 304
 4 Formidable Speaker (ECL) 176
 4 Formidable Speaker (ECL) 366
 4 Goliath Daydreamer (ECL) 143
@@ -55,28 +61,40 @@ Deck
 4 Kirol, Attentive First-Year (ECL) 374
 4 Lavaleaper (ECL) 150
 4 Lavaleaper (ECL) 318
+================================================================================
+Deck
+4 Lluwen, Imperfect Naturalist (ECL) 232
+4 Lluwen, Imperfect Naturalist (ECL) 375
+4 Maralen, Fae Ascendant (ECL) 233
+4 Maralen, Fae Ascendant (ECL) 376
 4 Mirrormind Crown (ECL) 258
 4 Mirrormind Crown (ECL) 381
 4 Mornsong Aria (ECL) 111
 4 Mornsong Aria (ECL) 361
 4 Mutable Explorer (ECL) 186
 4 Mutable Explorer (ECL) 327
-================================================================================
-Deck
 4 Overgrown Tomb (ECL) 266
 4 Overgrown Tomb (ECL) 350
 4 Rhys, the Evermore (ECL) 32
 4 Rhys, the Evermore (ECL) 354
 4 Sanar, Innovative First-Year (ECL) 241
 4 Sanar, Innovative First-Year (ECL) 378
+4 Sapling Nursery (ECL) 192
+4 Sapling Nursery (ECL) 328
 4 Selfless Safewright (ECL) 193
 4 Selfless Safewright (ECL) 367
+4 Slumbering Walker (ECL) 35
+4 Slumbering Walker (ECL) 302
 4 Steam Vents (ECL) 267
 4 Steam Vents (ECL) 348
 4 Sunderflock (ECL) 74
 4 Sunderflock (ECL) 309
+4 Sygg's Command (ECL) 244
+4 Sygg's Command (ECL) 342
 4 Sygg, Wanderwine Wisdom (ECL) 76
 4 Sygg, Wanderwine Wisdom (ECL) 288
+4 Tam, Mindful First-Year (ECL) 245
+4 Tam, Mindful First-Year (ECL) 380
 4 Temple Garden (ECL) 268
 4 Temple Garden (ECL) 351
 4 Trystan, Callous Cultivator (ECL) 199

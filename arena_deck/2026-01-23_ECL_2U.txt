@@ -1,33 +1,56 @@
 Deck
+4 Bark of Doran (ECL) 6
 4 Blossoming Defense (ECL) 167
 4 Boggart Mischief (ECL) 92
+4 Boldwyr Aggressor (ECL) 125
+4 Bristlebane Outrider (ECL) 169
 4 Burdened Stoneback (ECL) 8
 4 Chomping Changeling (ECL) 172
+4 Clachan Festival (ECL) 10
 4 Crib Swap (ECL) 11
+4 Darkness Descends (ECL) 97
 4 Dawn-Blessed Pennant (ECL) 254
 4 Dose of Dawnglow (ECL) 100
+4 Dundoolin Weaver (ECL) 175
 4 Eclipsed Flamekin (ECL) 219
 4 Eclipsed Flamekin (ECL) 337
+4 Eclipsed Realms (ECL) 263
 4 Explosive Prodigy (ECL) 136
 4 Flamebraider (ECL) 139
 4 Flock Impostor (ECL) 16
 4 Gathering Stone (ECL) 257
 4 Glamer Gifter (ECL) 49
+4 Glister Bairn (ECL) 227
+4 Gnarlbark Elm (ECL) 103
 4 Goatnap (ECL) 142
+4 Graveshifter (ECL) 104
 4 Gutsplitter Gang (ECL) 106
 4 Hovel Hurler (ECL) 230
 4 Impolite Entrance (ECL) 146
 4 Iron-Shield Elf (ECL) 108
 4 Iron-Shield Elf (ECL) 404
+4 Kindle the Inner Flame (ECL) 147
 4 Kinsbaile Aspirant (ECL) 21
+4 Kithkeeper (ECL) 23
 4 Lasting Tarfire (ECL) 149
+4 Lofty Dreams (ECL) 58
+4 Luminollusk (ECL) 179
+4 Meanders Guide (ECL) 25
 4 Morcant's Eyes (ECL) 185
+4 Mudbutton Cursetosser (ECL) 112
+4 Nameless Inversion (ECL) 113
+4 Noggle Robber (ECL) 237
 4 Omni-Changeling (ECL) 62
 4 Perfect Intimidation (ECL) 115
 4 Personify (ECL) 28
 4 Personify (ECL) 402
+4 Pestered Wellguard (ECL) 63
+4 Pitiless Fists (ECL) 187
+4 Prismabasher (ECL) 188
+4 Puca's Eye (ECL) 259
 4 Pyrrhic Strike (ECL) 30
 4 Requiting Hex (ECL) 116
+4 Retched Wretch (ECL) 117
 4 Sear (ECL) 154
 4 Sear (ECL) 405
 4 Shimmercreep (ECL) 120
@@ -38,9 +61,16 @@ Deck
 4 Sourbread Auntie (ECL) 158
 4 Spell Snare (ECL) 71
 4 Springleaf Drum (ECL) 260
+================================================================================
+Deck
+4 Squawkroaster (ECL) 160
 4 Swat Away (ECL) 75
+4 Tanufel Rimespeaker (ECL) 77
+4 Thoughtweft Charge (ECL) 198
+4 Thoughtweft Imbuer (ECL) 38
 4 Thoughtweft Lieutenant (ECL) 246
 4 Thoughtweft Lieutenant (ECL) 343
+4 Unbury (ECL) 123
 4 Unwelcome Sprite (ECL) 81
 4 Vinebred Brawler (ECL) 201
 4 Virulent Emissary (ECL) 202

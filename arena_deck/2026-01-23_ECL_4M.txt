@@ -10,6 +10,8 @@ Deck
 4 Bloom Tender (ECL) 324
 4 Bloom Tender (ECL) 390
 4 Bloom Tender (ECL) 400
+4 Celestial Reunion (ECL) 170
+4 Celestial Reunion (ECL) 326
 4 Chronicle of Victory (ECL) 253
 4 Chronicle of Victory (ECL) 346
 4 Collective Inferno (ECL) 387
@@ -26,6 +28,8 @@ Deck
 4 Glen Elendra's Answer (ECL) 306
 4 Harmonized Crescendo (ECL) 384
 4 Harmonized Crescendo (ECL) 394
+4 Loch Mare (ECL) 57
+4 Loch Mare (ECL) 307
 4 Meek Attack (ECL) 151
 4 Meek Attack (ECL) 319
 4 Meek Attack (ECL) 388
@@ -38,6 +42,10 @@ Deck
 4 Oko, Lorwyn Liege (ECL) 287
 4 Selfless Safewright (ECL) 391
 4 Selfless Safewright (ECL) 401
+4 Spinerock Tyrant (ECL) 159
+4 Spinerock Tyrant (ECL) 322
+4 Spinerock Tyrant (ECL) 389
+4 Spinerock Tyrant (ECL) 399
 4 Vibrance (ECL) 249
 4 Vibrance (ECL) 295
 4 Winnowing (ECL) 382
