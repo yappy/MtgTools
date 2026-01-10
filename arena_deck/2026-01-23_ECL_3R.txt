@@ -1,6 +1,8 @@
 Deck
 4 Abigale, Eloquent First-Year (ECL) 204
 4 Abigale, Eloquent First-Year (ECL) 368
+4 Adept Watershaper (ECL) 3
+4 Adept Watershaper (ECL) 297
 4 Ashling's Command (ECL) 205
 4 Ashling's Command (ECL) 330
 4 Ashling, Rekindled (ECL) 124
@@ -19,10 +21,14 @@ Deck
 4 Bristlebane Battler (ECL) 325
 4 Champion of the Clachan (ECL) 9
 4 Champion of the Clachan (ECL) 353
+4 Champion of the Path (ECL) 130
+4 Champion of the Path (ECL) 362
 4 Champion of the Weird (ECL) 95
 4 Champion of the Weird (ECL) 360
 4 Champions of the Perfect (ECL) 171
 4 Champions of the Perfect (ECL) 365
+4 Champions of the Shoal (ECL) 46
+4 Champions of the Shoal (ECL) 356
 4 Collective Inferno (ECL) 132
 4 Collective Inferno (ECL) 363
 4 Dawnhand Dissident (ECL) 98
@@ -33,12 +39,20 @@ Deck
 4 Disruptor of Currents (ECL) 303
 4 Doran, Besieged by Time (ECL) 215
 4 Doran, Besieged by Time (ECL) 334
+4 Dream Harvest (ECL) 216
+4 Dream Harvest (ECL) 371
+4 End-Blaze Epiphany (ECL) 134
+4 End-Blaze Epiphany (ECL) 364
 4 Figure of Fable (ECL) 224
 4 Figure of Fable (ECL) 372
 4 Flitterwing Nuisance (ECL) 48
 4 Flitterwing Nuisance (ECL) 304
 4 Formidable Speaker (ECL) 176
 4 Formidable Speaker (ECL) 366
+4 Glen Elendra Guardian (ECL) 51
+4 Glen Elendra Guardian (ECL) 305
+4 Gloom Ripper (ECL) 102
+4 Gloom Ripper (ECL) 312
 4 Goliath Daydreamer (ECL) 143
 4 Goliath Daydreamer (ECL) 316
 4 Grub's Command (ECL) 228
@@ -47,6 +61,8 @@ Deck
 4 Grub, Storied Matriarch (ECL) 289
 4 Hallowed Fountain (ECL) 265
 4 Hallowed Fountain (ECL) 347
+================================================================================
+Deck
 4 Harmonized Crescendo (ECL) 54
 4 Harmonized Crescendo (ECL) 357
 4 Harmonized Crescendo (ECL) 408
@@ -57,12 +73,12 @@ Deck
 4 Kinbinding (ECL) 20
 4 Kinbinding (ECL) 299
 4 Kinbinding (ECL) 407
+4 Kinscaer Sentry (ECL) 22
+4 Kinscaer Sentry (ECL) 300
 4 Kirol, Attentive First-Year (ECL) 231
 4 Kirol, Attentive First-Year (ECL) 374
 4 Lavaleaper (ECL) 150
 4 Lavaleaper (ECL) 318
-================================================================================
-Deck
 4 Lluwen, Imperfect Naturalist (ECL) 232
 4 Lluwen, Imperfect Naturalist (ECL) 375
 4 Maralen, Fae Ascendant (ECL) 233
@@ -75,16 +91,26 @@ Deck
 4 Mutable Explorer (ECL) 327
 4 Overgrown Tomb (ECL) 266
 4 Overgrown Tomb (ECL) 350
+4 Raiding Schemes (ECL) 239
+4 Raiding Schemes (ECL) 377
 4 Rhys, the Evermore (ECL) 32
 4 Rhys, the Evermore (ECL) 354
+4 Rimefire Torque (ECL) 65
+4 Rimefire Torque (ECL) 358
 4 Sanar, Innovative First-Year (ECL) 241
 4 Sanar, Innovative First-Year (ECL) 378
 4 Sapling Nursery (ECL) 192
 4 Sapling Nursery (ECL) 328
+4 Scuzzback Scrounger (ECL) 153
+4 Scuzzback Scrounger (ECL) 320
 4 Selfless Safewright (ECL) 193
 4 Selfless Safewright (ECL) 367
+4 Shadow Urchin (ECL) 242
+4 Shadow Urchin (ECL) 379
 4 Slumbering Walker (ECL) 35
 4 Slumbering Walker (ECL) 302
+4 Spry and Mighty (ECL) 195
+4 Spry and Mighty (ECL) 329
 4 Steam Vents (ECL) 267
 4 Steam Vents (ECL) 348
 4 Sunderflock (ECL) 74
@@ -95,9 +121,17 @@ Deck
 4 Sygg, Wanderwine Wisdom (ECL) 288
 4 Tam, Mindful First-Year (ECL) 245
 4 Tam, Mindful First-Year (ECL) 380
+4 Taster of Wares (ECL) 121
+4 Taster of Wares (ECL) 314
 4 Temple Garden (ECL) 268
 4 Temple Garden (ECL) 351
+================================================================================
+Deck
+4 Trystan's Command (ECL) 247
+4 Trystan's Command (ECL) 344
 4 Trystan, Callous Cultivator (ECL) 199
 4 Trystan, Callous Cultivator (ECL) 291
+4 Twilight Diviner (ECL) 122
+4 Twilight Diviner (ECL) 315
 4 Winnowing (ECL) 43
 4 Winnowing (ECL) 355
