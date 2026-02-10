@@ -1,4 +1,5 @@
 Deck
+4 A-Kona, Rescue Beastie (DSK) A-187
 4 A-Leyline of Resonance (DSK) A-143
 4 Balustrade Wurm (DSK) 168
 4 Balustrade Wurm (DSK) 319
@@ -60,9 +61,9 @@ Deck
 4 Leyline of Mutation (DSK) 188
 4 Leyline of Mutation (DSK) 382
 4 Leyline of Resonance (DSK) 143
-4 Leyline of Resonance (DSK) 379
 ================================================================================
 Deck
+4 Leyline of Resonance (DSK) 379
 4 Leyline of Transformation (DSK) 63
 4 Leyline of Transformation (DSK) 372
 4 Leyline of the Void (DSK) 106
@@ -124,9 +125,9 @@ Deck
 4 Valgavoth's Onslaught (DSK) 324
 4 Victor, Valgavoth's Seneschal (DSK) 238
 4 Victor, Valgavoth's Seneschal (DSK) 364
-4 Waltz of Rage (DSK) 165
 ================================================================================
 Deck
+4 Waltz of Rage (DSK) 165
 4 Waltz of Rage (DSK) 318
 4 Winter, Misanthropic Guide (DSK) 240
 4 Winter, Misanthropic Guide (DSK) 365
