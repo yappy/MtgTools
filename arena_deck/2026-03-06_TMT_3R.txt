@@ -17,8 +17,10 @@ Deck
 4 Don & Leo, Problem Solvers (TMT) 143
 4 Don & Leo, Problem Solvers (TMT) 242
 4 Don & Raph, Hard Science (TMT) 144
+4 Don & Raph, Hard Science (TMT) 205
 4 Don & Raph, Hard Science (TMT) 243
 4 Donatello, Gadget Master (TMT) 35
+4 Donatello, Gadget Master (TMT) 212
 4 Groundchuck & Dirtbag (TMT) 115
 4 Groundchuck & Dirtbag (TMT) 238
 4 Improvised Arsenal (TMT) 92
@@ -38,14 +40,17 @@ Deck
 4 Leonardo's Technique (TMT) 18
 4 Leonardo's Technique (TMT) 224
 4 Leonardo, Cutting Edge (TMT) 15
+4 Leonardo, Cutting Edge (TMT) 211
 4 Madame Null, Power Broker (TMT) 66
 4 Madame Null, Power Broker (TMT) 265
 4 Michelangelo's Technique (TMT) 122
 4 Michelangelo's Technique (TMT) 239
 4 Michelangelo, Weirdness to 11 (TMT) 121
+4 Michelangelo, Weirdness to 11 (TMT) 214
 4 Mikey & Don, Party Planners (TMT) 157
 4 Mikey & Don, Party Planners (TMT) 246
 4 Mikey & Leo, Chaos & Order (TMT) 158
+4 Mikey & Leo, Chaos & Order (TMT) 200
 4 Mikey & Leo, Chaos & Order (TMT) 247
 4 Mutagen Man, Living Ooze (TMT) 124
 4 Mutagen Man, Living Ooze (TMT) 273
@@ -56,19 +61,21 @@ Deck
 4 Prehistoric Pet (TMT) 22
 4 Prehistoric Pet (TMT) 259
 4 Raph & Leo, Sibling Rivals (TMT) 166
+================================================================================
+Deck
 4 Raph & Leo, Sibling Rivals (TMT) 249
 4 Raph & Mikey, Troublemakers (TMT) 167
 4 Raph & Mikey, Troublemakers (TMT) 250
 4 Raphael's Technique (TMT) 105
 4 Raphael's Technique (TMT) 237
-================================================================================
-Deck
 4 Raphael, the Nightwatcher (TMT) 103
+4 Raphael, the Nightwatcher (TMT) 213
 4 Rat King, Verminister (TMT) 71
 4 Rat King, Verminister (TMT) 266
 4 Ravenous Robots (TMT) 106
 4 Ravenous Robots (TMT) 271
 4 Renet, Temporal Apprentice (TMT) 50
+4 Renet, Temporal Apprentice (TMT) 202
 4 Sally Pride, Lioness Leader (TMT) 24
 4 Sally Pride, Lioness Leader (TMT) 225
 4 Savanti Romero, Time's Exile (TMT) 72
@@ -77,6 +84,7 @@ Deck
 4 Shark Shredder, Killer Clone (TMT) 268
 4 Shark Shredder, Killer Clone (TMT) 320
 4 Slash, Reptile Rampager (TMT) 108
+4 Slash, Reptile Rampager (TMT) 208
 4 South Wind Avatar (TMT) 78
 4 South Wind Avatar (TMT) 269
 4 Splinter's Technique (TMT) 80
