@@ -16,6 +16,7 @@ Deck
 4 Decode Transmissions (EOE) 94
 4 Depressurize (EOE) 95
 4 Diplomatic Relations (EOE) 177
+4 Diplomatic Relations (EOE) 177†
 4 Divert Disaster (EOE) 55
 4 Dockworker Drone (EOE) 11
 4 Drill Too Deep (EOE) 133
@@ -60,9 +61,9 @@ Deck
 4 Plasma Bolt (EOE) 152
 4 Radiant Strike (EOE) 29
 4 Red Tiger Mechan (EOE) 154
-4 Rig for War (EOE) 156
 ================================================================================
 Deck
+4 Rig for War (EOE) 156
 4 Sami's Curiosity (EOE) 203
 4 Selfcraft Mechan (EOE) 74
 4 Shattered Wings (EOE) 206
