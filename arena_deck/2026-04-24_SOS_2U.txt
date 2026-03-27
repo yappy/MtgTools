@@ -1,3 +1,5 @@
 Deck
 4 Arcane Omens (SOS) 73
 4 Archaic's Agony (SOS) 107
+4 Lorehold Charm (SOS) 200
+4 Silverquill Charm (SOS) 225
