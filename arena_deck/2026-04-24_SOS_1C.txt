@@ -1,6 +1,8 @@
 Deck
+4 Banishing Betrayal (SOS) 38
 4 Bogwater Lumaret (SOS) 177
 4 Grapple with Death (SOS) 192
+4 Heated Argument (SOS) 118
 4 Oracle's Restoration (SOS) 156
 4 Pull from the Grave (SOS) 95
 4 Shattered Acolyte (SOS) 31

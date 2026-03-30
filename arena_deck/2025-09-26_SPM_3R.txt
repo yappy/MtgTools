@@ -115,5 +115,5 @@ Deck
 4 Urban Retreat (SPM) 283
 4 Villainous Wrath (SPM) 74
 4 Villainous Wrath (SPM) 259
-4 With Great Power... (SPM) 24
-4 With Great Power... (SPM) 248
+4 With Great Power . . . (SPM) 24
+4 With Great Power . . . (SPM) 248

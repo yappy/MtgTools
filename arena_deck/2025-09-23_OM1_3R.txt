@@ -51,4 +51,4 @@ Deck
 4 Ultimate Green Goblin (OM1) 153
 4 Urban Retreat (OM1) 187
 4 Villainous Wrath (OM1) 72
-4 With Great Power... (OM1) 4
+4 With Great Power . . . (OM1) 4
