@@ -1,8 +1,24 @@
 Deck
 4 Banishing Betrayal (SOS) 38
+4 Biblioplex Tomekeeper (SOS) 247
 4 Bogwater Lumaret (SOS) 177
+4 Elemental Mascot (SOS) 185
+4 Fields of Strife (SOS) 255
+4 Forum of Amity (SOS) 256
+4 Fractal Mascot (SOS) 189
 4 Grapple with Death (SOS) 192
 4 Heated Argument (SOS) 118
+4 Inkling Mascot (SOS) 196
 4 Oracle's Restoration (SOS) 156
+4 Paradox Gardens (SOS) 258
+4 Pest Mascot (SOS) 209
+4 Procrastinate (SOS) 64
 4 Pull from the Grave (SOS) 95
+4 Rancorous Archaic (SOS) 2
+4 Seize the Spoils (SOS) 129
 4 Shattered Acolyte (SOS) 31
+4 Spectacle Summit (SOS) 262
+4 Spirit Mascot (SOS) 230
+4 Studious First-Year (SOS) 162
+4 Terramorphic Expanse (SOS) 265
+4 Titan's Grave (SOS) 266

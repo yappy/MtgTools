@@ -1,5 +1,29 @@
 Deck
+4 Abigale, Poet Laureate (SOS) 170
 4 Arcane Omens (SOS) 73
 4 Archaic's Agony (SOS) 107
+4 Cuboid Colony (SOS) 183
+4 Diary of Dreams (SOS) 248
+4 Duel Tactics (SOS) 112
+4 Graduation Day (SOS) 16
+4 Kirol, History Buff (SOS) 198
+4 Lluwen, Exchange Student (SOS) 199
 4 Lorehold Charm (SOS) 200
+4 Lorehold Charm (SOS) 363
+4 Lumaret's Favor (SOS) 153
+4 Molten Note (SOS) 204
+4 Old-Growth Educator (SOS) 207
+4 Primary Research (SOS) 26
+4 Prismari Charm (SOS) 211
+4 Prismari Charm (SOS) 364
+4 Quandrix Charm (SOS) 217
+4 Quandrix Charm (SOS) 365
+4 Sanar, Unfinished Genius (SOS) 223
 4 Silverquill Charm (SOS) 225
+4 Silverquill Charm (SOS) 366
+4 Skycoach Waypoint (SOS) 261
+4 Stress Dream (SOS) 235
+4 Tam, Observant Sequencer (SOS) 237
+4 Teacher's Pest (SOS) 238
+4 Witherbloom Charm (SOS) 244
+4 Witherbloom Charm (SOS) 367

@@ -1,5 +1,26 @@
 Deck
+4 Emeritus of Ideation (SOS) 45
+4 Emeritus of Ideation (SOS) 306
+4 Emeritus of Ideation (SOS) 315
+4 Improvisation Capstone (SOS) 120
+4 Improvisation Capstone (SOS) 294
 4 Lorehold, the Historian (SOS) 201
 4 Lorehold, the Historian (SOS) 284
 4 Mathemagics (SOS) 58
 4 Mathemagics (SOS) 320
+4 Prismari, the Inspiration (SOS) 212
+4 Prismari, the Inspiration (SOS) 285
+4 Professor Dellian Fel (SOS) 214
+4 Professor Dellian Fel (SOS) 283
+4 Quandrix, the Proof (SOS) 218
+4 Quandrix, the Proof (SOS) 286
+4 Ral Zarek, Guest Lecturer (SOS) 97
+4 Ral Zarek, Guest Lecturer (SOS) 282
+4 Silverquill, the Disputant (SOS) 226
+4 Silverquill, the Disputant (SOS) 287
+4 The Dawning Archaic (SOS) 1
+4 The Dawning Archaic (SOS) 289
+4 Witherbloom, the Balancer (SOS) 245
+4 Witherbloom, the Balancer (SOS) 288
+4 Withering Curse (SOS) 105
+4 Withering Curse (SOS) 330
