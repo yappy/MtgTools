@@ -1,5 +1,5 @@
 Deck
-4 "Big Book Building" (SOS) 257
+4 "2 Seconds After Opening the Tuna Can" (SOS) 7
 4 Berta, Wise Extrapolator (SOS) 175
 4 Berta, Wise Extrapolator (SOS) 346
 4 Colorstorm Stallion (SOS) 180
@@ -10,26 +10,47 @@ Deck
 4 Deathcap Glade (SOS) 301
 4 Dreamroot Cascade (SOS) 254
 4 Dreamroot Cascade (SOS) 302
+4 Erode (SOS) 15
+4 Erode (SOS) 310
 4 Exhibition Tidecaller (SOS) 48
 4 Exhibition Tidecaller (SOS) 316
+4 Flashback (SOS) 115
+4 Flashback (SOS) 333
 4 Grave Researcher (SOS) 85
 4 Grave Researcher (SOS) 325
+4 Great Hall of the Biblioplex (SOS) 257
+4 Great Hall of the Biblioplex (SOS) 361
 4 Hardened Academic (SOS) 194
 4 Hardened Academic (SOS) 351
 4 Joined Researchers (SOS) 23
 4 Joined Researchers (SOS) 312
+4 Maelstrom Artisan (SOS) 122
+4 Maelstrom Artisan (SOS) 334
+4 Mana Sculpt (SOS) 57
+4 Mana Sculpt (SOS) 319
 4 Molten-Core Maestro (SOS) 125
 4 Molten-Core Maestro (SOS) 335
 4 Pensive Professor (SOS) 63
 4 Pensive Professor (SOS) 321
+4 Resonating Lute (SOS) 221
+4 Resonating Lute (SOS) 355
 4 Shattered Sanctum (SOS) 260
 4 Shattered Sanctum (SOS) 303
+4 Splatter Technique (SOS) 231
+4 Splatter Technique (SOS) 356
+4 Steal the Show (SOS) 130
+4 Steal the Show (SOS) 336
 4 Stormcarved Coast (SOS) 263
 4 Stormcarved Coast (SOS) 304
 4 Sundown Pass (SOS) 264
 4 Sundown Pass (SOS) 305
+4 Suspend Aggression (SOS) 236
 4 Together as One (SOS) 4
 4 Together as One (SOS) 307
+4 Traumatic Critique (SOS) 239
+4 Traumatic Critique (SOS) 358
 4 Wisdom of Ages (SOS) 71
 4 Wisdom of Ages (SOS) 323
 4 Wisdom of Ages (SOS) 368
+4 Zaffai and the Tempests (SOS) 246
+4 Zaffai and the Tempests (SOS) 360

@@ -1,4 +1,7 @@
 Deck
+4 "DIY Golem" (SOS) 30
+4 "DIY Golem" (SOS) 290
+4 Emeritus of Conflict (SOS) 332
 4 Emeritus of Ideation (SOS) 45
 4 Emeritus of Ideation (SOS) 306
 4 Emeritus of Ideation (SOS) 315

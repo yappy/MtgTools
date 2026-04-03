@@ -2,13 +2,17 @@ Deck
 4 Banishing Betrayal (SOS) 38
 4 Biblioplex Tomekeeper (SOS) 247
 4 Bogwater Lumaret (SOS) 177
+4 Deluge Virtuoso (SOS) 42
 4 Elemental Mascot (SOS) 185
+4 Expressive Firedancer (SOS) 114
 4 Fields of Strife (SOS) 255
 4 Forum of Amity (SOS) 256
 4 Fractal Mascot (SOS) 189
 4 Grapple with Death (SOS) 192
 4 Heated Argument (SOS) 118
 4 Inkling Mascot (SOS) 196
+4 Landscape Painter (SOS) 56
+4 Muse's Encouragement (SOS) 61
 4 Oracle's Restoration (SOS) 156
 4 Paradox Gardens (SOS) 258
 4 Pest Mascot (SOS) 209
