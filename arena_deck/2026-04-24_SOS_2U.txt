@@ -9,6 +9,7 @@ Deck
 4 Daydream (SOS) 9
 4 Diary of Dreams (SOS) 248
 4 Duel Tactics (SOS) 112
+4 Fractal Anomaly (SOS) 50
 4 Garrison Excavator (SOS) 116
 4 Graduation Day (SOS) 16
 4 Group Project (SOS) 17
