@@ -106,6 +106,7 @@ Deck
 4 Starnheim Aspirant (KHM) 380
 4 Surtland Frostpyre (KHM) 271
 4 Svella, Ice Shaper (KHM) 230
+4 Svella, Ice Shaper (KHM) 230
 4 Svella, Ice Shaper (KHM) 331
 4 Tergrid's Shadow (KHM) 113
 4 The Three Seasons (KHM) 231

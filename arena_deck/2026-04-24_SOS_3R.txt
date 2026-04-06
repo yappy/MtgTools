@@ -1,5 +1,9 @@
 Deck
 4 "2 Seconds After Opening the Tuna Can" (SOS) 7
+4 "Talk to the Fractal" (SOS) 172
+4 Ambitious Augmenter (SOS) 140
+4 Ark of Hunger (SOS) 173
+4 Ark of Hunger (SOS) 344
 4 Aziza, Mage Tower Captain (SOS) 345
 4 Berta, Wise Extrapolator (SOS) 175
 4 Berta, Wise Extrapolator (SOS) 346
