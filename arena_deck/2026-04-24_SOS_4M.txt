@@ -1,6 +1,9 @@
 Deck
-4 "DIY Golem" (SOS) 30
-4 "DIY Golem" (SOS) 290
+4 Echocasting Symposium (SOS) 44
+4 Echocasting Symposium (SOS) 291
+4 Emeritus of Abundance (SOS) 145
+4 Emeritus of Abundance (SOS) 339
+4 Emeritus of Conflict (SOS) 113
 4 Emeritus of Conflict (SOS) 332
 4 Emeritus of Ideation (SOS) 45
 4 Emeritus of Ideation (SOS) 306
@@ -19,6 +22,8 @@ Deck
 4 Quandrix, the Proof (SOS) 286
 4 Ral Zarek, Guest Lecturer (SOS) 97
 4 Ral Zarek, Guest Lecturer (SOS) 282
+4 Restoration Seminar (SOS) 30
+4 Restoration Seminar (SOS) 290
 4 Silverquill, the Disputant (SOS) 226
 4 Silverquill, the Disputant (SOS) 287
 4 The Dawning Archaic (SOS) 1

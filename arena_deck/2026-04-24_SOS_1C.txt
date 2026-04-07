@@ -17,6 +17,7 @@ Deck
 4 Paradox Gardens (SOS) 258
 4 Pest Mascot (SOS) 209
 4 Procrastinate (SOS) 64
+4 Pterafractyl (SOS) 215
 4 Pull from the Grave (SOS) 95
 4 Rancorous Archaic (SOS) 2
 4 Seize the Spoils (SOS) 129

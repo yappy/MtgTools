@@ -1,9 +1,14 @@
 Deck
-4 "2 Seconds After Opening the Tuna Can" (SOS) 7
-4 "Talk to the Fractal" (SOS) 172
+4 "The Very Hungry Archaic" (SOS) 168
 4 Ambitious Augmenter (SOS) 140
+4 Ambitious Augmenter (SOS) 337
+4 Antiquities on the Loose (SOS) 7
+4 Antiquities on the Loose (SOS) 308
+4 Applied Geometry (SOS) 172
+4 Applied Geometry (SOS) 343
 4 Ark of Hunger (SOS) 173
 4 Ark of Hunger (SOS) 344
+4 Aziza, Mage Tower Captain (SOS) 174
 4 Aziza, Mage Tower Captain (SOS) 345
 4 Berta, Wise Extrapolator (SOS) 175
 4 Berta, Wise Extrapolator (SOS) 346
@@ -21,27 +26,43 @@ Deck
 4 Exhibition Tidecaller (SOS) 316
 4 Flashback (SOS) 115
 4 Flashback (SOS) 333
+4 Geometer's Arthropod (SOS) 191
+4 Geometer's Arthropod (SOS) 300
 4 Grave Researcher (SOS) 85
 4 Grave Researcher (SOS) 325
 4 Great Hall of the Biblioplex (SOS) 257
 4 Great Hall of the Biblioplex (SOS) 361
 4 Hardened Academic (SOS) 194
 4 Hardened Academic (SOS) 351
+4 Harmonized Trio (SOS) 52
+4 Harmonized Trio (SOS) 317
+4 Jadzi, Steward of Fate (SOS) 55
+4 Jadzi, Steward of Fate (SOS) 318
 4 Joined Researchers (SOS) 23
 4 Joined Researchers (SOS) 312
 4 Maelstrom Artisan (SOS) 122
 4 Maelstrom Artisan (SOS) 334
 4 Mana Sculpt (SOS) 57
 4 Mana Sculpt (SOS) 319
+4 Mind into Matter (SOS) 202
+4 Mind into Matter (SOS) 352
 4 Molten-Core Maestro (SOS) 125
 4 Molten-Core Maestro (SOS) 335
 4 Pensive Professor (SOS) 63
 4 Pensive Professor (SOS) 321
+4 Planar Engineering (SOS) 158
+4 Planar Engineering (SOS) 340
 4 Practiced Offense (SOS) 25
+4 Practiced Offense (SOS) 313
 4 Resonating Lute (SOS) 221
 4 Resonating Lute (SOS) 355
 4 Shattered Sanctum (SOS) 260
 4 Shattered Sanctum (SOS) 303
+4 Skycoach Conductor (SOS) 322
+4 Slumbering Trudge (SOS) 160
+4 Slumbering Trudge (SOS) 341
+================================================================================
+Deck
 4 Splatter Technique (SOS) 231
 4 Splatter Technique (SOS) 356
 4 Steal the Show (SOS) 130
@@ -51,6 +72,7 @@ Deck
 4 Sundown Pass (SOS) 264
 4 Sundown Pass (SOS) 305
 4 Suspend Aggression (SOS) 236
+4 Suspend Aggression (SOS) 357
 4 Together as One (SOS) 4
 4 Together as One (SOS) 307
 4 Traumatic Critique (SOS) 239
