@@ -54,13 +54,14 @@ Deck
 4 Stand Up for Yourself (SOS) 34
 4 Stress Dream (SOS) 235
 4 Summoned Dromedary (SOS) 37
+4 Sundering Archaic (SOS) 3
 4 Tam, Observant Sequencer (SOS) 237
 4 Teacher's Pest (SOS) 238
 4 Tester of the Tangential (SOS) 69
 4 Thunderdrum Soloist (SOS) 134
 4 Transcendent Archaic (SOS) 5
 4 Witherbloom Charm (SOS) 244
-4 Witherbloom Charm (SOS) 367
 ================================================================================
 Deck
+4 Witherbloom Charm (SOS) 367
 4 Zimone's Experiment (SOS) 169

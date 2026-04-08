@@ -42,12 +42,14 @@ Deck
 4 Joined Researchers (SOS) 312
 4 Maelstrom Artisan (SOS) 122
 4 Maelstrom Artisan (SOS) 334
+4 Magmablood Archaic (SOS) 123
 4 Mana Sculpt (SOS) 57
 4 Mana Sculpt (SOS) 319
 4 Mind into Matter (SOS) 202
 4 Mind into Matter (SOS) 352
 4 Molten-Core Maestro (SOS) 125
 4 Molten-Core Maestro (SOS) 335
+4 Moment of Reckoning (SOS) 205
 4 Pensive Professor (SOS) 63
 4 Pensive Professor (SOS) 321
 4 Planar Engineering (SOS) 158
@@ -59,10 +61,10 @@ Deck
 4 Shattered Sanctum (SOS) 260
 4 Shattered Sanctum (SOS) 303
 4 Skycoach Conductor (SOS) 322
-4 Slumbering Trudge (SOS) 160
-4 Slumbering Trudge (SOS) 341
 ================================================================================
 Deck
+4 Slumbering Trudge (SOS) 160
+4 Slumbering Trudge (SOS) 341
 4 Splatter Technique (SOS) 231
 4 Splatter Technique (SOS) 356
 4 Steal the Show (SOS) 130
