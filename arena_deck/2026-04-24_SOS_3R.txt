@@ -1,5 +1,5 @@
 Deck
-4 "The Very Hungry Archaic" (SOS) 168
+4 "Wildest Tea Party 4565 AR" (SOS) 143
 4 Ambitious Augmenter (SOS) 140
 4 Ambitious Augmenter (SOS) 337
 4 Antiquities on the Loose (SOS) 7
@@ -12,18 +12,25 @@ Deck
 4 Aziza, Mage Tower Captain (SOS) 345
 4 Berta, Wise Extrapolator (SOS) 175
 4 Berta, Wise Extrapolator (SOS) 346
+4 Blech, Loafing Pest (SOS) 176
+4 Blech, Loafing Pest (SOS) 298
+4 Cauldron of Essence (SOS) 179
 4 Colorstorm Stallion (SOS) 180
 4 Colorstorm Stallion (SOS) 299
 4 Conciliator's Duelist (SOS) 182
 4 Conciliator's Duelist (SOS) 348
 4 Deathcap Glade (SOS) 253
 4 Deathcap Glade (SOS) 301
+4 Dina's Guidance (SOS) 184
+4 Dina's Guidance (SOS) 349
 4 Dreamroot Cascade (SOS) 254
 4 Dreamroot Cascade (SOS) 302
 4 Erode (SOS) 15
 4 Erode (SOS) 310
 4 Exhibition Tidecaller (SOS) 48
 4 Exhibition Tidecaller (SOS) 316
+4 Fix What's Broken (SOS) 188
+4 Fix What's Broken (SOS) 350
 4 Flashback (SOS) 115
 4 Flashback (SOS) 333
 4 Geometer's Arthropod (SOS) 191
@@ -36,6 +43,8 @@ Deck
 4 Hardened Academic (SOS) 351
 4 Harmonized Trio (SOS) 52
 4 Harmonized Trio (SOS) 317
+4 Informed Inkwright (SOS) 20
+4 Informed Inkwright (SOS) 311
 4 Jadzi, Steward of Fate (SOS) 55
 4 Jadzi, Steward of Fate (SOS) 318
 4 Joined Researchers (SOS) 23
@@ -43,6 +52,7 @@ Deck
 4 Maelstrom Artisan (SOS) 122
 4 Maelstrom Artisan (SOS) 334
 4 Magmablood Archaic (SOS) 123
+4 Magmablood Archaic (SOS) 295
 4 Mana Sculpt (SOS) 57
 4 Mana Sculpt (SOS) 319
 4 Mind into Matter (SOS) 202
@@ -50,25 +60,38 @@ Deck
 4 Molten-Core Maestro (SOS) 125
 4 Molten-Core Maestro (SOS) 335
 4 Moment of Reckoning (SOS) 205
+4 Moment of Reckoning (SOS) 353
+================================================================================
+Deck
+4 Nita, Forum Conciliator (SOS) 206
+4 Nita, Forum Conciliator (SOS) 354
 4 Pensive Professor (SOS) 63
 4 Pensive Professor (SOS) 321
+4 Petrified Hamlet (SOS) 259
+4 Petrified Hamlet (SOS) 362
 4 Planar Engineering (SOS) 158
 4 Planar Engineering (SOS) 340
+4 Postmortem Professor (SOS) 93
+4 Postmortem Professor (SOS) 327
+4 Pox Plague (SOS) 328
 4 Practiced Offense (SOS) 25
 4 Practiced Offense (SOS) 313
 4 Resonating Lute (SOS) 221
 4 Resonating Lute (SOS) 355
+4 Scheming Silvertongue (SOS) 99
+4 Scheming Silvertongue (SOS) 329
 4 Shattered Sanctum (SOS) 260
 4 Shattered Sanctum (SOS) 303
+4 Skycoach Conductor (SOS) 67
 4 Skycoach Conductor (SOS) 322
-================================================================================
-Deck
 4 Slumbering Trudge (SOS) 160
 4 Slumbering Trudge (SOS) 341
 4 Splatter Technique (SOS) 231
 4 Splatter Technique (SOS) 356
 4 Steal the Show (SOS) 130
 4 Steal the Show (SOS) 336
+4 Stirring Hopesinger (SOS) 35
+4 Stirring Hopesinger (SOS) 314
 4 Stormcarved Coast (SOS) 263
 4 Stormcarved Coast (SOS) 304
 4 Sundown Pass (SOS) 264
@@ -77,8 +100,15 @@ Deck
 4 Suspend Aggression (SOS) 357
 4 Together as One (SOS) 4
 4 Together as One (SOS) 307
+4 Tragedy Feaster (SOS) 102
+4 Tragedy Feaster (SOS) 293
 4 Traumatic Critique (SOS) 239
 4 Traumatic Critique (SOS) 358
+4 Vastlands Scavenger (SOS) 166
+4 Vicious Rivalry (SOS) 241
+4 Vicious Rivalry (SOS) 359
+4 Wildgrowth Archaic (SOS) 168
+4 Wildgrowth Archaic (SOS) 297
 4 Wisdom of Ages (SOS) 71
 4 Wisdom of Ages (SOS) 323
 4 Wisdom of Ages (SOS) 368

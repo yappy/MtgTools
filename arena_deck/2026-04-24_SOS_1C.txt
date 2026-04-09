@@ -3,6 +3,8 @@ Deck
 4 Biblioplex Tomekeeper (SOS) 247
 4 Bogwater Lumaret (SOS) 177
 4 Deluge Virtuoso (SOS) 42
+4 Eager Glyphmage (SOS) 11
+4 Efflorescence (SOS) 144
 4 Elemental Mascot (SOS) 185
 4 Expressive Firedancer (SOS) 114
 4 Fields of Strife (SOS) 255
@@ -20,6 +22,7 @@ Deck
 4 Pterafractyl (SOS) 215
 4 Pull from the Grave (SOS) 95
 4 Rancorous Archaic (SOS) 2
+4 Rapier Wit (SOS) 28
 4 Seize the Spoils (SOS) 129
 4 Shattered Acolyte (SOS) 31
 4 Spectacle Summit (SOS) 262

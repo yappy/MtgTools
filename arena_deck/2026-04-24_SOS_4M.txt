@@ -10,6 +10,10 @@ Deck
 4 Emeritus of Ideation (SOS) 45
 4 Emeritus of Ideation (SOS) 306
 4 Emeritus of Ideation (SOS) 315
+4 Emeritus of Truce (SOS) 13
+4 Emeritus of Truce (SOS) 309
+4 Germination Practicum (SOS) 149
+4 Germination Practicum (SOS) 296
 4 Improvisation Capstone (SOS) 120
 4 Improvisation Capstone (SOS) 294
 4 Lorehold, the Historian (SOS) 201
