@@ -1,5 +1,4 @@
 Deck
-4 "Wildest Tea Party 4565 AR" (SOS) 143
 4 Ambitious Augmenter (SOS) 140
 4 Ambitious Augmenter (SOS) 337
 4 Antiquities on the Loose (SOS) 7
@@ -15,8 +14,13 @@ Deck
 4 Blech, Loafing Pest (SOS) 176
 4 Blech, Loafing Pest (SOS) 298
 4 Cauldron of Essence (SOS) 179
+4 Cauldron of Essence (SOS) 347
+4 Choreographed Sparks (SOS) 111
+4 Choreographed Sparks (SOS) 331
 4 Colorstorm Stallion (SOS) 180
 4 Colorstorm Stallion (SOS) 299
+4 Comforting Counsel (SOS) 143
+4 Comforting Counsel (SOS) 338
 4 Conciliator's Duelist (SOS) 182
 4 Conciliator's Duelist (SOS) 348
 4 Deathcap Glade (SOS) 253
@@ -57,12 +61,14 @@ Deck
 4 Mana Sculpt (SOS) 319
 4 Mind into Matter (SOS) 202
 4 Mind into Matter (SOS) 352
+================================================================================
+Deck
 4 Molten-Core Maestro (SOS) 125
 4 Molten-Core Maestro (SOS) 335
 4 Moment of Reckoning (SOS) 205
 4 Moment of Reckoning (SOS) 353
-================================================================================
-Deck
+4 Moseo, Vein's New Dean (SOS) 91
+4 Moseo, Vein's New Dean (SOS) 326
 4 Nita, Forum Conciliator (SOS) 206
 4 Nita, Forum Conciliator (SOS) 354
 4 Pensive Professor (SOS) 63
@@ -73,6 +79,7 @@ Deck
 4 Planar Engineering (SOS) 340
 4 Postmortem Professor (SOS) 93
 4 Postmortem Professor (SOS) 327
+4 Pox Plague (SOS) 94
 4 Pox Plague (SOS) 328
 4 Practiced Offense (SOS) 25
 4 Practiced Offense (SOS) 313
@@ -105,6 +112,7 @@ Deck
 4 Traumatic Critique (SOS) 239
 4 Traumatic Critique (SOS) 358
 4 Vastlands Scavenger (SOS) 166
+4 Vastlands Scavenger (SOS) 342
 4 Vicious Rivalry (SOS) 241
 4 Vicious Rivalry (SOS) 359
 4 Wildgrowth Archaic (SOS) 168

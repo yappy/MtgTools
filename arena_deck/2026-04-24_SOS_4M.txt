@@ -12,6 +12,8 @@ Deck
 4 Emeritus of Ideation (SOS) 315
 4 Emeritus of Truce (SOS) 13
 4 Emeritus of Truce (SOS) 309
+4 Emeritus of Woe (SOS) 80
+4 Emeritus of Woe (SOS) 324
 4 Germination Practicum (SOS) 149
 4 Germination Practicum (SOS) 296
 4 Improvisation Capstone (SOS) 120
