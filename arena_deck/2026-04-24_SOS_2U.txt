@@ -16,6 +16,11 @@ Deck
 4 Colossus of the Blood Age (SOS) 181
 4 Cuboid Colony (SOS) 183
 4 Daydream (SOS) 9
+4 Daydream (SOS) 9
+4 Daydream (SOS) 9
+4 Daydream (SOS) 9
+4 Daydream (SOS) 9
+4 Daydream (SOS) 9
 4 Diary of Dreams (SOS) 248
 4 Dissection Practice (SOS) 79
 4 Divergent Equation (SOS) 43
@@ -23,6 +28,11 @@ Deck
 4 Emil, Vastlands Roamer (SOS) 146
 4 Encouraging Aviator (SOS) 46
 4 End of the Hunt (SOS) 81
+4 Ennis, Debate Moderator (SOS) 14
+4 Ennis, Debate Moderator (SOS) 14
+4 Ennis, Debate Moderator (SOS) 14
+4 Ennis, Debate Moderator (SOS) 14
+4 Ennis, Debate Moderator (SOS) 14
 4 Ennis, Debate Moderator (SOS) 14
 4 Environmental Scientist (SOS) 147
 4 Essenceknit Scholar (SOS) 187
@@ -35,8 +45,24 @@ Deck
 4 Fractalize (SOS) 51
 4 Garrison Excavator (SOS) 116
 4 Graduation Day (SOS) 16
+4 Graduation Day (SOS) 16
+4 Graduation Day (SOS) 16
+4 Graduation Day (SOS) 16
+4 Graduation Day (SOS) 16
+4 Graduation Day (SOS) 16
+4 Group Project (SOS) 17
+4 Group Project (SOS) 17
+4 Group Project (SOS) 17
+4 Group Project (SOS) 17
+4 Group Project (SOS) 17
 4 Group Project (SOS) 17
 4 Growth Curve (SOS) 193
+4 Harsh Annotation (SOS) 18
+4 Harsh Annotation (SOS) 18
+4 Harsh Annotation (SOS) 18
+4 Harsh Annotation (SOS) 18
+================================================================================
+Deck
 4 Harsh Annotation (SOS) 18
 4 Homesickness (SOS) 53
 4 Impractical Joke (SOS) 119
@@ -61,8 +87,6 @@ Deck
 4 Paradox Surveyor (SOS) 208
 4 Pestbrood Sloth (SOS) 157
 4 Pigment Wrangler (SOS) 126
-================================================================================
-Deck
 4 Poisoner's Apprentice (SOS) 92
 4 Practiced Scrollsmith (SOS) 210
 4 Primary Research (SOS) 26
@@ -94,13 +118,25 @@ Deck
 4 Strixhaven Skycoach (SOS) 252
 4 Summoned Dromedary (SOS) 37
 4 Sundering Archaic (SOS) 3
+4 Sundering Archaic (SOS) 3
+4 Sundering Archaic (SOS) 3
+4 Sundering Archaic (SOS) 3
+4 Sundering Archaic (SOS) 3
+4 Sundering Archaic (SOS) 3
 4 Tablet of Discovery (SOS) 132
 4 Tam, Observant Sequencer (SOS) 237
+================================================================================
+Deck
 4 Teacher's Pest (SOS) 238
 4 Tester of the Tangential (SOS) 69
 4 Thornfist Striker (SOS) 164
 4 Thunderdrum Soloist (SOS) 134
 4 Topiary Lecturer (SOS) 165
+4 Transcendent Archaic (SOS) 5
+4 Transcendent Archaic (SOS) 5
+4 Transcendent Archaic (SOS) 5
+4 Transcendent Archaic (SOS) 5
+4 Transcendent Archaic (SOS) 5
 4 Transcendent Archaic (SOS) 5
 4 Vibrant Outburst (SOS) 240
 4 Witherbloom Charm (SOS) 244

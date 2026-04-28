@@ -2,6 +2,11 @@ Deck
 4 Ambitious Augmenter (SOS) 140
 4 Ambitious Augmenter (SOS) 337
 4 Antiquities on the Loose (SOS) 7
+4 Antiquities on the Loose (SOS) 7
+4 Antiquities on the Loose (SOS) 7
+4 Antiquities on the Loose (SOS) 7
+4 Antiquities on the Loose (SOS) 7
+4 Antiquities on the Loose (SOS) 7
 4 Antiquities on the Loose (SOS) 308
 4 Applied Geometry (SOS) 172
 4 Applied Geometry (SOS) 343
@@ -30,6 +35,11 @@ Deck
 4 Dreamroot Cascade (SOS) 254
 4 Dreamroot Cascade (SOS) 302
 4 Erode (SOS) 15
+4 Erode (SOS) 15
+4 Erode (SOS) 15
+4 Erode (SOS) 15
+4 Erode (SOS) 15
+4 Erode (SOS) 15
 4 Erode (SOS) 310
 4 Exhibition Tidecaller (SOS) 48
 4 Exhibition Tidecaller (SOS) 316
@@ -51,6 +61,8 @@ Deck
 4 Informed Inkwright (SOS) 311
 4 Jadzi, Steward of Fate (SOS) 55
 4 Jadzi, Steward of Fate (SOS) 318
+================================================================================
+Deck
 4 Joined Researchers (SOS) 23
 4 Joined Researchers (SOS) 312
 4 Maelstrom Artisan (SOS) 122
@@ -61,8 +73,6 @@ Deck
 4 Mana Sculpt (SOS) 319
 4 Mind into Matter (SOS) 202
 4 Mind into Matter (SOS) 352
-================================================================================
-Deck
 4 Molten-Core Maestro (SOS) 125
 4 Molten-Core Maestro (SOS) 335
 4 Moment of Reckoning (SOS) 205
@@ -106,10 +116,17 @@ Deck
 4 Suspend Aggression (SOS) 236
 4 Suspend Aggression (SOS) 357
 4 Together as One (SOS) 4
+4 Together as One (SOS) 4
+4 Together as One (SOS) 4
+4 Together as One (SOS) 4
+4 Together as One (SOS) 4
+4 Together as One (SOS) 4
 4 Together as One (SOS) 307
 4 Tragedy Feaster (SOS) 102
 4 Tragedy Feaster (SOS) 293
 4 Traumatic Critique (SOS) 239
+================================================================================
+Deck
 4 Traumatic Critique (SOS) 358
 4 Vastlands Scavenger (SOS) 166
 4 Vastlands Scavenger (SOS) 342
