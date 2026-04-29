@@ -11,11 +11,6 @@ Deck
 4 Emeritus of Ideation (SOS) 306
 4 Emeritus of Ideation (SOS) 315
 4 Emeritus of Truce (SOS) 13
-4 Emeritus of Truce (SOS) 13
-4 Emeritus of Truce (SOS) 13
-4 Emeritus of Truce (SOS) 13
-4 Emeritus of Truce (SOS) 13
-4 Emeritus of Truce (SOS) 13
 4 Emeritus of Truce (SOS) 309
 4 Emeritus of Woe (SOS) 80
 4 Emeritus of Woe (SOS) 324
@@ -39,11 +34,6 @@ Deck
 4 Restoration Seminar (SOS) 290
 4 Silverquill, the Disputant (SOS) 226
 4 Silverquill, the Disputant (SOS) 287
-4 The Dawning Archaic (SOS) 1
-4 The Dawning Archaic (SOS) 1
-4 The Dawning Archaic (SOS) 1
-4 The Dawning Archaic (SOS) 1
-4 The Dawning Archaic (SOS) 1
 4 The Dawning Archaic (SOS) 1
 4 The Dawning Archaic (SOS) 289
 4 Witherbloom, the Balancer (SOS) 245

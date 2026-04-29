@@ -1,17 +1,7 @@
 Deck
 4 Adventurous Eater (SOS) 72
 4 Ajani's Response (SOS) 6
-4 Ajani's Response (SOS) 6
-4 Ajani's Response (SOS) 6
-4 Ajani's Response (SOS) 6
-4 Ajani's Response (SOS) 6
-4 Ajani's Response (SOS) 6
 4 Ancestral Anger (SOS) 106
-4 Ascendant Dustspeaker (SOS) 8
-4 Ascendant Dustspeaker (SOS) 8
-4 Ascendant Dustspeaker (SOS) 8
-4 Ascendant Dustspeaker (SOS) 8
-4 Ascendant Dustspeaker (SOS) 8
 4 Ascendant Dustspeaker (SOS) 8
 4 Banishing Betrayal (SOS) 38
 4 Biblioplex Tomekeeper (SOS) 247
@@ -23,24 +13,9 @@ Deck
 4 Cost of Brilliance (SOS) 77
 4 Deluge Virtuoso (SOS) 42
 4 Dig Site Inventory (SOS) 10
-4 Dig Site Inventory (SOS) 10
-4 Dig Site Inventory (SOS) 10
-4 Dig Site Inventory (SOS) 10
-4 Dig Site Inventory (SOS) 10
-4 Dig Site Inventory (SOS) 10
-4 Eager Glyphmage (SOS) 11
-4 Eager Glyphmage (SOS) 11
-4 Eager Glyphmage (SOS) 11
-4 Eager Glyphmage (SOS) 11
-4 Eager Glyphmage (SOS) 11
 4 Eager Glyphmage (SOS) 11
 4 Efflorescence (SOS) 144
 4 Elemental Mascot (SOS) 185
-4 Elite Interceptor (SOS) 12
-4 Elite Interceptor (SOS) 12
-4 Elite Interceptor (SOS) 12
-4 Elite Interceptor (SOS) 12
-4 Elite Interceptor (SOS) 12
 4 Elite Interceptor (SOS) 12
 4 Embrace the Paradox (SOS) 186
 4 Essence Scatter (SOS) 47
@@ -61,8 +36,6 @@ Deck
 4 Interjection (SOS) 22
 4 Landscape Painter (SOS) 56
 4 Last Gasp (SOS) 86
-================================================================================
-Deck
 4 Mage Tower Referee (SOS) 249
 4 Masterful Flourish (SOS) 89
 4 Melancholic Poet (SOS) 90
@@ -81,11 +54,6 @@ Deck
 4 Pursue the Past (SOS) 216
 4 Quick Study (SOS) 65
 4 Rancorous Archaic (SOS) 2
-4 Rancorous Archaic (SOS) 2
-4 Rancorous Archaic (SOS) 2
-4 Rancorous Archaic (SOS) 2
-4 Rancorous Archaic (SOS) 2
-4 Rancorous Archaic (SOS) 2
 4 Rapier Wit (SOS) 28
 4 Rearing Embermare (SOS) 127
 4 Rehearsed Debater (SOS) 29
@@ -93,6 +61,8 @@ Deck
 4 Rubble Rouser (SOS) 128
 4 Run Behind (SOS) 66
 4 Seize the Spoils (SOS) 129
+================================================================================
+Deck
 4 Send in the Pest (SOS) 100
 4 Shattered Acolyte (SOS) 31
 4 Shopkeeper's Bane (SOS) 159
