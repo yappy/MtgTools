@@ -5,6 +5,7 @@ Deck
 4 Quicksilver, Brash Blur (MSH) 148
 4 Super-Skrull (MSH) 115
 4 The Sentry, Golden Guardian (MSH) 35
+4 The Vision (MSH) 255
 4 Thunderbolts Conspiracy (MSH) 117
 4 World War Hulk (MSH) 197
 4 World War Hulk (MSH) 304
