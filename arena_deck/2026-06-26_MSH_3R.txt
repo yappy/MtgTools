@@ -1,11 +1,50 @@
 Deck
+4 Agent Phil Coulson (MSH) 4
+4 Agent Phil Coulson (MSH) 402
+4 Arc Reactor (MSH) 243
+4 Arc Reactor (MSH) 310
+4 Armor Wars (MSH) 203
+4 Armor Wars (MSH) 305
 4 Baron Helmut Zemo (MSH) 87
+4 Baron Helmut Zemo (MSH) 405
+4 Construct a Cosmic Cube (MSH) 90
+4 Construct a Cosmic Cube (MSH) 406
+4 Daredevil, Man Without Fear (MSH) 432
 4 Doom Reigns Supreme (MSH) 96
+4 Doom Reigns Supreme (MSH) 407
+4 Elektra, Daughter of the Hand (MSH) 97
+4 Elektra, Daughter of the Hand (MSH) 326
+4 Elektra, Daughter of the Hand (MSH) 366
+4 Elektra, Daughter of the Hand (MSH) 395
+4 Leader, Super-Genius (MSH) 64
+4 Leader, Super-Genius (MSH) 330
+4 Loki, God of Mischief (MSH) 65
+4 Loki, God of Mischief (MSH) 343
 4 Moon Girl and Devil Dinosaur (MSH) 223
+4 Moon Girl and Devil Dinosaur (MSH) 421
 4 Quicksilver, Brash Blur (MSH) 148
+4 Quicksilver, Brash Blur (MSH) 412
+4 Secret Invasion (MSH) 72
+4 Secret Invasion (MSH) 301
 4 Super-Skrull (MSH) 115
+4 Super-Skrull (MSH) 409
+4 The Kingpin of Crime (MSH) 220
+4 The Kingpin of Crime (MSH) 327
+4 The Kingpin of Crime (MSH) 374
+4 The Scarlet Witch (MSH) 151
+4 The Scarlet Witch (MSH) 368
+4 The Scarlet Witch (MSH) 431
 4 The Sentry, Golden Guardian (MSH) 35
+4 The Sentry, Golden Guardian (MSH) 358
+4 The Unbeatable Squirrel Girl (MSH) 193
+4 The Unbeatable Squirrel Girl (MSH) 371
 4 The Vision (MSH) 255
+4 The Vision (MSH) 379
 4 Thunderbolts Conspiracy (MSH) 117
+4 Thunderbolts Conspiracy (MSH) 410
+4 Wolverine, Fierce Fighter (MSH) 240
+4 Wolverine, Fierce Fighter (MSH) 378
 4 World War Hulk (MSH) 197
 4 World War Hulk (MSH) 304
+4 Worlds Within Worlds (MSH) 241
+4 Worlds Within Worlds (MSH) 426

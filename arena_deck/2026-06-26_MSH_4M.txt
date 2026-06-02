@@ -1,14 +1,56 @@
 Deck
+4 Avengers Assemble! (MSH) 6
+4 Avengers Assemble! (MSH) 297
+4 Avengers Assemble! (MSH) 341
 4 Bruce Banner (MSH) 49
+4 Bruce Banner (MSH) 331
+4 Bruce Banner (MSH) 359
 4 Bruce Banner (MSH) 390
 4 Captain America, Super-Soldier (MSH) 9
+4 Captain America, Super-Soldier (MSH) 316
+4 Captain America, Super-Soldier (MSH) 352
 4 Captain America, Super-Soldier (MSH) 387
+4 Captain Marvel, Earth's Protector (MSH) 11
+4 Captain Marvel, Earth's Protector (MSH) 342
+4 Captain Marvel, Earth's Protector (MSH) 354
 4 Doctor Doom (MSH) 95
+4 Doctor Doom (MSH) 336
+4 Doctor Doom (MSH) 365
 4 Doctor Doom (MSH) 394
+4 Kang the Conqueror (MSH) 62
+4 Kang the Conqueror (MSH) 403
+4 King T'Challa (MSH) 219
+4 King T'Challa (MSH) 346
+4 King T'Challa (MSH) 373
+4 King T'Challa (MSH) 399
+4 M.O.D.O.K. (MSH) 106
+4 M.O.D.O.K. (MSH) 408
+4 Mjölnir, Hammer of Thor (MSH) 146
+4 Mjölnir, Hammer of Thor (MSH) 303
+4 Mjölnir, Hammer of Thor (MSH) 339
+4 Monica Rambeau (MSH) 23
+4 Monica Rambeau (MSH) 345
+4 Monica Rambeau (MSH) 356
+4 Multiversal Incursion (MSH) 68
+4 Multiversal Incursion (MSH) 300
 4 Namor the Sub-Mariner (MSH) 69
+4 Namor the Sub-Mariner (MSH) 362
 4 Namor the Sub-Mariner (MSH) 391
+4 Thanos, the Mad Titan (MSH) 233
+4 Thanos, the Mad Titan (MSH) 376
+4 Thanos, the Mad Titan (MSH) 400
 4 The Coming of Galactus (MSH) 212
 4 The Coming of Galactus (MSH) 307
-4 The Mind Stone (MSH) 21e
+4 The Mind Stone (MSH) 21
 4 The Mind Stone (MSH) 385
 4 The Mind Stone (MSH) 386
+4 The Mind Stone (MSH) 9999
+4 The Ten Rings (MSH) 251
+4 The Ten Rings (MSH) 313
+4 Thor, God of Thunder (MSH) 156
+4 Thor, God of Thunder (MSH) 338
+4 Thor, God of Thunder (MSH) 369
+4 Tony Stark (MSH) 80
+4 Tony Stark (MSH) 350
+4 Tony Stark (MSH) 363
+4 Tony Stark (MSH) 392
