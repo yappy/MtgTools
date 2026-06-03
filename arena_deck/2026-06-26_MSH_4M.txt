@@ -44,7 +44,6 @@ Deck
 4 The Mind Stone (MSH) 21
 4 The Mind Stone (MSH) 385
 4 The Mind Stone (MSH) 386
-4 The Mind Stone (MSH) 9999
 4 The Ten Rings (MSH) 251
 4 The Ten Rings (MSH) 313
 4 Thor, God of Thunder (MSH) 156
@@ -54,3 +53,6 @@ Deck
 4 Tony Stark (MSH) 350
 4 Tony Stark (MSH) 363
 4 Tony Stark (MSH) 392
+4 Ultron, Artificial Malevolence (MSH) 252
+4 Ultron, Artificial Malevolence (MSH) 344
+4 Ultron, Artificial Malevolence (MSH) 401
