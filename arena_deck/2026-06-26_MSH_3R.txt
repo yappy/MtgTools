@@ -1,14 +1,23 @@
 Deck
-4 "Totally Generic Shield" (MSH) 244
-4 "Totally Generic Shield" (MSH) 317
+4 Absorbing Man (MSH) 199
+4 Absorbing Man (MSH) 416
 4 Agent Phil Coulson (MSH) 4
 4 Agent Phil Coulson (MSH) 402
 4 Arc Reactor (MSH) 243
 4 Arc Reactor (MSH) 310
+4 Ares, God of War (MSH) 202
+4 Ares, God of War (MSH) 418
 4 Armor Wars (MSH) 203
 4 Armor Wars (MSH) 305
+4 Avengers Disassembled (MSH) 124
+4 Avengers Disassembled (MSH) 302
 4 Baron Helmut Zemo (MSH) 87
 4 Baron Helmut Zemo (MSH) 405
+4 Captain America's Shield (MSH) 244
+4 Captain America's Shield (MSH) 311
+4 Captain America's Shield (MSH) 317
+4 Captain America, Wings of Freedom (MSH) 10
+4 Captain America, Wings of Freedom (MSH) 353
 4 Construct a Cosmic Cube (MSH) 90
 4 Construct a Cosmic Cube (MSH) 406
 4 Daredevil, Man Without Fear (MSH) 213
@@ -24,25 +33,46 @@ Deck
 4 Elektra, Daughter of the Hand (MSH) 326
 4 Elektra, Daughter of the Hand (MSH) 366
 4 Elektra, Daughter of the Hand (MSH) 395
+4 Fin Fang Foom (MSH) 129
+4 Fin Fang Foom (MSH) 411
 4 Gathering Place (MSH) 266
 4 Gathering Place (MSH) 381
 4 Gleaming Bastion (MSH) 267
 4 Gleaming Bastion (MSH) 382
+4 Hawkeye, Master Marksman (MSH) 130
+4 Hawkeye, Master Marksman (MSH) 367
 4 Hidden Lair (MSH) 269
 4 Hidden Lair (MSH) 383
 4 Leader, Super-Genius (MSH) 64
 4 Leader, Super-Genius (MSH) 330
 4 Loki, God of Mischief (MSH) 65
 4 Loki, God of Mischief (MSH) 343
+4 Mole Man, Moloid Master (MSH) 177
+4 Mole Man, Moloid Master (MSH) 415
 4 Moon Girl and Devil Dinosaur (MSH) 223
 4 Moon Girl and Devil Dinosaur (MSH) 421
+4 Ms. Marvel, Kamala Khan (MSH) 67
+4 Ms. Marvel, Kamala Khan (MSH) 361
+4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 25
+4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 314
+4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 357
+4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 389
+4 Origin of the Avengers (MSH) 28
+4 Origin of the Avengers (MSH) 298
 4 Quicksilver, Brash Blur (MSH) 148
 4 Quicksilver, Brash Blur (MSH) 412
+================================================================================
+Deck
 4 S.H.I.E.L.D. Flying Car (MSH) 74
+4 S.H.I.E.L.D. Flying Car (MSH) 404
 4 Secret Invasion (MSH) 72
 4 Secret Invasion (MSH) 301
+4 Storm, Windrider (MSH) 230
+4 Storm, Windrider (MSH) 375
 4 Super-Skrull (MSH) 115
 4 Super-Skrull (MSH) 409
+4 Super-Soldier Serum (MSH) 38
+4 Super-Soldier Serum (MSH) 299
 4 The Kingpin of Crime (MSH) 220
 4 The Kingpin of Crime (MSH) 327
 4 The Kingpin of Crime (MSH) 374
@@ -53,6 +83,8 @@ Deck
 4 The Scarlet Witch (MSH) 431
 4 The Sentry, Golden Guardian (MSH) 35
 4 The Sentry, Golden Guardian (MSH) 358
+4 The Serpent Society (MSH) 226
+4 The Serpent Society (MSH) 424
 4 The Super Hero Civil War (MSH) 231
 4 The Super Hero Civil War (MSH) 308
 4 The Unbeatable Squirrel Girl (MSH) 193
@@ -61,10 +93,10 @@ Deck
 4 The Vision (MSH) 379
 4 Thunderbolts Conspiracy (MSH) 117
 4 Thunderbolts Conspiracy (MSH) 410
-================================================================================
-Deck
 4 Training Compound (MSH) 275
 4 Training Compound (MSH) 384
+4 Winter Soldier, Icy Assassin (MSH) 239
+4 Winter Soldier, Icy Assassin (MSH) 377
 4 Wolverine, Fierce Fighter (MSH) 240
 4 Wolverine, Fierce Fighter (MSH) 378
 4 World War Hulk (MSH) 197

@@ -1,5 +1,8 @@
 Deck
+4 A.I.M. Scientists (MSH) 44
 4 Go Nuts! (MSH) 168
 4 HULK SMASH! (MSH) 135
 4 HULK SMASH! (MSH) 332
+4 HYDRA Troopers (MSH) 101
 4 Murdock's Crusade (MSH) 24
+4 Roxxon Brutes (MSH) 113

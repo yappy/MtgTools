@@ -1,36 +1,77 @@
 Deck
+4 Abomination, Terrifying Titan (MSH) 198
+4 Abomination, Terrifying Titan (MSH) 333
+4 Agent 13, Sharon Carter (MSH) 1
+4 Agent Maria Hill (MSH) 2
 4 Ant-Man, Colony Commander (MSH) 201
 4 Attuma, Atlantean Warlord (MSH) 47
+4 Avengers Tower (MSH) 260
+4 Avengers Tower (MSH) 334
+4 Avengers Tower (MSH) 452
+4 Baron Strucker, HYDRA Overlord (MSH) 88
+4 Baron Strucker, HYDRA Overlord (MSH) 315
+4 Baron Strucker, HYDRA Overlord (MSH) 446
+4 Baxter Building (MSH) 261
+4 Baxter Building (MSH) 453
 4 Black Panther, Vanguard (MSH) 207
 4 Black Widow, Double Agent (MSH) 208
 4 Captain America, Living Legend (MSH) 210
 4 Captain America, Living Legend (MSH) 449
+4 Captain Mar-Vell, Space-Born (MSH) 12
+4 Captain Mar-Vell, Space-Born (MSH) 443
+4 Claim the Kingdom (MSH) 163
+4 Colleen Wing, Street Samurai (MSH) 13
+4 Crossbones, Malicious Mercenary (MSH) 91
 4 Dark Deed (MSH) 93
+4 Death to Our Enemies (MSH) 127
 4 Doc Samson, Super Psychiatrist (MSH) 164
 4 Echo, Perceptive Prodigy (MSH) 51
+4 Evil's Thrall (MSH) 128
+4 Falcon's Wing Harness (MSH) 53
+4 Falcon, Winged Wonder (MSH) 52
+4 Grim Reaper, Lethal Legionnaire (MSH) 98
 4 Hellcat, Undying Vigilante (MSH) 170
+4 Hercules, Prince of Power (MSH) 171
 4 Hulk, Gamma Goliath (MSH) 215
 4 Human Torch, Johnny Storm (MSH) 136
 4 Human Torch, Johnny Storm (MSH) 321
 4 Invisible Woman, Sue Storm (MSH) 17
 4 Invisible Woman, Sue Storm (MSH) 323
 4 Iron Fist, Living Weapon (MSH) 138
+4 Iron Lad, Diverging Destiny (MSH) 59
 4 Iron Man, Master of Machines (MSH) 216
+4 Jessica Jones, Private Eye (MSH) 139
 4 Kang, Temporal Tyrant (MSH) 217
 4 Kang, Temporal Tyrant (MSH) 450
 4 Killmonger, Scourge of Wakanda (MSH) 218
+4 Luke Cage, Power Man (MSH) 20
 4 Madame Hydra (MSH) 221
 4 Madame Hydra (MSH) 318
 4 Madame Hydra (MSH) 451
 4 Mister Fantastic, Reed Richards (MSH) 66
 4 Mister Fantastic, Reed Richards (MSH) 320
 4 Mister Fantastic, Reed Richards (MSH) 445
+4 Patriot, Shield Wielder (MSH) 30
+4 Patriot, Shield Wielder (MSH) 444
 4 Photon Blast Barrage (MSH) 147
+4 Political Triumph (MSH) 31
+4 Pym Particles (MSH) 70
+4 Quake, Agent of S.H.I.E.L.D. (MSH) 32
 4 Reptil, Dinomorpher (MSH) 182
+4 Rewrite History (MSH) 71
+4 Robot Domination (MSH) 111
+4 Ronin, Shadow Stalker (MSH) 112
+================================================================================
+Deck
 4 Shuri, Wakandan Inventor (MSH) 75
 4 Spider-Woman, Secret Agent (MSH) 229
+4 Super Intelligence (MSH) 77
 4 The Masters of Evil (MSH) 105
 4 The Thing, Ben Grimm (MSH) 190
 4 The Thing, Ben Grimm (MSH) 322
+4 Thirst for Knowledge (MSH) 79
 4 Thor Odinson (MSH) 234
 4 Tigra, Feline Fury (MSH) 191
+4 Titania, Rugged Rumbler (MSH) 235
+4 U.S.Agent, John Walker (MSH) 236
+4 White Widow, Free Agent (MSH) 42
