@@ -13,6 +13,7 @@ Deck
 4 Baron Strucker, HYDRA Overlord (MSH) 446
 4 Baxter Building (MSH) 261
 4 Baxter Building (MSH) 453
+4 Beast, Erudite Aerialist (MSH) 206
 4 Black Panther, Vanguard (MSH) 207
 4 Black Widow, Double Agent (MSH) 208
 4 Captain America, Living Legend (MSH) 210
@@ -41,6 +42,7 @@ Deck
 4 Iron Lad, Diverging Destiny (MSH) 59
 4 Iron Man, Master of Machines (MSH) 216
 4 Jessica Jones, Private Eye (MSH) 139
+4 Ka-Zar of the Savage Land (MSH) 174
 4 Kang, Temporal Tyrant (MSH) 217
 4 Kang, Temporal Tyrant (MSH) 450
 4 Killmonger, Scourge of Wakanda (MSH) 218
@@ -51,20 +53,27 @@ Deck
 4 Mister Fantastic, Reed Richards (MSH) 66
 4 Mister Fantastic, Reed Richards (MSH) 320
 4 Mister Fantastic, Reed Richards (MSH) 445
+4 Misty Knight, Hero for Hire (MSH) 145
+4 Mockingbird, Ace Agent (MSH) 22
+4 Okoye, Dora Milaje Leader (MSH) 27
 4 Patriot, Shield Wielder (MSH) 30
 4 Patriot, Shield Wielder (MSH) 444
 4 Photon Blast Barrage (MSH) 147
 4 Political Triumph (MSH) 31
+4 Punishing Punch (MSH) 180
+================================================================================
+Deck
 4 Pym Particles (MSH) 70
 4 Quake, Agent of S.H.I.E.L.D. (MSH) 32
+4 Red Hulk (MSH) 149
+4 Red Hulk (MSH) 329
 4 Reptil, Dinomorpher (MSH) 182
 4 Rewrite History (MSH) 71
 4 Robot Domination (MSH) 111
 4 Ronin, Shadow Stalker (MSH) 112
-================================================================================
-Deck
 4 Shuri, Wakandan Inventor (MSH) 75
 4 Spider-Woman, Secret Agent (MSH) 229
+4 Stature, Size Shifter (MSH) 76
 4 Super Intelligence (MSH) 77
 4 The Masters of Evil (MSH) 105
 4 The Thing, Ben Grimm (MSH) 190

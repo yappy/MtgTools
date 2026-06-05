@@ -13,10 +13,20 @@ Deck
 4 Captain Marvel, Earth's Protector (MSH) 11
 4 Captain Marvel, Earth's Protector (MSH) 342
 4 Captain Marvel, Earth's Protector (MSH) 354
+4 Cosmic Cube (MSH) 245
+4 Cosmic Cube (MSH) 312
+4 Cosmic Cube (MSH) 337
 4 Doctor Doom (MSH) 95
 4 Doctor Doom (MSH) 336
 4 Doctor Doom (MSH) 365
 4 Doctor Doom (MSH) 394
+4 Earth's Mightiest Heroes (MSH) 165
+4 Earth's Mightiest Heroes (MSH) 349
+4 Earth's Mightiest Heroes (MSH) 413
+4 Jennifer Walters (MSH) 18
+4 Jennifer Walters (MSH) 328
+4 Jennifer Walters (MSH) 355
+4 Jennifer Walters (MSH) 388
 4 Kang the Conqueror (MSH) 62
 4 Kang the Conqueror (MSH) 403
 4 King T'Challa (MSH) 219
@@ -51,6 +61,8 @@ Deck
 4 Thor, God of Thunder (MSH) 369
 4 Tony Stark (MSH) 80
 4 Tony Stark (MSH) 350
+================================================================================
+Deck
 4 Tony Stark (MSH) 363
 4 Tony Stark (MSH) 392
 4 Ultron, Artificial Malevolence (MSH) 252

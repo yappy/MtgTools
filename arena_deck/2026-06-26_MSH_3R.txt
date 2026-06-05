@@ -3,6 +3,8 @@ Deck
 4 Absorbing Man (MSH) 416
 4 Agent Phil Coulson (MSH) 4
 4 Agent Phil Coulson (MSH) 402
+4 Alien Invasion (MSH) 200
+4 Alien Invasion (MSH) 417
 4 Arc Reactor (MSH) 243
 4 Arc Reactor (MSH) 310
 4 Ares, God of War (MSH) 202
@@ -18,6 +20,8 @@ Deck
 4 Captain America's Shield (MSH) 317
 4 Captain America, Wings of Freedom (MSH) 10
 4 Captain America, Wings of Freedom (MSH) 353
+4 Castle Doom (MSH) 263
+4 Castle Doom (MSH) 429
 4 Construct a Cosmic Cube (MSH) 90
 4 Construct a Cosmic Cube (MSH) 406
 4 Daredevil, Man Without Fear (MSH) 213
@@ -43,6 +47,8 @@ Deck
 4 Hawkeye, Master Marksman (MSH) 367
 4 Hidden Lair (MSH) 269
 4 Hidden Lair (MSH) 383
+4 Ironheart, Clever Champion (MSH) 60
+4 Ironheart, Clever Champion (MSH) 360
 4 Leader, Super-Genius (MSH) 64
 4 Leader, Super-Genius (MSH) 330
 4 Loki, God of Mischief (MSH) 65
@@ -55,16 +61,18 @@ Deck
 4 Ms. Marvel, Kamala Khan (MSH) 361
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 25
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 314
+================================================================================
+Deck
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 357
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 389
 4 Origin of the Avengers (MSH) 28
 4 Origin of the Avengers (MSH) 298
 4 Quicksilver, Brash Blur (MSH) 148
 4 Quicksilver, Brash Blur (MSH) 412
-================================================================================
-Deck
 4 S.H.I.E.L.D. Flying Car (MSH) 74
 4 S.H.I.E.L.D. Flying Car (MSH) 404
+4 Scientist Supreme of A.I.M. (MSH) 225
+4 Scientist Supreme of A.I.M. (MSH) 423
 4 Secret Invasion (MSH) 72
 4 Secret Invasion (MSH) 301
 4 Storm, Windrider (MSH) 230
@@ -73,9 +81,13 @@ Deck
 4 Super-Skrull (MSH) 409
 4 Super-Soldier Serum (MSH) 38
 4 Super-Soldier Serum (MSH) 299
+4 The Astonishing Ant-Man (MSH) 204
+4 The Astonishing Ant-Man (MSH) 397
 4 The Kingpin of Crime (MSH) 220
 4 The Kingpin of Crime (MSH) 327
 4 The Kingpin of Crime (MSH) 374
+4 The Mighty Thor, Jane Foster (MSH) 222
+4 The Mighty Thor, Jane Foster (MSH) 420
 4 The Ruinous Wrecking Crew (MSH) 224
 4 The Ruinous Wrecking Crew (MSH) 422
 4 The Scarlet Witch (MSH) 151
@@ -91,6 +103,7 @@ Deck
 4 The Unbeatable Squirrel Girl (MSH) 371
 4 The Vision (MSH) 255
 4 The Vision (MSH) 379
+4 The Wondrous Wasp (MSH) 84
 4 Thunderbolts Conspiracy (MSH) 117
 4 Thunderbolts Conspiracy (MSH) 410
 4 Training Compound (MSH) 275
