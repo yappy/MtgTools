@@ -13,6 +13,8 @@ Deck
 4 Armor Wars (MSH) 305
 4 Avengers Disassembled (MSH) 124
 4 Avengers Disassembled (MSH) 302
+4 Avengers: Under Siege (MSH) 205
+4 Avengers: Under Siege (MSH) 306
 4 Baron Helmut Zemo (MSH) 87
 4 Baron Helmut Zemo (MSH) 405
 4 Captain America's Shield (MSH) 244
@@ -37,6 +39,8 @@ Deck
 4 Elektra, Daughter of the Hand (MSH) 326
 4 Elektra, Daughter of the Hand (MSH) 366
 4 Elektra, Daughter of the Hand (MSH) 395
+4 Epic Fight (MSH) 166
+4 Epic Fight (MSH) 351
 4 Fin Fang Foom (MSH) 129
 4 Fin Fang Foom (MSH) 411
 4 Gathering Place (MSH) 266
@@ -57,12 +61,12 @@ Deck
 4 Mole Man, Moloid Master (MSH) 415
 4 Moon Girl and Devil Dinosaur (MSH) 223
 4 Moon Girl and Devil Dinosaur (MSH) 421
+================================================================================
+Deck
 4 Ms. Marvel, Kamala Khan (MSH) 67
 4 Ms. Marvel, Kamala Khan (MSH) 361
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 25
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 314
-================================================================================
-Deck
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 357
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 389
 4 Origin of the Avengers (MSH) 28
