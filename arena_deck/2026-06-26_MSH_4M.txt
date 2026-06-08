@@ -2,6 +2,10 @@ Deck
 4 Avengers Assemble! (MSH) 6
 4 Avengers Assemble! (MSH) 297
 4 Avengers Assemble! (MSH) 341
+4 Black Widow, Super Spy (MSH) 89
+4 Black Widow, Super Spy (MSH) 347
+4 Black Widow, Super Spy (MSH) 364
+4 Black Widow, Super Spy (MSH) 393
 4 Bruce Banner (MSH) 49
 4 Bruce Banner (MSH) 331
 4 Bruce Banner (MSH) 359
@@ -23,6 +27,8 @@ Deck
 4 Earth's Mightiest Heroes (MSH) 165
 4 Earth's Mightiest Heroes (MSH) 349
 4 Earth's Mightiest Heroes (MSH) 413
+4 Iron Man Armor (MSH) 248
+4 Iron Man Armor (MSH) 427
 4 Jennifer Walters (MSH) 18
 4 Jennifer Walters (MSH) 328
 4 Jennifer Walters (MSH) 355
@@ -46,12 +52,17 @@ Deck
 4 Namor the Sub-Mariner (MSH) 69
 4 Namor the Sub-Mariner (MSH) 362
 4 Namor the Sub-Mariner (MSH) 391
+4 Shang-Chi, Master of Kung Fu (MSH) 187
+4 Shang-Chi, Master of Kung Fu (MSH) 370
+4 Shang-Chi, Master of Kung Fu (MSH) 396
 4 Thanos, the Mad Titan (MSH) 233
 4 Thanos, the Mad Titan (MSH) 376
 4 Thanos, the Mad Titan (MSH) 400
 4 The Coming of Galactus (MSH) 212
 4 The Coming of Galactus (MSH) 307
 4 The Mind Stone (MSH) 21
+================================================================================
+Deck
 4 The Mind Stone (MSH) 385
 4 The Mind Stone (MSH) 386
 4 The Ten Rings (MSH) 251
@@ -61,8 +72,6 @@ Deck
 4 Thor, God of Thunder (MSH) 369
 4 Tony Stark (MSH) 80
 4 Tony Stark (MSH) 350
-================================================================================
-Deck
 4 Tony Stark (MSH) 363
 4 Tony Stark (MSH) 392
 4 Ultron, Artificial Malevolence (MSH) 252

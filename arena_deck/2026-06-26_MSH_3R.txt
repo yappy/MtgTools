@@ -24,6 +24,8 @@ Deck
 4 Captain America, Wings of Freedom (MSH) 353
 4 Castle Doom (MSH) 263
 4 Castle Doom (MSH) 429
+4 Cloak and Dagger, Entwined (MSH) 211
+4 Cloak and Dagger, Entwined (MSH) 419
 4 Construct a Cosmic Cube (MSH) 90
 4 Construct a Cosmic Cube (MSH) 406
 4 Daredevil, Man Without Fear (MSH) 213
@@ -49,6 +51,8 @@ Deck
 4 Gleaming Bastion (MSH) 382
 4 Hawkeye, Master Marksman (MSH) 130
 4 Hawkeye, Master Marksman (MSH) 367
+4 Heroic Feast (MSH) 172
+4 Heroic Feast (MSH) 414
 4 Hidden Lair (MSH) 269
 4 Hidden Lair (MSH) 383
 4 Ironheart, Clever Champion (MSH) 60
@@ -57,12 +61,12 @@ Deck
 4 Leader, Super-Genius (MSH) 330
 4 Loki, God of Mischief (MSH) 65
 4 Loki, God of Mischief (MSH) 343
+================================================================================
+Deck
 4 Mole Man, Moloid Master (MSH) 177
 4 Mole Man, Moloid Master (MSH) 415
 4 Moon Girl and Devil Dinosaur (MSH) 223
 4 Moon Girl and Devil Dinosaur (MSH) 421
-================================================================================
-Deck
 4 Ms. Marvel, Kamala Khan (MSH) 67
 4 Ms. Marvel, Kamala Khan (MSH) 361
 4 Nick Fury, Agent of S.H.I.E.L.D. (MSH) 25
@@ -81,10 +85,14 @@ Deck
 4 Secret Invasion (MSH) 301
 4 Storm, Windrider (MSH) 230
 4 Storm, Windrider (MSH) 375
+4 Super-Adaptoid (MSH) 250
+4 Super-Adaptoid (MSH) 428
 4 Super-Skrull (MSH) 115
 4 Super-Skrull (MSH) 409
 4 Super-Soldier Serum (MSH) 38
 4 Super-Soldier Serum (MSH) 299
+4 Taskmaster, Mercenary Mimic (MSH) 232
+4 Taskmaster, Mercenary Mimic (MSH) 425
 4 The Astonishing Ant-Man (MSH) 204
 4 The Astonishing Ant-Man (MSH) 397
 4 The Kingpin of Crime (MSH) 220
@@ -112,9 +120,13 @@ Deck
 4 Thunderbolts Conspiracy (MSH) 410
 4 Training Compound (MSH) 275
 4 Training Compound (MSH) 384
+4 Vision Quest (MSH) 237
+4 Vision Quest (MSH) 309
 4 Winter Soldier, Icy Assassin (MSH) 239
 4 Winter Soldier, Icy Assassin (MSH) 377
 4 Wolverine, Fierce Fighter (MSH) 240
+================================================================================
+Deck
 4 Wolverine, Fierce Fighter (MSH) 378
 4 World War Hulk (MSH) 197
 4 World War Hulk (MSH) 304
