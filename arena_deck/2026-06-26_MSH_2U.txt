@@ -72,6 +72,7 @@ Deck
 4 Misty Knight, Hero for Hire (MSH) 145
 4 Mockingbird, Ace Agent (MSH) 22
 4 Moonstone, Harsh Mistress (MSH) 107
+4 Moonstone, Harsh Mistress (MSH) 447
 4 Night Nurse, Healer of Heroes (MSH) 26
 4 Okoye, Dora Milaje Leader (MSH) 27
 4 Patriot, Shield Wielder (MSH) 30
@@ -115,6 +116,7 @@ Deck
 4 Truck Toss (MSH) 157
 4 U.S.Agent, John Walker (MSH) 236
 4 Villainous Hideout (MSH) 276
+4 Villainous Hideout (MSH) 454
 4 Viv Vision, Teen Synthezoid (MSH) 256
 4 War Machine, Legacy of Iron (MSH) 238
 4 Whiplash, Vengeful Engineer (MSH) 121
