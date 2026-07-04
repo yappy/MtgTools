@@ -70,6 +70,7 @@ Deck
 4 Memory Guardian (DFT) 49
 4 Molt Tender (DFT) 171
 4 Momentum Breaker (DFT) 97
+4 Momentum Breaker (DFT) 97
 4 Nesting Bot (DFT) 22
 4 Ooze Patrol (DFT) 172
 4 Outpace Oblivion (DFT) 139
