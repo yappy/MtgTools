@@ -63,6 +63,7 @@ Deck
 4 Locust Spray (DFT) 95
 ================================================================================
 Deck
+4 Locust Spray (DFT) 95
 4 Marauding Mako (DFT) 138
 4 Marauding Mako (DFT) 419
 4 Marshals' Pathcruiser (DFT) 236
@@ -85,6 +86,7 @@ Deck
 4 Rangers' Refueler (DFT) 55
 4 Rangers' Refueler (DFT) 303
 4 Reckless Velocitaur (DFT) 144
+4 Reef Roads (DFT) 259
 4 Reef Roads (DFT) 259
 4 Rise from the Wreck (DFT) 178
 4 Risen Necroregent (DFT) 102
@@ -123,4 +125,6 @@ Deck
 4 Voyage Home (DFT) 421
 4 Wickerfolk Indomitable (DFT) 109
 4 Wild Roads (DFT) 269
+================================================================================
+Deck
 4 Wretched Doll (DFT) 111
