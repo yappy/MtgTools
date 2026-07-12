@@ -133,7 +133,6 @@ Deck
 4 Muraganda Raceway (DFT) 426
 4 Muraganda Raceway (DFT) 502
 4 Oviya, Automech Artisan (DFT) 173
-4 Oviya, Automech Artisan (DFT) 173
 4 Oviya, Automech Artisan (DFT) 359
 4 Oviya, Automech Artisan (DFT) 469
 4 Perilous Snare (DFT) 23
@@ -189,9 +188,9 @@ Deck
 4 Vnwxt, Verbose Host (DFT) 443
 4 Voyager Glidecar (DFT) 36
 4 Voyager Glidecar (DFT) 299
+4 Voyager Glidecar (DFT) 435
 ================================================================================
 Deck
-4 Voyager Glidecar (DFT) 435
 4 Voyager Glidecar (DFT) 520
 4 Wastewood Verge (DFT) 268
 4 Wastewood Verge (DFT) 374
