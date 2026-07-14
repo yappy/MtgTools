@@ -1,1 +1,15 @@
 Deck
+4 Captain James T. Kirk (TRK) 142
+4 Captain James T. Kirk (TRK) 418
+4 Captain James T. Kirk (TRK) 542
+4 Captain James T. Kirk (TRK) 1701
+4 Captain Kathryn Janeway (TRK) 187
+4 Captain Kathryn Janeway (TRK) 340
+4 Captain Kathryn Janeway (TRK) 386
+4 Captain Kathryn Janeway (TRK) 520
+4 Captain Kathryn Janeway (TRK) 1704
+4 Crystalline Entity (TRK) 261
+4 Crystalline Entity (TRK) 478
+4 Dr. Beverly Crusher (TRK) 13
+4 Dr. Beverly Crusher (TRK) 366
+4 Dr. Beverly Crusher (TRK) 500
