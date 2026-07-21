@@ -2,6 +2,9 @@ Deck
 4 Bard, King of Dale (HOB) 144
 4 Bard, King of Dale (HOB) 244
 4 Bard, King of Dale (HOB) 280
+4 Beorn the Fierce (HOB) 119
+4 Beorn the Fierce (HOB) 230
+4 Beorn the Fierce (HOB) 266
 4 Bilbo, Thief in the Night (HOB) 33
 4 Bilbo, Thief in the Night (HOB) 219
 4 Bilbo, Thief in the Night (HOB) 255
@@ -13,6 +16,8 @@ Deck
 4 Gollum, Riddle Master (HOB) 70
 4 Gollum, Riddle Master (HOB) 241
 4 Gollum, Riddle Master (HOB) 277
+4 Orcrist, Goblin-cleaver (HOB) 177
+4 Orcrist, Goblin-cleaver (HOB) 236
 4 Smaug the Magnificent (HOB) 110
 4 Smaug the Magnificent (HOB) 229
 4 Smaug the Magnificent (HOB) 249

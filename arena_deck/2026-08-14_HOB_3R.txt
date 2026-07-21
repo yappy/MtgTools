@@ -1,13 +1,18 @@
 Deck
+4 "Clown Boat" (HOB) 42
 4 An Unexpected Party (HOB) 29
 4 An Unexpected Party (HOB) 289
+4 Azog, Moria's Ruin (HOB) 61
 4 Desolation of Smaug (HOB) 93
 4 Desolation of Smaug (HOB) 226
 4 Desolation of Smaug (HOB) 262
+4 Last Light of Durin's Day (HOB) 103
+4 Last Light of Durin's Day (HOB) 228
 4 My Precious (HOB) 176
 4 My Precious (HOB) 235
 4 My Precious (HOB) 271
 4 Part in Friendship (HOB) 134
+4 Part in Friendship (HOB) 308
 4 Riddles in the Dark (HOB) 53
 4 Riddles in the Dark (HOB) 292
 4 Roads Go Ever, Ever On (HOB) 25
@@ -18,11 +23,17 @@ Deck
 4 Supper for Spiders (HOB) 300
 4 The Eagles Are Coming! (HOB) 12
 4 The Eagles Are Coming! (HOB) 205
+4 The Great Goblin (HOB) 158
+4 The Great Goblin (HOB) 201
 4 The Lonely Mountain (HOB) 187
 4 The Lonely Mountain (HOB) 207
 4 The Lonely Mountain (HOB) 248
 4 The Lonely Mountain (HOB) 284
+4 The Lord of the Eagles (HOB) 46
+4 The Lord of the Eagles (HOB) 240
+4 The Lord of the Eagles (HOB) 276
 4 The Master of Lake-town (HOB) 77
+4 The Master of Lake-town (HOB) 297
 4 The Misty Mountains Cold (HOB) 104
 4 The Misty Mountains Cold (HOB) 321
 4 Thranduil, the Elvenking (HOB) 167
