@@ -6,11 +6,17 @@ Deck
 4 Bilbo, Luckwearer (HOB) 254
 4 Bolg of the North (HOB) 148
 4 Burn, Burn, Tree and Fern (HOB) 90
+4 Down, Down to Goblin-town (HOB) 65
 4 Eagle of the Great Shelf (HOB) 11
 4 Elven Raft-Steerer (HOB) 37
+4 Gathering of Darkness (HOB) 68
+4 Gnashing of Teeth (HOB) 69
+4 Gollum the Abandoned (HOB) 72
 4 Iron Hills Blacksmith (HOB) 16
 4 Iron Hills Blacksmith (HOB) 216
 4 Iron Hills Blacksmith (HOB) 252
+4 Master's Councillors (HOB) 47
+4 Ravenhill Flock (HOB) 52
 4 Silvan Reveler (HOB) 163
 4 Stone by Sunlight (HOB) 27
 4 The Chief Warg (HOB) 150
