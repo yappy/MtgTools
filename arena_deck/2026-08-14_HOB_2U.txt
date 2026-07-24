@@ -1,5 +1,6 @@
 Deck
 4 Bard the Bowman (HOB) 145
+4 Beorn's Hospitality (HOB) 120
 4 Bifur, Melodic Rider (HOB) 147
 4 Bilbo, Luckwearer (HOB) 32
 4 Bilbo, Luckwearer (HOB) 218
@@ -8,8 +9,11 @@ Deck
 4 Bothersome Noisemaker (HOB) 89
 4 Burn, Burn, Tree and Fern (HOB) 90
 4 Down, Down to Goblin-town (HOB) 65
+4 Dwarven Mauler (HOB) 95
 4 Eagle of the Great Shelf (HOB) 11
 4 Elven Raft-Steerer (HOB) 37
+4 Gandalf, Spark Starter (HOB) 97
+4 Gandalf, Spark Starter (HOB) 203
 4 Gathering of Darkness (HOB) 68
 4 Gnashing of Teeth (HOB) 69
 4 Gollum the Abandoned (HOB) 72
@@ -17,6 +21,7 @@ Deck
 4 Iron Hills Blacksmith (HOB) 216
 4 Iron Hills Blacksmith (HOB) 252
 4 Master's Councillors (HOB) 47
+4 Misty Mountains Raider (HOB) 105
 4 Nighthowl Pursuer (HOB) 78
 4 Ravenhill Flock (HOB) 52
 4 Silvan Reveler (HOB) 163

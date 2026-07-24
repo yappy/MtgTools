@@ -1,5 +1,4 @@
 Deck
-4 "I Know a Shortcut" (HOB) 310
 4 An Unexpected Party (HOB) 29
 4 An Unexpected Party (HOB) 289
 4 Azog, Moria's Ruin (HOB) 61
@@ -7,7 +6,9 @@ Deck
 4 Azog, Moria's Ruin (HOB) 258
 4 Belladonna Took (HOB) 4
 4 Belladonna Took (HOB) 214
+4 Belladonna Took (HOB) 250
 4 Bilbo's Gambit (HOB) 5
+4 Bilbo's Gambit (HOB) 285
 4 Chief Warg's Company (HOB) 151
 4 Chief Warg's Company (HOB) 208
 4 Desert Were-Worm (HOB) 92
@@ -16,6 +17,7 @@ Deck
 4 Desolation of Smaug (HOB) 93
 4 Desolation of Smaug (HOB) 226
 4 Desolation of Smaug (HOB) 262
+4 Down in the Valley (HOB) 124
 4 Great Gilded Boat (HOB) 42
 4 Great Gilded Boat (HOB) 291
 4 Last Light of Durin's Day (HOB) 103
@@ -50,8 +52,11 @@ Deck
 4 The Misty Mountains Cold (HOB) 104
 4 The Misty Mountains Cold (HOB) 321
 4 The Sackville-Bagginses (HOB) 83
+4 The Sackville-Bagginses (HOB) 299
 4 Thranduil, the Elvenking (HOB) 167
 4 Thranduil, the Elvenking (HOB) 246
 4 Thranduil, the Elvenking (HOB) 282
+4 Through the Forest Gate (HOB) 137
+4 Through the Forest Gate (HOB) 310
 4 Tom, Bert, and William (HOB) 169
 4 Tom, Bert, and William (HOB) 312
