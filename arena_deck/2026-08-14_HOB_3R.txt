@@ -4,6 +4,8 @@ Deck
 4 Azog, Moria's Ruin (HOB) 61
 4 Azog, Moria's Ruin (HOB) 222
 4 Azog, Moria's Ruin (HOB) 258
+4 Bard's Company (HOB) 146
+4 Bard's Company (HOB) 210
 4 Belladonna Took (HOB) 4
 4 Belladonna Took (HOB) 214
 4 Belladonna Took (HOB) 250
@@ -59,4 +61,6 @@ Deck
 4 Through the Forest Gate (HOB) 137
 4 Through the Forest Gate (HOB) 310
 4 Tom, Bert, and William (HOB) 169
+================================================================================
+Deck
 4 Tom, Bert, and William (HOB) 312

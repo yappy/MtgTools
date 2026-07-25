@@ -12,6 +12,7 @@ Deck
 4 Dwarven Mauler (HOB) 95
 4 Eagle of the Great Shelf (HOB) 11
 4 Elven Raft-Steerer (HOB) 37
+4 Galion, Elvenking's Butler (HOB) 125
 4 Gandalf, Spark Starter (HOB) 97
 4 Gandalf, Spark Starter (HOB) 203
 4 Gathering of Darkness (HOB) 68
