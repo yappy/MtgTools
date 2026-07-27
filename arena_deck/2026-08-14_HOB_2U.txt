@@ -1,4 +1,5 @@
 Deck
+4 "Puppyyyy" (HOB) 141
 4 Bard the Bowman (HOB) 145
 4 Beorn's Hospitality (HOB) 120
 4 Bifur, Melodic Rider (HOB) 147
@@ -8,6 +9,7 @@ Deck
 4 Bolg of the North (HOB) 148
 4 Bothersome Noisemaker (HOB) 89
 4 Burn, Burn, Tree and Fern (HOB) 90
+4 Desolation Prowler (HOB) 64
 4 Down, Down to Goblin-town (HOB) 65
 4 Dwarven Mauler (HOB) 95
 4 Eagle of the Great Shelf (HOB) 11
@@ -18,10 +20,13 @@ Deck
 4 Gathering of Darkness (HOB) 68
 4 Gnashing of Teeth (HOB) 69
 4 Gollum the Abandoned (HOB) 72
+4 Great Ugly-Looking Goblin (HOB) 74
 4 Iron Hills Blacksmith (HOB) 16
 4 Iron Hills Blacksmith (HOB) 216
 4 Iron Hills Blacksmith (HOB) 252
+4 Lake-town Mariners (HOB) 44
 4 Master's Councillors (HOB) 47
+4 Mirkwood Pathmaker (HOB) 129
 4 Misty Mountains Raider (HOB) 105
 4 Nighthowl Pursuer (HOB) 78
 4 Ravenhill Flock (HOB) 52
